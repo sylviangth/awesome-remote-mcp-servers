@@ -41,37 +41,37 @@ See MindPal agents in action with:
 
 ### Aggregators & Integration Platforms
 
-### [Zapier MCP](https://zapier.com/mcp)
+#### [Zapier MCP](https://zapier.com/mcp)
 
 - **Offers:** Access to 7,000+ apps with fine-grained control over individual actions
 - **Access:** Sign up, create your MCP server, add desired actions, use your unique server URL
 
-### [Make MCP](https://developers.make.com/mcp-server)
+#### [Make MCP](https://developers.make.com/mcp-server)
 
 - **Offers:** Turn existing "On Demand" Make Scenarios into tools for AI with bidirectional communication
 - **Access:** Create account, set up Scenarios as "On Demand," generate MCP token in Profile page
 
-### [Composio MCP](https://mcp.composio.dev)
+#### [Composio MCP](https://mcp.composio.dev)
 
 - **Offers:** Multiple server endpoints, each connecting to specific applications with built-in authentication
 - **Access:** Create an account, select the applications you want to connect, and receive dedicated MCP server URLs for each integration
 
-### [Activepieces MCP](https://www.activepieces.com/docs/ai/mcp)
+#### [Activepieces MCP](https://www.activepieces.com/docs/ai/mcp)
 
 - **Offers:** Turn "Pieces" (single actions) and "Flows" (multi-step workflows) into MCP tools, with configurable inputs and outputs for MCP tools
 - **Access:** Use their cloud service or self-host. Go to AI → MCP in your Activepieces Dashboard, start connecting the tools that you want to give AI access to, use your unique server URL
 
-### [Pipedream MCP](https://mcp.pipedream.com/)
+#### [Pipedream MCP](https://mcp.pipedream.com/)
 
 - **Offers:** Access to 2,500+ APIs and 10,000+ integration tools, with dedicated endpoints for each connected service
 - **Access:** Create an account, choose your desired integrations, and receive a unique server URL for each of your integrations
 
-### [n8n MCP Server](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/)
+#### [n8n MCP Server](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/)
 
 - **Offers:** Turns n8n workflows into MCP tools, allowing AI applications to access n8n's automation capabilities and integration with hundreds of services
 - **Access:** Set up the MCP Server Trigger node in your n8n workflow, configure authentication, and use the generated MCP URL to connect
 
-### [Supermachine Public MCP Servers](https://supermachine.ai/public-mcp-servers)
+#### [Supermachine Public MCP Servers](https://supermachine.ai/public-mcp-servers)
 
 - **Offers:** Access to 3939+ public MCP servers by spinning up virtual machines that run these MCP servers with minimal configuration
 - **Access:** Search and spin up remote MCPs through the Supermachine platform, then use them in your AI applications
@@ -102,7 +102,7 @@ _No entries yet_
 
 ### Search & Data Extraction
 
-### [Apify Actors MCP](https://apify.com/apify/actors-mcp-server)
+#### [Apify Actors MCP](https://apify.com/apify/actors-mcp-server)
 
 - **Offers:** Access to 4,000+ web scraping and automation tools
 - **Access:** Requires session-based authentication, follow instructions on website
