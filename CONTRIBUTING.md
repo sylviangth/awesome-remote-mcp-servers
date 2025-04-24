@@ -19,23 +19,29 @@ Both free and commercial services are welcome, but please indicate any pricing r
 1. **Fork** the repository.
 2. **Add your server entry** to the README.md file:
    - Choose only ONE most appropriate category for your server
-   - Add your entry at the bottom of that category's table
+   - Add your entry at the bottom of that category's section
    - Use the exact format specified below
 3. **Commit** your changes.
 4. **Open a Pull Request (PR)** and explain why the server fits the list criteria.
 
 ## Entry Format
 
-Please use the following table format for all entries:
+Please use the following format for all entries:
 
 ```markdown
-| [Service Name](Official Service URL) | Brief description explaining the MCP server's capabilities and use cases. | Instructions on how to get access to the MCP server endpoint, including any authentication requirements. |
+### [Service Name](Official Service URL)
+
+- **Offers:** Brief description of what the MCP server provides
+- **Access:** Concise instructions on how to get access to the MCP endpoint
 ```
 
 Example:
 
 ```markdown
-| [Example MCP](https://example.com) | Provides tools for sending emails, managing calendar events, and creating tasks across multiple platforms. | Sign up at https://example.com/signup, navigate to "Integrations" and copy your MCP endpoint URL. Authentication uses API keys. |
+### [Example MCP](https://example.com)
+
+- **Offers:** Tools for sending emails, managing calendar events, and creating tasks
+- **Access:** Sign up at website, navigate to "Integrations" and copy your MCP endpoint URL
 ```
 
 ## Categories
