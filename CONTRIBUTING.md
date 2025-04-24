@@ -29,7 +29,7 @@ Both free and commercial services are welcome, but please indicate any pricing r
 Please use the following format for all entries:
 
 ```markdown
-### [Service Name](Official Service URL)
+#### [Service Name](Official Service URL)
 
 - **Offers:** Brief description of what the MCP server provides
 - **Access:** Concise instructions on how to get access to the MCP endpoint
@@ -38,7 +38,7 @@ Please use the following format for all entries:
 Example:
 
 ```markdown
-### [Example MCP](https://example.com)
+#### [Example MCP](https://example.com)
 
 - **Offers:** Tools for sending emails, managing calendar events, and creating tasks
 - **Access:** Sign up at website, navigate to "Integrations" and copy your MCP endpoint URL
