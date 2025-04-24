@@ -41,66 +41,79 @@ See MindPal agents in action with:
 
 ### Aggregators & Integration Platforms
 
-| Name                                                          | Description                                                                                                                                                                  | How to Get Started                                                                                                                                                        |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Zapier MCP](https://zapier.com/mcp)                          | Provides access to 7,000+ apps with fine-grained control over individual actions. Uses a single server URL where you can add specific actions as distinct tools for your AI. | Sign up at [Zapier MCP](https://zapier.com/mcp), create your MCP server, add desired actions, and use your unique server URL to connect.                                  |
-| [Make MCP](https://developers.make.com/mcp-server)            | Turns your existing "On Demand" Make Scenarios (workflows) into tools for AI. Offers bidirectional communication between AI and complex multi-step workflows.                | Create an account on [Make.com](https://make.com), set up Scenarios as "On Demand," generate your MCP token in your Profile page, connect using the generated unique URL. |
-| [Composio MCP](https://mcp.composio.dev)                      | Offers multiple server endpoints, each connecting to a specific application with its own URL for you. Provides built-in authentication and seamless scalability.             | Sign up at [Composio MCP](https://mcp.composio.dev), choose which applications you want to connect, and get individual MCP server URLs for each integration.              |
-| [Apify Actors MCP](https://apify.com/apify/actors-mcp-server) | Provides access to 4,000+ powerful web scraping and automation tools as Actors.                                                                                              | Requires session-based authentication. Follow instructions at [Apify Actors MCP](https://apify.com/apify/actors-mcp-server).                                              |
+### [Zapier MCP](https://zapier.com/mcp)
+
+- **Offers:** Access to 7,000+ apps with fine-grained control over individual actions
+- **Access:** Sign up, create your MCP server, add desired actions, use your unique server URL
+
+### [Make MCP](https://developers.make.com/mcp-server)
+
+- **Offers:** Turn existing "On Demand" Make Scenarios into tools for AI with bidirectional communication
+- **Access:** Create account, set up Scenarios as "On Demand," generate MCP token in Profile page
+
+### [Composio MCP](https://mcp.composio.dev)
+
+- **Offers:** Multiple server endpoints, each connecting to specific applications with built-in authentication
+- **Access:** Create an account, select the applications you want to connect, and receive dedicated MCP server URLs for each integration
+
+### [Activepieces MCP](https://www.activepieces.com/docs/ai/mcp)
+
+- **Offers:** Turn "Pieces" (single actions) and "Flows" (multi-step workflows) into MCP tools, with configurable inputs and outputs for MCP tools
+- **Access:** Use their cloud service or self-host. Go to AI → MCP in your Activepieces Dashboard, start connecting the tools that you want to give AI access to, use your unique server URL
+
+### [Pipedream MCP](https://mcp.pipedream.com/)
+
+- **Offers:** Access to 2,500+ APIs and 10,000+ integration tools, with dedicated endpoints for each connected service
+- **Access:** Create an account, choose your desired integrations, and receive a unique server URL for each of your integrations
+
+### [n8n MCP Server](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-langchain.mcptrigger/)
+
+- **Offers:** Turns n8n workflows into MCP tools, allowing AI applications to access n8n's automation capabilities and integration with hundreds of services
+- **Access:** Set up the MCP Server Trigger node in your n8n workflow, configure authentication, and use the generated MCP URL to connect
+
+### [Supermachine Public MCP Servers](https://supermachine.ai/public-mcp-servers)
+
+- **Offers:** Access to 3939+ public MCP servers by spinning up virtual machines that run these MCP servers with minimal configuration
+- **Access:** Search and spin up remote MCPs through the Supermachine platform, then use them in your AI applications
 
 ### Cloud Platforms
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ### Databases & Storage
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ### Data & Analytics
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ### Developer Tools
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ### Knowledge & Memory
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ### Marketing & CRM
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ### Search & Data Extraction
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+### [Apify Actors MCP](https://apify.com/apify/actors-mcp-server)
+
+- **Offers:** Access to 4,000+ web scraping and automation tools
+- **Access:** Requires session-based authentication, follow instructions on website
 
 ### Communication & Collaboration
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ### Media & Content
 
-| Name | Description | How to Get Started |
-| ---- | ----------- | ------------------ |
-|      |             |                    |
+_No entries yet_
 
 ## Contributing
 
