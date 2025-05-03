@@ -1,6 +1,6 @@
-# Awesome Hosted Cloud MCP Servers ![alt text](https://awesome.re/badge.svg)
+# Awesome Remote MCP Servers ![alt text](https://awesome.re/badge.svg)
 
-A curated list of Hosted & Managed Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
+A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
 ## Why Hosted Cloud MCP Servers
 
