@@ -26,6 +26,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🔎 [Search & Data Extraction](#search--data-extraction) - Search engines and information retrieval
 - 💬 [Communication & Collaboration](#communication--collaboration) - Messaging and team collaboration
 - 🎥 [Media & Content](#media--content) - Media processing and content management
+- 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
 
 ## Who's Behind This Repo
 
@@ -78,7 +79,10 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [Cloudflare Remote MCP Servers](https://blog.cloudflare.com/mcp-demo-day/)
+
+- **Offers:** Ready-to-deploy MCP server templates with Streamable HTTP transport support and Python language support
+- **Access:** Use the "Deploy to Cloudflare" button to quickly deploy your own MCP server instance with a unique URL
 
 ### Databases & Storage
 
@@ -90,7 +94,20 @@ _No entries yet_
 
 ### Developer Tools
 
-_No entries yet_
+#### [Linear MCP](https://linear.app/docs/mcp)
+
+- **Offers:** Access to Linear's project management tools for product development and engineering workflows
+- **Access:** OAuth authentication with your Linear account required
+
+#### [Sentry MCP](https://docs.sentry.io/product/sentry-mcp/)
+
+- **Offers:** Error monitoring and debugging information across projects
+- **Access:** OAuth authentication with your Sentry account, leverages Sentry's existing permission model
+
+#### [Webflow MCP](https://mcp.webflow.com/)
+
+- **Offers:** CMS management, SEO improvement, content localization, and site publishing
+- **Access:** Authentication with your Webflow account credentials required
 
 ### Knowledge & Memory
 
@@ -98,7 +115,10 @@ _No entries yet_
 
 ### Marketing & CRM
 
-_No entries yet_
+#### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
+
+- **Offers:** Customer support and engagement functionality through Fin, Intercom's AI agent
+- **Access:** OAuth authentication with your Intercom account required
 
 ### Search & Data Extraction
 
@@ -109,11 +129,31 @@ _No entries yet_
 
 ### Communication & Collaboration
 
-_No entries yet_
+#### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
+
+- **Offers:** Project management and task coordination through Asana's Work Graph
+- **Access:** Server available at `https://mcp.asana.com/sse` with OAuth authentication required
+
+#### [Atlassian MCP](https://www.atlassian.com/blog/announcements/remote-mcp-server)
+
+- **Offers:** Access to Jira and Confluence Cloud data
+- **Access:** OAuth authentication required, respects existing Atlassian permission controls
 
 ### Media & Content
 
 _No entries yet_
+
+### Payments & Commerce
+
+#### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
+
+- **Offers:** Commerce capabilities for inventory management, payment processing, shipping tracking, and refund handling
+- **Access:** OAuth authentication with your PayPal account required
+
+#### [Block (Square) MCP](https://developer.squareup.com/docs/mcp)
+
+- **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
+- **Access:** OAuth authentication with your Square account required
 
 ## Contributing
 
