@@ -16,7 +16,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 
 ## Categories
 
-- 🔗 [Aggregators & Integration Platforms](#aggregators--integration-platforms) - Platforms connecting multiple services and tools
+- 🔗 [Aggregators & Integration Platforms](#agigregators--integration-platforms) - Platforms connecting multiple services and tools
 - ☁️ [Cloud Platforms](#cloud-platforms) - Major cloud providers with MCP capabilities
 - 🗄️ [Databases & Storage](#databases--storage) - Database access and storage solutions
 - 📊 [Data & Analytics](#data--analytics) - Data processing, analytics, and visualization
@@ -108,6 +108,11 @@ _No entries yet_
 
 - **Offers:** CMS management, SEO improvement, content localization, and site publishing
 - **Access:** Authentication with your Webflow account credentials required
+
+#### [DeepWiki MCP](https://docs.devin.ai/work-with-devin/deepwiki-mcp)
+
+- **Offers:** Access to GitHub repository documentation and AI-powered search capabilities. Includes tools to read wiki structure, view documentation contents, and ask questions about repositories
+- **Access:** Free, remote, no-authentication-required service. Server URLs: `https://mcp.deepwiki.com/sse` (SSE) or `https://mcp.deepwiki.com/mcp` (Streamable HTTP)
 
 ### Knowledge & Memory
 
