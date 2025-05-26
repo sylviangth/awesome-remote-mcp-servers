@@ -114,6 +114,11 @@ _No entries yet_
 - **Offers:** Access to GitHub repository documentation and AI-powered search capabilities. Includes tools to read wiki structure, view documentation contents, and ask questions about repositories
 - **Access:** Free, remote, no-authentication-required service. Server URLs: `https://mcp.deepwiki.com/sse` (SSE) or `https://mcp.deepwiki.com/mcp` (Streamable HTTP)
 
+#### [GitMCP](https://gitmcp.io/)
+
+- **Offers:** Instant MCP server creation for any GitHub repository by simply changing the domain from github.com to gitmcp.io. Provides AI assistants with deep code context including llms.txt, llms-full.txt, readme.md and more
+- **Access:** No setup required. Simply replace `github.com` with `gitmcp.io` in any repository URL to get an instant MCP server endpoint
+
 ### Knowledge & Memory
 
 _No entries yet_
