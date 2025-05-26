@@ -1,0 +1,57 @@
+name: Update MCP Server Counter
+
+on:
+  push:
+    branches: [main, master]
+    paths: ["README.md"]
+  pull_request:
+    branches: [main, master]
+    paths: ["README.md"]
+  workflow_dispatch:
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count MCP servers and update README
+        run: |
+          # Count all MCP server entries (lines starting with #### [)
+          count=$(grep -c "^#### \[.*\]" README.md)
+
+          # Update the counter in README.md
+          if grep -q "<!-- MCP_COUNT -->" README.md; then
+            sed -i "s/<!-- MCP_COUNT -->.*<!-- \/MCP_COUNT -->/<!-- MCP_COUNT -->**${count} MCP servers**<!-- \/MCP_COUNT -->/g" README.md
+          else
+            # If counter doesn't exist, add it after the first paragraph
+            sed -i '/^A curated list of remote Model Context Protocol/a\\n<!-- MCP_COUNT -->**'${count}' MCP servers**<!-- \/MCP_COUNT --> available for instant integration.' README.md
+          fi
+
+          echo "Found ${count} MCP servers"
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Auto-update MCP server counter"
+
+      - name: Push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
