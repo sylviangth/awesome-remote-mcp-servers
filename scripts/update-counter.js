@@ -18,13 +18,18 @@ try {
   console.log(`Found ${count} MCP servers`);
 
   // Update the counter in README.md
-  const counterRegex = /<!-- MCP_COUNT -->.*<!-- \/MCP_COUNT -->/g;
-  const newCounter = `<!-- MCP_COUNT -->**${count} MCP servers**<!-- /MCP_COUNT -->`;
+  const counterRegex = /🚀 <!-- MCP_COUNT -->.*<!-- \/MCP_COUNT --> 🔥/g;
+  const newCounter = `🚀 <!-- MCP_COUNT -->**${count} MCP servers**<!-- /MCP_COUNT --> 🔥`;
 
   if (content.includes("<!-- MCP_COUNT -->")) {
-    const updatedContent = content.replace(counterRegex, newCounter);
+    let updatedContent = content.replace(counterRegex, newCounter);
+    // Update badge count
+    updatedContent = updatedContent.replace(
+      /MCP%20Servers-\d+-/g,
+      `MCP%20Servers-${count}-`
+    );
     fs.writeFileSync(readmePath, updatedContent, "utf8");
-    console.log(`Updated counter to ${count} MCP servers`);
+    console.log(`Updated counter and badge to ${count} MCP servers`);
   } else {
     console.log("Counter placeholder not found in README.md");
     console.log(
