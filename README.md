@@ -2,6 +2,8 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
+<!-- MCP_COUNT -->**19 MCP servers**<!-- /MCP_COUNT --> available for instant integration.
+
 ## Why Hosted Cloud MCP Servers
 
 The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) lets AI applications connect to external tools and data for real-world tasks. While developers can run MCP servers locally, hosted cloud options offer significant advantages:
