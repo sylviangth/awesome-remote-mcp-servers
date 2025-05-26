@@ -2,7 +2,16 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-<!-- MCP_COUNT -->**19 MCP servers**<!-- /MCP_COUNT --> available for instant integration.
+🚀 <!-- MCP_COUNT -->**19 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-19-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![Categories](https://img.shields.io/badge/Categories-10-blue?style=for-the-badge&logo=folder&logoColor=white)
+![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
+![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
+
+</div>
 
 ## Why Hosted Cloud MCP Servers
 
@@ -166,6 +175,18 @@ _No entries yet_
 
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
+
+## Auto Counter
+
+This repository automatically tracks the number of MCP servers listed. The counter is updated automatically via GitHub Actions whenever the README is modified, or you can run the update scripts manually:
+
+```bash
+# Using bash
+./scripts/update-counter.sh
+
+# Using Node.js
+node scripts/update-counter.js
+```
 
 ## Contributing
 
