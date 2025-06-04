@@ -130,6 +130,11 @@ _No entries yet_
 - **Offers:** Instant MCP server creation for any GitHub repository by simply changing the domain from github.com to gitmcp.io. Provides AI assistants with deep code context including llms.txt, llms-full.txt, readme.md and more
 - **Access:** No setup required. Simply replace `github.com` with `gitmcp.io` in any repository URL to get an instant MCP server endpoint
 
+#### [Semgrep](https://mcp.semgrep.ai)
+
+- **Offers:** Uses the popular open-source security scanner, [Semgrep](https://semgrep.dev), to scan code for vulnerabilities.
+- **Access:** A `streamable-http` endpoint is hosted at `https://mcp.semgrep.ai/mcp`. See [docs](https://github.com/semgrep/mcp) for more details.
+
 ### Knowledge & Memory
 
 _No entries yet_
