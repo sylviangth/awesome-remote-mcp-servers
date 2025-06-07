@@ -137,7 +137,10 @@ _No entries yet_
 
 ### Knowledge & Memory
 
-_No entries yet_
+#### [Supermemory MCP](https://mcp.supermemory.ai/)
+
+- **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
+- **Access:** Get your unique MCP URL (keep secret) on the website
 
 ### Marketing & CRM
 
