@@ -156,10 +156,10 @@ _No entries yet_
 
 ### Search & Data Extraction
 
-#### [Apify Actors MCP](https://apify.com/apify/actors-mcp-server)
+#### [Apify Actors MCP](https://mcp.apify.com/)
 
 - **Offers:** Access to 4,000+ web scraping and automation tools
-- **Access:** Requires session-based authentication, follow instructions on website
+- **Access:** Server available at `https://mcp.apify.com` (streamable) or `https://mcp.apify.com/sse` (SSE transport) with `Authorization: Bearer <APIFY_TOKEN>` header. Get your API token from Apify Console Integrations section
 
 #### [Firecrawl MCP](https://docs.firecrawl.dev/mcp)
 
