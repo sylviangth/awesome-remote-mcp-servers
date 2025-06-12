@@ -88,6 +88,11 @@ See MindPal agents in action with:
 - **Offers:** Access to 3939+ public MCP servers by spinning up virtual machines that run these MCP servers with minimal configuration
 - **Access:** Search and spin up remote MCPs through the Supermachine platform, then use them in your AI applications
 
+#### [Smithery](https://smithery.ai/)
+
+- **Offers:** Access to 7,316+ MCP servers built by the community, including web search, memory management, browser automation, third-party tool integrations, database query integration, and weather data APIs
+- **Access:** Create an account and access the platform's extensive library of community-built skills and extensions
+
 ### Cloud Platforms
 
 #### [Cloudflare Remote MCP Servers](https://blog.cloudflare.com/mcp-demo-day/)
