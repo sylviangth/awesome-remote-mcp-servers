@@ -93,6 +93,11 @@ See MindPal agents in action with:
 - **Offers:** Access to 7,316+ MCP servers built by the community, including web search, memory management, browser automation, third-party tool integrations, database query integration, and weather data APIs
 - **Access:** Create an account and access the platform's extensive library of community-built skills and extensions
 
+#### [Pabbly Connect MCP](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/)
+
+- **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
+- **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
+
 ### Cloud Platforms
 
 _No entries yet_
