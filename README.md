@@ -156,6 +156,11 @@ _No entries yet_
 - **Offers:** Customer support and engagement functionality through Fin, Intercom's AI agent
 - **Access:** OAuth authentication with your Intercom account required
 
+#### [Tally MCP](https://developers.tally.so/api-reference/mcp)
+
+- **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
+- **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
