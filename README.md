@@ -104,7 +104,10 @@ _No entries yet_
 
 ### Databases & Storage
 
-_No entries yet_
+#### [Egnyte MCP](https://developers.egnyte.com/docs/Remote_MCP_Server)
+
+- **Offers:** Enterprise content management with 30+ tools including AI-powered document Q&A, summarization, workflow management, advanced search with metadata filtering, and Egnyte Copilot integration
+- **Access:** OAuth authentication required. Server available at `https://mcp-server.egnyte.com/sse`. 
 
 ### Data & Analytics
 
