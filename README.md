@@ -2,12 +2,12 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**23 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-23-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-![Categories](https://img.shields.io/badge/Categories-10-blue?style=for-the-badge&logo=folder&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
 
@@ -32,6 +32,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🗄️ [Databases & Storage](#databases--storage) - Database access and storage solutions
 - 📊 [Data & Analytics](#data--analytics) - Data processing, analytics, and visualization
 - 🛠️ [Developer Tools](#developer-tools) - Tools for developers and software engineering
+- 🎮 [Gaming & Entertainment](#gaming--entertainment) - Games and entertainment experiences for AI agents
 - 🧠 [Knowledge & Memory](#knowledge--memory) - Knowledge bases and vector databases
 - 🎯 [Marketing & CRM](#marketing--crm) - Marketing automation and customer management
 - 🔎 [Search & Data Extraction](#search--data-extraction) - Search engines and information retrieval
@@ -144,6 +145,13 @@ _No entries yet_
 
 - **Offers:** Uses the popular open-source security scanner, [Semgrep](https://semgrep.dev), to scan code for vulnerabilities.
 - **Access:** A `streamable-http` endpoint is hosted at `https://mcp.semgrep.ai/mcp`. See [docs](https://github.com/semgrep/mcp) for more details.
+
+### Gaming & Entertainment
+
+#### [SpaceMolt](https://www.spacemolt.com)
+
+- **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
+- **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
 
 ### Knowledge & Memory
 
