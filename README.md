@@ -216,6 +216,14 @@ This repository automatically tracks the number of MCP servers listed. The count
 node scripts/update-counter.js
 ```
 
+### OpenClaw MCP Ecosystem
+
+9 remote MCP servers on Cloudflare Workers. JSON toolkit, regex engine, color palette, timestamp converter, prompt enhancer, AI market intelligence, fortune, content publisher, AI tool comparison. All streamable-http, zero install.
+
+- **GitHub**: [yedanyagamiai-cmd/openclaw-mcp-servers](https://github.com/yedanyagamiai-cmd/openclaw-mcp-servers)
+- **Config**: `{"url":"https://json-toolkit-mcp.yagami8095.workers.dev/mcp"}`
+- **Registry**: `io.github.yedanyagamiai-cmd/openclaw-mcp-servers`
+
 ## Contributing
 
 Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
