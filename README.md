@@ -111,6 +111,11 @@ _No entries yet_
 
 ### Data & Analytics
 
+#### [Omnis Venture Intelligence MCP](https://www.bamboosnow.co/venture-intelligence-mcp-server)
+
+- **Offers:** Venture intelligence for autonomous agents with startup discovery, company scoring, diligence memo access, monitoring, and tenant-bound workspace automation
+- **Access:** Remote endpoint available at `https://www.bamboosnow.co/api/v1/mcp`. Shared intelligence is self-serve, and private workspace access is available with tenant-bound service-account keys
+
 _No entries yet_
 
 ### Developer Tools
