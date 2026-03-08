@@ -166,6 +166,11 @@ _No entries yet_
 
 ### Search & Data Extraction
 
+#### [402.bot Discovery Oracle](https://api.402.bot/mcp/setup)
+
+- **Offers:** Read-only remote MCP server for discovering live agent APIs, searching ranked endpoints by capability, and inspecting trust and x402 payment telemetry
+- **Access:** Public streamable HTTP endpoint at `https://api.402.bot/mcp` with setup docs at `https://api.402.bot/mcp/setup`; no API key required for the v1 read-only surface
+
 #### [Apify Actors MCP](https://mcp.apify.com/)
 
 - **Offers:** Access to 4,000+ web scraping and automation tools
