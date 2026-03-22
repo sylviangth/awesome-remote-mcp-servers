@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**23 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-23-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-10-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -38,6 +38,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 💬 [Communication & Collaboration](#communication--collaboration) - Messaging and team collaboration
 - 🎥 [Media & Content](#media--content) - Media processing and content management
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
+- 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
 
 ## Who's Behind This Repo
 
@@ -116,7 +117,10 @@ _No entries yet_
 - **Offers:** Venture intelligence for autonomous agents with startup discovery, company scoring, diligence memo access, monitoring, and tenant-bound workspace automation
 - **Access:** Remote endpoint available at `https://www.bamboosnow.co/api/v1/mcp`. Shared intelligence is self-serve, and private workspace access is available with tenant-bound service-account keys
 
-_No entries yet_
+#### [CrashStory MCP](https://github.com/DavidMelamed/crashstory-mcp)
+
+- **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
+- **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
 ### Developer Tools
 
@@ -150,6 +154,11 @@ _No entries yet_
 - **Offers:** Uses the popular open-source security scanner, [Semgrep](https://semgrep.dev), to scan code for vulnerabilities.
 - **Access:** A `streamable-http` endpoint is hosted at `https://mcp.semgrep.ai/mcp`. See [docs](https://github.com/semgrep/mcp) for more details.
 
+#### [Roundtable](https://roundtable.now)
+
+- **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
+- **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
@@ -181,6 +190,16 @@ _No entries yet_
 - **Offers:** Web scraping, crawling, and discovery with advanced content extraction, search capabilities, deep research, and structured data extraction using LLM
 - **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
 
+#### [402.bot Discovery Oracle](https://api.402.bot/mcp/setup)
+
+- **Offers:** Read-only remote MCP server for discovering live agent APIs, searching ranked endpoints by capability, and inspecting trust and x402 payment telemetry
+- **Access:** Public streamable HTTP endpoint at `https://api.402.bot/mcp` with setup docs at `https://api.402.bot/mcp/setup`; no API key required for the v1 read-only surface
+
+#### [BGPT MCP](https://github.com/connerlambden/bgpt-mcp)
+
+- **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
+- **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
@@ -208,6 +227,13 @@ _No entries yet_
 
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
+
+### Finance & Crypto
+
+#### [Chainflip Broker](https://chainflip-broker.io)
+
+- **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
+- **Access:** Remote MCP server at `https://chainflip-broker.io/mcp` (Streamable HTTP). No authentication required. Optional API key for partner attribution.
 
 ## Auto Counter
 
