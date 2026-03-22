@@ -112,7 +112,10 @@ _No entries yet_
 
 ### Data & Analytics
 
-_No entries yet_
+#### [CrashStory MCP](https://github.com/DavidMelamed/crashstory-mcp)
+
+- **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
+- **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
 ### Developer Tools
 
