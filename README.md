@@ -175,11 +175,6 @@ _No entries yet_
 
 ### Search & Data Extraction
 
-#### [BGPT MCP](https://github.com/connerlambden/bgpt-mcp)
-
-- **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
-- **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
-
 #### [Apify Actors MCP](https://mcp.apify.com/)
 
 - **Offers:** Access to 4,000+ web scraping and automation tools
@@ -189,6 +184,16 @@ _No entries yet_
 
 - **Offers:** Web scraping, crawling, and discovery with advanced content extraction, search capabilities, deep research, and structured data extraction using LLM
 - **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
+
+#### [402.bot Discovery Oracle](https://api.402.bot/mcp/setup)
+
+- **Offers:** Read-only remote MCP server for discovering live agent APIs, searching ranked endpoints by capability, and inspecting trust and x402 payment telemetry
+- **Access:** Public streamable HTTP endpoint at `https://api.402.bot/mcp` with setup docs at `https://api.402.bot/mcp/setup`; no API key required for the v1 read-only surface
+
+#### [BGPT MCP](https://github.com/connerlambden/bgpt-mcp)
+
+- **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
+- **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
 ### Communication & Collaboration
 
