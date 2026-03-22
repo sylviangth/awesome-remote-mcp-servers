@@ -38,6 +38,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 💬 [Communication & Collaboration](#communication--collaboration) - Messaging and team collaboration
 - 🎥 [Media & Content](#media--content) - Media processing and content management
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
+- 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
 
 ## Who's Behind This Repo
 
@@ -203,6 +204,13 @@ _No entries yet_
 
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
+
+### Finance & Crypto
+
+#### [Chainflip Broker](https://chainflip-broker.io)
+
+- **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
+- **Access:** Remote MCP server at `https://chainflip-broker.io/mcp` (Streamable HTTP). No authentication required. Optional API key for partner attribution.
 
 ## Auto Counter
 
