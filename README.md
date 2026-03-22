@@ -212,6 +212,11 @@ _No entries yet_
 - **Offers:** Access to Jira and Confluence Cloud data
 - **Access:** OAuth authentication required, respects existing Atlassian permission controls
 
+#### [Commune MCP](https://github.com/commune-sh/commune-mcp)
+
+- **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
+- **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
+
 ### Media & Content
 
 _No entries yet_
