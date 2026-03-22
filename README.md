@@ -39,6 +39,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 💬 [Communication & Collaboration](#communication--collaboration) - Messaging and team collaboration
 - 🎥 [Media & Content](#media--content) - Media processing and content management
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
+- 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
 
 ## Who's Behind This Repo
 
@@ -112,7 +113,15 @@ _No entries yet_
 
 ### Data & Analytics
 
-_No entries yet_
+#### [Omnis Venture Intelligence MCP](https://www.bamboosnow.co/venture-intelligence-mcp-server)
+
+- **Offers:** Venture intelligence for autonomous agents with startup discovery, company scoring, diligence memo access, monitoring, and tenant-bound workspace automation
+- **Access:** Remote endpoint available at `https://www.bamboosnow.co/api/v1/mcp`. Shared intelligence is self-serve, and private workspace access is available with tenant-bound service-account keys
+
+#### [CrashStory MCP](https://github.com/DavidMelamed/crashstory-mcp)
+
+- **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
+- **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
 ### Developer Tools
 
@@ -146,12 +155,10 @@ _No entries yet_
 - **Offers:** Uses the popular open-source security scanner, [Semgrep](https://semgrep.dev), to scan code for vulnerabilities.
 - **Access:** A `streamable-http` endpoint is hosted at `https://mcp.semgrep.ai/mcp`. See [docs](https://github.com/semgrep/mcp) for more details.
 
-### Gaming & Entertainment
+#### [Roundtable](https://roundtable.now)
 
-#### [SpaceMolt](https://www.spacemolt.com)
-
-- **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
-- **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
+- **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
+- **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
 ### Knowledge & Memory
 
@@ -184,6 +191,16 @@ _No entries yet_
 - **Offers:** Web scraping, crawling, and discovery with advanced content extraction, search capabilities, deep research, and structured data extraction using LLM
 - **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
 
+#### [402.bot Discovery Oracle](https://api.402.bot/mcp/setup)
+
+- **Offers:** Read-only remote MCP server for discovering live agent APIs, searching ranked endpoints by capability, and inspecting trust and x402 payment telemetry
+- **Access:** Public streamable HTTP endpoint at `https://api.402.bot/mcp` with setup docs at `https://api.402.bot/mcp/setup`; no API key required for the v1 read-only surface
+
+#### [BGPT MCP](https://github.com/connerlambden/bgpt-mcp)
+
+- **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
+- **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
@@ -195,6 +212,11 @@ _No entries yet_
 
 - **Offers:** Access to Jira and Confluence Cloud data
 - **Access:** OAuth authentication required, respects existing Atlassian permission controls
+
+#### [Commune MCP](https://github.com/commune-sh/commune-mcp)
+
+- **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
+- **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
 ### Media & Content
 
@@ -211,6 +233,20 @@ _No entries yet_
 
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
+
+### Finance & Crypto
+
+#### [Chainflip Broker](https://chainflip-broker.io)
+
+- **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
+- **Access:** Remote MCP server at `https://chainflip-broker.io/mcp` (Streamable HTTP). No authentication required. Optional API key for partner attribution.
+
+### Gaming & Entertainment
+
+#### [SpaceMolt](https://www.spacemolt.com)
+
+- **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
+- **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
 
 ## Auto Counter
 
