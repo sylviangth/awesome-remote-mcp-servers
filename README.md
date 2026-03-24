@@ -220,7 +220,20 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Podcast Commerce MCP](https://podcast-commerce-mcp.sincetoday.workers.dev)
+
+- **Offers:** Extract affiliate product mentions from podcast transcripts, analyze sponsor content, track product trends across episodes, compare products across shows, and generate shoppable show notes. 5 tools for podcast-based commerce intelligence. F1=100% on test suite.
+- **Access:** Server available at `https://podcast-commerce-mcp.sincetoday.workers.dev/mcp`. Free tier: 200 calls/day, no auth required. Paid tier: $0.01/call via x402 micropayment protocol. No registration needed to start.
+
+#### [Newsletter Commerce MCP](https://newsletter-commerce-mcp.sincetoday.workers.dev)
+
+- **Offers:** Extract products and affiliate signals from newsletter content, analyze sponsor placement patterns, track affiliate performance, and generate shoppable product sections. 4 tools for newsletter commerce automation.
+- **Access:** Server available at `https://newsletter-commerce-mcp.sincetoday.workers.dev/mcp`. Free tier: 200 calls/day, no auth required. Paid tier: $0.01/call via x402 micropayment protocol. No registration needed to start.
+
+#### [Recipe Commerce MCP](https://recipe-commerce-mcp.sincetoday.workers.dev)
+
+- **Offers:** Extract ingredient brands and product mentions from recipe content, match ingredients to affiliate products, and surface affiliate opportunities for food creators. 3 tools for recipe-based commerce automation.
+- **Access:** Server available at `https://recipe-commerce-mcp.sincetoday.workers.dev/mcp`. Free tier: 200 calls/day, no auth required. Paid tier: $0.01/call via x402 micropayment protocol. No registration needed to start.
 
 ### Payments & Commerce
 
@@ -267,3 +280,4 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+
