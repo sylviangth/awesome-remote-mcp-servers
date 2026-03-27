@@ -234,6 +234,21 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [Podcast Commerce MCP](https://github.com/teamsincetoday/podcast-commerce-mcp)
+
+- **Offers:** AI-powered extraction of affiliate products, sponsor mentions, and shoppable recommendations from podcast episodes. Includes cross-show product comparison and automated show notes generation.
+- **Access:** Free tier (200 calls/day, no API key required). Above that: $0.01/call via x402 payment middleware.
+
+#### [Newsletter Commerce MCP](https://github.com/teamsincetoday/newsletter-commerce-mcp)
+
+- **Offers:** AI-powered extraction of shoppable products and sponsor mentions from newsletter editions, with automated affiliate-ready product section generation.
+- **Access:** Free tier (200 calls/day, no API key required). Above that: $0.01/call via x402 payment middleware.
+
+#### [Recipe Commerce MCP](https://github.com/teamsincetoday/recipe-commerce-mcp)
+
+- **Offers:** AI-powered extraction of affiliate-ready product recommendations from recipe content — ingredients, kitchen tools, and equipment with sponsor analysis.
+- **Access:** Free tier (200 calls/day, no API key required). Above that: $0.01/call via x402 payment middleware.
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
