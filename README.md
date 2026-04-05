@@ -247,6 +247,11 @@ _No entries yet_
 - **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
 - **Access:** Remote MCP server at `https://chainflip-broker.io/mcp` (Streamable HTTP). No authentication required. Optional API key for partner attribution.
 
+#### [WZRD Velocity Oracle](https://twzrd.xyz)
+
+- **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
+- **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
