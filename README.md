@@ -85,6 +85,12 @@ See MindPal agents in action with:
 - **Offers:** Turns n8n workflows into MCP tools, allowing AI applications to access n8n's automation capabilities and integration with hundreds of services
 - **Access:** Set up the MCP Server Trigger node in your n8n workflow, configure authentication, and use the generated MCP URL to connect
 
+#### [Useful AI MCP](https://api.usefulai.fun/mcp)
+
+- **Offers:** 340+ autonomously-built utility tools for AI agents: unit conversion, text processing, data parsing, encoding, math, cryptography, and more. New tools added continuously via autonomous build pipeline.
+- **Access:** No authentication required. Use the server URL directly: `https://api.usefulai.fun/mcp`
+
+
 #### [Supermachine Public MCP Servers](https://supermachine.ai/public-mcp-servers)
 
 - **Offers:** Access to 3939+ public MCP servers by spinning up virtual machines that run these MCP servers with minimal configuration
