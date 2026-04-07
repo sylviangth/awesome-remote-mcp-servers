@@ -252,6 +252,12 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [ZKProofport](https://zkproofport.app)
+
+- **Offers:** Zero-knowledge proof generation for AI agent identity. Agents can prove Coinbase KYC, Country, Google OIDC, Workspace, or Microsoft 365 affiliation without revealing personal data. Server-side proving runs in AWS Nitro Enclave TEE on a trusted backend. Returns only nullifier hashes — no personal information leaves the proof circuit.
+- **Access:** Local MCP server `@zkproofport-ai/mcp` (`npm install -g @zkproofport-ai/mcp@latest`) calls remote TEE backend at `https://ai.zkproofport.app`. Pay-per-proof via x402 USDC on Base (~$0.05/proof). ERC-8004 registered (token #25331).
+- **Recognition:** Reference application [OpenStoa](https://github.com/zkproofport/openstoa) won 1st place at The Synthesis Hackathon ("Agents That Keep Secrets" track, April 2026, 506 projects).
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
