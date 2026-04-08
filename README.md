@@ -253,10 +253,10 @@ _No entries yet_
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
 
-#### [Aethel-Nexus](https://aaaa-nexus.atomadictech.workers.dev)
+#### [AAAA-Nexus](https://aaaa-nexus.atomadictech.workers.dev)
 
-- **Offers:** Formally verified AI safety APIs — hallucination oracle (Lean 4 certified upper bound), RatchetGate session re-key (fixes MCP CVE-2025-6514), VeriRand quantum RNG, HELIX model compression (83% reduction), streaming CoT inference, A2A agent registry/swarm, UCAN delegation validation, GDPR/CCPA compliance gate. 75+ endpoints.
-- **Access:** Connect to `https://aaaa-nexus.atomadictech.workers.dev/mcp` via Streamable HTTP; manifest at `https://aaaa-nexus.atomadictech.workers.dev/.well-known/mcp.json`; free endpoints (entropy, agent registry, RNG) require no auth; paid endpoints use x402 USDC micropayments on Base L2 (no signup, agents pay autonomously)
+- **Offers:** Hosted AI infrastructure with MCP support, agent-card discovery, and x402 pay-per-call access.
+- **Access:** Connect to `https://aaaa-nexus.atomadictech.workers.dev/mcp` via Streamable HTTP; manifest at `https://aaaa-nexus.atomadictech.workers.dev/.well-known/mcp.json`; public repo at `https://github.com/atomadictech/aaaa-nexus`
 
 ### Gaming & Entertainment
 
