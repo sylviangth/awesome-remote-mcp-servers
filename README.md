@@ -253,10 +253,10 @@ _No entries yet_
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
 
-#### [AAAA-Nexus](https://aaaa-nexus.atomadictech.workers.dev)
+#### [AAAA-Nexus](https://atomadic.tech)
 
 - **Offers:** Hosted AI infrastructure with MCP support, agent-card discovery, and x402 pay-per-call access.
-- **Access:** Connect to `https://aaaa-nexus.atomadictech.workers.dev/mcp` via Streamable HTTP; manifest at `https://aaaa-nexus.atomadictech.workers.dev/.well-known/mcp.json`; public repo at `https://github.com/atomadictech/aaaa-nexus`
+- **Access:** Connect to `https://atomadic.tech/mcp` via Streamable HTTP; manifest at `https://atomadic.tech/.well-known/mcp.json`; public repo at `https://github.com/atomadictech/aaaa-nexus`
 
 ### Gaming & Entertainment
 
