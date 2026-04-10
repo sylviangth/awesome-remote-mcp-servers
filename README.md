@@ -252,6 +252,12 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+
+#### [AAAA-Nexus](https://atomadic.tech)
+
+- **Offers:** Hosted AI infrastructure with MCP support, agent-card discovery, and x402 pay-per-call access.
+- **Access:** Connect to `https://atomadic.tech/mcp` via Streamable HTTP; manifest at `https://atomadic.tech/.well-known/mcp.json`; public repo at `https://github.com/atomadictech/aaaa-nexus`
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
