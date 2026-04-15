@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Not Human Search MCP](https://nothumansearch.ai/.well-known/mcp.json)
+
+- **Offers:** Search engine for AI agents — discover verified agent-first websites and APIs ranked by agentic readiness score (llms.txt, OpenAPI, ai-plugin, MCP, structured API). Query by keyword, category, or minimum score; submit new sites for indexing
+- **Access:** Public manifest at `https://nothumansearch.ai/.well-known/mcp.json` with four tools (`search`, `get_site`, `submit_site`, `stats`) backed by REST endpoints at `https://nothumansearch.ai/api/v1/*`; no API key required
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
