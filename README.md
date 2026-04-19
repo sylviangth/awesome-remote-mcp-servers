@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [openregistry](https://openregistry.sophymarine.com)
+
+- **Offers:** Live official data from 27 national company registries (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere, Spain BORME, Korea OpenDART, Canada CBCA, 10 US state registries, and more). Search companies, fetch profiles, list filings, retrieve officers, beneficial owners, charges, and raw filing documents (XHTML / PDF / XBRL / XML). Built for KYC / AML / due-diligence workflows. A platform by sophymarine.
+- **Access:** Remote MCP server at `https://openregistry.sophymarine.com/mcp` (Streamable HTTP, MCP spec 2025-06-18). Anonymous access works out of the box (20 req/min per IP, 3-country fan-out per 60s). OAuth 2.1 + Dynamic Client Registration (RFC 7591) raises limits for paid tiers — no API key to paste.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
