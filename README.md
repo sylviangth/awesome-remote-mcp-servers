@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Whipscribe](https://whipscribe.com)
+
+- **Offers:** Audio and video transcription. Transcribe from a URL (YouTube, podcast feeds, direct media links) or an uploaded file; returns `txt`, `json`, `srt`, `vtt`, or `docx` with optional speaker diarization and word-level timestamps. Free anonymous tier; paid tier with higher limits.
+- **Access:** Sign up at [whipscribe.com](https://whipscribe.com) for an API key, then configure the MCP endpoint in your client. Local install also available via `uvx whipscribe-mcp`.
 
 ### Payments & Commerce
 
