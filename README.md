@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [US Business Data MCP](https://github.com/avabuildsdata/mcp-us-business-data)
+
+- **Offers:** US public business data lookup - Secretary of State filings across 17 states, building permits in 400+ cities, and YellowPages business leads with emails and phone numbers
+- **Access:** Server available at `https://mcp.apify.com/sse?tools=pink_comic/yellowpages-scraper,pink_comic/us-business-entity-search,pink_comic/building-permits-scraper` with `Authorization: Bearer <APIFY_TOKEN>` header. Get your API token from [Apify Console](https://console.apify.com/account/integrations)
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
