@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [mcp-analytics](https://mcp-analytics.com)
+
+- **Offers:** Web analytics tools for querying pageviews, sessions, top pages, referrers, UTM sources, custom events, and user-agent / traffic-class breakdowns. 18 tools total. EU-hosted, GDPR-ready.
+- **Access:** Sign up via email at the URL, receive a unique server URL with embedded token. Free tier up to 100,000 hits/month.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
