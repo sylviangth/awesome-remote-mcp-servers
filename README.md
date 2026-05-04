@@ -2,12 +2,12 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![Categories](https://img.shields.io/badge/Categories-14-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
 
@@ -38,6 +38,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🔎 [Search & Data Extraction](#search--data-extraction) - Search engines and information retrieval
 - 💬 [Communication & Collaboration](#communication--collaboration) - Messaging and team collaboration
 - 🎥 [Media & Content](#media--content) - Media processing and content management
+- 🚆 [Travel & Transportation](#travel--transportation) - Transportation, mobility, and fleet data services
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
 - 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
 
@@ -227,6 +228,13 @@ _No entries yet_
 ### Media & Content
 
 _No entries yet_
+
+### Travel & Transportation
+
+#### [MyCarTracks MCP](https://mycartracks.com/resources/connect-with-ai)
+
+- **Offers:** App-based GPS vehicle tracking and automatic mileage tracking data, including authorized trip, track, and vehicle information for fleet and mileage workflows
+- **Access:** OAuth authentication required. Server available at `https://mycartracks.com/mcp`
 
 ### Payments & Commerce
 
