@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [NotFair](https://notfair.co)
+
+- **Offers:** Hosted Google Ads MCP server. Diagnose campaign performance (CPA, ROAS, search-term waste, quality scores, learning-phase status), recommend optimizations (bids, budgets, negative keywords, ad copy), and execute approved changes via the official Google Ads API with a built-in human-approval gate.
+- **Access:** Server available at `https://notfair.co/api/mcp/google_ads`. Sign up at [notfair.co](https://notfair.co) and add it as a custom connector in Claude (or any MCP client) — auth via NotFair sign-in flow. Free tier available (7 days unlimited, then 300 ops/month, no credit card).
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
