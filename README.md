@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Sanka MCP](https://sanka.com/)
+
+- **Offers:** CRM and back-office workflow tools for companies, contacts, deals, estimates, orders, invoices, subscriptions, payments, inventory, HR, and related Sanka records
+- **Access:** Hosted remote endpoint at `https://mcp.sanka.com/mcp` with OAuth authentication; public repository and setup notes are available at `https://github.com/sankaHQ/sanka-mcp`
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
