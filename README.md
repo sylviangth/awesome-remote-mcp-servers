@@ -252,6 +252,12 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [YIELD INTELLIGENCE](https://intuitek.ai)
+
+- **Offers:** Passive income opportunity analysis with live US Treasury rates, portfolio yield calculator, and AI-powered income optimization. Compares Treasury bills, dividend ETFs, REITs, and money market accounts to maximize passive income.
+- **Access:** Remote MCP server at `https://api.intuitek.ai/yield/mcp` (Streamable HTTP). No authentication required. Tools: `analyze_yield_opportunities`, `optimize_income_portfolio`.
+
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
