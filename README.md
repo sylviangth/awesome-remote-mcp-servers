@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Doxa MCP](https://doxa.app/mcp)
+
+- **Offers:** Christian encouragement and Bible lookup for any MCP client. Three tools grounded in the Berean Standard Bible (public domain): doxa_encourage, doxa_scripture (BSB verse lookup with deep links), and doxa_way_movement. Scripture, summoned.
+- **Access:** Free public streamable HTTP endpoint at `https://doxa.app/mcp/v1`. No authentication required for the free tier; bring your own licence (BYOL) via one header for unlimited use. See `https://doxa.app/mcp` for setup
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
