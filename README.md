@@ -108,7 +108,11 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [Fractera](https://www.fractera.ai)
+
+- **Offers:** Deploys a private, self-hosted AI coding workspace onto a user's own Ubuntu VPS, configuring Nginx, authentication, database and services automatically. Includes five AI coding engines, an autonomous orchestrator agent, and private graph memory (LightRAG). Tools cover user registration, VPS recommendation, running and monitoring the deployment, and project Q&A.
+- **Access:** No authentication required. Add the Streamable HTTP endpoint `https://www.fractera.ai/api/mcp` to your MCP client. Also published in the Official MCP Registry as `io.github.Fractera/deploy`.
+
 
 ### Databases & Storage
 
