@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -84,6 +84,12 @@ See MindPal agents in action with:
 
 - **Offers:** Turns n8n workflows into MCP tools, allowing AI applications to access n8n's automation capabilities and integration with hundreds of services
 - **Access:** Set up the MCP Server Trigger node in your n8n workflow, configure authentication, and use the generated MCP URL to connect
+
+#### [Useful AI MCP](https://api.usefulai.fun/mcp)
+
+- **Offers:** 340+ autonomously-built utility tools for AI agents: unit conversion, text processing, data parsing, encoding, math, cryptography, and more. New tools added continuously via autonomous build pipeline.
+- **Access:** No authentication required. Use the server URL directly: `https://api.usefulai.fun/mcp`
+
 
 #### [Supermachine Public MCP Servers](https://supermachine.ai/public-mcp-servers)
 
@@ -240,6 +246,17 @@ _No entries yet_
 
 - **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
 - **Access:** Remote MCP server at `https://chainflip-broker.io/mcp` (Streamable HTTP). No authentication required. Optional API key for partner attribution.
+
+#### [WZRD Velocity Oracle](https://twzrd.xyz)
+
+- **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
+- **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
+
+
+#### [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel)
+
+- **Offers:** Solana-native agent trust scoring via x402 micropayments — free on-chain preflight checks (account age, activity, stake) + paid signed V5 trust receipts settled in <1s on Solana
+- **Access:** Remote-only server at `https://intel.twzrd.xyz/mcp` via Streamable HTTP; no local install required. Free preflight tools need no auth; paid receipt tools use x402 micropayments in USDC on Solana
 
 ### Gaming & Entertainment
 
