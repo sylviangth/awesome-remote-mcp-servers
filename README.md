@@ -253,7 +253,7 @@ _No entries yet_
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
 
-#### [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel)
+#### [TWZRD Agent Intel](https://intel.twzrd.xyz)
 
 - **Offers:** Solana-native agent trust scoring via x402 micropayments — free on-chain preflight checks (account age, activity, stake) + paid signed V5 trust receipts settled in <1s on Solana
 - **Access:** Remote-only server at `https://intel.twzrd.xyz/mcp` via Streamable HTTP; no local install required. Free preflight tools need no auth; paid receipt tools use x402 micropayments in USDC on Solana
