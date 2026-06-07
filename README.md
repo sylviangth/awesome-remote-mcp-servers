@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [The Stall](https://the-stall.intuitek.ai/mcp)
+
+- **Offers:** 172 pay-per-call financial and market intelligence tools covering equities (price, fundamentals, earnings, options chain), crypto/DeFi (prices, whale radar, DEX quotes, stablecoin watch), macro (FOMC, treasury yields, IMF outlook), on-chain (EVM logs, wallet balance, ENS), alternative data (congressional trades, FEC donors, sanctions screening), and 20+ more verticals. Payments via x402 protocol (USDC on Base) — sub-cent per call, no subscription.
+- **Access:** Remote MCP at `https://the-stall.intuitek.ai/mcp` via Streamable HTTP. No API key required. x402-capable wallet needed for paid tools (e.g., Coinbase CDP); free tools available without payment.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
