@@ -235,6 +235,11 @@ _No entries yet_
 - **Offers:** Commerce capabilities for inventory management, payment processing, shipping tracking, and refund handling
 - **Access:** OAuth authentication with your PayPal account required
 
+#### [BuyWhere MCP](https://mcp.buywhere.ai/mcp)
+
+- **Offers:** Real-time product search and price comparison across 260K+ products from major Singapore and SEA merchants (Lazada, Shopee, Courts, FairPrice). Search by name, category, or price range and get live availability data.
+- **Access:** API key required — free self-serve registration at https://buywhere.ai/api-keys
+
 #### [Block (Square) MCP](https://developer.squareup.com/docs/mcp)
 
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
