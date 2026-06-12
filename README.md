@@ -166,6 +166,12 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+
+#### [Prismix Status MCP](https://prismix.dev/mcp-server)
+
+- **Offers:** Real-time status of 75+ AI services (OpenAI, Anthropic, Cursor, Groq, GitHub Copilot, and more) with live incident tracking. Lets Claude and other AI assistants answer "Is OpenAI down?" or "Which AI services are degraded?" with live data.
+- **Access:** Free, no authentication required. Streamable HTTP endpoint: `https://prismix.dev/api/v1/mcp`
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
