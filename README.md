@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [htmlbook](https://htmlbook.io)
+
+- **Offers:** Publish AI-generated HTML & Markdown to a hosted, shareable, themed URL — an agent pushes a doc via MCP and htmlbook stores, versions, organizes, and publicly shares it as a permanent link.
+- **Access:** Sign in at [htmlbook.io](https://htmlbook.io), generate an API key in Settings (or connect via OAuth from Claude/Cursor), then add the MCP endpoint `https://htmlbook.io/api/mcp`.
 
 ### Payments & Commerce
 
