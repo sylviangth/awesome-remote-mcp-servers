@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [agentage Memory](https://memory.agentage.io)
+
+- **Offers:** A shared, file-owned memory layer for every AI assistant - one markdown memory that Claude, Cursor, and ChatGPT read and write through MCP. Six tools (`memory__search`, `memory__read`, `memory__write`, `memory__edit`, `memory__list`, `memory__delete`) for full-text search, reading, and CRUD over your notes, mirrored locally as plain `.md` files you can export anytime.
+- **Access:** Streamable HTTP endpoint at `https://memory.agentage.io/mcp` with OAuth 2.1 (PKCE + Dynamic Client Registration) authentication. Sign in at https://memory.agentage.io and add the endpoint to your MCP client.
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
