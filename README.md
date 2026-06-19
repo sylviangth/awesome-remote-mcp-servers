@@ -252,6 +252,12 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Public Grants](https://grants.mrchief.ai)
+
+- **Offers:** French public grants advisor for startups and AI agents. 21 tools + 3 guided prompts covering company onboarding (SIRENE registry pre-fill, auto-enrichment + customisable input), eligibility check across 49 programmes (CIR, JEI, BPI, CNC, ADEME, EIC Accelerator) with per-rule pass/fail from official legal texts, application drafting (.md/.docx export), and free strategic briefing with downloadable PDF. Traditional consultants charge EUR 2,000-5,000 + success fees - Public Grants: free discovery, EUR 49/dossier.
+- **Access:** Remote MCP server at `https://grants.mrchief.ai/mcp/` (Streamable HTTP). No authentication required for discovery. EU-hosted (Fly.io Paris + Supabase Frankfurt), RGPD compliant. Built by [PyratzLabs](https://pyratzlabs.com).
+
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
