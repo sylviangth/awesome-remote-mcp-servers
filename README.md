@@ -175,6 +175,11 @@ _No entries yet_
 
 ### Marketing & CRM
 
+#### [datavessel MCP](https://datavessel.io/mcp)
+
+- **Offers:** Read **and write** access to a full marketing & ecommerce stack — Google Analytics, Search Console, Google & Meta Ads, Shopify, WooCommerce, Shopware, Slack and LinkedIn (100+ tools across 10 connectors). BYOK
+- **Access:** Server available at `https://mcp.datavessel.io/mcp` (Streamable HTTP) with OAuth 2.1 dynamic client registration — connect with just the URL, no pre-registration or API key. Sign up at [datavessel.io](https://datavessel.io)
+
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
 
 - **Offers:** Customer support and engagement functionality through Fin, Intercom's AI agent
