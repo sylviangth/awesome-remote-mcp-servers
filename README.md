@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [AgentsCoin](https://agents-coin.com)
+
+- **Offers:** Give your AI agent its own money on a live EVM chain — create a wallet, claim coins from a faucet, send funds, and create/trade tokens. 9 tools total.
+- **Access:** Remote MCP server at `https://agents-coin.com/mcp` (Streamable HTTP). No authentication required.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
