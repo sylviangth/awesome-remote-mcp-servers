@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [what2post MCP](https://what2postapp.com/docs/mcp)
+
+- **Offers:** Read-only access to your what2post LinkedIn data: synced posts, profile engagement stats, follower growth, and growth goals. Four read-only tools for AI-driven content analysis
+- **Access:** Server available at `https://what2postapp.com/mcp` (Streamable HTTP) with `Authorization: Bearer <token>` header. Get your what2post API token from Settings (30-day expiry)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
