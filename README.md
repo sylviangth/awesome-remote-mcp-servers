@@ -237,6 +237,13 @@ _No entries yet_
 
 #### [Block (Square) MCP](https://developer.squareup.com/docs/mcp)
 
+#### [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp)
+
+- **Offers:** Real-time cross-border e-commerce product search and price comparison across 11M+ items from 50+ stores (Amazon, Lazada, Shopee). MCP server for AI-powered shopping agents.
+- **Access:** Server available at `https://mcp.buywhere.ai` (Streamable HTTP). No authentication required for basic search. API key available for higher rate limits.
+
+#### [Block (Square) MCP](https://developer.squareup.com/docs/mcp)
+
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
