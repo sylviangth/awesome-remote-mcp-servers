@@ -40,6 +40,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🎥 [Media & Content](#media--content) - Media processing and content management
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
 - 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
+- 🏋️ [Health & Fitness](#health--fitness) - Fitness tracking and training apps
 
 ## Who's Behind This Repo
 
@@ -258,6 +259,13 @@ _No entries yet_
 
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
+
+### Health & Fitness
+
+#### [Tally Workout](https://tallyworkout.app)
+
+- **Offers:** Read your real strength-training history (planned vs. actually performed) and write planned workouts back into the Tally iOS app — plan conversationally in Claude, log in the gym; in-app edits are never overwritten
+- **Access:** Get the free Tally iOS app, then add `https://mcp.tallyworkout.app/api/mcp` as a custom connector in claude.ai (OAuth 2.1 sign-in; free Claude tier works) — guide at [tallyworkout.app/connect](https://tallyworkout.app/connect)
 
 ## Auto Counter
 
