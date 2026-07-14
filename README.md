@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [OpenChainBench](https://openchainbench.com)
+
+- **Offers:** Live, neutral crypto infrastructure benchmarks for agents. Public no-key RPC latency across 22 EVM chains plus Solana, oracle deviation, bridge quote fees, perp DEX all-in cost, prediction market resolution delay. Tools: `list_benchmarks`, `get_benchmark`, `query_prom`. Open methodology, CC BY 4.0 data
+- **Access:** Connect to `https://openchainbench.com/api/mcp/mcp` via Streamable HTTP; no authentication required; source at https://github.com/ChainBench/OpenChainBench
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
