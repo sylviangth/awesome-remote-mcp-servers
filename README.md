@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [SeqBench](https://seqbench.com)
+
+- **Offers:** Molecular-biology and sequence-analysis tools for AI agents — primer design, cloning simulation (Gibson, Golden Gate, restriction), CRISPR guide RNA design, sequence analysis, batch processing, and multi-tool workflows
+- **Access:** Public Streamable HTTP endpoint at `https://seqbench.com/api/mcp`. No authentication required. Also listed on the official MCP Registry as `com.seqbench/workbench`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
