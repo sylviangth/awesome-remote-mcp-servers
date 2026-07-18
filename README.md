@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [AgentServices](https://github.com/vbkotecha/aiservices-api)
+
+- **Offers:** 54 services / 97 endpoints with 37 MCP tools: crypto prices, OHLCV, DeFi yields, technical indicators, DEX swap quotes, prediction markets, trending tokens, gas tracker, news, social sentiment, on-chain analytics, correlation matrix, DeFi TVL, stablecoin flows, GitHub velocity, macro indicators, marketing intelligence, IP geolocation, URL metadata, web search, FX rates. 41 x402-paid endpoints ($0.01–$0.05/call, USDC on Base).
+- **Access:** Remote MCP server at `https://agentservices.to/mcp` (Streamable HTTP). Payment via x402 protocol — agents pay per call with USDC on Base, no API keys or registration. Official MCP Registry: `to.agentservices/agentservices` (v5.3.0).
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
