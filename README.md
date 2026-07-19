@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Rootr MCP](https://rootr.io)
+
+- **Offers:** Team knowledge-base workspace connected to AI. Read, search, write, and version shared documents; query structured data tables, issue trackers, and CRM; and run GraphRAG root-cause Q&A over your team's institutional knowledge — with your existing workspace permissions
+- **Access:** Add the remote connector `https://rootr.io/mcp` in Claude or ChatGPT and sign in with OAuth 2.1 (no API key, no install), then pick a workspace and permission level. Docs at `https://rootr.io/en/docs`. Free tier available
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
