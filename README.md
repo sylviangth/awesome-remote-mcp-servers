@@ -185,6 +185,13 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+
+
+#### [Grabbit MCP](https://www.grabbit.sh/mcp-server)
+
+- **Offers:** Finds Reddit buyer-intent threads, filters monitored conversations by intent, relevance, sentiment, mentions, and keywords, checks subreddit rules, reads full posts and comments, and manages tags, feeds, and lead statuses through 16 typed MCP tools.
+- **Access:** Connect to `https://mcp.grabbit.sh/mcp` using Streamable HTTP. OAuth-capable clients use Dynamic Client Registration with PKCE S256; personal bearer tokens are available for headless clients. Grabbit does not automatically post replies to Reddit.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
