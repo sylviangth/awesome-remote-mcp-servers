@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Formo MCP](https://formo.so)
+
+- **Offers:** Read-only product and onchain analytics, including KPIs, SQL, funnels, retention, revenue, users, and wallet profiles
+- **Access:** Streamable HTTP endpoint at `https://api.formo.so/v0/mcp/` with OAuth 2.1 or workspace API-key authentication; see the [setup documentation](https://docs.formo.so/mcp/overview)
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
