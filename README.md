@@ -209,6 +209,13 @@ _No entries yet_
 
 ### Communication & Collaboration
 
+#### [DialMCP](https://dialmcp.com)
+
+- **Offers:** Let AI agents place real phone calls from your own SMS-verified number, with transcripts, recordings, and structured outcomes (US & Canada)
+- **Access:** Connect any MCP client to `https://mcp.dialmcp.com/mcp` (Streamable HTTP + OAuth 2.1). Free during pilot.
+- **Registry:** `com.dialmcp/dialmcp` · Connector: https://github.com/SkillfulAgents/dialmcp-connector
+
+
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
 
 - **Offers:** Project management and task coordination through Asana's Work Graph
