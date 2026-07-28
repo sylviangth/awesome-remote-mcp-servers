@@ -252,6 +252,12 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+
+#### [AATOS — AI Agent Tokenized Stock OS](https://aatos.dev/)
+
+- **Offers:** Non-custodial remote MCP for **tokenized stocks / Stock Tokens on Robinhood Chain (4663)**. List/verify tokens, Chainlink prices, multi-venue quotes (0x · Uniswap · on-chain V3), non-custodial execute plans, Morpho Earn, policy guardrails. For AI coding agents (Claude, Cursor, etc.).
+- **Access:** Streamable HTTP at `https://aatos.dev/mcp`. Free discovery tools open; Pro write plans use optional API key from on-chain ETH checkout. Skill: `npx skills add tailoredtidings/aatos-skill`. Official registry: `dev.aatos/aatos`.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
