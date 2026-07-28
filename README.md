@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [DomScan MCP](https://domscan.net/mcp-domain-checker)
+
+- **Offers:** Domain availability, DNS, WHOIS/RDAP, TLS, subdomain, valuation, email-authentication, and brand-monitoring tools
+- **Access:** Connect to `https://domscan.net/mcp` with Streamable HTTP and authenticate through OAuth discovery or a DomScan API key
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
