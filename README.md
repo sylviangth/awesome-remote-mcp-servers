@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Brainiall TTS](https://www.brainiall.com/en/apis/text-to-speech)
+
+- **Offers:** Hosted text-to-speech over MCP with 54 neural voices across nine languages, including Brazilian Portuguese; returns 24 kHz mono WAV audio.
+- **Access:** Connect to `https://api.brainiall.com/mcp/tts/mcp` over Streamable HTTP with `Authorization: Bearer <BRAINIALL_API_KEY>`. Usage is $0.008 per 1,000 characters; new accounts receive $10 in credits without a card.
 
 ### Payments & Commerce
 
