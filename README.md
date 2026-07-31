@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [dotsweep](https://dotsweep.com)
+
+- **Offers:** Domain availability across 1,200+ TLDs with the renewal price, the registry's minimum registration term, and who is eligible to register. An answer no registry confirmed is returned as `estimated`, never `available`, so a rate-limited or unreachable registry is never reported as free. Tools: `check_domains`, `whois`, `list_tlds`
+- **Access:** Public streamable HTTP endpoint at `https://dotsweep.com/mcp` — free, no account and no API key. Setup click-path at [dotsweep.com/setup](https://dotsweep.com/setup), reference at [dotsweep.com/docs](https://dotsweep.com/docs)
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
