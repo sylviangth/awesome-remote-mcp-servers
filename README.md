@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [minia2a](https://minia2a.uk)
+
+- **Offers:** x402-native marketplace with 175+ pay-per-call APIs for AI agents: gas prices, web scraping, CAPTCHA solving, DNS, crypto prices, token security, IP lookup, and more. USDC micropayments on Base — 500 free credits per registration, zero KYC, auto-wallet. 5% platform fee, instant settlement.
+- **Access:** Remote MCP server at `https://minia2a.uk/mcp` (HTTP). No authentication required — pay per call via x402 USDC on Base. Listed in the official MCP Registry as `io.github.minia2a/minia2a-mcp`.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
