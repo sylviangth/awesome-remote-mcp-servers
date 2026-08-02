@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Unquant](https://unquant.ai)
+
+- **Offers:** A read-only financial data MCP by Streetbeat with 28 tools for delayed and end-of-day market data, news, macroeconomic indicators, and US public disclosures
+- **Access:** Connect to `https://unquant.ai/mcp` via Streamable HTTP. See the public [examples and interface documentation](https://github.com/dev-streetbeat/unquant-mcp-examples)
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
