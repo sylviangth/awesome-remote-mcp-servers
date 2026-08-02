@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [Pingram MCP](https://www.pingram.io/docs/integrations/mcp)
+
+- **Offers:** Send email, SMS, and voice notifications; look up delivery logs; manage phone numbers, email inboxes, and sender domains through a Pingram account
+- **Access:** OAuth with your Pingram account. Streamable HTTP endpoint at `https://mcp.pingram.io` (also `https://mcp.ca.pingram.io`, `https://mcp.eu.pingram.io`). Docs: https://www.pingram.io/docs/integrations/mcp
+
 ### Media & Content
 
 _No entries yet_
