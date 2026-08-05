@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [OptionsAhoy](https://optionsahoy.com)
+
+- **Offers:** Equity compensation planning tools: multi-year incentive stock option (ISO) exercise schedules with alternative minimum tax (AMT) calculations, non-qualified stock option (NSO) exercise math, restricted stock unit (RSU) sell-vs-hold and lot ordering, sale planning toward a cash goal, qualified small business stock (QSBS) qualification checks, single-stock concentration analysis, and hedge pricing, with federal, 50-state, and DC tax calculations
+- **Access:** Connect to `https://optionsahoy.com/mcp` via Streamable HTTP. Free, no authentication or API key required
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
