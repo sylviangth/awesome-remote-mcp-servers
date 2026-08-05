@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [VPN.FAIL MCP](https://mcp.vpn.fail/)
+
+- **Offers:** Fetches public HTTP(S) pages as Markdown, text, or HTML through a rotating proxy pool
+- **Access:** Public Streamable HTTP endpoint at `https://mcp.vpn.fail/mcp`; no account or API key required, and anonymous usage quotas apply
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
