@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [IndustryLens MCP](https://industry-lens.com)
+
+- **Offers:** Competitive-intelligence reports and head-to-head competitor comparisons for B2B SaaS markets — real, source-backed data on pricing, positioning, ads, hiring, and reviews. 8 tools over Streamable HTTP.
+- **Access:** No signup. Connect any MCP-aware client to `https://api.industry-lens.com/mcp/public` (remote, no auth). Docs: https://github.com/IndustryLensOp/industrylens-mcp-docs
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
