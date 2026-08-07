@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Autoposting MCP](https://autoposting.ai)
+
+- **Offers:** Draft, rewrite, schedule and publish social posts to X, LinkedIn, Instagram, Threads and YouTube, plus AI idea generation, carousel building, video clipping and knowledge base search (69 tools)
+- **Access:** Server available at `https://app.autoposting.ai/mcp` over Streamable HTTP with OAuth 2.1 Dynamic Client Registration, so no client ID or secret is needed. Sign in with your Autoposting account when the client prompts. Docs: https://docs.autoposting.ai/mcp/overview
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
