@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [The Bot Wire](https://thebotwire.com)
+
+- **Offers:** 301 real-time wires read from primary sources rather than a crawler's index of them: SEC EDGAR filings, the Federal Reserve and ECB, BLS/BEA economic releases, federal court opinions, congressional bills, DOJ, FDA, CISA advisories and CVEs, USGS earthquakes, NWS severe weather, arXiv, NASA, EIA energy and federal contract awards, plus news, markets and industry trade press. Each wire advertises the question it answers, so a model can route without guessing.
+- **Access:** Public streamable HTTP endpoint at `https://thebotwire.com/mcp`, no API key and no signup. The endpoint is discovery only and returns the catalogue with no items; retrieving data is paid per call over x402 at $0.005-$0.01 USDC on Base. Open for verification without a wallet: `https://thebotwire.com/health`, `/sources` and `/wires.json`
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
