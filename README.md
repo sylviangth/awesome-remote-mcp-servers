@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [TranscriptAPI](https://transcriptapi.com)
+
+- **Offers:** YouTube transcripts and video discovery for AI agents. Fetch any video transcript (Markdown or JSON), search YouTube, and browse channel and playlist uploads. 6 read-only tools over streamable-HTTP.
+- **Access:** Create an API key at transcriptapi.com (free tier: 100 free credits, no card; paid from $5/mo), then add the hosted endpoint https://transcriptapi.com/mcp (API key or OAuth 2.1). Docs: transcriptapi.com/docs.
 
 ### Payments & Commerce
 
