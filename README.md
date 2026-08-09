@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [RunAPI](https://runapi.ai/mcp)
+
+- **Offers:** Hosted MCP server for browsing RunAPI models and creating authenticated image, video, music/audio, and model API tasks.
+- **Access:** Connect to `https://mcp.runapi.ai/mcp` via Streamable HTTP. Use OAuth when supported by the client, or a RunAPI API key as the bearer credential.
 
 ### Payments & Commerce
 
