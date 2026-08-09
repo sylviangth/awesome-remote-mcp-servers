@@ -166,6 +166,13 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+### Career & Job Search
+
+#### [AI Applyd](https://aiapplyd.com/mcps)
+
+- **Offers:** ATS resume scoring, job-description analysis, interview prep, cover letters, resume building and auto-apply that submits on the employer's own hiring system.
+- **Access:** Streamable HTTP endpoint at `https://mcp.aiapplyd.com/mcp` with OAuth 2.1 and dynamic client registration. See [GitHub](https://github.com/whateverneveranywhere/aiapplyd-mcp).
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
