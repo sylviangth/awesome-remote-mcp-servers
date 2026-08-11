@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Hexis](https://github.com/Bevel-Software/Hexis)
+
+- **Offers:** Git-backed platform for skills, tools, and context for AI agents
+- **Access:** Connect to `https://demo.bevel.software/api/mcp` with OAuth 2.1, or deploy Hexis and use the `/api/mcp` endpoint on your own host
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
