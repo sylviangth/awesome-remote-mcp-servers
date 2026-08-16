@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [TraderSpy](https://traderspy.app/mcp)
+
+- **Offers:** AI-generated crypto futures signals with entry, take-profit ladder and stop levels plus their realised outcomes; smart money positioning and an elite leaderboard across Binance, Hyperliquid, Bybit and OKX; live prices, OHLCV candles and 13 technical indicators; and the caller's own Hyperliquid balance, positions and distance to liquidation. All 15 tools are read-only — no order placement, withdrawal or transfer tool exists.
+- **Access:** Remote MCP server at `https://mcp.traderspy.app/mcp` (Streamable HTTP). OAuth 2.1 with dynamic client registration, or a free API key from https://traderspy.app/mcp sent as `Authorization: Bearer mcp_…`. `tools/list` is open, so the tool set is inspectable before connecting.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
