@@ -168,8 +168,8 @@ _No entries yet_
 
 #### [UIZZE](https://uizze.com)
 
-- **Offers:** UI reference research, design contracts, validation, audits, and critiques that help Codex avoid generic AI UI output; also supports Claude Code and Cursor
-- **Access:** Paid UIZZE account required. Create a bearer token in Agent Connector and connect to the Streamable HTTP endpoint at `https://uizze.com/mcp`
+- **Offers:** A free anti-ui-slop Skill and deterministic `check_ui_slop` preview for coding agents. Full UIZZE adds live research across 800,000+ real web and iOS screens, product-specific design contracts, validation, audits, and rendered critique.
+- **Access:** Use the free, no-account Streamable HTTP preview at `https://uizze.com/mcp/preview`. It exposes `check_ui_slop`; install the local Skill with `npx skills add https://uizze.com --skill anti-ui-slop`. Full UIZZE is available at `https://uizze.com/mcp`.
 
 ### Knowledge & Memory
 
