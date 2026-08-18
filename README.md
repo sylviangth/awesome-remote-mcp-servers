@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [PCD (Portable Context Deck)](https://portablecontext.ai)
+
+- **Offers:** Your portable context layer — user-owned containers holding structured context, live work state, and accumulated knowledge, loaded into any MCP-speaking AI client from one endpoint
+- **Access:** Create an account at [portablecontext.ai](https://portablecontext.ai), then connect via `https://mcp.portablecontext.ai/mcp` (OAuth 2.0 + PKCE — no API key)
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
