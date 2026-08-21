@@ -103,7 +103,7 @@ See MindPal agents in action with:
 
 #### [Pabbly Connect MCP](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/)
 
-- **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute future workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
+- **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
 - **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
 
 ### Cloud Platforms
@@ -195,7 +195,7 @@ _No entries yet_
 #### [Firecrawl MCP](https://docs.firecrawl.dev/mcp)
 
 - **Offers:** Web scraping, crawling, and discovery with advanced content extraction, search capabilities, deep research, and structured data extraction using LLM
-- **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
+- **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecbrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
 
 #### [402.bot Discovery Oracle](https://api.402.bot/mcp/setup)
 
