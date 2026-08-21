@@ -195,7 +195,7 @@ _No entries yet_
 #### [Firecrawl MCP](https://docs.firecrawl.dev/mcp)
 
 - **Offers:** Web scraping, crawling, and discovery with advanced content extraction, search capabilities, deep research, and structured data extraction using LLM
-- **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecbrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
+- **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
 
 #### [402.bot Discovery Oracle](https://api.402.bot/mcp/setup)
 
