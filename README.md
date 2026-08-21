@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -105,6 +105,11 @@ See MindPal agents in action with:
 
 - **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
 - **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
+
+#### [404.directory](https://404.directory)
+
+- **Offers:** One-call official documentation search across OpenAI, Microsoft Learn, AWS, and Cloudflare, plus discovery, trust comparison, and execution of curated read-only remote MCP tools.
+- **Access:** No authentication required. Connect a Streamable HTTP client to `https://404.directory/mcp`; client-specific setup is available at `https://404.directory/connect?source=awesome-hosted-mcp`.
 
 ### Cloud Platforms
 
