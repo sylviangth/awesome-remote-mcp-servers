@@ -103,7 +103,7 @@ See MindPal agents in action with:
 
 #### [Pabbly Connect MCP](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/)
 
-- **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
+- **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute future workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
 - **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
 
 ### Cloud Platforms
@@ -206,6 +206,11 @@ _No entries yet_
 
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
+
+#### [Pocket Drives](https://pocketdrives.ai/mcp)
+
+- **Offers:** Read-only search, quotes, availability, and host profiles for a peer-to-peer luxury, exotic, and EV rental marketplace. Independent hosts; booking finishes in the iOS app
+- **Access:** No authentication required. Streamable HTTP endpoint at `https://pocketdrives.ai/mcp`
 
 ### Communication & Collaboration
 
