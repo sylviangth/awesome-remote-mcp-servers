@@ -119,6 +119,11 @@ _No entries yet_
 
 ### Data & Analytics
 
+#### [fmcg.network](https://fmcg.network)
+
+- **Offers:** EU regulatory screening for consumer goods: allergen labelling, food additives and E numbers, health claims, nutrition declaration, date marking, cosmetics INCI and detergent labelling, plus supplier discovery
+- **Access:** Connect to `https://mcp.fmcg.network/mcp`, sign in via OAuth 2.1 with PKCE and dynamic client registration, no API key needed
+
 #### [Omnis Venture Intelligence MCP](https://www.bamboosnow.co/venture-intelligence-mcp-server)
 
 - **Offers:** Venture intelligence for autonomous agents with startup discovery, company scoring, diligence memo access, monitoring, and tenant-bound workspace automation
