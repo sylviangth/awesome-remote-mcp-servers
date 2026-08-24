@@ -40,6 +40,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🎥 [Media & Content](#media--content) - Media processing and content management
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
 - 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
+- ✈️ [Travel & Transportation](#travel--transportation) - Flight, transit, and travel data
 
 ## Who's Behind This Repo
 
@@ -258,6 +259,13 @@ _No entries yet_
 
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
+
+### Travel & Transportation
+
+#### [Google Flights Search (Real-Time Fares)](https://flightpowers.com)
+
+- **Offers:** Real-time Google Flights fares via two tools, one-way and round-trip search. A single call expands a date range and a list of destination airports internally, and each result carries Google's own price-insight low/high range with a low/typical/high verdict plus a booking link.
+- **Access:** Connect to `https://google-flights-mcp.flightpowers.com/mcp` using Streamable HTTP transport. Bring your own RapidAPI key, sent as an `x-rapidapi-key` header or a `?rapidapi_key=` query parameter; keys, including a free tier, come from https://rapidapi.com/mtnrabi/api/google-flights-live-api
 
 ## Auto Counter
 
