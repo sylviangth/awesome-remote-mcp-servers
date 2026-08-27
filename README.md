@@ -242,6 +242,11 @@ _No entries yet_
 
 ### Finance & Crypto
 
+#### [InvestJournal](https://investjournal.io)
+
+- **Offers:** Stock research and portfolio journal for self-directed investors — watchlists, reverse-DCF valuations, standardised financial ratios, a written investment thesis and notes per company, price and fair-value alerts, and curated company news. Ask questions about your own research and holdings in plain language.
+- **Access:** Remote MCP server at `https://mcp.investjournal.io/mcp` (Streamable HTTP). OAuth 2.0 authorization code + PKCE, with `stockgrade:read` / `stockgrade:write` scopes; writes require the write scope explicitly. Listed on the official MCP registry as `io.investjournal/investjournal`.
+
 #### [Chainflip Broker](https://chainflip-broker.io)
 
 - **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
