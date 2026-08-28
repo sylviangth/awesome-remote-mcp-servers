@@ -106,6 +106,11 @@ See MindPal agents in action with:
 - **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
 - **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
 
+#### [SandBase CLI](https://github.com/sandbaseai/cli)
+
+- **Offers:** Official remote MCP bridge for discovering and running requests across 2,000+ AI models and APIs, with a local CLI installer for OpenClaw and other MCP clients.
+- **Access:** Connect to `https://sandbase.ai/v1/mcp` using the SandBase browser sign-in flow (OAuth 2.0 with PKCE). See the [server manifest](https://github.com/sandbaseai/cli/blob/main/server.json) for transport and authentication details.
+
 ### Cloud Platforms
 
 _No entries yet_
