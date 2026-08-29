@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [UIZZE](https://uizze.com)
+
+- **Offers:** Focused UI references and hosted design materials for coding agents across 800,000+ real web and iOS screens.
+- **Access:** Use the authenticated Streamable HTTP endpoint at `https://uizze.com/mcp` with a UIZZE agent token. Free local skills are available from the [canonical repository](https://github.com/uizze/uizze).
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
