@@ -168,8 +168,8 @@ _No entries yet_
 
 #### [UIZZE](https://uizze.com)
 
-- **Offers:** A free anti-ui-slop Skill and deterministic `check_ui_slop` preview for coding agents. Full UIZZE adds live research across 800,000+ real web and iOS screens, product-specific design contracts, validation, audits, and rendered critique.
-- **Access:** Use the free, no-account Streamable HTTP preview at `https://uizze.com/mcp/preview`. It exposes `check_ui_slop`; install the local Skill with `npx skills add https://uizze.com --skill anti-ui-slop`. Full UIZZE is available at `https://uizze.com/mcp`.
+- **Offers:** Focused UI references and hosted design materials for coding agents across 800,000+ real web and iOS screens.
+- **Access:** Use the authenticated Streamable HTTP endpoint at `https://uizze.com/mcp` with a UIZZE agent token. Free local skills are available from the [canonical repository](https://github.com/uizze/uizze).
 
 ### Knowledge & Memory
 
