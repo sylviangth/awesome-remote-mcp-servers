@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [Process Street MCP](https://www.process.st/help/docs/mcp-server/)
+
+- **Offers:** Access to Process Street workflows, workflow runs, tasks, users, data sets, and operational records
+- **Access:** Connect to `https://mcp.process.st/` using Streamable HTTP and complete interactive authorization; compatible clients may use a Process Street API key as a bearer token
+
 ### Media & Content
 
 _No entries yet_
