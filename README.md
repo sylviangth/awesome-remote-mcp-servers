@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Magic Hour MCP](https://magichour.ai)
+
+- **Offers:** AI video, image, and audio generation and editing tools through a hosted MCP server
+- **Access:** Connect to `https://mcp.magichour.ai/` with a Magic Hour API key; see the [connection guide](https://github.com/magichourhq/magic-hour-mcp/blob/main/user.md) for OAuth and bearer-token setup
 
 ### Payments & Commerce
 
