@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [YG3 Marketing MCP](https://www.yg3.ai/for-agents)
+
+- **Offers:** Marketing operations for AI agents across content and SEO, outbound email, LinkedIn, and paid ads, plus a site builder. 200+ tools.
+- **Access:** Server available at `https://mcp.yg3.ai/mcp`. Humans connect via OAuth at https://www.yg3.ai/connect. Agents can provision a sandbox workspace with one POST to `https://agency.yg3.ai/api/v1/workspaces` and use the returned Bearer token, no signup required. Free tier available.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
