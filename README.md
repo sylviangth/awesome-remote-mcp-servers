@@ -180,10 +180,10 @@ _No entries yet_
 - **Offers:** Customer support and engagement functionality through Fin, Intercom's AI agent
 - **Access:** OAuth authentication with your Intercom account required
 
-#### [OpenPost](https://openpost.social)
+#### [OpenPost](https://openpo.st)
 
 - **Offers:** Social publishing tools for inspecting workspaces and media, preparing destination-specific content, validating posts, and scheduling or publishing through one visible queue
-- **Access:** Connect to `https://app.openpost.social/mcp` over Streamable HTTP with OAuth 2.0, or use the `/mcp` endpoint on a self-hosted OpenPost instance. See the [MCP guide](https://docs.openpost.social/mcp/)
+- **Access:** Connect to `https://app.openpo.st/mcp` over Streamable HTTP with OAuth 2.0, or use the `/mcp` endpoint on a self-hosted OpenPost instance. See the [MCP guide](https://docs.openpo.st/mcp/)
 
 #### [Tally MCP](https://developers.tally.so/api-reference/mcp)
 
