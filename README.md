@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [BulkPublish MCP](https://app.bulkpublish.com/docs)
+
+- **Offers:** Create, adapt, schedule, publish, and analyze social media content across connected channels for AI-agent workflows
+- **Access:** Streamable HTTP endpoint at `https://mcp.bulkpublish.com/mcp`; requires a BulkPublish account, API key, and connected channel permissions
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
