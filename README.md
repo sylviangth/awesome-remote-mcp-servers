@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -105,6 +105,11 @@ See MindPal agents in action with:
 
 - **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
 - **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
+
+#### [Melaya MCP](https://melaya.org/en/product/mcp)
+
+- **Offers:** Control of a paired Android phone and a paired browser, plus agent pipelines that reach 6k+ tools. On the phone it reads the screen through Android's accessibility tree and then taps, types and swipes, so it works inside any app without a per-app integration or a vendor API. The agent only touches apps the user has allow-listed, and anything that posts under the user's own identity stages an approval card on the device first.
+- **Access:** OAuth 2.1 with PKCE and dynamic client registration (RFC 7591). The MCP client needs no API key and no config values. Driving a phone additionally requires the Melaya Android app with its accessibility service enabled, and browser control requires the Melaya extension. Point any client at `https://api.melaya.org/mcp` and approve the scopes in the browser, for example `claude mcp add --transport http melaya https://api.melaya.org/mcp`
 
 ### Cloud Platforms
 
