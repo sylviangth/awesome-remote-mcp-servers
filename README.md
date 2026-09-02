@@ -109,7 +109,7 @@ See MindPal agents in action with:
 #### [Melaya MCP](https://melaya.org/en/product/mcp)
 
 - **Offers:** Control of a paired Android phone and a paired browser, plus agent pipelines that reach 6k+ tools. On the phone it reads the screen through Android's accessibility tree and then taps, types and swipes, so it works inside any app without a per-app integration or a vendor API. The agent only touches apps the user has allow-listed, and anything that posts under the user's own identity stages an approval card on the device first.
-- **Access:** OAuth 2.1 with PKCE and dynamic client registration (RFC 7591). There is no API key to paste, no config values and nothing to install. Point any client at `https://api.melaya.org/mcp` and approve the scopes in the browser, for example `claude mcp add --transport http melaya https://api.melaya.org/mcp`
+- **Access:** OAuth 2.1 with PKCE and dynamic client registration (RFC 7591). The MCP client needs no API key and no config values. Driving a phone additionally requires the Melaya Android app with its accessibility service enabled, and browser control requires the Melaya extension. Point any client at `https://api.melaya.org/mcp` and approve the scopes in the browser, for example `claude mcp add --transport http melaya https://api.melaya.org/mcp`
 
 ### Cloud Platforms
 
