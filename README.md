@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [DDMarketer MCP](https://www.ddmarketer.com/mcp)
+
+- **Offers:** Search 950+ validated SaaS gap dossiers mined from real user complaints across 8 public sources, each scored 0-100 for commercial intent. Tools: `search_gaps`, `get_top_gaps`, `validate_idea`, `get_dossier`
+- **Access:** Server available at `https://www.ddmarketer.com/api/mcp` (Streamable HTTP). Search tools need no authentication; an optional API key from your DDMarketer account unlocks `get_dossier`. Free tier available
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
