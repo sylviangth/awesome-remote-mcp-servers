@@ -389,6 +389,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [turva.dev](https://turva.dev) `https://mcp.turva.dev/mcp`
   [![turva.dev MCP connector](https://glama.ai/mcp/connectors/dev.turva/turva-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.turva/turva-mcp)
   ⚡ 🔓 🆓 - Read the turva.dev service catalog, pricing, agent-readiness score, and published security scan results.
+- [Zip1](https://zip1.io) `https://zip1.io/mcp`
+  ⚡ 🔓 🆓 - Shorten URLs with custom or emoji slugs, optional password and click limits, and read their click analytics.
+
 ## Community
 
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
