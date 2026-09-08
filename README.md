@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [LiveDataLink](https://livedatalink.ai)
+
+- **Offers:** 294 source-linked public-data tools across 60 domains, including government, markets, carrier safety, sanctions, courts, property, health, and energy. Supports task-specific tool groups; freshness and coverage vary by source.
+- **Access:** Hosted Streamable HTTP endpoint: `https://livedatalink.ai/mcp`. Anonymous evaluation is available. Get a bearer API key at https://livedatalink.ai/signup/free for 1,000 queries/month, no card. Paid plans start at $10/month.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
