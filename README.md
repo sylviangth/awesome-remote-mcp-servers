@@ -226,7 +226,11 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Motomarks](https://motomarks.io/docs/mcp)
+
+- **Offers:** Hosted MCP access to a published automotive brand library: search brands, read brand metadata, and build normalized logo CDN URLs
+- **Access:** Streamable HTTP at `https://motomarks.io/api/mcp`. OAuth 2.1 in the browser, or a Motomarks API key. Free accounts are available; paid plans raise the daily request limit
+
 
 ### Payments & Commerce
 
