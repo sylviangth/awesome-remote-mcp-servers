@@ -24,7 +24,7 @@ One entry, two or three lines:
 ```markdown
 - [Name](https://homepage.example) `https://mcp.example.com/mcp`
   [![Name MCP connector](https://glama.ai/mcp/connectors/com.example/name/badges/score.svg)](https://glama.ai/mcp/connectors/com.example/name)
-  ⚡ 🔐 - One sentence describing what the tools do.
+  🔐 - One sentence describing what the tools do.
 ```
 
 1. **Name and homepage.** Link the name to the product's homepage or docs — not a GitHub repo. Most remote servers are hosted services, and the endpoint is the thing being listed.
@@ -34,12 +34,10 @@ One entry, two or three lines:
 
 ### Markers
 
-Every entry needs a transport marker and an authentication marker, in that order:
+Every entry needs an authentication marker:
 
 | | |
 | --- | --- |
-| ⚡ | Streamable HTTP |
-| 📡 | SSE (legacy) |
 | 🔓 | No authentication |
 | 🔑 | API key or token |
 | 🔐 | OAuth |
@@ -73,7 +71,7 @@ The badge is optional but strongly encouraged. Not every server has one yet.
 3. Edit `README.md`.
 4. Commit and push, then open a pull request describing what the server does.
 
-CI will label your PR with what it found — whether the endpoint answered, which transport and auth it detected, and whether the badge resolves. If a check disagrees with your entry, fix the entry rather than the check.
+CI will label your PR with what it found — whether the endpoint answered, which auth it detected, and whether the badge resolves. If a check disagrees with your entry, fix the entry rather than the check.
 
 If you need help, ask in the PR or on [Discord](https://glama.ai/mcp/discord).
 

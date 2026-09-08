@@ -74,7 +74,7 @@ jobs:
             // Reassemble multi-line entries from the diff
             const HEAD = /^-\s*\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)\s+`(https?:\/\/[^`\s]+)`\s*$/;
             const BADGE = /^\s+\[!\[[^\]]*\]\(https:\/\/glama\.ai\/mcp\/connectors\/([^/)\s]+\/[^/)\s]+)\/badges\/score\.svg\)\]\(([^)\s]+)\)\s*$/;
-            const MARKS = /^\s+([⚡\u{1F4E1}][\s\S]*?)\s+-\s+(\S.*)$/u;
+            const MARKS = /^\s+([🔓🔑🔐][\s\S]*?)\s+-\s+(\S.*)$/u;
 
             const entries = [];
             for (const line of addedLines) {
@@ -92,25 +92,21 @@ jobs:
             const fresh = entries.filter(e => !existingEndpoints.has(e.endpoint.replace(/\/+$/, '').toLowerCase()));
             const duplicates = entries.filter(e => existingEndpoints.has(e.endpoint.replace(/\/+$/, '').toLowerCase()));
 
-            const TRANSPORT = ['⚡', '📡'];
             const AUTH = ['🔓', '🔑', '🔐'];
             const ACCESS = ['🆓', '💰'];
 
             const formatProblems = [];
             for (const e of fresh) {
               if (!e.marks || !e.desc) {
-                formatProblems.push(`\`${e.name}\` – missing the marker/description line (\`  ⚡ 🔐 - What it does.\`)`);
+                formatProblems.push(`\`${e.name}\` – missing the marker/description line (\`  🔐 - What it does.\`)`);
                 continue;
-              }
-              if (!TRANSPORT.some(t => e.marks.includes(t))) {
-                formatProblems.push(`\`${e.name}\` – needs a transport marker (⚡ Streamable HTTP or 📡 SSE)`);
               }
               if (!AUTH.some(a => e.marks.includes(a))) {
                 formatProblems.push(`\`${e.name}\` – needs an auth marker (🔓 none, 🔑 API key, or 🔐 OAuth)`);
               }
               const unknown = [...e.marks].filter(ch =>
                 /\p{Extended_Pictographic}/u.test(ch) &&
-                ![...TRANSPORT, ...AUTH, ...ACCESS].some(k => k.includes(ch))
+                ![...AUTH, ...ACCESS].some(k => k.includes(ch))
               );
               if (unknown.length) {
                 formatProblems.push(`\`${e.name}\` – unrecognized marker(s): ${unknown.join(' ')}`);
@@ -240,7 +236,7 @@ jobs:
 
             \`\`\`markdown
             - [Name](https://homepage.example) \\\`https://mcp.example.com/mcp\\\`
-              ⚡ 🔐 - One sentence describing what the tools do.
+              🔐 - One sentence describing what the tools do.
             \`\`\`
 
             See [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).`);
