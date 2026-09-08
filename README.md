@@ -191,6 +191,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🛠️ <a name="developer-tools"></a>Developer Tools
 
+- [Agentic Atlas](https://agentic-atlas.dev) `https://agentic-atlas.dev/mcp/`
+  [![Agentic Atlas MCP connector](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.agentic-atlas/atlas)
+  🔓 🆓 - Search a corpus of agent-design patterns and read their cards, sections, decision records, and glossary terms from one pinned release.
 - [Astro Docs](https://astro.build) `https://mcp.docs.astro.build/mcp`
   🔓 🆓 - Search the Astro documentation.
 - [Bitrise](https://bitrise.io) `https://mcp.bitrise.io/mcp`
