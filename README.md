@@ -338,6 +338,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [FTIR.fun](https://ftir.fun) `https://ftir.fun/mcp`
   [![FTIR.fun Spectral Search MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/io.github.jxbaoxiaodong/ftirfun-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.jxbaoxiaodong/ftirfun-mcp)
   ⚡ 🔐 - Analyze FTIR spectra, search spectral libraries, and retrieve peak and literature evidence.
+- [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
+  ⚡ 🔓 🆓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   ⚡ 🔐 - Scrape websites and run saved extraction recipes.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
