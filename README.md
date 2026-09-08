@@ -235,6 +235,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   ⚡ 🔓 🆓 - Historical return data for funds and tickers.
 - [Kristo Intelligence](https://kristo-intelligence-api.onrender.com) `https://kristo-intelligence-api.onrender.com/mcp`
   ⚡ 🔓 💰 - DeFi trading signals and market intelligence for agents on Base; x402 pay-per-call in USDC, no signup.
+- [NuMetric](https://numetric.work) `https://numetric-mcp.virifi.xyz/mcp`
+  [![NuMetric MCP connector](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric/badges/score.svg)](https://glama.ai/mcp/connectors/xyz.virifi.numetric-mcp/numetric)
+  ⚡ 🔐 - Read-only queries over NuMetric accounting and ERP books: financial statements, KPIs, receivables and payables, invoices, and documents.
 - [Octagon](https://octagonagents.com) `https://mcp.octagonagents.com/mcp`
   [![Octagon MCP connector](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon/badges/score.svg)](https://glama.ai/mcp/connectors/com.octagonagents.mcp/octagon)
   ⚡ 🔐 💰 - Private- and public-market financial research data.
