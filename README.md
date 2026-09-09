@@ -185,10 +185,15 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
-#### [Ryze AI MCP](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp)
+#### [Google Ads MCP by Ryze AI](https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp/tree/main/google-ads-mcp)
 
-- **Offers:** Google Ads, Meta Ads, GA4 and Google Search Console in one connector. Audit accounts, pull any report, keyword research, AI-referral traffic, plus approved write actions (pause, budget, negatives). Works in Claude, ChatGPT, Cursor, Claude Code and Grok
-- **Access:** Server at `https://connector.get-ryze.ai/mcp` with OAuth 2.1 (dynamic client registration + PKCE). Sign in with the Google or Facebook account that owns the ads; free
+- **Offers:** Google Ads through MCP: account audits, search terms, GAQL reports, Keyword Planner ideas, recommendations, and approved changes to budgets, bids and negatives. MCC manager accounts supported
+- **Access:** Server at `https://connector.get-ryze.ai/mcp` with OAuth 2.1 (dynamic client registration + PKCE). Sign in with the Google account that owns the ads; no developer token; free
+
+#### [Meta Ads MCP by Ryze AI](https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp/tree/main/meta-ads-mcp)
+
+- **Offers:** Facebook and Instagram Ads through MCP: Insights by campaign, ad set and ad, creatives, lead forms, Meta Ad Library research, and approved changes to budgets and ad status
+- **Access:** Same server `https://connector.get-ryze.ai/mcp`, OAuth 2.1. Sign in with the Facebook user that has Business Manager access; no app review or token; free
 
 ### Search & Data Extraction
 
