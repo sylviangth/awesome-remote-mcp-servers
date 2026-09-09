@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Ryze AI MCP](https://www.get-ryze.ai/how-to-connect-claude-to-google-meta-ads-mcp)
+
+- **Offers:** Google Ads, Meta Ads, GA4 and Google Search Console in one connector. Audit accounts, pull any report, keyword research, AI-referral traffic, plus approved write actions (pause, budget, negatives). Works in Claude, ChatGPT, Cursor, Claude Code and Grok
+- **Access:** Server at `https://connector.get-ryze.ai/mcp` with OAuth 2.1 (dynamic client registration + PKCE). Sign in with the Google or Facebook account that owns the ads; free
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
