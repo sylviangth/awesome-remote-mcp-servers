@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [CareClinic Health Tracker](https://cdn.careclinic.io/mcp/help/index.html)
+
+- **Offers:** Review your own medication and supplement schedules, recent symptoms, mood, medication activity, and descriptive wellness summaries. Personal consumer use only, not clinical care or diagnosis. Medication writes are disabled.
+- **Access:** Remote Streamable HTTP at `https://mcp.careclinic.io/mcp`. Sign in to an active CareClinic account and consent through a supported client. OAuth 2.1 with S256 PKCE requires approved client identities and exact callbacks; no open Dynamic Client Registration. Free accounts can connect and receive basic summaries; extended trend detail requires CareClinic Premium. See the linked setup guide for health-data sharing, revocation, privacy, and support. Source is private.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
