@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [MCP Selection Lab](https://agenttrustlab.com)
+
+- **Offers:** Metadata-only MCP discovery and tool-selection analysis with public selection reports.
+- **Access:** Public Streamable HTTP endpoint at `https://mcp-selection-lab-production.up.railway.app/mcp`; no authentication required.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
