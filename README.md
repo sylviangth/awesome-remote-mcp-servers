@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Council of AI (GSPC)](https://councilof.ai)
+
+- **Offers:** Signed, re-checkable AI behaviour measurement cards: read the GSPC board, fetch cards, and verify Ed25519 signatures and Merkle inclusion; some evidence tools are x402-metered
+- **Access:** Free, no-authentication Streamable HTTP endpoint at `https://councilof.ai/mcp`. See [quickstart](https://councilof.ai/quickstart)
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
