@@ -258,6 +258,7 @@ _No entries yet_
 
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Auto Counter
 
