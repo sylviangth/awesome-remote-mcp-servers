@@ -129,6 +129,13 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+
+#### [Statsnet](https://github.com/usenetstate/statsnet-mcp)
+
+- **Offers:** World company background check — registration details, executives, courts, and finances for any company
+- **Access:** Remote streamable-HTTP MCP at `https://statsnet.co/mcp` (free public cards; deeper data via optional API subscription). Official Registry: `io.github.usenetstate/statsnet`
+
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
