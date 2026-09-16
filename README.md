@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Social media studio](https://so-me.studio)
+
+- **Offers:** Drafting, scheduling, and publishing social posts, managing connected accounts and media, and reading post analytics
+- **Access:** Connect to `https://api.so-me.studio/mcp/directory` via Streamable HTTP with OAuth. Requires a Social media studio account on a paid plan with MCP access and connected social accounts. [Setup documentation](https://docs.so-me.studio/mcp/overview)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
