@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Mnemoverse Memory](https://mnemoverse.com)
+
+- **Offers:** Hosted memory server for AI agents; tell it a recalled memory helped or misled, and it re-ranks what comes back next. One key shared across Claude Code, Cursor, VS Code, and ChatGPT
+- **Access:** Server available at `https://mcp.mnemoverse.com/mcp` with OAuth authentication required. Free tier available. See [docs](https://mnemoverse.com/docs/api/remote-mcp-server) for setup
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
