@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Prolifik MCP](https://getprolifik.com)
+
+- **Offers:** Turn any URL into branded short-form video and auto-post it. Generate AI UGC video in six formats, manage the content calendar, and publish to Instagram Reels, TikTok, and YouTube Shorts.
+- **Access:** Paid Prolifik plan required. Issue an API key from Settings → Developer API, then connect to `https://app.getprolifik.com/mcp` (Streamable HTTP) with an `Authorization: Bearer <key>` header.
 
 ### Payments & Commerce
 
