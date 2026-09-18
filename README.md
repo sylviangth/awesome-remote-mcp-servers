@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [MindMap AI](https://mindmapai.app/help/mcp-connector)
+
+- **Offers:** Create, view, edit, organize, style, and export mind maps, logic charts, and org charts from MCP-compatible AI assistants.
+- **Access:** Connect to the hosted Streamable HTTP endpoint at `https://mindmapai.app/mcp` and sign in with your MindMap AI account using OAuth 2.1. No API key or local installation is required.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
