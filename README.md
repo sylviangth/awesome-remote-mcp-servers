@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [OG Stamp](https://ogstamp.com/for-ai-agents/)
+
+- **Offers:** Renders Open Graph and social-card PNGs from a title or from a page URL. Six layouts, nine fonts, several sizes, optional logo, and hex brand colors.
+- **Access:** Free daily tier, no key required. Streamable HTTP endpoint: `https://ogstamp.com/mcp`. Higher volume uses PayPal credit packs that do not expire. Docs at https://ogstamp.com/docs/
 
 ### Payments & Commerce
 
