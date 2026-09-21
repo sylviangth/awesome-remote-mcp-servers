@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [More Good Reviews](https://docs.moregoodreviews.com/platform/mcp-server)
+
+- **Offers:** AI reputation management for local service businesses and agencies — automate email/SMS review requests, sync Google & Facebook reviews, draft AI replies, manage white-label agency portals, and operate projects via MCP tools
+- **Access:** Remote endpoint `https://api.moregoodreviews.com/mcp` with OAuth 2.1. Official registry id `com.moregoodreviews/project`. Docs: https://docs.moregoodreviews.com/platform/mcp-server
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
