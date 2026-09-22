@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Kontekstolog](https://kontekstolog.online/mcp-yandex-direct)
+
+- **Offers:** MCP server for Yandex Direct advertising campaigns, Yandex Metrika website analytics, and Yandex Wordstat keyword research. Manage ad campaigns, retrieve analytics reports, and research keyword search volumes via natural language.
+- **Access:** Remote endpoint at `https://kontekstolog.online/mcp`. OAuth 2.1 authentication via Yandex account. Sign up at [kontekstolog.online](https://kontekstolog.online/mcp-yandex-direct). First 3 months free, then 300 RUB/month.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
