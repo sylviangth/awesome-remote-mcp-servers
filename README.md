@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -206,6 +206,11 @@ _No entries yet_
 
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
+
+#### [Vend API Merchant](https://extract.paypercall.dev)
+
+- **Offers:** Pay-per-call AI-agent web data APIs billed via x402: extract clean text from any URL, web search, HTTP status/redirect checks, full domain intelligence (DNS/WHOIS/SSL), geoip, and nano account info. Each call settles in Nano (XNO) — feeless and instant, no API keys, no signup.
+- **Access:** Remote Streamable HTTP MCP server at `https://extract.paypercall.dev/mcp`. Prices (0.0001–0.0005 XNO per call) are in each tool's description; the x402 challenge at `/.well-known/x402` is self-verifying on-ledger. Docs: https://extract.paypercall.dev
 
 ### Communication & Collaboration
 
