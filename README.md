@@ -173,6 +173,12 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [ContextStream](https://contextstream.io)
+
+- **Offers:** Shared project context across AI coding tools and agents via hosted MCP; real published benchmarks
+- **Access:** Sign up at https://contextstream.io, connect hosted MCP at `https://mcp.contextstream.io/mcp` (OAuth / Streamable HTTP). Registry: `io.contextstream/mcp`. Benchmarks: https://contextstream.io/benchmarks
+
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
