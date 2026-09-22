@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Unfetch](https://unfetch.com)
+
+- **Offers:** Google Ads MCP reporting for campaign spend, conversions, and search terms, plus Google Analytics, Google Search Console, keyword research, and web research. Connected advertising and analytics accounts are read-only.
+- **Access:** Create a free Unfetch account, connect your data sources, and add `https://unfetch.com/api/mcp` using Streamable HTTP and OAuth. See [setup instructions](https://unfetch.com/plugin) and [plan limits](https://unfetch.com/pricing).
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
