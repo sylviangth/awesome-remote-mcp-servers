@@ -180,6 +180,11 @@ _No entries yet_
 - **Offers:** Customer support and engagement functionality through Fin, Intercom's AI agent
 - **Access:** OAuth authentication with your Intercom account required
 
+#### [Kontekstolog](https://kontekstolog.online/mcp-yandex-direct)
+
+- **Offers:** Yandex Direct campaign management (1-click creation), Yandex Metrika analytics, and Wordstat keyword research for the Russian market. Manage ad campaigns via natural language with Claude, ChatGPT, or Cursor.
+- **Access:** Server available at `https://kontekstolog.online/mcp` with OAuth 2.1 authentication. First 3 months free, then 300 RUB/month. Sign up at [kontekstolog.online](https://kontekstolog.online).
+
 #### [Tally MCP](https://developers.tally.so/api-reference/mcp)
 
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
