@@ -171,7 +171,7 @@ _No entries yet_
 #### [AI Applyd](https://aiapplyd.com/mcps)
 
 - **Offers:** ATS resume scoring, job-description analysis, interview prep, cover letters, resume building and auto-apply that submits on the employer's own hiring system.
-- **Access:** Streamable HTTP endpoint at `https://mcp.aiapplyd.com/mcp` with OAuth 2.1 and dynamic client registration. See [GitHub](https://github.com/whateverneveranywhere/aiapplyd-mcp).
+- **Access:** Streamable HTTP endpoint at `https://mcp.aiapplyd.com/mcp` with OAuth 2.1 and dynamic client registration. See [GitHub](https://github.com/aiapplyd/aiapplyd-mcp).
 
 ### Knowledge & Memory
 
