@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [Orbit by Noveum](https://orbit.noveum.ai/mcp)
+
+- **Offers:** Issue, project, sprint, document and file management for people and AI agents.
+- **Access:** Create a free Orbit account, connect to `https://orbit.noveum.ai/mcp` over Streamable HTTP, then approve workspace-scoped OAuth permissions. [Connection guide](https://github.com/Noveum/orbit/blob/main/docs/mcp.md).
+
 ### Media & Content
 
 _No entries yet_
