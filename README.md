@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Noveum](https://noveum.ai/en/mcp)
+
+- **Offers:** Inspect AI agent traces, manage evaluation datasets, run evaluations, and test voice agents from an MCP client.
+- **Access:** Connect to `https://noveum.ai/api/mcp` over Streamable HTTP and sign in with OAuth 2.1, or supply a Bearer API key. Requires a Noveum account; usage limits and paid plans apply. [Setup guide](https://noveum.ai/en/docs/platform/mcp-server-reference).
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
