@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [SigB (Signal Bureau)](https://sigb.ai)
+
+- **Offers:** A maintained, source-traced record of the entities and events in your named domain (defense, space, biopharma, geopolitical risk): today's brief, corroborated signals, entity and event records, and prediction-market sensors graded against how reality resolved — every claim cited to its source
+- **Access:** Remote endpoint at `https://api.signalbureau.ai/api/mcp` (Streamable HTTP). Self-issue a key in one free call — `POST https://api.signalbureau.ai/api/keys` with `{"label": "your agent"}` — and send it as `x-api-key`; the brief, record and calibration are free, the key carries 25 free answers, and Reads meter at the published rate after that
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
