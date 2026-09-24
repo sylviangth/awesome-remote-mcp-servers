@@ -131,7 +131,7 @@ _No entries yet_
 
 #### [DC Hub](https://dchub.cloud/mcp)
 
-- **Offers:** Live data-center, power-grid, interconnection-queue, fiber, natural-gas & M&A intelligence for AI agents — DC Hub Power Index (311 markets), ISO grid telemetry & headroom, fiber routes, 21,000+ facilities across 170+ countries; 73 tools
+- **Offers:** Live data-center, power-grid, interconnection-queue, fiber, natural-gas & M&A intelligence for AI agents — DC Hub Power Index (300+ markets), ISO grid telemetry & headroom, fiber routes, 24,500+ facilities across 170+ countries; 92 tools
 - **Access:** Remote endpoint at `https://dchub.cloud/mcp`. Anonymous 10 calls/day with no signup; a free key unlocks the full free tier; paid tiers for higher limits
 
 ### Developer Tools
