@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [Yodu AI Employees](https://yodu.ai/developers)
+
+- **Offers:** Manage AI employees, assigned tasks, company memory, and scheduled work in a Yodu workspace.
+- **Access:** A paid Yodu workspace is required ($499/month; model and third-party tool fees separate). Connect over Streamable HTTP with OAuth at `https://app.yodu.ai/api/mcp/oauth`, or a workspace-scoped bearer API key at `https://app.yodu.ai/api/mcp`.
+
 ### Media & Content
 
 _No entries yet_
