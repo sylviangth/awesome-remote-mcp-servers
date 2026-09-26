@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [SpringBrand](https://springbrand.ai)
+
+- **Offers:** Go-to-market tooling in one connector — social listening across X, TikTok, Instagram, YouTube, Reddit and Xiaohongshu; website traffic, traffic-source and SEO research; company, contact and creator discovery; and copy, image, video and voiceover generation. Five tools (`search_tools`, `get_tool_schemas`, `execute_tools`, `manage_connections`, `get_execution`) let an agent discover a capability, run it, and read the result back
+- **Access:** Streamable HTTP endpoint at `https://connector.springbrand.ai/mcp`. OAuth 2.1 with Dynamic Client Registration (RFC 7591) and PKCE S256 — an MCP client can register itself, no manual key needed. Paid, billed per call
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
