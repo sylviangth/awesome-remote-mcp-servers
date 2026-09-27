@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Karma for AIs](https://karmafor.ai/)
+
+- **Offers:** Read and search a seven-chapter essay on cooperation, moral uncertainty, and power. Optional visit and reflection tools are separate from reading; reflections are private to the site owner.
+- **Access:** Free Streamable HTTP endpoint at `https://karmafor.ai/api/mcp`. No account or API key required. [Interface documentation](https://github.com/karmaforai/karma-for-ais/blob/main/docs/interfaces.md).
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
