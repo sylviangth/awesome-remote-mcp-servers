@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [RapportScore MCP](https://app.rapportscore.ai)
+
+- **Offers:** Authorized conversation sessions, transcripts, measurements, and coaching for Conversational AI Coaching; permissioned team reports for Team Dynamics, currently a limited U.S. pilot.
+- **Access:** Configure an OAuth-capable Streamable HTTP client with `https://mcp.rapportscore.ai/mcp`, then sign in to RapportScore and approve access. Tools and data depend on account permissions and plan access.
+
 ### Media & Content
 
 _No entries yet_
