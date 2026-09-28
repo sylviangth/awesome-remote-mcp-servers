@@ -2,12 +2,12 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![Categories](https://img.shields.io/badge/Categories-14-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
 
@@ -40,6 +40,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🎥 [Media & Content](#media--content) - Media processing and content management
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
 - 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
+- ✈️ [Travel](#travel) - Hotels, private stays, and city guides
 
 ## Who's Behind This Repo
 
@@ -258,6 +259,13 @@ _No entries yet_
 
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
+
+### Travel
+
+#### [Déstaire](https://destaire.com)
+
+- **Offers:** A curated guide to exceptional hotels and private stays, with editorial content and city guides.
+- **Access:** https://destaire.com/mcp (Streamable HTTP, no authentication). [Connector page](https://destaire.com/connector). Free to use; paid city guides are sold through the buy_guide tool.
 
 ## Auto Counter
 
