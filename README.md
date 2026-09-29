@@ -108,7 +108,10 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [Symbioza](https://symbioza.dev)
+
+- **Offers:** Runs a containerized GPU job on a rented cloud machine under a hard dollar cap and returns the files it writes, with their SHA-256 hashes. Seven tools: a free estimate (expected price, time limit, whether prepaid credit covers it), submit, status, results, job list, dataset measurement and cancel
+- **Access:** Streamable HTTP endpoint at `https://symbioza.dev/mcp`. OAuth 2.1 sign-in in the browser (dynamic client registration, no API key). Estimates are free; running a job spends prepaid credit, never more than the job's budget. Pricing: https://symbioza.dev/pricing. Docs: https://symbioza.dev/agent
 
 ### Databases & Storage
 
