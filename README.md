@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Continuity](https://continuitywriter.com)
+
+- **Offers:** Private story bible for fiction: characters, locked canon, approved scenes, provisional checkpoints, and a continuity check. One remote server for ChatGPT, Claude, Gemini, Grok, and Cursor.
+- **Access:** Streamable HTTP at `https://continuitywriter.com/mcp` with OAuth and dynamic client registration. No API key. Setup: https://continuitywriter.com/connect. Story tools need Pro or an active trial. The site offers a 14-day trial.
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
