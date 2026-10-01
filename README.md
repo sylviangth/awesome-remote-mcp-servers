@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [FirstSales MCP](https://developer.firstsales.io/agents/mcp-server)
+
+- **Offers:** Retrieve CRM contacts, deals, lists and sales workflow data, and create contacts through authenticated tools.
+- **Access:** Requires a FirstSales account with an eligible paid plan. Connect to `https://api.app.firstsales.io/mcp` using Streamable HTTP, then authorize access with OAuth and select a workspace.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
