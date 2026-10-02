@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Land Registry Price Paid](https://uk-lr-mcp.donniertf.workers.dev)
+
+- **Offers:** Compare sold prices around a UK postcode using HM Land Registry Price Paid data (England and Wales residential). Free discovery returns up to five recent sales. Optional £0.49 JSON packs return a larger sales list or area comps with median, mean, and thin-sample flags. Not a valuation and not the official register.
+- **Access:** Streamable HTTP at `https://uk-lr-mcp.donniertf.workers.dev/mcp`. No account for the free peek. Paid packs use Stripe Checkout (£0.49) and a one-time bearer token. Notes: https://github.com/donniertf-hub/uk-mcp-fleet
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
