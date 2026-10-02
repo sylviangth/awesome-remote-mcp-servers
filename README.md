@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Azurade AI MCP](https://azurade.com/developers/)
+
+- **Offers:** Image and video generation with over 30 models (Veo 3.1, Seedance 2.5, Nano Banana Pro, GPT Image 2.5 and more), cost estimates, upload of local files and generation history, all billed from one pay-per-use credit balance that doesn't expire
+- **Access:** Server available at `https://azurade.com/mcp` (Streamable HTTP) with OAuth sign-in from the client, or an API key sent as `Authorization: Bearer sk-...`. Sign-up is free with a few trial credits, then credits are bought per use
 
 ### Payments & Commerce
 
