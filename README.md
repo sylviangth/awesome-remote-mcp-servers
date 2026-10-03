@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Kultranz MCP](https://kultranz.com/pages/api-docs/)
+
+- **Offers:** US salary, cost-of-living, and take-home-pay data from BLS, BEA, Census, and IRS 2026 releases — 5 read-only tools including a full 50-state tax engine, BEA regional price parities across 50 metros, and BLS OEWS wage percentiles by occupation and metro
+- **Access:** Free hosted Streamable HTTP endpoint at `https://api.kultranz.com/mcp` — no API key or sign-up required
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
