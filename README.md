@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [Call2Me MCP](https://call2me.app/mcp)
+
+- **Offers:** Voice AI telephony — place and end real phone calls, read call transcripts, run a live two-language interpreter (31 languages, any pair), and search, buy and bind phone numbers. 37 tools, each annotated so destructive ones are flagged.
+- **Access:** Server at `https://mcp.call2me.app/mcp`, Streamable HTTP with OAuth 2.1 (PKCE). Public sign-up, $5 free credit, no card. Published in the official MCP registry as `app.call2me/mcp`. A read-only scope is available.
+
 ### Media & Content
 
 _No entries yet_
