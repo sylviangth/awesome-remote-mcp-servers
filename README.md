@@ -129,6 +129,12 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [UK Tenders](https://uk-tenders-mcp.donniertf.workers.dev)
+
+- **Offers:** Search UK Contracts Finder tender notices by keyword, region, or CPV. Free discovery returns up to five open notices. Optional £0.49 JSON packs return a larger notice list or a scored pack with fit scores and risk flags. Not the official procurement portal.
+- **Access:** Streamable HTTP at `https://uk-tenders-mcp.donniertf.workers.dev/mcp`. No account for the free peek. Paid packs use Stripe Checkout (£0.49) and a one-time bearer token. Notes: https://github.com/donniertf-hub/uk-mcp-fleet
+
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
