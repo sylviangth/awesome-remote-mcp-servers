@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [SentryDock](https://www.sentrydock.com/agents)
+
+- **Offers:** Search indexed news, create topic monitors, and receive signed webhook alerts with source links.
+- **Access:** Connect to `https://www.sentrydock.com/mcp` using OAuth (dynamic client registration and PKCE) or an API key. A paid plan is required for news and monitoring tools; discovery and account status are available before payment. See [pricing](https://www.sentrydock.com/pricing).
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
