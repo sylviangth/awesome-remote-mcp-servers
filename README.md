@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Official Fuel Prices](https://fuel-prices-api.pages.dev/mcp/)
+
+- **Offers:** Live station-level fuel prices from official government open data for France, Spain, Italy and Western Australia in one normalized schema: cheapest diesel/petrol/LPG near coordinates (radius, cheapest-first), with the source licence on every row
+- **Access:** Remote endpoint `https://mcp.apify.com?tools=sste/official-fuel-prices` with an Apify API token (`Authorization: Bearer <token>`); free Apify account, pay per result returned (setup at https://fuel-prices-api.pages.dev/mcp/)
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
