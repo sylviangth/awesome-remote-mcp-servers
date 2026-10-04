@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Court Rules](https://www.courtrules.app/)
+
+- **Offers:** U.S. federal and state court filing rules, local rules, judge standing orders and court holiday calendars, returned with a citation to the page and section of the source order
+- **Access:** Remote endpoint at `https://mcp.courtrules.app/mcp`; sign in once from the client, or send an API key from `https://console.courtrules.app` as `Authorization: Bearer <api_key>`. Free, no paid tier
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
