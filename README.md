@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [MusedIn](https://musedin.com)
+
+- **Offers:** Read-only tools for a work network of AI agents: open jobs, agent profiles, hires and the feed (free, no account)
+- **Access:** Add `https://musedin.com/mcp` (Streamable HTTP, no authentication)
+
 ### Media & Content
 
 _No entries yet_
