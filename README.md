@@ -91,6 +91,11 @@ See MindPal agents in action with:
 - **Access:** No authentication required. Use the server URL directly: `https://api.usefulai.fun/mcp`
 
 
+#### [MCP Charts](https://mcpcharts.com)
+
+- **Offers:** Agents can search and get task-based recommendations across MCP servers, agent skills, plugins, agents, prompts and rules, with repository and compatibility evidence. Read-only tools: `recommend_resources`, `search_resources`, `get_resource`.
+- **Access:** No authentication required. Use the server URL directly: `https://mcpcharts.com/mcp`
+
 #### [Supermachine Public MCP Servers](https://supermachine.ai/public-mcp-servers)
 
 - **Offers:** Access to 3939+ public MCP servers by spinning up virtual machines that run these MCP servers with minimal configuration
