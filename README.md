@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [UK Planning MCP](https://uk-planning-mcp.donniertf.workers.dev/tools)
+
+- **Offers:** UK planning applications by Local Planning Authority or postcode — free discover peek (e.g. Doncaster), then paid planning and LPA-summary JSON packs (£0.49)
+- **Access:** Hosted streamable HTTP MCP at `https://uk-planning-mcp.donniertf.workers.dev/mcp`; free tools/docs at `/tools`; fleet hub https://github.com/donniertf-hub/uk-mcp-fleet
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
