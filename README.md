@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**37 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-37-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Vocenya Docs MCP](https://vocenya.com/docs/mcp)
+
+- **Offers:** Read-only search over the Vocenya API docs and reference: guides, every REST endpoint with scope, parameters and code samples
+- **Access:** Free, no authentication. Server available at `https://vocenya.com/mcp/docs` (Streamable HTTP)
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
@@ -223,6 +228,11 @@ _No entries yet_
 
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
+
+#### [Vocenya MCP](https://vocenya.com/docs/mcp)
+
+- **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
+- **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
 ### Media & Content
 
