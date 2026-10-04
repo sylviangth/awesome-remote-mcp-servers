@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**41 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-41-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Murkuz](https://murkuz.com)
+
+- **Offers:** SEO MCP: your Search Console, GA4 and Bing Webmaster data across every site, with live SEO analyses.
+- **Access:** Add `https://murkuz.com/mcp` as a remote MCP server (streamable HTTP) and sign in with OAuth. Free plan available.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
@@ -173,6 +178,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Contextli](https://contextli.com)
+
+- **Offers:** Voice notes and dictation: search and read your own Contextli transcriptions from Claude, ChatGPT or Cursor.
+- **Access:** Add `https://mcp.contextli.com/mcp` as a remote MCP server (streamable HTTP) and sign in with OAuth. Paid plan.
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
@@ -184,6 +194,21 @@ _No entries yet_
 
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
+
+#### [Meisa](https://meisa.io)
+
+- **Offers:** Email marketing for SaaS founders: contacts, templates, sequences, broadcasts and analytics from chat.
+- **Access:** Add `https://mcp.meisa.io/mcp` as a remote MCP server (streamable HTTP) and sign in with OAuth. Free plan available.
+
+#### [Testimonials.ltd](https://testimonials.ltd)
+
+- **Offers:** Testimonials and wall of love widgets: import reviews, approve, tag and pin the best ones from chat.
+- **Access:** Add `https://testimonials.ltd/mcp` as a remote MCP server (streamable HTTP) and sign in with OAuth. Paid plan.
+
+#### [LigoSocial](https://ligosocial.com)
+
+- **Offers:** LinkedIn MCP: draft posts in your voice, read post analytics, schedule and publish via LinkedIn's official API.
+- **Access:** Add `https://ligosocial.com/mcp` as a remote MCP server (streamable HTTP) and sign in with OAuth. Paid plan.
 
 ### Search & Data Extraction
 
@@ -226,7 +251,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Kamaan](https://kamaan.io)
+
+- **Offers:** Multi-site blog and help-center CMS: write, edit, translate and publish articles from any MCP client.
+- **Access:** Add `https://kamaan.io/mcp` as a remote MCP server (streamable HTTP) and sign in with OAuth. Paid plan.
 
 ### Payments & Commerce
 
