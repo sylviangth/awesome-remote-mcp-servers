@@ -259,6 +259,11 @@ _No entries yet_
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
 
+#### [Kallax.io](https://kallax.io/)
+
+- **Offers:** Find board game events, board game venues and search through collections with filters
+- **Access:** Connect your MCP-compatible AI agent to `https://kallax.io/mcp` using Streamable HTTP transport. No API key or account required
+
 ## Auto Counter
 
 This repository automatically tracks the number of MCP servers listed. The counter is updated automatically via GitHub Actions whenever the README is modified, or you can run the update scripts manually:
