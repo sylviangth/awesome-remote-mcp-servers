@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Evaboot MCP](https://evaboot.com/mcp)
+
+- **Offers:** LinkedIn Sales Navigator lead extraction and professional email finding and verification. Describe an audience in plain English, export clean deduplicated rows, verify emails, and push results to HubSpot, Attio, Apollo or Pipedrive
+- **Access:** Server available at `https://mcp.evaboot.com/mcp` with OAuth authentication. Requires an Evaboot account and a LinkedIn account with Sales Navigator connected via the Evaboot Chrome extension
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
