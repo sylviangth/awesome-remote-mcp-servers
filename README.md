@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Shipvela](https://shipvela.com/integrations/codex)
+
+- **Offers:** Website publishing, project and repository discovery, deployment status, build logs and usage through a hosted MCP connector. Publishing requires owner confirmation.
+- **Access:** Sign up for a Shipvela account and connect `https://shipvela.com/mcp` using Streamable HTTP and OAuth. Hobby is free with 3 static-site projects and 20 publishes per month; paid plans provide additional capacity and supported Next.js SSR.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
