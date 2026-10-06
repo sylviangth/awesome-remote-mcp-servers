@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Subtraq MCP](https://subtraq.co/en/mcp)
+
+- **Offers:** Create short links, track clicks and attribute sales to the placement that brought them: 8 tools covering workspaces, links, analytics and sales
+- **Access:** Server available at `https://subtraq.co/api/mcp` with API key authentication (`Authorization: Bearer stq_sk_…`). Create the key in Subtraq under Settings → API Keys; free plan, no credit card
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
