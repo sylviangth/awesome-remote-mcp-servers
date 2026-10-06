@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Supero MCP](https://docs.supero.dev/developers/mcp/overview/)
+
+- **Offers:** Build and deploy multi-tenant web apps from your AI assistant. 64 tools to plan an app, validate it, publish and deploy it to a live URL, and manage its schemas, data, roles and connectors. Sign-in, access rules, database and admin panel come from the platform
+- **Access:** Server available at `https://api.supero.dev/mcp/v1/messages` (streamable HTTP) with API key authentication required (`X-API-Key: ak_...`). Free plan with 3 projects, no card. Step-by-step guide and project ideas at [supero-mcp](https://github.com/supero-platform/supero-mcp)
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
