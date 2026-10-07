@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [TvojeLajky MCP](https://tvojelajky.cz/developers)
+
+- **Offers:** Czech-market Instagram/TikTok followers, likes and views: live service catalog, price quotes, order status and paid purchases in CZK. No guarantee of organic growth.
+- **Access:** Hosted Streamable HTTP endpoint at `https://tvojelajky.cz/mcp`. Public catalog and quotes need no account; private tools require OAuth authorization, and credit purchases require a customer-approved prepaid budget. See the linked access documentation.
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
