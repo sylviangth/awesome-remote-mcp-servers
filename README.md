@@ -106,6 +106,11 @@ See MindPal agents in action with:
 - **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
 - **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
 
+#### [Scalekit AgentKit](https://www.scalekit.com/agentkit)
+
+- **Offers:** Scalekit's AgentKit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+- **Access:** Sign up, create a Virtual MCP server in AgentKit, then connect with the generated `mcp_server_url` and a session token. See [docs](https://docs.scalekit.com/agentkit/mcp/overview/)
+
 ### Cloud Platforms
 
 _No entries yet_
