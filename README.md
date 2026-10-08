@@ -108,7 +108,7 @@ See MindPal agents in action with:
 
 #### [Scalekit AgentKit](https://www.scalekit.com/agentkit)
 
-- **Offers:** Hosted virtual MCP servers that expose selected tools from 400+ connectors with built-in authentication and user-scoped credentials
+- **Offers:** Scalekit's AgentKit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
 - **Access:** Sign up, create a Virtual MCP server in AgentKit, then connect with the generated `mcp_server_url` and a session token. See [docs](https://docs.scalekit.com/agentkit/mcp/overview/)
 
 ### Cloud Platforms
