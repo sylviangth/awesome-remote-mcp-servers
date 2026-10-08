@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Equibles](https://equibles.com/mcp)
+
+- **Offers:** US stock market data for AI agents: SEC filings and XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F institutional holdings, short interest, ETF holdings, prices and economic indicators. Market-data tools are read-only; portfolio and watchlist tools write to the signed-in account.
+- **Access:** Connect to `https://mcp.equibles.com/mcp` via Streamable HTTP and sign in with OAuth; free tier of 100 requests a day, paid plans for more.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
