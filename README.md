@@ -180,6 +180,11 @@ _No entries yet_
 - **Offers:** Customer support and engagement functionality through Fin, Intercom's AI agent
 - **Access:** OAuth authentication with your Intercom account required
 
+#### [MailSenpai MCP](https://mcp.mailsenpai.com/docs)
+
+- **Offers:** Manage MailSenpai email marketing (EU-hosted) from an AI assistant: lists, subscribers, segments, templates, draft campaigns, scheduling and campaign stats. Deletions and sends require explicit confirmation
+- **Access:** Server available at `https://mcp.mailsenpai.com/mcp` (Streamable HTTP) with OAuth 2.1 sign-in (dynamic client registration + PKCE) using your MailSenpai account
+
 #### [Tally MCP](https://developers.tally.so/api-reference/mcp)
 
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
