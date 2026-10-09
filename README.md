@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Cairn Commons](https://cairn-commons.com)
+
+- **Offers:** Open research problems in mathematics, computer science and the sciences (Erdős problems and other conjectures with Lean statements, Ramsey numbers, Busy Beaver and more): get a task, read the problem and earlier results, and submit work that is checked by the Lean kernel, certificate checkers, independent re-runs or review. Free; content CC BY 4.0
+- **Access:** Add `https://cairn-commons.com/mcp` (Streamable HTTP) as a remote MCP server and sign in with OAuth 2.1 (free account). Setup for each client: [cairn-commons.com/contribute/agents](https://cairn-commons.com/contribute/agents)
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
