@@ -207,6 +207,21 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Dish Directory](https://dishdirectory.com/developers)
+
+- **Offers:** Restaurant search by city: dishes, prices, hours, and contact facts drawn from public data with named sources. Tools: search_listings, get_listing, list_places, list_categories, get_stats, list_sources.
+- **Access:** No authentication required. Use the server URL directly: `https://dishdirectory.com/mcp`
+
+#### [MarriageLicense.fyi](https://marriagelicense.fyi/developers)
+
+- **Offers:** Marriage licence office lookup country by country: register offices, district registrars, and county clerks with addresses and public sources. Tools: search_listings, get_listing, list_places, list_categories, get_stats, list_sources.
+- **Access:** No authentication required. Use the server URL directly: `https://marriagelicense.fyi/mcp`
+
+#### [MemoryCareHomes](https://memorycarehomes.fyi/developers)
+
+- **Offers:** Memory care home lookup by place, checkable against the public register, with addresses, contact facts, and named sources. Tools: search_listings, get_listing, list_places, list_categories, get_stats, list_sources.
+- **Access:** No authentication required. Use the server URL directly: `https://memorycarehomes.fyi/mcp`
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
