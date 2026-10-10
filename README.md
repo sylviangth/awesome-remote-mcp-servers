@@ -33,6 +33,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 📊 [Data & Analytics](#data--analytics) - Data processing, analytics, and visualization
 - 🛠️ [Developer Tools](#developer-tools) - Tools for developers and software engineering
 - 🎮 [Gaming & Entertainment](#gaming--entertainment) - Games and entertainment experiences for AI agents
+- 🧑‍💼 [HR & Recruiting](#hr--recruiting) - Hiring, applicant screening and HR workflows
 - 🧠 [Knowledge & Memory](#knowledge--memory) - Knowledge bases and vector databases
 - 🎯 [Marketing & CRM](#marketing--crm) - Marketing automation and customer management
 - 🔎 [Search & Data Extraction](#search--data-extraction) - Search engines and information retrieval
@@ -258,6 +259,13 @@ _No entries yet_
 
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
+
+### HR & Recruiting
+
+#### [BKK Staff MCP](https://app.bkkstaff.com/mcp)
+
+- **Offers:** Automated resume screening for small businesses. 14 tools including list_jobs, create_job, scan_applicants, review_applicants (strong / possible / weak), search_candidates, get_applicant and email_applicant
+- **Access:** Streamable HTTP endpoint at `https://app.bkkstaff.com/mcp` with OAuth 2.1 (PKCE, dynamic client registration). Requires a BKK Staff account; pricing is $99 USD per open job for 30 days
 
 ## Auto Counter
 
