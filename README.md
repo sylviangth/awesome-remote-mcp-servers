@@ -7,7 +7,7 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 <div align="center">
 
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
+![Categories](https://img.shields.io/badge/Categories-14-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
 
@@ -32,6 +32,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🗄️ [Databases & Storage](#databases--storage) - Database access and storage solutions
 - 📊 [Data & Analytics](#data--analytics) - Data processing, analytics, and visualization
 - 🛠️ [Developer Tools](#developer-tools) - Tools for developers and software engineering
+- 💼 [Career & Job Search](#career--job-search) - Job matching, application management and career preparation
 - 🎮 [Gaming & Entertainment](#gaming--entertainment) - Games and entertainment experiences for AI agents
 - 🧠 [Knowledge & Memory](#knowledge--memory) - Knowledge bases and vector databases
 - 🎯 [Marketing & CRM](#marketing--crm) - Marketing automation and customer management
@@ -170,8 +171,8 @@ _No entries yet_
 
 #### [AI Applyd](https://aiapplyd.com/mcps)
 
-- **Offers:** ATS resume scoring, job-description analysis, interview prep, cover letters, resume building and auto-apply that submits on the employer's own hiring system.
-- **Access:** Streamable HTTP endpoint at `https://mcp.aiapplyd.com/mcp` with OAuth 2.1 and dynamic client registration. See [GitHub](https://github.com/aiapplyd/aiapplyd-mcp).
+- **Offers:** Job matching, ATS resume scoring, job-description analysis, resume and cover-letter tailoring, editable resume drafts, and interview preparation. Automatically submits applications on employers' hiring systems, with optional review and approval, application tracking, and employer confirmation.
+- **Access:** Connect an AI Applyd account at `https://mcp.aiapplyd.com/mcp` over Streamable HTTP with OAuth 2.1 and dynamic client registration. Account and application reads do not use AI tokens. AI generation uses account tokens and limits; application submission uses the account's application allowance. See [setup](https://aiapplyd.com/mcps), [pricing](https://aiapplyd.com/pricing), and [GitHub](https://github.com/aiapplyd/aiapplyd-mcp).
 
 ### Knowledge & Memory
 
