@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Hoot Lens MCP](https://hootlens.com/docs/MCP.md)
+
+- **Offers:** Session replays, click heatmaps by page and device class, broken clicks linked to the JavaScript error and source line, funnels, traffic and before and after checks for shipped changes
+- **Access:** Hosted endpoint at `https://mcp.hootlens.com/mcp` with OAuth sign-in to a Hoot Lens account. A read-only demo with sample data and no sign-in is at `https://mcp.hootlens.com/demo`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
