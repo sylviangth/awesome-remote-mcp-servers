@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [HireLayer MCP](https://hirelayer.co/mcp)
+
+- **Offers:** Recruiting tools: resume and CV parsing into structured JSON, job criteria extraction, candidate matching and ranking against a job, and skills normalization
+- **Access:** Server available at `https://hirelayer.co/mcp` (Streamable HTTP) with OAuth authentication. Free plan with 50 credits a month, no card required. Also available via `npx hirelayer-mcp`
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
