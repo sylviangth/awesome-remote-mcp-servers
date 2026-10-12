@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Scout Packs](https://scout-packs-production.up.railway.app)
+
+- **Offers:** Pay-per-call B2B data for AI agents: verified lead email lookup, email deliverability scoring, tech-stack detection, domain intel, and SSL/DNS/subdomain recon (15 tools)
+- **Access:** Hosted Streamable HTTP endpoint at `https://scout-packs-production.up.railway.app/mcp`. No account or API key; each data call costs $0.01-$0.03 USDC on Base via x402
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
