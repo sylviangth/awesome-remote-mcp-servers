@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [localscreenshot](https://localscreenshot.com)
+
+- **Offers:** Screenshot and PDF rendering of any public page: PNG, JPEG or PDF, from 227 countries, with cookie banners, ads and chat widgets hidden.
+- **Access:** Public Streamable HTTP endpoint at `https://api.localscreenshot.com/mcp/free`, no API key required. Setup and tool reference at `https://docs.localscreenshot.com`. Signed-in accounts also get 50 free credits every calendar month.
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
