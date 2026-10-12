@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [seodata.dev](https://www.seodata.dev/mcp)
+
+- **Offers:** Google search volume, CPC, competition and similar keywords for 50+ countries, one keyword or up to 25 at once
+- **Access:** Remote endpoint at `https://mcp.seodata.dev/mcp`. Works without signup (20 lookups a day); sign in with OAuth or an API key for 500 a month free, or $4.99 a month for unlimited
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
