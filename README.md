@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [RobotTraining.jobs MCP](https://robottraining.jobs/data#mcp)
+
+- **Offers:** Search open robot-training jobs (robot teleoperation, demonstration recording, AV and drone test operation) across about 60 employers, with each job's posted pay and apply link
+- **Access:** Server available at `https://robottraining.jobs/api/mcp` (streamable HTTP), no authentication or API key needed
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
