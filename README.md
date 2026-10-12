@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [DC Hub](https://dchub.cloud/mcp)
+
+- **Offers:** DC Hub is the live data layer for data-center site selection. Its DCPI is a daily score of where data centers can get grid power, across 300+ markets. 94 MCP tools.
+- **Access:** Remote endpoint at `https://dchub.cloud/mcp`. Free tier, no signup; optional X-API-Key. In the official MCP Registry. MIT.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
