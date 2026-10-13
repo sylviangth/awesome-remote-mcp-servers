@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Proofsource MCP](https://proofsource.co/ai-assistants)
+
+- **Offers:** AI visibility (GEO/AEO) data: which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, which competitors are named instead, which sources the answers cite, and what to fix, plus re-checks that show whether a fix worked. 14 tools
+- **Access:** Server available at `https://app.proofsource.co/v1/mcp` (Streamable HTTP) with OAuth 2.1 sign-in by email and one-time code, no API key. Free trial, paid plans from $9/month per brand
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
