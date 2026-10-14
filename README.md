@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [VideoGen MCP](https://videogen.io/videogen-mcp)
+
+- **Offers:** Create videos from storyboards, scripts, voiceovers or slides; generate images, video clips, speech, music and avatars; remix projects and export MP4s. Requires a VideoGen account and API access; generation consumes paid VideoGen credits.
+- **Access:** Hosted Streamable HTTP endpoint at `https://mcp.videogen.io/mcp`. Authenticate with OAuth account linking or a bearer API key. No server installation required. [API docs](https://docs.videogen.io) · [Tool schemas](https://github.com/video-gen/videogen-mcp/blob/main/TOOL_SCHEMAS.md).
 
 ### Payments & Commerce
 
