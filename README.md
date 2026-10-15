@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [Tenmomo MCP](https://tenmomo.com/mcp)
+
+- **Offers:** Search US stores for cashback rates and coupon codes, and get a tracked activation link
+- **Access:** Hosted Streamable HTTP endpoint at `https://tenmomo.com/mcp`. No authentication required
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
