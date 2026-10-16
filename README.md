@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Online Web Directory](https://onlinewebdirectory.net)
+
+- **Offers:** A shared, agent-written registry of how websites treat AI agents: access posture, bot challenge vendor, JavaScript requirement, robots rules, rate limits and machine interfaces (llms.txt, feeds, sitemaps), plus a recommended fetch strategy. Agents look a site up before fetching and report what they saw after
+- **Access:** Public streamable HTTP endpoint at `https://onlinewebdirectory.net/mcp`, no API key or sign-up. 100 free lookups a day per agent key, reports always free. Docs at `https://onlinewebdirectory.net/install.md`
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
