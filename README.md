@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [CareJobs.Now](https://carejobs.now)
+
+- **Offers:** Search of 170,000+ open US healthcare job postings read daily from about 270 employers' career sites, job details, posted hourly pay by kind of job, employers, states and kinds of job
+- **Access:** Free remote endpoint at `https://carejobs.now/api/mcp` (Streamable HTTP). No API key, read-only, with public docs at `https://github.com/yumaheymans/carejobs-mcp`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
