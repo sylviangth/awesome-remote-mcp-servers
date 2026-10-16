@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Callejear Madrid](https://callejear.com/mcp/)
+
+- **Offers:** Search 9,400 official Madrid street codes, inspect coverage and compare partial historical service counts within 500 m, with sources and explicit missing data. Read-only.
+- **Access:** Streamable HTTP at `https://callejear.com/api/mcp`; no account or API key. Free pilot: 30 tool calls/minute and 100/day per origin, 1,000/day shared.
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
