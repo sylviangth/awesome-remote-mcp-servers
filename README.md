@@ -166,6 +166,12 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [BlockVectra MCP](https://docs.blockvectra.com/en/guides/mcp-server/)
+
+- **Offers:** Documentation search, chain and method discovery, and keyless read-only EVM JSON-RPC permitted by each chain’s `public.methods`, including Robinhood Chain.
+- **Access:** Connect via Streamable HTTP at `https://docs.blockvectra.com/mcp`. Public RPC is rate-limited. Indexed data and account tools require an API key; keyed usage follows current plans.
+
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
