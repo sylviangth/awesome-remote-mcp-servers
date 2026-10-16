@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Callejear France](https://callejear.fr/mcp/)
+
+- **Offers:** Five read-only tools to search a snapshot of 2.19 million French street records, retrieve IRIS-level amenity counts and commune-level risk codes, and compare streets. Missing data and source-date gaps are explicit.
+- **Access:** Connect to `https://callejear.fr/api/mcp` using Streamable HTTP. Free, no account or API key; 30 tool calls/minute/origin, 100/day/origin and 1,000/day globally.
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
