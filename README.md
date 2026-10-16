@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Klype MCP](https://klype.ai/mcp/)
+
+- **Offers:** Drafts LinkedIn, X and Reddit posts in the account owner's measured writing voice from saved product and buyer context, checks any draft for AI phrasing and unsourced claims, and records the owner's approval
+- **Access:** Server available at `https://api.klype.ai/api/v1/mcp` (Streamable HTTP) with OAuth 2.1 sign-in to a Klype account, or a Klype API key
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
