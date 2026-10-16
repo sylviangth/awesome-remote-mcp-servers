@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [CurlShot](https://curlshot.com)
+
+- **Offers:** Screenshots of public web pages for agents: `take_screenshot` returns a PNG, JPEG, WebP, PDF or scrolling video (full page, device presets, dark mode, ad and cookie-banner blocking, CSS selector), and `list_devices` lists device presets
+- **Access:** Streamable HTTP endpoint at `https://curlshot.com/api/mcp` with header `Authorization: Bearer <access key>`. Free key at [curlshot.com/register](https://curlshot.com/register) (100 screenshots a month, paid plans from $19/month). See [docs](https://curlshot.com/docs/guides/ai-agents)
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
