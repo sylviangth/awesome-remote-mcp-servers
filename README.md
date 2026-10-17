@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Enhanciar](https://enhanciar.in/mcp)
+
+- **Offers:** A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid plans; bring your own AI key.
+- **Access:** Streamable HTTP endpoint `https://enhanciar.in/enhanciar/mcp/` with an Enhanciar API key (Bearer). Setup steps on https://enhanciar.in/mcp
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
