@@ -117,6 +117,11 @@ _No entries yet_
 - **Offers:** Enterprise content management with 30+ tools including AI-powered document Q&A, summarization, workflow management, advanced search with metadata filtering, and Egnyte Copilot integration
 - **Access:** OAuth authentication required. Server available at `https://mcp-server.egnyte.com/sse`. 
 
+#### [RowSafe](https://rowsafe.sh)
+
+- **Offers:** Database health, backup and recovery workflows, and managed database provisioning. The agent, CLI and MCP server are Apache-2.0; the hosted service is separate.
+- **Access:** Connect to `https://api.rowsafe.sh/mcp` using Streamable HTTP with OAuth or an API key; see the [MCP documentation](https://rowsafe.sh/docs/reference/mcp). A permanent free protection plan covers one server and three databases; managed database hosting is paid.
+
 ### Data & Analytics
 
 #### [Omnis Venture Intelligence MCP](https://www.bamboosnow.co/venture-intelligence-mcp-server)
