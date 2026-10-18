@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [RestoSignals MCP](https://restosignals.com/restoapi)
+
+- **Offers:** US restaurants and bars 1-6 months before they open, fused from public liquor-license, food-permit and new-business filings into scored venues (`opening_score` 0-100) with owner contact; tools `coverage`, `new_openings`, `venue_signals`, `watch_area` (webhook)
+- **Access:** Streamable HTTP endpoint `https://api.restosignals.com/mcp`; get a free API key (no card) at restosignals.com/signup and send it in the `X-API-Key` header. Owner contact needs a paid plan
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
