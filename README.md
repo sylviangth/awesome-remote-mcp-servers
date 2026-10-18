@@ -128,6 +128,7 @@ _No entries yet_
 
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
+
 #### [GSCmate](https://gscmate.com)
 
 - **Offers:** Read-only Google Search Console properties, Search Analytics, sitemaps, and URL inspection for AI agents.
