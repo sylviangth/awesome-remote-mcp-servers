@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [ScraperSocial](https://scrapersocial.com/mcp/)
+
+- **Offers:** 14 read-only tools for public social media data: profiles, posts, engagement stats, comments, keyword and hashtag search, reviews, trending and video transcripts across 30+ platforms including TikTok, Instagram, LinkedIn, YouTube, X and Reddit
+- **Access:** Streamable HTTP at `https://mcp.scrapersocial.com` with OAuth 2.0 (dynamic client registration) or an `Authorization: Bearer <API_KEY>` header. 100 free credits at signup, then $5/mo for 1,000 credits, charged per item returned
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
