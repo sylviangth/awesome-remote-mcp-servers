@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [ArtiGram](https://artigram.cafeboon.com)
+
+- **Offers:** Publish AI-made HTML, React, SVG, Markdown or Mermaid as live shareable pages, and search existing posts
+- **Access:** Streamable HTTP endpoint https://artigram.cafeboon.com/mcp, searching needs no key and publishing needs a free API key
 
 ### Payments & Commerce
 
