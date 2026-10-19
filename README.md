@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [WellFred](https://app.wellfred.com)
+
+- **Offers:** Search and compare wellness, home and professional services in Costa Rica, read provider profiles, check availability, discover classes and events, and prepare booking requests for customer confirmation
+- **Access:** Connect to `https://app.wellfred.com/api/agent/mcp` using Streamable HTTP; no API key or account is required for discovery. [Agent guide](https://app.wellfred.com/agents.md). Provider services have their own prices; booking preparation returns a verification and confirmation link, not a confirmed appointment
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
