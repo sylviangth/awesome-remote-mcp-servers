@@ -129,6 +129,12 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Status Is Down](https://statusisdown.com/business/mcp)
+
+- **Offers:** Six read-only tools for service lookup, current status, historical community reports, privacy-thresholded regional activity, problem indicators and recent report spikes.
+- **Access:** Create a SID business account and connect to `https://statusisdown.com/api/mcp` using Streamable HTTP with OAuth. Free plan includes 500 monthly credits; tool costs and plan limits apply, with paid plans available.
+
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
