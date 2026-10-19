@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [3Descu 3D Printing Quotes](https://quote.3descu.com/ai-agents/)
+
+- **Offers:** Instant FDM and SLA 3D printing quotes from an ISO 9001:2015 certified EU factory: list materials, measure an STL or OBJ from a public link and get a price in EUR with production days (read-only)
+- **Access:** Server available at `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp` (Streamable HTTP), no authentication required
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
