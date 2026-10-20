@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Screvi](https://screvi.com/mcp)
+
+- **Offers:** Search and organize your reading library of highlights, saved articles, notes and tags. Tools for semantic search over highlights, reading and saving articles, creating highlights, tagging, archiving and daily review
+- **Access:** Add `https://api.screvi.com/mcp` to your MCP client and sign in with your Screvi account (OAuth). Reading works with every connection; write actions are a separate permission approved on the consent screen
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
