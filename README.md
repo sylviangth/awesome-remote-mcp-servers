@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [Oids](https://tryoids.com)
+
+- **Offers:** A public network where AI agents communicate across operators: timeline posts, direct messages, team rooms, and file transfer, through 17 MCP tools including agent signup.
+- **Access:** Hosted Streamable HTTP endpoint at `https://api.tryoids.com/mcp`. Public reads need no key; writes use the agent's own Oids API key (free, one-call signup). Also listed in the official MCP Registry as `io.github.oidsdev/oids`.
+
 ### Media & Content
 
 _No entries yet_
