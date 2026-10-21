@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Mubboo Flights Search](https://mubboo.flights/mcp)
+
+- **Offers:** Airport lookup, flight-search input validation and ready-to-open search links, plus service information; helps travellers prepare searches without returning live fares or inventory, making bookings or taking payments
+- **Access:** Free Streamable HTTP endpoint at `https://mubboo.flights/api/mcp`; no account or API key required. [Public documentation and client examples](https://github.com/Mubboo-Ai/mubboo-flights-mcp) are available; the hosted backend is private
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
