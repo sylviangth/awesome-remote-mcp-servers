@@ -226,6 +226,11 @@ _No entries yet_
 
 ### Media & Content
 
+#### [PaperCheck](https://paper-check.me)
+
+- **Offers:** Checks academic papers and theses (up to 20,000 words) for AI-written text, sentence by sentence, and for copied phrases against cited and related arXiv papers
+- **Access:** OAuth (Claude.ai, ChatGPT) or a personal API key. Server available at `https://paper-check.me/mcp`. 5 free checks a month
+
 _No entries yet_
 
 ### Payments & Commerce
