@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [JuzPost](https://www.juzpost.com)
+
+- **Offers:** Draft, schedule and publish social media posts to X, LinkedIn, Instagram, Facebook, TikTok, YouTube, Threads, Bluesky, Pinterest, Tumblr and WordPress, list connected accounts and review the post queue
+- **Access:** Server available at `https://www.juzpost.com/mcp` with OAuth sign-in to a JuzPost account; MCP access is on paid plans (from $19/mo, 7-day trial)
 
 ### Payments & Commerce
 
