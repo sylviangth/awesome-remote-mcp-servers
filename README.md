@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [NeuralVerge MCP](https://docs.neuralverge.ai/mcp-server)
+
+- **Offers:** Web search, URL-to-JSON extraction against a caller-supplied schema, and structured data from 300+ sources (company registries, marketplaces, product reviews, funding data, contact enrichment), exposed as 342 tools
+- **Access:** Server available at `https://mcp.neuralverge.ai/mcp` (Streamable HTTP). Sign in with OAuth (clients that support MCP authorization discover it automatically) or send an `Authorization: Bearer <API_KEY>` header. Get your API key at [app.neuralverge.ai](https://app.neuralverge.ai); paid plans start at $50/month
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
