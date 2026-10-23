@@ -117,6 +117,11 @@ _No entries yet_
 - **Offers:** Enterprise content management with 30+ tools including AI-powered document Q&A, summarization, workflow management, advanced search with metadata filtering, and Egnyte Copilot integration
 - **Access:** OAuth authentication required. Server available at `https://mcp-server.egnyte.com/sse`. 
 
+#### [Rowflare MCP](https://rowflare.com/docs/mcp/)
+
+- **Offers:** Read and write Rowflare bases (open-source Airtable alternative): describe bases, query, create, update and delete records, aggregate values, and manage tables, fields, views, automations and dashboards
+- **Access:** Free plan available. Create a personal access token in Rowflare Settings, then connect to `https://app.rowflare.com/mcp` (Streamable HTTP) with header `Authorization: Bearer <token>`. Self-hosted instances serve the same endpoint at `https://<your-instance>/mcp`.
+
 ### Data & Analytics
 
 #### [Omnis Venture Intelligence MCP](https://www.bamboosnow.co/venture-intelligence-mcp-server)
