@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [OpenAlex MCP Server](https://apify.com/agentic_solutions/openalex-mcp)
+
+- **Offers:** Search scholarly works, authors and institutions in OpenAlex and follow citations and references, returning compact JSON with abstracts. Not affiliated with OpenAlex
+- **Access:** Server available at `https://agentic-solutions--openalex-mcp.apify.actor/mcp` (Streamable HTTP) with `Authorization: Bearer <APIFY_TOKEN>` header. Needs an Apify account; paid per call on Apify ($0.015 per successful tool call plus Apify platform usage)
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
