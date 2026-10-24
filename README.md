@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Lexpad MCP](https://lexpad.app/features/assistants)
+
+- **Offers:** 18 tools to list, search, add, edit and practise words in the user's own Lexpad vocabulary notebook; quiz answers given in chat are recorded as practice and move each word's review schedule. Free on every Lexpad plan within fair-use limits
+- **Access:** Add `https://api.lexpad.app/mcp` as a custom connector in ChatGPT or Claude (or `claude mcp add --transport http lexpad https://api.lexpad.app/mcp`) and approve on a Lexpad page (OAuth 2.1 with PKCE); needs a free Lexpad account
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
