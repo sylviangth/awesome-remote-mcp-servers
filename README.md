@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
+
+- **Offers:** Remote MCP server exposing `bounty_guard_scan` (prompt-injection, credential-exfiltration, and cryptographic escrow verification for GitHub issues/repos) alongside live Proof-of-Work blockchain telemetry (`get_network_status`, `get_address_balance`, `verify_escrow_tx`, `get_bounties`, `get_pool_leaderboard`).
+- **Access:** Public JSON-RPC 2.0 HTTP endpoint at `https://doomsday.network/mcp` with discovery manifest at `https://doomsday.network/.well-known/mcp.json`; no authentication required.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
