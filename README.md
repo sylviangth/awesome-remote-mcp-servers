@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [CreditUnions](https://creditunions.fyi)
+
+- **Offers:** Directory of federally insured US credit unions from the NCUA register — search listings by place and compare charter, field of membership, assets and member counts
+- **Access:** Free public endpoint at `https://creditunions.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://creditunions.fyi/developers
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
