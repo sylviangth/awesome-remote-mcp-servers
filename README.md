@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Agent Wallet Index](https://agentwalletindex.fyi)
+
+- **Offers:** Directory of agent wallets, payment rails, card programs and key-management layers for AI agents — search and compare custody, fees, protocols and spend controls with cited sources
+- **Access:** Free public endpoint at `https://agentwalletindex.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://agentwalletindex.fyi/developers
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
