@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [AgentSandboxes](https://agentsandboxes.fyi)
+
+- **Offers:** Read-only directory of cloud sandbox providers for AI agents — search and compare listings by category, isolation, cold start, persistence, GPU support and pricing, with each fact cited to its source
+- **Access:** Free public endpoint at `https://agentsandboxes.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://agentsandboxes.fyi/developers
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
