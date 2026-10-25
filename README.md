@@ -172,7 +172,7 @@ _No entries yet_
 #### [GetMattered](https://getmattered.com/mcps)
 
 - **Offers:** Job matching, ATS resume scoring, job-description analysis, resume and cover-letter tailoring, editable resume drafts, and interview preparation. Automatically submits applications on employers' hiring systems, with optional review and approval, application tracking, and employer confirmation.
-- **Access:** Connect a GetMattered account at `https://mcp.getmattered.com/mcp` over Streamable HTTP with OAuth 2.1 and dynamic client registration. Account and application reads do not use AI tokens. AI generation uses account tokens and limits; application submission uses the account's application allowance. See [setup](https://getmattered.com/mcps), [pricing](https://getmattered.com/pricing), and [GitHub](https://github.com/aiapplyd/aiapplyd-mcp).
+- **Access:** Connect a GetMattered account at `https://mcp.getmattered.com/mcp` over Streamable HTTP with OAuth 2.1 and dynamic client registration. Account and application reads do not use AI tokens. AI generation uses account tokens and limits; application submission uses the account's application allowance. See [setup](https://getmattered.com/mcps), [pricing](https://getmattered.com/pricing), and [GitHub](https://github.com/getmattered/getmattered-mcp).
 
 ### Knowledge & Memory
 
