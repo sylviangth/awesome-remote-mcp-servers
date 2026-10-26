@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -165,6 +165,11 @@ _No entries yet_
 
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
+
+#### [Waspes MCP](https://waspes.com/api)
+
+- **Offers:** Generate full-stack HTML5 websites, standalone working contact forms, master prompts, and 3D models (`.glb`/`.obj`/`.fbx`) with live textured `MeshPart` insertion into Roblox Studio via 8 tools (`start_website`, `get_website`, `generate_website`, `generate_form`, `generate_master_prompt`, `list_3d_models`, `connect_roblox`, `send_to_roblox`)
+- **Access:** Connect to `https://waspes.com/api/mcp` via Streamable HTTP (OAuth 2.0 PKCE or Bearer API key `wsp_...` from `https://waspes.com/api`; `initialize`, `tools/list`, and capped `generate_website` demo require no auth)
 
 ### Knowledge & Memory
 
