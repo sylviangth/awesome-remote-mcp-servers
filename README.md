@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Perceptlayer MCP](https://docs.perceptlayer.com/ai-agents)
+
+- **Offers:** Structured JSON from 248 websites (Google Maps, Zillow, Indeed, Airbnb, Booking.com, Google Search and more) through three tools: `search_endpoints`, `get_endpoint`, `call_endpoint`
+- **Access:** Streamable HTTP at `https://api.perceptlayer.com/mcp` with `Authorization: Bearer <API_KEY>` (searching is free without a key). Sign up at [perceptlayer.com](https://perceptlayer.com) for 1,000 free credits a month; paid packs from $15, failed calls free
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
