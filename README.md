@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Pagelive MCP](https://pagelive.io/mcp)
+
+- **Offers:** Publish HTML built in chat as a private, view-tracked link, update it, list pages, read view stats, and read and answer comments
+- **Access:** Server available at `https://app.pagelive.io/api/mcp` with OAuth authentication; a free account works, paid plans from $15/mo
 
 ### Payments & Commerce
 
