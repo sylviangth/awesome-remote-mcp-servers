@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [NeverApply MCP](https://neverapply.co/features/mcp)
+
+- **Offers:** Job search for AI agents: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval (15 tools)
+- **Access:** Server available at `https://neverapply.co/mcp` (Streamable HTTP) with OAuth 2.1 sign-in
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
