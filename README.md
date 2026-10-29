@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [Backlane](https://getbacklane.com/en/)
+
+- **Offers:** Marketplace seller operations for OTTO Market, Kaufland and 50+ Mirakl-based marketplaces (e.g. home24, Decathlon): orders and shipments, stock and prices, listing health and product data errors, returns and buyer messages, and OTTO Sponsored Product Ads
+- **Access:** Sign up free at [app.getbacklane.com](https://app.getbacklane.com), connect your marketplace accounts there, then add `https://app.getbacklane.com/mcp` to your MCP client and sign in via OAuth ([setup guide](https://getbacklane.com/en/docs/)). Free during the open beta
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
