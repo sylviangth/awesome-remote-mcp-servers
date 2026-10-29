@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [BestPrice Shopping MCP](https://github.com/TheBestCo/bestprice-mcp)
+
+- **Offers:** Read-only shopping tools for Greece from BestPrice.gr: evidence-backed shopping decisions, product search, current merchant offers with delivered totals, and price history
+- **Access:** Connect to `https://mcp.bestprice.gr/mcp` via Streamable HTTP. No API key or authentication required. Free.
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
