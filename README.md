@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Dutiful](https://dutiful.work/developers)
+
+- **Offers:** Cited company background reports for agents and a free registry coverage check. US coverage is limited to SEC-reporting entities; Canada to federal corporations. The company-level screen covers the OFAC SDN and UK Sanctions List; EU and UN lists are not screened.
+- **Access:** Connect to `https://dutiful.work/mcp` via Streamable HTTP. Company Reports cost $3.00 USDC on Base via x402. `create_order` returns payment requirements and does not pay; payment requires a separate wallet-signing/payment step. [Sample report](https://dutiful.work/sample/sainsburys).
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
