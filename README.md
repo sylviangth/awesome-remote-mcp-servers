@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Vouchity](https://www.vouchity.com)
+
+- **Offers:** Trust Scores from 0 to 100 for MCP servers, built from public GitHub, npm and MCP registry data, with tools to search servers and check whether one is safe to install
+- **Access:** Hosted endpoint at `https://www.vouchity.com/api/mcp` needs no login. Browsing is free; an optional Pro plan is $19 a month. API docs at https://www.vouchity.com/api-docs
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
