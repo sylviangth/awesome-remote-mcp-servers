@@ -180,6 +180,11 @@ _No entries yet_
 - **Offers:** Customer support and engagement functionality through Fin, Intercom's AI agent
 - **Access:** OAuth authentication with your Intercom account required
 
+#### [MCP Ads](https://mcp-ads.com)
+
+- **Offers:** Read and manage live advertising accounts across Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Microsoft Ads and Snapchat Ads, plus GA4, Search Console, Google Tag Manager and WordPress. Audit wasted spend, check budget pacing, mine search terms, build cross-platform reports, and create or optimize campaigns, with approval required before anything changes
+- **Access:** Server available at `https://mcp-ads.com/mcp-slim` with OAuth authentication to your own ad accounts. Paid, with a 7-day free trial at [mcp-ads.com](https://mcp-ads.com)
+
 #### [Tally MCP](https://developers.tally.so/api-reference/mcp)
 
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
