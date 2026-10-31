@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [ExtensionDash](https://extensiondash.com/)
+
+- **Offers:** Search Chrome Web Store and Firefox Add-ons catalogs; signed-in extension developers can inspect store metrics and keyword positions and manage tracked keywords and competitors
+- **Access:** Hosted Streamable HTTP endpoint at `https://extensiondash.com/mcp`. Public catalog research works without an account (60 requests/minute per IP); account data requires OAuth 2.1 or a user token. The service has a free tier
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
