@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [AppScreen](https://appscreen.pro)
+
+- **Offers:** Designs App Store and Google Play screenshots in the AppScreen browser editor: slides, iPhone/iPad/Android frames, captions, backgrounds, the app's own screenshots, PNG export at store sizes, saved projects and share links
+- **Access:** Streamable HTTP endpoint at `https://appscreen.pro/mcp` with OAuth sign-in (needs AppScreen Pro, $9 one-time). Setup for Claude, Cursor, VS Code and others at [appscreen.pro/mcp](https://appscreen.pro/mcp)
 
 ### Payments & Commerce
 
