@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [LurkAPI](https://lurkapi.com)
+
+- **Offers:** Read-only public data from 16 social platforms (TikTok, Instagram, YouTube, Reddit, X, LinkedIn and more): profiles, posts, comments, video transcripts and Meta, Google, TikTok and LinkedIn ad library results, one tool per endpoint
+- **Access:** Server available at `https://api.lurkapi.com/mcp` (Streamable HTTP) with OAuth sign-in in the browser, or an `x-api-key` header with a key from [lurkapi.com/dashboard](https://lurkapi.com/dashboard). Paid per call; 100 free credits at signup, no card
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
