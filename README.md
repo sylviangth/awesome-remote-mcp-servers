@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [McClipFace](https://mcclipface.com)
+
+- **Offers:** Finds current coupon codes, promo codes, deals and discounts for stores and products
+- **Access:** Connect to `https://mcclipface.com/mcp/read` via Streamable HTTP. No authentication required.
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
