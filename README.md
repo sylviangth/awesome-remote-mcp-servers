@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [JobsPipe MCP](https://docs.jobspipe.dev/ai-agents/mcp)
+
+- **Offers:** Live job postings from 30+ ATS feeds and job boards in one normalized schema: search and fetch postings, filter by location, salary, seniority, skills and visa stance, and save searches as alerts by email, Slack or webhook
+- **Access:** Add `https://mcp.jobspipe.dev/mcp` (Streamable HTTP) and sign in with OAuth, or send `Authorization: Bearer jp_live_...` with a key from the [JobsPipe dashboard](https://jobspipe.dev/dashboard). Free plan with 1,000 credits, no card; paid plans for more
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
