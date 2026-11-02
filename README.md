@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Verrow](https://github.com/BradenTabor/verrow-mcp)
+
+- **Offers:** Sourced rural public data for AI agents: zoning, permits, recent decisions, soil, wind, airspace, licenses, and cited site reports
+- **Access:** Hosted Streamable HTTP endpoint at `https://api.verrow.ai/mcp`. Free discovery tools; paid tools use x402 USDC on Base mainnet or a prepaid API key. UNKNOWN or not covered responses are not charged
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
