@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [SmartGate](https://smartgate.network)
+
+- **Offers:** Hosted search, fetch, token compression, dedup, team budget, memory and pipelines. Not an LLM proxy.
+- **Access:** Streamable HTTP `https://smartgate.network/api/mcp`. Mint a dashboard API key (`sk_live_...`) and send `Authorization: Bearer <key>`. Do not type the word Bearer twice. A request without Authorization returns 401. Free plan includes 2M tokens/month. Docs: https://smartgate.network/docs/mcp-endpoint
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
