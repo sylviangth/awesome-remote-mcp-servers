@@ -185,6 +185,14 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Creator Validator MCP](https://www.soniaia.com/tools/creator-validator)
+
+- **Offers:** Find and vet influencers before you hire: audience, buying intent, momentum. Order from chat.
+- **Access:** No authentication required. Use the server URL directly: `https://mcp.soniaia.com/mcp`. Paid vetting packs (Validate 5 creators €300, Rank 10 €500) are ordered and paid on soniaia.com; the server itself takes no payment
+
+
+
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
