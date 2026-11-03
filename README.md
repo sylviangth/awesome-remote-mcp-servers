@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Contract10 MCP](https://www.contract10.com)
+
+- **Offers:** Extracts the dates and contingency periods from a signed US real estate purchase contract (PDF), each with its page and quoted line, and computes the closing deadlines from them. A closing-timeline tool computes deadlines from dates alone
+- **Access:** Hosted endpoint at `https://www.contract10.com/api/mcp`. `build_closing_timeline` needs no key; the other tools need an API key. Free plan is $0 for one active transaction; Pro is $49 a month for unlimited transactions. Docs at `https://www.contract10.com/docs/api`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
