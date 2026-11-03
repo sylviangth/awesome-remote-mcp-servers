@@ -242,6 +242,13 @@ _No entries yet_
 
 ### Finance & Crypto
 
+
+#### [IPO Radar](https://ipogmpradar.com/mcp-server)
+
+- **Offers:** Live India IPO grey market premium (GMP), subscription (overall/QIB/NII/retail), upcoming IPOs / DRHP pipeline, and GMP accuracy vs listing gains for AI clients
+- **Access:** Free Streamable HTTP endpoint, no auth: `https://ipogmpradar.com/mcp`. Docs: https://ipogmpradar.com/mcp-server. Repo: https://github.com/songiangvan40006-boop/ipo-radar-mcp
+
+
 #### [Chainflip Broker](https://chainflip-broker.io)
 
 - **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
