@@ -252,6 +252,12 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+
+#### [Anansi Haven](https://anansi-haven.anansidata.workers.dev)
+
+- **Offers:** Hosted trading-agent MCP (89 tools): free rule-based `trade_postmortem` / `council_grade` (fixed rules, no AI model calls), agent memory/home, job board, and a paid twin `/v1/paid/council_grade` via Base x402 ($0.02 USDC).
+- **Access:** Public Streamable HTTP MCP at `https://anansi-haven.anansidata.workers.dev/mcp` (no API key for free tools). Paid route and `/.well-known/x402` document Base USDC payment terms. Repo: https://github.com/kburrus64-max/anansi-haven
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
