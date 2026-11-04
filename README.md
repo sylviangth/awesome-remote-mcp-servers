@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Fonciq](https://mcp.fonciq.ca)
+
+- **Offers:** Québec Land Registry (Registre foncier) data for real-estate professionals. Independent, not government-affiliated
+- **Access:** Remote endpoint `https://mcp.fonciq.ca/v1/` (Streamable HTTP, OAuth sign-in with a Fonciq account); API also available at `https://fonciq.ca`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
