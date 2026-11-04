@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Vaneform](https://vaneform.com)
+
+- **Offers:** Free website traffic lookups — monthly visits, traffic sources, top countries, and domain compares via MCP tools
+- **Access:** Hosted MCP endpoint at `https://vaneform.com/mcp` with docs at `https://github.com/jiangqizheng/vaneform-mcp`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
