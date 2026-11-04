@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [MakerRadar](https://makerradar.io/mcp)
+
+- **Offers:** Search a weekly product launch platform and startup directory: products by keyword, platform, audience, use case or country; alternatives; side-by-side comparisons; categories; this week's and any past week's launch board. Draft a listing for your own product, and signed in, edit, launch and manage your listings
+- **Access:** `https://api.makerradar.io/mcp` (Streamable HTTP, no sign-in, read + draft) or `https://api.makerradar.io/mcp/account` (OAuth, your own listings). Free; docs at [makerradar.io/mcp](https://makerradar.io/mcp)
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
