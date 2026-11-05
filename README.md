@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Terminal Tax](https://terminal.tax)
+
+- **Offers:** Let ChatGPT or Claude file your taxes directly with the IRS. Tax software: your AI agent sends the return, you review and sign it, we e-file. $19.99, charged only if the IRS accepts it.
+- **Access:** No account or key; add https://mcp.terminal.tax/v1/hosted-mcp (Streamable HTTP)
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
