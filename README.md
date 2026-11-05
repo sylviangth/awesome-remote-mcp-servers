@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [AgentSEO](https://www.agentseo.dev/seo-mcp-server)
+
+- **Offers:** Keyword research, SERP analysis, backlinks, rank tracking, site audits and AI search visibility for answer engine optimization (AEO).
+- **Access:** Connect to `https://www.agentseo.dev/mcp` over Streamable HTTP. Create an AgentSEO account and use your API key in the `x-api-key` header. Tool calls use credits. The starter plan includes 100 one-time credits, and paid plans start at $9/month.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
