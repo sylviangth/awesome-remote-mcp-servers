@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Glypse](https://glypse.ai/mcp-server)
+
+- **Offers:** Prediction market research that lets agents scan thousands of markets and draw on millions of analyzed posts.
+- **Access:** Create a free Glypse account, connect to `https://mcp.glypse.ai` using Streamable HTTP, then sign in through OAuth. [Setup instructions](https://glypse.ai/help/mcp-server).
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
