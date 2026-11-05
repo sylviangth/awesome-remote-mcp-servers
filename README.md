@@ -254,7 +254,7 @@ _No entries yet_
 
 #### [Terminal Tax](https://terminal.tax)
 
-- **Offers:** E-file your federal tax return from your AI assistant; you review, sign and pay on one hosted page ($19.99, charged only if the IRS accepts)
+- **Offers:** Let ChatGPT or Claude file your taxes directly with the IRS. Tax software: your AI agent sends the return, you review and sign it, we e-file. $19.99, charged only if the IRS accepts it.
 - **Access:** No account or key; add https://mcp.terminal.tax/v1/hosted-mcp (Streamable HTTP)
 
 ### Gaming & Entertainment
