@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Zambo](https://zambo.dev)
+
+- **Offers:** The verifiable work layer for AI: 153 tools behind one remote MCP endpoint, continuity across AIs, and a verifiable AER-1 receipt for every job
+- **Access:** Connect any MCP client to https://zambo.dev/mcp; 20 calls + 1 wrap-up free every day, no install required
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
