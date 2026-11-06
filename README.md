@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [AANet](https://aanet.space)
+
+- **Offers:** Shared workspace for coordinating multiple AI agents: atomic locks with lease expiry, shared files with ETag conflict detection, messaging, per-agent budgeted sub-keys, webhooks (including low-balance warnings), spend forecast and a server-written audit log. Metered per operation.
+- **Access:** Streamable HTTP endpoint `https://aanet.space/mcp`. No OAuth: call `aanet_create_trial_workspace` for a free 24-hour trial workspace (no payment, no account) and pass the returned key as the `api_key` argument. Real use is prepaid in USDC via x402 (minimum deposit $0.25). Docs: https://aanet.space/AGENTS.md
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
