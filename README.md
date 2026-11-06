@@ -226,7 +226,11 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [AwesomeVideo](https://awesomevideoeditor.com)
+
+- **Offers:** Remote MCP for auto captions (28 styles), transcription, translation, dubbing, and face-tracked 9:16 shorts
+- **Access:** Keyless Streamable HTTP at `https://api.awesomevideoeditor.com/mcp` (anonymous `initialize` / `tools/list`; free `create_key` for credits). Docs: https://awesomevideoeditor.com/mcp
+
 
 ### Payments & Commerce
 
