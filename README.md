@@ -106,6 +106,11 @@ See MindPal agents in action with:
 - **Offers:** Seamless workflow automation and AI tool integration with direct access to Pabbly Connect's suite of business management applications (including CRM, email, billing, forms, and more) via MCP. Enables AI assistants to execute workflow actions, add leads, send emails, fetch data, and more, directly from your Pabbly Connect workflows.
 - **Access:** In your Pabbly Connect workflow, use the "Add to MCP server" option for any action, configure your tool, and retrieve your unique MCP Server URL from [Pabbly Connect MCP Settings](https://connect.pabbly.com/v2/app/setting/mcp-server). Use this URL as your endpoint for AI clients (e.g., Claude Desktop, etc). See [setup instructions](https://forum.pabbly.com/threads/pabbly-connect-mcp-server-beta.28381/) for full details.
 
+#### [looot](https://looot.ai)
+
+- **Offers:** Business-data lookups from 300+ providers through one remote MCP server: work emails, email checks, phone numbers, company and people enrichment, Google results, web search, web pages as text and local businesses. Paid per call from a prepaid balance (minimum top-up $5).
+- **Access:** Add `https://api.looot.ai/mcp` to your MCP client and sign in with OAuth in the browser, or send a looot API key as a Bearer token
+
 ### Cloud Platforms
 
 _No entries yet_
