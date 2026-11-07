@@ -58,6 +58,7 @@ Please add your entry under ONLY ONE of these categories:
 - **Search & Data Extraction**: Search engines and information retrieval
 - **Communication & Collaboration**: Messaging and team collaboration
 - **Media & Content**: Media processing and content management
+- **Travel & Transportation**: Airport transfers, travel booking, and transportation
 
 If your entry doesn't fit into any of these categories, please suggest a new one in your PR.
 
