@@ -40,6 +40,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - 🎥 [Media & Content](#media--content) - Media processing and content management
 - 💳 [Payments & Commerce](#payments--commerce) - Payment processing and e-commerce solutions
 - 💹 [Finance & Crypto](#finance--crypto) - Financial services and cryptocurrency
+- ✈️ [Travel & Transportation](#travel--transportation) - Airport transfers, travel booking, and transportation
 
 ## Who's Behind This Repo
 
@@ -258,6 +259,14 @@ _No entries yet_
 
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
+
+
+### Travel & Transportation
+
+#### [GC Airport Transfers](https://gc-airporttransfers.com.au/ai-agent-gateway/)
+
+- **Offers:** Private fixed-price airport and cruise transfers for Gold Coast (OOL), Brisbane (BNE) and Byron Bay / Northern NSW (Queensland). Live quotes, availability checks, and booking requests via MCP tools (`get_service_info`, `get_quote`, `check_availability`, `request_booking`). Official registry: `com.gc-airporttransfers/booking`.
+- **Access:** Remote Streamable HTTP endpoint `https://gc-airporttransfers.com/wp-json/atb-gateway/v1/mcp`. OAuth 2.1 with PKCE and dynamic client registration (scope `transfers`). Docs: https://gc-airporttransfers.com.au/ai-agent-gateway/
 
 ## Auto Counter
 
