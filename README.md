@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Clickwise](<https://partners.clickwise.net/developers/>)
+
+- **Offers:** Find affiliate programs, mint tracked links and browse deals; a free key adds tracked links and product search by text or GTIN.
+- **Access:** <https://partners.clickwise.net/api/v1/mcp>
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
