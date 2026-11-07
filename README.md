@@ -166,9 +166,9 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
-#### [Agent QA documentation MCP](https://vostride.com/docs/agent-qa/mcp#public-documentation-mcp)
+#### [agent-qa documentation MCP](https://vostride.com/docs/agent-qa/mcp#public-documentation-mcp)
 
-- **Offers:** Search official Agent QA documentation and QA recipes, retrieve public Markdown pages, and discover the setup prompt. Documentation only; test execution requires the separate local Agent QA installation.
+- **Offers:** Search official agent-qa documentation and QA recipes, retrieve public Markdown pages, and discover the setup prompt. Documentation only; test execution requires the separate local agent-qa installation.
 - **Access:** Connect to `https://vostride.com/mcp` using Streamable HTTP. No account, API key, authentication, or local installation is required to read the public documentation.
 
 ### Knowledge & Memory
