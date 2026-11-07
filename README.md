@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [Shop Your Color Season MCP](https://shopyourcolorseason.com/connect-ai)
+
+- **Offers:** Clothes search across many shops by garment, brand, size, price or occasion, with colour season as an optional filter. Also product details, brand and shop lists, cheaper look-alikes and second-hand listings
+- **Access:** Remote MCP server at `https://shopyourcolorseason.com/mcp` (Streamable HTTP). No authentication required for search; the wardrobe tools need a subscriber sign-in via OAuth
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
