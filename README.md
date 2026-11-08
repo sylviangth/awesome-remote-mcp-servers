@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [Power Players](https://powerplayers.app)
+
+- **Offers:** Citizen ratings of US federal and state officials and candidates (personality, policy, effectiveness, with sample counts and dates), rating trends, side-by-side comparisons and official voter-registration links. Signed-in users can also find their representatives by ZIP, rate people, keep a ballot and contact their representatives, with a preview before every action.
+- **Access:** Free. Public read-only endpoint at `https://powerplayers.app/api/mcp/v1` (Streamable HTTP, no authentication). Account endpoint at `https://powerplayers.app/api/mcp/account` (OAuth 2.1 with dynamic client registration). Docs at `https://github.com/Playpowerpolitics/powerplayers-mcp`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
