@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Puley](https://puley.com)
+
+- **Offers:** Live public web data for AI: local businesses with phone numbers and websites (Google Maps), competitors' live Meta and Google ads, TikTok/Instagram/YouTube stats and transcripts, product price comparison across stores and countries, and email alerts when a page or price changes
+- **Access:** OAuth 2.1 Streamable HTTP endpoint at `https://app.puley.com/mcp`; setup guide at https://puley.com/connect. Free to start ($2 free, no card), then pay as you go
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
