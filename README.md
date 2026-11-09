@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -206,6 +206,11 @@ _No entries yet_
 
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
+
+#### [Arcmira: YouTube Transcript Search](https://arcmira.com/)
+
+- **Offers:** YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
+- **Access:** Connect to `https://mcp.arcmira.com/mcp` over Streamable HTTP and sign in with OAuth, or send an Arcmira API key. An account is required; free and paid plans have usage limits. [API and connection docs](https://arcmira.com/docs/mcp-server).
 
 ### Communication & Collaboration
 
