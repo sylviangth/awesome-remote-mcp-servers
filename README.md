@@ -209,7 +209,7 @@ _No entries yet_
 
 #### [Arcmira: YouTube Transcript Search](https://arcmira.com/)
 
-- **Offers:** Search indexed YouTube transcripts for timestamped passages and speaker appearances.
+- **Offers:** YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
 - **Access:** Connect to `https://mcp.arcmira.com/mcp` over Streamable HTTP and sign in with OAuth, or send an Arcmira API key. An account is required; free and paid plans have usage limits. [API and connection docs](https://arcmira.com/docs/mcp-server).
 
 ### Communication & Collaboration
