@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [Nexscope Ecommerce MCP](https://www.nexscope.ai/mcp-data?co-from=awesome-remote-mcp-sylviangth)
+
+- **Offers:** Read-only ecommerce research tools for Amazon, TikTok Shop and other marketplaces (product, keyword, competitor and trend data) over a hosted Streamable HTTP endpoint
+- **Access:** Create a Nexscope API key at nexscope.ai and connect to `https://api.nexscope.ai/mcp` (also listed in the official MCP Registry as `io.github.nexscope/ecommerce`); usage is credit-based
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
