@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Scrapfly MCP](https://scrapfly.io/docs/mcp/getting-started)
+
+- **Offers:** Web scraping to Markdown or JSON with JavaScript rendering and proxies, screenshots, structured data extraction and cloud browser sessions
+- **Access:** Server available at `https://mcp.scrapfly.io/mcp` (Streamable HTTP). Sign in with OAuth, or send a Scrapfly API key as an `Authorization: Bearer <key>` header. Get a key from [scrapfly.io/dashboard](https://scrapfly.io/dashboard)
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
