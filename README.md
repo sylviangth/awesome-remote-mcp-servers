@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Termalin](https://termal.in/mcp/)
+
+- **Offers:** Run commands and background jobs, read and write files, query databases and read metrics, alerts and pending security updates on your own Linux servers over SSH, without handing the agent a key (24 tools, per-server command policy, audit log).
+- **Access:** Sign up at https://termal.in/account (Pro plan or 14-day trial), enrol a server with the one-line Connector, then add `https://termal.in/mcp` as a remote MCP server; sign-in is OAuth 2.1 in the browser, or an API key from the account page.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
