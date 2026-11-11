@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Loice MCP](https://docs.loice.ai/mcp-server)
+
+- **Offers:** B2B lead search, a company's employees, verified work emails, email enrichment, LinkedIn profile lookup and lead lists
+- **Access:** Add `https://app.loice.ai/mcp` as a remote connector and sign in with OAuth 2.1 (Streamable HTTP). Billed per lookup in workspace points; new workspaces start with free points
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
