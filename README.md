@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [HoneyVid](https://honeyvid.ai/mcp)
+
+- **Offers:** AI video and image generation: find trending video templates and put a person, pet or character from a photo into them, or generate with Kling, Veo and Seedance; check credit balance and get the finished MP4. Paid credits, each video quoted before it runs
+- **Access:** Remote MCP server at `https://honeyvid.ai/mcp` (Streamable HTTP); OAuth sign-in with a HoneyVid account, no API key. Setup guides for Claude, ChatGPT, Claude Code, Codex and Cursor at https://honeyvid.ai/mcp
 
 ### Payments & Commerce
 
