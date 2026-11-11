@@ -68,7 +68,7 @@ See MindPal agents in action with:
 #### [Composio MCP](https://mcp.composio.dev)
 
 - **Offers:** Multiple server endpoints, each connecting to specific applications with built-in authentication
-- **Access:** Create an account, select the applications you want to connect, and receive dedicated MCP server URLs for each of your integrations
+- **Access:** Create an account, select the applications you want to connect, and receive dedicated MCP server URLs for each integration
 
 #### [Activepieces MCP](https://www.activepieces.com/docs/ai/mcp)
 
