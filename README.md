@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [GoVisit Tools](https://govisit.ai/en/docs/developers/mcp/overview)
+
+- **Offers:** Search published travel destinations, places, activities, and documentation with 22 read-only tools
+- **Access:** Connect to `https://govisit.ai/mcp` using Streamable HTTP; no account or API key is required
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
