@@ -108,7 +108,10 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [ZapX MCP](https://zap-hosting.com/en/mcp)
+
+- **Offers:** Manage your ZAP-Hosting game servers, VPS and TeamSpeak servers from your AI client: status, console and logs, config files, backups and restore, and plan changes with a price preview. Per-connection permissions; the client asks for confirmation before critical actions.
+- **Access:** Server available at `https://zap-hosting.com/api/mcp` with OAuth authentication (ZAP-Hosting account). Included with ZapX Pass Plus and above. Setup guides for Claude, ChatGPT, Cursor, Gemini, VS Code and Windsurf on the [MCP page](https://zap-hosting.com/en/mcp).
 
 ### Databases & Storage
 
