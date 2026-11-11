@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [KissMyPost](https://kissmypost.com/mcp)
+
+- **Offers:** Read-only Reddit audience research: subreddit search by topic, member growth, audience demographics, best time to post, posting rules and brand mention counts since 2005
+- **Access:** Add `https://kissmypost.com/api/mcp` as a remote server and sign in with OAuth, or send an API key from a free account as a Bearer token
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
