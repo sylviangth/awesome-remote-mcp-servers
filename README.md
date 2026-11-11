@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Genaya MCP](https://developer.genaya.com/mcp)
+
+- **Offers:** Ask about and act on a Genaya business workspace (clients, appointments, estimates, invoices, payments) with seven tools; every change is confirmed by a person
+- **Access:** Connect `https://api.genaya.com/mcp` and sign in with a Genaya account (OAuth 2.1); requires a Genaya account (free trial, then paid plans)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
