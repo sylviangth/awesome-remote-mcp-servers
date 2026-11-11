@@ -108,7 +108,10 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [ZapX by ZAP-Hosting](https://zap-hosting.com/en/mcp)
+
+- **Offers:** Manage ZAP-Hosting game servers, VPS, dedicated servers, TeamSpeak, Discord bots and domains: status, power actions, console, files, backups and DNS. Read-only by default, every change needs confirmation.
+- **Access:** OAuth sign-in with a ZapX account at `https://zap-hosting.com/api/mcp` (Streamable HTTP). Requires an active ZapX Pass (Plus or higher). Docs: https://github.com/zaphosting/zap-hosting-mcp
 
 ### Databases & Storage
 
