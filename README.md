@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [AppStruct Docs, Sheets and Slides](https://appstruct.ai/integrations/mcp)
+
+- **Offers:** Read and edit owned documents, spreadsheets and presentations through three product-specific MCP endpoints. Docs edits plain text; Sheets writes values and formula text; Slides edits text, notes and slide structure. A free plan is available.
+- **Access:** Sign up at [AppStruct](https://appstruct.ai/), create a scoped API key in the relevant product's API settings, and connect over Streamable HTTP to `https://api.appstruct.cloud/v1/docs/mcp`, `https://api.appstruct.cloud/v1/sheets/mcp` or `https://api.appstruct.cloud/v1/slides/mcp` with an `Authorization: Bearer <API_KEY>` header. Each key reaches only resources owned by its account; start with the matching product's read scope.
+
 ### Media & Content
 
 _No entries yet_
