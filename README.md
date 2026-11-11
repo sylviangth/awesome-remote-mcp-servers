@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Grafizum](https://grafizum.com)
+
+- **Offers:** Hosted command center for AI coding agents: projects, tasks, review queue and project memory over remote MCP with OAuth
+- **Access:** Create a free account and connect to `https://mcp.grafizum.com/mcp` via Streamable HTTP with OAuth 2.1. See the [setup guide](https://github.com/grafizum/grafizum)
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
