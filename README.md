@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [GridZen Verification](https://gridzen.ai/developers/mcp)
+
+- **Offers:** Five read-only research and synthetic MCP tools for planning identity-verification coverage and exercising sandbox decision results. Not live identity verification.
+- **Access:** Connect to `https://gridzen.ai/developers/mcp` over Streamable HTTP; no API key. Docs: https://github.com/immurray/gridzen-developer-kit/blob/main/llms-install.md
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
