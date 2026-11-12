@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [SightRadar Face Recognition API MCP](https://sightradar.com/mcp)
+
+- **Offers:** Face recognition tools for photo collections: index photos, find every photo of a person from one selfie, compare and detect faces, and run batches of photo URLs
+- **Access:** Server available at `https://mcp.sightradar.com/mcp` (Streamable HTTP) with OAuth sign-in on sightradar.com, or an API key as a Bearer token. Paid API with usage-based prepaid credits (see https://sightradar.com/pricing); the MCP server itself is MIT-licensed. Also available locally via `npx -y sightradar-mcp`
 
 ### Payments & Commerce
 
