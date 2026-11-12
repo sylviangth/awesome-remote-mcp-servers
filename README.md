@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Audo](https://audo.ai)
+
+- **Offers:** Audio and video processing: noise removal, speech restoration, transcription, captions, editing, and loudness normalization.
+- **Access:** Connect to `https://audo.ai/mcp` using Streamable HTTP and sign in with OAuth, or send an Audo API key as a Bearer token. Includes per-tool daily free allowances; longer processing uses prepaid credits. See [MCP documentation](https://audo.ai/docs/mcp).
 
 ### Payments & Commerce
 
