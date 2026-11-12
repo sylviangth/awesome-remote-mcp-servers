@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Diopter AI MCP](https://diopter.ai/integrations/claude)
+
+- **Offers:** Check whether images, video and audio are AI-generated or deepfakes. Send a direct media link and get a verdict, a confidence score and a link to the full report. Tools: `detect_media`, `get_detection_result` (read-only)
+- **Access:** Remote server at `https://diopter.ai/mcp` (Streamable HTTP) with OAuth 2.1. Sign in with a free Diopter account; free accounts include a daily scan allowance
 
 ### Payments & Commerce
 
