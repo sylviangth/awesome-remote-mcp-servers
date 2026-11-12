@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Redstone Markets](https://redstonemarkets.com)
+
+- **Offers:** Return and risk analytics for about 2,900 US stocks and 1,200 ETFs, through a public read-only MCP.
+- **Access:** No account or API key. Streamable HTTP at https://redstonemarkets.com/api/mcp
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
