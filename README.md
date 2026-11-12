@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Tapetide Indian Stock Market MCP](https://tapetide.com/mcp)
+
+- **Offers:** Research data on about 8,000 NSE and BSE listed Indian stocks: quotes, quarterly and annual financials, a 326-ratio screener, technical indicators, FII/DII flows, end-of-day index option chains with IV, filings and IPOs (48 tools, 55 including aliases)
+- **Access:** Remote MCP server at `https://mcp.tapetide.com/mcp` (Streamable HTTP). Sign in with Google (OAuth) or send a personal token from https://tapetide.com/settings/tokens as a Bearer header. Free plan: 50 tool calls a day; paid plans raise the limit (https://tapetide.com/pricing)
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
