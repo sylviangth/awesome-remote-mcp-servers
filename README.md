@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [FairValid](https://fairvalid.com/en/help/mcp)
+
+- **Offers:** Verify email addresses, read verification job results, and find verified work emails with FairMatch.
+- **Access:** Connect to `https://mcp.fairvalid.com/mcp` over Streamable HTTP and authorize a FairValid workspace with OAuth. The free plan includes 300 shared credits per month.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
