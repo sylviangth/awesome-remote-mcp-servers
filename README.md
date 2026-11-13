@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [OsmO Phone Calls](https://getosmo.app/for-my-ai)
+
+- **Offers:** Real phone calls placed by OsmO's voice AI to businesses and helplines after the user confirms, with the outcome, summary and transcript; with an OsmO app plan also contacts, scheduled calls and call screening
+- **Access:** Server available at `https://api.getosmo.app/mcp` (Streamable HTTP) with OAuth authentication required (phone-number sign-in)
+
 ### Media & Content
 
 _No entries yet_
