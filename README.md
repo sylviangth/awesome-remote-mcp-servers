@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [within](https://shopwithin.co/agents)
+
+- **Offers:** Live stock at independent boutiques: clothes, shoes and bags with sizes and prices, the cost delivered with duty and tax, size conversion, and a directory of boutiques in more than 140 cities (26 read-only tools)
+- **Access:** Free, no account or key. Endpoint: `https://shopwithin.co/mcp` (Streamable HTTP)
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
