@@ -226,7 +226,15 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [Kling AI MCP (Global)](https://kling.ai/app/mcp/guide)
+
+- **Offers:** Official image and video generation, reference-based workflows, reusable subjects, motion control and task tracking; available tools and models depend on account permissions.
+- **Access:** Connect an OAuth-capable client to `https://kling.ai/mcp/plugin` using Streamable HTTP and authorize a Global-region Kling account. Claude Code: `claude mcp add --transport http kling-ai-global https://kling.ai/mcp/plugin`. Generation consumes account credits. Global and China accounts, credits and task IDs are separate. [Integration documentation](https://github.com/klingai-tech/claude-plugin).
+
+#### [Kling AI MCP (China)](https://klingai.com)
+
+- **Offers:** Official China-region image and video generation, reference-based workflows, reusable subjects, motion control and task tracking; available tools and models depend on account permissions.
+- **Access:** Connect an OAuth-capable client to `https://klingai.com/mcp/plugin` using Streamable HTTP and authorize a China-region Kling account. Claude Code: `claude mcp add --transport http kling-ai-cn https://klingai.com/mcp/plugin`. Generation consumes account credits. China and Global accounts, credits and task IDs are separate. [China integration documentation](https://github.com/klingai-dev/openclaw-plugin).
 
 ### Payments & Commerce
 
