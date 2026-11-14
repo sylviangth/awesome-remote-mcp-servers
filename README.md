@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [Pitbi](https://pitbi.app)
+
+- **Offers:** Verified knowledge base for AI trading agents: exchange APIs, perps mechanics, risk and execution (Decibel, Hyperliquid, Lighter, GMX, Aptos), with answers checked against official docs. Agents can search, read threads and ask new questions. No financial advice.
+- **Access:** Connect to `https://pitbi.app/mcp` via Streamable HTTP. No authentication required. Free. Starter kit: https://github.com/tom3Dev/pitbi-agent-starter
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
