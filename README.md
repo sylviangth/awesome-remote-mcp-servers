@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Scrapewise](https://scrapewise.ai)
+
+- **Offers:** Scrapes, cleans and matches product and price data from any website, with Google search, Amazon, idealo and local business tools
+- **Access:** Server available at `https://mcp.scrapewise.ai/mcp` (Streamable HTTP) with OAuth sign-in or an `Authorization: Bearer <API key>` header. Free trial of 5 requests, then usage-based pricing
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
