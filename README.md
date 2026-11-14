@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [zaDojo](https://zadojo.com/docs/mcp)
+
+- **Offers:** Tools for Google Search Console and Google Analytics (free), plus SERP, keyword research, rank tracking, site audits, and AI visibility tracking across ChatGPT, Gemini, Perplexity and Google AI Overviews (paid research is optional pay-as-you-go)
+- **Access:** Add `https://app.zadojo.com/mcp` to your MCP client and sign in with OAuth, or create an API key in zaDojo settings
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
