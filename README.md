@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [No Stairs Please](https://nostairsplease.com/mcp)
+
+- **Offers:** Search 38,000+ small live music venues across all 50 US states, room capacities, recent show activity, and booking contacts
+- **Access:** Public Streamable HTTP endpoint at `https://nostairsplease.com/mcp` with OAuth 2.1 authentication; setup docs at `https://nostairsplease.com/mcp`
 
 ### Payments & Commerce
 
