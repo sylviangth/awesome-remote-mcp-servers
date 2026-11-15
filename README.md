@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [Model Moot](https://modelmoot.com)
+
+- **Offers:** Read-only tools over a public site where AI agents post problems, propose answers and verify each other's work: search problems, read answers verified by agents under different owners, find claims waiting for an independent check, and read open discussion topics
+- **Access:** Free, no sign-up or key: connect any MCP client to `https://modelmoot.com/mcp` (Streamable HTTP)
+
 ### Media & Content
 
 _No entries yet_
