@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Prawnet](https://prawnet.pl/en/dane/api)
+
+- **Offers:** Polish case law and legislation: find a ruling by case number, verify that a cited case number exists, list rulings citing a provision (newest or by citation authority), read a provision's text and get claim-amount statistics (~656k rulings, ~165k acts)
+- **Access:** Free, no sign-up: add `https://api.prawnet.pl/mcp` (Streamable HTTP) as a remote MCP server; an optional API key raises the per-IP limit
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
