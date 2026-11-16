@@ -131,7 +131,7 @@ _No entries yet_
 
 #### [DC Hub](https://dchub.cloud/mcp)
 
-- **Offers:** DC Hub is the live data layer for data-center site selection. Its DCPI is a daily score of where data centers can get grid power, across 300+ markets. 94 MCP tools.
+- **Offers:** DC Hub is the live data layer for data-center site selection. Its DCPI is a daily score of where data centers can get grid power, across 300+ markets. 96 MCP tools.
 - **Access:** Remote endpoint at `https://dchub.cloud/mcp`. Free tier, no signup; optional X-API-Key. In the official MCP Registry. MIT.
 
 ### Developer Tools
