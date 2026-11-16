@@ -108,7 +108,10 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [Pakish.NET Hosting](https://pakish.net/for-agents)
+
+- **Offers:** Shared hosting plan comparison, published renewal terms, and nonbinding estimates after customer consent.
+- **Access:** Connect to `https://pakish.net/api/agent-commerce/mcp` over Streamable HTTP. The public catalog is free to read and requires no account.
 
 ### Databases & Storage
 
