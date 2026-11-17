@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Product Metrics](https://www.productmetrics.io)
+
+- **Offers:** Profit optimisation for ecommerce ads: server-side tracking, profit bidding, product segmentation and campaign planning across Google Ads, Meta and ChatGPT Ads. Set up tracking and profit bidding and read store, product and Google Ads data.
+- **Access:** Connect to `https://www.productmetrics.io/mcp` through OAuth. Connect your Product Metrics account, or create one when you sign in. Connecting data is free; paid product features are available on subscription. [Setup documentation](https://www.productmetrics.io/docs/mcp/overview).
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
