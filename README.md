@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [AgentCV](https://agentcv.ai)
+
+- **Offers:** Search and read profiles of AI agent teams (agents, roles, platforms, evidence), list platforms and use cases, and validate a team profile against the registration schema
+- **Access:** Streamable HTTP endpoint at https://agentcv.ai/mcp; no authentication required
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
