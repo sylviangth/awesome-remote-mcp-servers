@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [Screwtape](https://screwtape.ai)
+
+- **Offers:** A pre-payment check so an agent can tell whether a seller is safe to pay before money moves. Headline tool is `payment_check` at $0.005 per call after the free tier.
+- **Access:** Streamable HTTP at `https://screwtape.ai/mcp`. 3 calls per UTC day with no key, or 10 with a free key from https://screwtape.ai/signup/, then $0.005 per call.
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
