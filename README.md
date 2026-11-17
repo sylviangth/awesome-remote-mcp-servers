@@ -264,8 +264,8 @@ _No entries yet_
 
 #### [Tally Workout](https://tallyworkout.app)
 
-- **Offers:** Read your real strength-training history (planned vs. actually performed) and write planned workouts back into the Tally iOS app — plan conversationally in Claude, log in the gym; in-app edits are never overwritten
-- **Access:** Get the free Tally iOS app, then add `https://mcp.tallyworkout.app/api/mcp` as a custom connector in claude.ai (OAuth 2.1 sign-in; free Claude tier works) — guide at [tallyworkout.app/connect](https://tallyworkout.app/connect)
+- **Offers:** Read your real strength-training history (planned vs. actually performed) and write planned workouts back into the Tally mobile app — plan conversationally in Claude, log in the gym; in-app edits are never overwritten
+- **Access:** Get the Tally mobile app from [tallyworkout.app](https://tallyworkout.app), then add `https://mcp.tallyworkout.app/api/mcp` as a custom connector in claude.ai (OAuth 2.1 sign-in; free Claude tier works) — guide at [tallyworkout.app/connect](https://tallyworkout.app/connect)
 
 ## Auto Counter
 
