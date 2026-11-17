@@ -185,6 +185,11 @@ _No entries yet_
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [ReviewTactic](https://reviewtactic.com/mcp/)
+
+- **Offers:** Finds a business on Google, reads its recent negative Google reviews and marks the ones that may break Google's review rules, and checks its Google Maps rank for a search term. Can email the flagged list to an address the user types
+- **Access:** Free, remote, no authentication required. Server URL: `https://api.reviewtactic.com/functions/v1/mcp` (Streamable HTTP)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
