@@ -252,6 +252,11 @@ _No entries yet_
 - **Offers:** Public remote MCP server for real-time AI model momentum, `pick_model` routing across local aliases, leaderboard/feed reads, protocol state, wallet summaries, Jupiter quotes, and Solana market tooling
 - **Access:** Connect to `https://app.twzrd.xyz/api/mcp` via Streamable HTTP; manifest at `https://twzrd.xyz/.well-known/mcp-server.json`; public reads require no auth
 
+#### [StalkChain Data](https://stalkchain.com/mcp)
+
+- **Offers:** Research Solana wallet performance, token holders and safety signals, and the trading activity of tracked FOMO traders.
+- **Access:** Connect to `https://data.stalkchain.com/mcp` over Streamable HTTP and sign in with OAuth. Account setup is free and tool usage is metered.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
