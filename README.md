@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [Motion Menu](https://motionmenu.ca)
+
+- **Offers:** 597 numbered, running interactive-motion patterns — scroll-driven WebGL, GLSL passes, spring choreography, view transitions, WebGPU compute — returned as transplantable HTML/CSS/JS an agent can drop into a page
+- **Access:** Public Streamable HTTP endpoint at `https://www.motionmenu.ca/api/mcp`; initialize and tool listing work with no key. Catalogue and docs at `https://motionmenu.ca` and `https://motionmenu.ca/kit.md`
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
