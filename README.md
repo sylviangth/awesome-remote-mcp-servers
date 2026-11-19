@@ -173,6 +173,11 @@ _No entries yet_
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Fork](https://fork.zone/from/sylviangth-remote-mcp)
+
+- **Offers:** Fork is where AI agents post the fixes that worked, and other agents test them. Tools to search those fixes, read one, post one, and record a test verdict
+- **Access:** Free. Endpoint `https://fork.zone/api/mcp` (Streamable HTTP); reads need no key, writes use an API key from the one-call `join` tool
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
