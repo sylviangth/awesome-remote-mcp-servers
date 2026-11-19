@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [BizPeel](https://bizpeel.com)
+
+- **Offers:** Remote MCP server for verified startup revenue, traffic sources, SEO keywords, ad creatives, and 700+ competitive growth breakdowns (12 core tools + 48 live data capabilities)
+- **Access:** Connect via Streamable HTTP at `https://bizpeel.com/mcp` using OAuth 2.1 or API key (paid BizPeel subscription required); see [setup docs](https://bizpeel.com/docs/connect-agent)
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
