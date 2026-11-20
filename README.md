@@ -240,6 +240,11 @@ _No entries yet_
 - **Offers:** Access to Square's APIs for payments, orders, inventory, and customer management
 - **Access:** OAuth authentication with your Square account required
 
+#### [OsmO Travel eSIM](https://esim.getosmo.app)
+
+- **Offers:** Travel eSIM data plan comparison for a trip (including multi-country), phone eSIM support checks, trip data estimates, carrier roaming-pass comparison, and eSIM setup help
+- **Access:** Server available at `https://esim.getosmo.app/mcp` (Streamable HTTP), no authentication or sign-in required; free to use
+
 ### Finance & Crypto
 
 #### [Chainflip Broker](https://chainflip-broker.io)
