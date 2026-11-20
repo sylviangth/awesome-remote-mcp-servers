@@ -108,7 +108,10 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [Watchtower](https://watchtower.cerebrixos.com)
+
+- **Offers:** Findings, reports and compliance assessments across the reliability, change safety, security and cloud cost of your code and clouds, and starting scans. Read and scan only
+- **Access:** Needs a Watchtower account (sign up by installing the Watchtower GitHub App). Connect to `https://watchtower.cerebrixos.com/mcp` (Streamable HTTP) and sign in with OAuth through GitHub or Microsoft
 
 ### Databases & Storage
 
@@ -116,6 +119,11 @@ _No entries yet_
 
 - **Offers:** Enterprise content management with 30+ tools including AI-powered document Q&A, summarization, workflow management, advanced search with metadata filtering, and Egnyte Copilot integration
 - **Access:** OAuth authentication required. Server available at `https://mcp-server.egnyte.com/sse`. 
+
+#### [HyperLake](https://hyperlake.cloud)
+
+- **Offers:** Manage a HyperLake data lake: clusters, catalogs, access policy, apps and agents, with the signed-in user's permissions
+- **Access:** Needs a HyperLake account (paid plan or trial). Connect to `https://mcp.hyperlake.cloud/hyperlake-mcp` (Streamable HTTP) and sign in with OAuth
 
 ### Data & Analytics
 
@@ -128,6 +136,11 @@ _No entries yet_
 
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
+
+#### [PulseLake Experience Ops](https://pulselake.co)
+
+- **Offers:** Create and review AI surveys, read submissions and respondents, and chat with Agent Copilots
+- **Access:** Needs a PulseLake account (paid plan or trial). Connect to `https://mcp.pulselake.co/pulselake-experience-mcp` (Streamable HTTP) and sign in with OAuth
 
 ### Developer Tools
 
@@ -165,6 +178,11 @@ _No entries yet_
 
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
+
+#### [Trazio](https://trazio.cerebrixos.com)
+
+- **Offers:** Read-only questions over your logs, metrics, traces, security events, robot runs and video, limited to the pipelines you were given
+- **Access:** Needs a Trazio account (paid plan or trial). Connect to `https://trazio.cerebrixos.com/mcp` (Streamable HTTP) and sign in with OAuth
 
 ### Knowledge & Memory
 
@@ -206,6 +224,11 @@ _No entries yet_
 
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
+
+#### [Forward Deployed](https://forwardeployed.work)
+
+- **Offers:** Research, strategy, financial models and decks, with each job priced and approved before it runs
+- **Access:** Needs a Forward Deployed account (paid credits or trial). Connect to `https://forwardeployed.work/mcp` (Streamable HTTP) and sign in with OAuth
 
 ### Communication & Collaboration
 
