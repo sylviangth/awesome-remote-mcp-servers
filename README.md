@@ -108,7 +108,10 @@ See MindPal agents in action with:
 
 ### Cloud Platforms
 
-_No entries yet_
+#### [Watchtower](https://watchtower.cerebrixos.com)
+
+- **Offers:** Findings, reports and compliance assessments across the reliability, change safety, security and cloud cost of your code and clouds, and starting scans. Read and scan only
+- **Access:** Needs a Watchtower account (sign up by installing the Watchtower GitHub App). Connect to `https://watchtower.cerebrixos.com/mcp` (Streamable HTTP) and sign in with OAuth through GitHub or Microsoft
 
 ### Databases & Storage
 
