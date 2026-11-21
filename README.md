@@ -166,6 +166,11 @@ _No entries yet_
 - **Offers:** Multi-model AI brainstorming — consult a council of AI models that debate your question, then a moderator synthesizes the best answer. 13 tools including consult_council, review_code, debug_issue, design_architecture, plan_implementation, and assess_tradeoffs
 - **Access:** Streamable HTTP endpoint at `https://mcp.roundtable.now/mcp`. See [GitHub](https://github.com/sinaneshat/roundtable-dashboard) for more details
 
+#### [WhatsDownNow](https://whatsdownnow.com/developers)
+
+- **Offers:** Live outage status for 250 apps, cloud platforms, and AI APIs (OpenAI, Anthropic, Gemini, Grok), healthy AI API fallbacks, and alert stacks.
+- **Access:** Free, no-auth Streamable HTTP endpoint at `https://whatsdownnow.com/mcp`.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
