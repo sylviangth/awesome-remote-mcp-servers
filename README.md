@@ -224,6 +224,11 @@ _No entries yet_
 - **Offers:** Email infrastructure for AI agents — provision inboxes on demand, send and receive email, manage concurrent threads, custom domains, structured extraction on inbound mail, and SMS. Built for agents, not humans — no SMTP config, no Gmail wrappers.
 - **Access:** API key auth via `COMMUNE_API_KEY`. Install: `uvx commune-mcp`
 
+#### [GramClaw — Telegram MCP](https://gramclaw.com/en/telegram-mcp)
+
+- **Offers:** Search Telegram chats and propose messages, campaigns and CRM updates from your own connected Telegram accounts. Every remote MCP write waits for one-click approval in GramClaw.
+- **Access:** Hosted Streamable HTTP at `https://gramclaw.com/api/mcp?key=<YOUR_API_KEY>`. Create a scoped API key in GramClaw Settings → API / MCP. Subscription or trial required.
+
 ### Media & Content
 
 _No entries yet_
