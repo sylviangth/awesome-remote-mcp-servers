@@ -226,7 +226,10 @@ _No entries yet_
 
 ### Media & Content
 
-_No entries yet_
+#### [OpenShorts.io MCP](https://openshorts.io/api)
+
+- **Offers:** Clip YouTube videos into captioned vertical shorts; check jobs, clips, and plan usage.
+- **Access:** Streamable HTTP at `https://openshorts.io/api/mcp`; requires an OpenShorts.io account and API key. Processing consumes plan minutes; free availability may vary.
 
 ### Payments & Commerce
 
