@@ -691,6 +691,10 @@ See MindPal agents in action with:
 
 - **Offers:** Go-to-market planning tools: analyse any website for growth plays, read and update a ranked growth plan, list buyer conversations from Reddit, LinkedIn and X and draft replies (the user posts them), manage a watchlist and read connected integrations. Paid service ($97/month, 7-day free trial); `analyze_site` works for anyone who connects
 - **Access:** Server available at `https://gtm.help/mcp` (Streamable HTTP) with OAuth 2.1 and dynamic client registration; sign in with a gtm.help account on first use
+#### [RestoSignals MCP](https://restosignals.com/restoapi)
+
+- **Offers:** US restaurants and bars 1-6 months before they open, fused from public liquor-license, food-permit and new-business filings into scored venues (`opening_score` 0-100) with owner contact; tools `coverage`, `new_openings`, `venue_signals`, `watch_area` (webhook)
+- **Access:** Streamable HTTP endpoint `https://api.restosignals.com/mcp`; get a free API key (no card) at restosignals.com/signup and send it in the `X-API-Key` header. Owner contact needs a paid plan
 
 ### Search & Data Extraction
 
