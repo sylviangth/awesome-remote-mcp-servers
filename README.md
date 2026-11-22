@@ -612,6 +612,10 @@ See MindPal agents in action with:
 
 - **Offers:** Contact book with follow-ups, event pages with ticketing, notes and email, from any MCP client
 - **Access:** Free account, no card; on the Free plan ticket sales carry a 3% Connections fee (none on paid plans), paid out on the host's own Stripe. Server at `https://studio.connections.icu/v1/mcp` (Streamable HTTP) with OAuth sign-in to your Connections account
+#### [Subtraq MCP](https://subtraq.co/en/mcp)
+
+- **Offers:** Create short links, track clicks and attribute sales to the placement that brought them: 8 tools covering workspaces, links, analytics and sales
+- **Access:** Server available at `https://subtraq.co/api/mcp` with API key authentication (`Authorization: Bearer stq_sk_…`). Create the key in Subtraq under Settings → API Keys; free plan, no credit card
 
 ### Search & Data Extraction
 
