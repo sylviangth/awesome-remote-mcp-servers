@@ -314,6 +314,10 @@ See MindPal agents in action with:
 
 - **Offers:** B2B lead search, a company's employees, verified work emails, email enrichment, LinkedIn profile lookup and lead lists
 - **Access:** Add `https://app.loice.ai/mcp` as a remote connector and sign in with OAuth 2.1 (Streamable HTTP). Billed per lookup in workspace points; new workspaces start with free points
+#### [FairValid](https://fairvalid.com/en/help/mcp)
+
+- **Offers:** Verify email addresses, read verification job results, and find verified work emails with FairMatch.
+- **Access:** Connect to `https://mcp.fairvalid.com/mcp` over Streamable HTTP and authorize a FairValid workspace with OAuth. The free plan includes 300 shared credits per month.
 
 ### Search & Data Extraction
 
