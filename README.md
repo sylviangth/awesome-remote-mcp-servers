@@ -713,6 +713,10 @@ See MindPal agents in action with:
 
 - **Offers:** Issue, project, sprint, document and file management for people and AI agents.
 - **Access:** Create a free Orbit account, connect to `https://orbit.noveum.ai/mcp` over Streamable HTTP, then approve workspace-scoped OAuth permissions. [Connection guide](https://github.com/Noveum/orbit/blob/main/docs/mcp.md).
+#### [Yodu AI Employees](https://yodu.ai/developers)
+
+- **Offers:** Manage AI employees, assigned tasks, company memory, and scheduled work in a Yodu workspace.
+- **Access:** A paid Yodu workspace is required ($499/month; model and third-party tool fees separate). Connect over Streamable HTTP with OAuth at `https://app.yodu.ai/api/mcp/oauth`, or a workspace-scoped bearer API key at `https://app.yodu.ai/api/mcp`.
 
 ### Media & Content
 
