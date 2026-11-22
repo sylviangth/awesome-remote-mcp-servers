@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**24 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-24-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -216,6 +216,10 @@ _No entries yet_
 
 - **Offers:** Structured JSON from 248 websites (Google Maps, Zillow, Indeed, Airbnb, Booking.com, Google Search and more) through three tools: `search_endpoints`, `get_endpoint`, `call_endpoint`
 - **Access:** Streamable HTTP at `https://api.perceptlayer.com/mcp` with `Authorization: Bearer <API_KEY>` (searching is free without a key). Sign up at [perceptlayer.com](https://perceptlayer.com) for 1,000 free credits a month; paid packs from $15, failed calls free
+#### [Recall Kitchen](https://recallkitchen.com/docs/#mcp)
+
+- **Offers:** Hosted MCP for searching government product recall notices from CPSC, FDA, USDA, NHTSA, and Health Canada (keyword, UPC, product name, and vehicle make/model lookup, plus full-notice fetch)
+- **Access:** Streamable HTTP at `https://app.recallkitchen.com/mcp`. Free API key via `X-API-Key`, or anonymous free tier plus paid x402 after quota
 
 ### Communication & Collaboration
 
