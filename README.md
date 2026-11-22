@@ -126,6 +126,10 @@ See MindPal agents in action with:
 
 - **Offers:** 71 tools to rent and manage KVM virtual machines, managed databases (PostgreSQL, MySQL, MariaDB, Valkey), private networks, firewalls and load balancers in Montréal, Canada, billed by the hour in CAD
 - **Access:** Server at `https://ffxf.net/mcp` (Streamable HTTP). Catalogue tools work without a key; everything else takes an `Authorization: Bearer` header with an FFxF API key, whose scopes limit what the agent can do
+#### [ZapX MCP](https://zap-hosting.com/en/mcp)
+
+- **Offers:** Manage your ZAP-Hosting game servers, VPS and TeamSpeak servers from your AI client: status, console and logs, config files, backups and restore, and plan changes with a price preview. Per-connection permissions; the client asks for confirmation before critical actions.
+- **Access:** Server available at `https://zap-hosting.com/api/mcp` with OAuth authentication (ZAP-Hosting account). Included with ZapX Pass Plus and above. Setup guides for Claude, ChatGPT, Cursor, Gemini, VS Code and Windsurf on the [MCP page](https://zap-hosting.com/en/mcp).
 
 ### Databases & Storage
 
