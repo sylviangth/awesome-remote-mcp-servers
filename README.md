@@ -133,6 +133,10 @@ _No entries yet_
 
 - **Offers:** Free access to owned-site Google Search Console and Bing Webmaster data, including search performance and URL inspection
 - **Access:** Streamable HTTP at `https://crakseo.com/mcp/search-console`; CrakSEO OAuth or a scoped API key, plus authorization for the user's own Google or Bing properties
+#### [Dutiful](https://dutiful.work/developers)
+
+- **Offers:** Cited company background reports for agents and a free registry coverage check. US coverage is limited to SEC-reporting entities; Canada to federal corporations. The company-level screen covers the OFAC SDN and UK Sanctions List; EU and UN lists are not screened.
+- **Access:** Connect to `https://dutiful.work/mcp` via Streamable HTTP. Company Reports cost $3.00 USDC on Base via x402. `create_order` returns payment requirements and does not pay; payment requires a separate wallet-signing/payment step. [Sample report](https://dutiful.work/sample/sainsburys).
 
 ### Developer Tools
 
