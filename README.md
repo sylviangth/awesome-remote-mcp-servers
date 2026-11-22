@@ -931,9 +931,6 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Public social media data as JSON, including profiles, posts, comments, transcripts and search results
 - **Access:** Connect to `https://api.socialfetch.dev/mcp` with OAuth or a bearer key. New accounts get 100 free credits, no card.
 
-
-
-
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
