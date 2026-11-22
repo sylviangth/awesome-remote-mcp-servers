@@ -835,6 +835,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search and compare wellness, home and professional services in Costa Rica, read provider profiles, check availability, discover classes and events, and prepare booking requests for customer confirmation
 - **Access:** Connect to `https://app.wellfred.com/api/agent/mcp` using Streamable HTTP; no API key or account is required for discovery. [Agent guide](https://app.wellfred.com/agents.md). Provider services have their own prices; booking preparation returns a verification and confirmation link, not a confirmed appointment
+#### [NeuralVerge MCP](https://docs.neuralverge.ai/mcp-server)
+
+- **Offers:** Web search, URL-to-JSON extraction against a caller-supplied schema, and structured data from 300+ sources (company registries, marketplaces, product reviews, funding data, contact enrichment), exposed as 342 tools
+- **Access:** Server available at `https://mcp.neuralverge.ai/mcp` (Streamable HTTP). Sign in with OAuth (clients that support MCP authorization discover it automatically) or send an `Authorization: Bearer <API_KEY>` header. Get your API key at [app.neuralverge.ai](https://app.neuralverge.ai); paid plans start at $50/month
 
 ### Communication & Collaboration
 
