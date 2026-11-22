@@ -378,6 +378,10 @@ See MindPal agents in action with:
 
 - **Offers:** Finds current coupon codes, promo codes, deals and discounts for stores and products
 - **Access:** Connect to `https://mcclipface.com/mcp/read` via Streamable HTTP. No authentication required.
+#### [Shop Your Color Season MCP](https://shopyourcolorseason.com/connect-ai)
+
+- **Offers:** Clothes search across many shops by garment, brand, size, price or occasion, with colour season as an optional filter. Also product details, brand and shop lists, cheaper look-alikes and second-hand listings
+- **Access:** Remote MCP server at `https://shopyourcolorseason.com/mcp` (Streamable HTTP). No authentication required for search; the wardrobe tools need a subscriber sign-in via OAuth
 
 ### Finance & Crypto
 
