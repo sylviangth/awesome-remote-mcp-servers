@@ -1077,6 +1077,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search US stores for cashback rates and coupon codes, and get a tracked activation link
 - **Access:** Hosted Streamable HTTP endpoint at `https://tenmomo.com/mcp`. No authentication required
+#### [3Descu 3D Printing Quotes](https://quote.3descu.com/ai-agents/)
+
+- **Offers:** Instant FDM and SLA 3D printing quotes from an ISO 9001:2015 certified EU factory: list materials, measure an STL or OBJ from a public link and get a price in EUR with production days (read-only)
+- **Access:** Server available at `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp` (Streamable HTTP), no authentication required
 
 ### Finance & Crypto
 
