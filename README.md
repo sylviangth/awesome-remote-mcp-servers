@@ -500,6 +500,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** OAuth-protected remote control of computers explicitly paired by their owners, including file management, terminal, browser and native desktop automation, and diagnostics; operations can change device state
 - **Access:** Sign in and pair a device; connect Streamable HTTP at `https://remcp.site/mcp`, using the [public client and documentation](https://github.com/getremcp/remcp)
 
+#### [LumiCloud](https://lumicloud.ai/docs/mcp)
+
+- **Offers:** Linux sandboxes for AI agents: run commands and Python or JavaScript, read and write files, open ports, pause and resume
+- **Access:** Create an API key in the LumiCloud console, then connect to `https://mcp.lumicloud.dev/mcp` (Streamable HTTP) with the key in the `X-API-Key` or `Authorization: Bearer` header
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
