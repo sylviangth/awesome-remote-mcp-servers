@@ -402,6 +402,10 @@ See MindPal agents in action with:
 
 - **Offers:** Scrapes, cleans and matches product and price data from any website, with Google search, Amazon, idealo and local business tools
 - **Access:** Server available at `https://mcp.scrapewise.ai/mcp` (Streamable HTTP) with OAuth sign-in or an `Authorization: Bearer <API key>` header. Free trial of 5 requests, then usage-based pricing
+#### [Prawnet](https://prawnet.pl/en/dane/api)
+
+- **Offers:** Polish case law and legislation: find a ruling by case number, verify that a cited case number exists, list rulings citing a provision (newest or by citation authority), read a provision's text and get claim-amount statistics (~656k rulings, ~165k acts)
+- **Access:** Free, no sign-up: add `https://api.prawnet.pl/mcp` (Streamable HTTP) as a remote MCP server; an optional API key raises the per-IP limit
 
 ### Communication & Collaboration
 
