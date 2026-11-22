@@ -365,6 +365,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search of 170,000+ open US healthcare job postings read daily from about 270 employers' career sites, job details, posted hourly pay by kind of job, employers, states and kinds of job
 - **Access:** Free remote endpoint at `https://carejobs.now/api/mcp` (Streamable HTTP). No API key, read-only, with public docs at `https://github.com/yumaheymans/carejobs-mcp`
+#### [GSCmate](https://gscmate.com)
+
+- **Offers:** Read-only Google Search Console properties, Search Analytics, sitemaps, and URL inspection for AI agents.
+- **Access:** Connect to https://gscmate.com/mcp over Streamable HTTP and complete Google OAuth 2.1 with a Google account that has Search Console access. GSCmate is a paid service. Support: info@gscmate.com.
 
 ### Developer Tools
 
