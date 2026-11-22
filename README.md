@@ -723,6 +723,11 @@ See MindPal agents in action with:
 
 - **Offers:** AI video, image, and audio generation and editing tools through a hosted MCP server
 - **Access:** Connect to `https://mcp.magichour.ai/` with a Magic Hour API key; see the [connection guide](https://github.com/magichourhq/magic-hour-mcp/blob/main/user.md) for OAuth and bearer-token setup
+#### [Motomarks](https://motomarks.io/docs/mcp)
+
+- **Offers:** Hosted MCP access to a published automotive brand library: search brands, read brand metadata, and build normalized logo CDN URLs
+- **Access:** Streamable HTTP at `https://motomarks.io/api/mcp`. OAuth 2.1 in the browser, or a Motomarks API key. Free accounts are available; paid plans raise the daily request limit
+
 
 ### Payments & Commerce
 
