@@ -11,6 +11,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -331,6 +335,11 @@ See MindPal agents in action with:
 
 - **Offers:** Designs App Store and Google Play screenshots in the AppScreen browser editor: slides, iPhone/iPad/Android frames, captions, backgrounds, the app's own screenshots, PNG export at store sizes, saved projects and share links
 - **Access:** Streamable HTTP endpoint at `https://appscreen.pro/mcp` with OAuth sign-in. Setup for Claude, Cursor, VS Code and others at [appscreen.pro/mcp](https://appscreen.pro/mcp)
+#### [Vidmoat](https://www.vidmoat.com)
+
+- **Offers:** Hosted AI video editor for agents: import footage, edit a reviewable timeline, and render MP4s; official remote MCP (`com.vidmoat/vidmoat`) for Claude/Cursor; Telegram bot @vidmoat_bot
+- **Access:** OAuth / authenticated MCP. Endpoint: `https://api.vidmoat.com/api/mcp`
+
 
 ### Payments & Commerce
 
