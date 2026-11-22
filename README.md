@@ -673,6 +673,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search 8,500+ airport lounges worldwide and check which ones a credit card, membership, airline status or ticket class gets you into, with amenities, hours, terminal and reviews, plus network comparisons across Priority Pass, LoungeKey, DragonPass, Plaza Premium and Centurion
 - **Access:** Free. Streamable HTTP at `https://mcp.airportloungelist.com/mcp`; the eight lounge-data tools need no account, and OAuth 2.1 with dynamic client registration unlocks visit logging, reviews and a wishlist
+#### [SentryDock](https://www.sentrydock.com/agents)
+
+- **Offers:** Search indexed news, create topic monitors, and receive signed webhook alerts with source links.
+- **Access:** Connect to `https://www.sentrydock.com/mcp` using OAuth (dynamic client registration and PKCE) or an API key. A paid plan is required for news and monitoring tools; discovery and account status are available before payment. See [pricing](https://www.sentrydock.com/pricing).
 
 ### Communication & Collaboration
 
