@@ -683,6 +683,10 @@ See MindPal agents in action with:
 
 - **Offers:** Drafts LinkedIn, X and Reddit posts in the account owner's measured writing voice from saved product and buyer context, checks any draft for AI phrasing and unsourced claims, and records the owner's approval
 - **Access:** Server available at `https://api.klype.ai/api/v1/mcp` (Streamable HTTP) with OAuth 2.1 sign-in to a Klype account, or a Klype API key
+#### [gtm.help MCP](https://github.com/consultilycom-lang/gtm-help-mcp)
+
+- **Offers:** Go-to-market planning tools: analyse any website for growth plays, read and update a ranked growth plan, list buyer conversations from Reddit, LinkedIn and X and draft replies (the user posts them), manage a watchlist and read connected integrations. Paid service ($97/month, 7-day free trial); `analyze_site` works for anyone who connects
+- **Access:** Server available at `https://gtm.help/mcp` (Streamable HTTP) with OAuth 2.1 and dynamic client registration; sign in with a gtm.help account on first use
 
 ### Search & Data Extraction
 
