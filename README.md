@@ -2,39 +2,12 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**115 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
-
-<div align="center">
-
-🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
-
-<div align="center">
-
-🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
-
-<div align="center">
-
-🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
-
-<div align="center">
-
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-🚀 <!-- MCP_COUNT -->**37 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
-
-<div align="center">
-
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-37-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
-
-<div align="center">
-
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
-![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-115-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
 
@@ -117,7 +90,6 @@ See MindPal agents in action with:
 - **Offers:** 340+ autonomously-built utility tools for AI agents: unit conversion, text processing, data parsing, encoding, math, cryptography, and more. New tools added continuously via autonomous build pipeline.
 - **Access:** No authentication required. Use the server URL directly: `https://api.usefulai.fun/mcp`
 
-
 #### [Supermachine Public MCP Servers](https://supermachine.ai/public-mcp-servers)
 
 - **Offers:** Access to 3939+ public MCP servers by spinning up virtual machines that run these MCP servers with minimal configuration
@@ -137,10 +109,11 @@ See MindPal agents in action with:
 
 - **Offers:** Business-data lookups from 300+ providers through one remote MCP server: work emails, email checks, phone numbers, company and people enrichment, Google results, web search, web pages as text and local businesses. Paid per call from a prepaid balance (minimum top-up $5).
 - **Access:** Add `https://api.looot.ai/mcp` to your MCP client and sign in with OAuth in the browser, or send a looot API key as a Bearer token
+
 #### [OpenAny](https://mcp.openany.si)
+
 - **Offers:** The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo, Kling, and more). Searching and checking prices is free; you pay per call.
 - **Access:** Connect over Streamable HTTP to `https://mcp.openany.si`. Browsing, search, and price checks need no key. Sign up at [openany.si](https://openany.si) for an API key only when you want to run a call.
-
 
 ### Cloud Platforms
 
@@ -148,6 +121,7 @@ See MindPal agents in action with:
 
 - **Offers:** 71 tools to rent and manage KVM virtual machines, managed databases (PostgreSQL, MySQL, MariaDB, Valkey), private networks, firewalls and load balancers in Montréal, Canada, billed by the hour in CAD
 - **Access:** Server at `https://ffxf.net/mcp` (Streamable HTTP). Catalogue tools work without a key; everything else takes an `Authorization: Bearer` header with an FFxF API key, whose scopes limit what the agent can do
+
 #### [ZapX MCP](https://zap-hosting.com/en/mcp)
 
 - **Offers:** Manage your ZAP-Hosting game servers, VPS and TeamSpeak servers from your AI client: status, console and logs, config files, backups and restore, and plan changes with a price preview. Per-connection permissions; the client asks for confirmation before critical actions.
@@ -181,50 +155,62 @@ See MindPal agents in action with:
 
 - **Offers:** Free access to owned-site Google Search Console and Bing Webmaster data, including search performance and URL inspection
 - **Access:** Streamable HTTP at `https://crakseo.com/mcp/search-console`; CrakSEO OAuth or a scoped API key, plus authorization for the user's own Google or Bing properties
+
 #### [Dutiful](https://dutiful.work/developers)
 
 - **Offers:** Cited company background reports for agents and a free registry coverage check. US coverage is limited to SEC-reporting entities; Canada to federal corporations. The company-level screen covers the OFAC SDN and UK Sanctions List; EU and UN lists are not screened.
 - **Access:** Connect to `https://dutiful.work/mcp` via Streamable HTTP. Company Reports cost $3.00 USDC on Base via x402. `create_order` returns payment requirements and does not pay; payment requires a separate wallet-signing/payment step. [Sample report](https://dutiful.work/sample/sainsburys).
+
 #### [JobsPipe MCP](https://docs.jobspipe.dev/ai-agents/mcp)
 
 - **Offers:** Live job postings from 30+ ATS feeds and job boards in one normalized schema: search and fetch postings, filter by location, salary, seniority, skills and visa stance, and save searches as alerts by email, Slack or webhook
 - **Access:** Add `https://mcp.jobspipe.dev/mcp` (Streamable HTTP) and sign in with OAuth, or send `Authorization: Bearer jp_live_...` with a key from the [JobsPipe dashboard](https://jobspipe.dev/dashboard). Free plan with 1,000 credits, no card; paid plans for more
+
 #### [Verrow](https://github.com/BradenTabor/verrow-mcp)
 
 - **Offers:** Sourced rural public data for AI agents: zoning, permits, recent decisions, soil, wind, airspace, licenses, and cited site reports
 - **Access:** Hosted Streamable HTTP endpoint at `https://api.verrow.ai/mcp`. Free discovery tools; paid tools use x402 USDC on Base mainnet or a prepaid API key. UNKNOWN or not covered responses are not charged
+
 #### [Space Mushroom](https://spacemushroom.com)
 
 - **Offers:** Read-only materials data for metals, polymers, ceramics, composites and space materials, with units, test conditions, method and source for each value. 11 tools: find_materials, search_materials, get_material, compare, list_properties, list_claims, prove_claim, what_is_missing, resolve_designation, search_sources, get_term
 - **Access:** Free, no authentication. Streamable HTTP endpoint at `https://spacemushroom.com/mcp`. See [GitHub](https://github.com/simulsarker007/space-mushroom-mcp) for more details
+
 #### [Contract10 MCP](https://www.contract10.com)
 
 - **Offers:** Extracts the dates and contingency periods from a signed US real estate purchase contract (PDF), each with its page and quoted line, and computes the closing deadlines from them. A closing-timeline tool computes deadlines from dates alone
 - **Access:** Hosted endpoint at `https://www.contract10.com/api/mcp`. `build_closing_timeline` needs no key; the other tools need an API key. Free plan is $0 for one active transaction; Pro is $49 a month for unlimited transactions. Docs at `https://www.contract10.com/docs/api`
+
 #### [Vaneform](https://vaneform.com)
 
 - **Offers:** Free website traffic lookups — monthly visits, traffic sources, top countries, and domain compares via MCP tools
 - **Access:** Hosted MCP endpoint at `https://vaneform.com/mcp` with docs at `https://github.com/jiangqizheng/vaneform-mcp`
+
 #### [Fonciq](https://mcp.fonciq.ca)
 
 - **Offers:** Québec Land Registry (Registre foncier) data for real-estate professionals. Independent, not government-affiliated
 - **Access:** Remote endpoint `https://mcp.fonciq.ca/v1/` (Streamable HTTP, OAuth sign-in with a Fonciq account); API also available at `https://fonciq.ca`
+
 #### [Glypse](https://glypse.ai/mcp-server)
 
 - **Offers:** Prediction market research that lets agents scan thousands of markets and draw on millions of analyzed posts.
 - **Access:** Create a free Glypse account, connect to `https://mcp.glypse.ai` using Streamable HTTP, then sign in through OAuth. [Setup instructions](https://glypse.ai/help/mcp-server).
+
 #### [Power Players](https://powerplayers.app)
 
 - **Offers:** Citizen ratings of US federal and state officials and candidates (personality, policy, effectiveness, with sample counts and dates), rating trends, side-by-side comparisons and official voter-registration links. Signed-in users can also find their representatives by ZIP, rate people, keep a ballot and contact their representatives, with a preview before every action.
 - **Access:** Free. Public read-only endpoint at `https://powerplayers.app/api/mcp/v1` (Streamable HTTP, no authentication). Account endpoint at `https://powerplayers.app/api/mcp/account` (OAuth 2.1 with dynamic client registration). Docs at `https://github.com/Playpowerpolitics/powerplayers-mcp`
+
 #### [KissMyPost](https://kissmypost.com/mcp)
 
 - **Offers:** Read-only Reddit audience research: subreddit search by topic, member growth, audience demographics, best time to post, posting rules and brand mention counts since 2005
 - **Access:** Add `https://kissmypost.com/api/mcp` as a remote server and sign in with OAuth, or send an API key from a free account as a Bearer token
+
 #### [BizPeel](https://bizpeel.com)
 
 - **Offers:** Remote MCP server for verified startup revenue, traffic sources, SEO keywords, ad creatives, and 700+ competitive growth breakdowns (12 core tools + 48 live data capabilities)
 - **Access:** Connect via Streamable HTTP at `https://bizpeel.com/mcp` using OAuth 2.1 or API key (paid BizPeel subscription required); see [setup docs](https://bizpeel.com/docs/connect-agent)
+
 #### [IPGeolocation.io MCP Server](https://ipgeolocation.io/integrations/ipgeolocation-io-mcp)
 
 - **Offers:** 16 hosted tools for IP geolocation, company information, ASN and network data, abuse contacts, and IP security (VPN, proxy, Tor, bot, hosting and spam signals). Also covers time zones, astronomy, currency data and user-agent parsing.
@@ -271,34 +257,42 @@ See MindPal agents in action with:
 
 - **Offers:** Trust Scores from 0 to 100 for MCP servers, built from public GitHub, npm and MCP registry data, with tools to search servers and check whether one is safe to install
 - **Access:** Hosted endpoint at `https://www.vouchity.com/api/mcp` needs no login. Browsing is free; an optional Pro plan is $19 a month. API docs at https://www.vouchity.com/api-docs
+
 #### [CurlShot](https://curlshot.com)
 
 - **Offers:** Screenshots of public web pages for agents: `take_screenshot` returns a PNG, JPEG, WebP, PDF or scrolling video (full page, device presets, dark mode, ad and cookie-banner blocking, CSS selector), and `list_devices` lists device presets
 - **Access:** Streamable HTTP endpoint at `https://curlshot.com/api/mcp` with header `Authorization: Bearer <access key>`. Free key at [curlshot.com/register](https://curlshot.com/register) (100 screenshots a month, paid plans from $19/month). See [docs](https://curlshot.com/docs/guides/ai-agents)
+
 #### [ExtensionDash](https://extensiondash.com/)
 
 - **Offers:** Search Chrome Web Store and Firefox Add-ons catalogs; signed-in extension developers can inspect store metrics and keyword positions and manage tracked keywords and competitors
 - **Access:** Hosted Streamable HTTP endpoint at `https://extensiondash.com/mcp`. Public catalog research works without an account (60 requests/minute per IP); account data requires OAuth 2.1 or a user token. The service has a free tier
+
 #### [Joxo](https://joxo.ai)
 
 - **Offers:** A shared project for a team's coding agents (Claude Code, Codex, Cursor and others): a task board, decisions and handoffs
 - **Access:** Streamable HTTP endpoint at `https://joxo.ai/api/mcp` with OAuth 2.1 sign-in. See [GitHub](https://github.com/JoxoAI/joxo) for setup
+
 #### [AANet](https://aanet.space)
 
 - **Offers:** Shared workspace for coordinating multiple AI agents: atomic locks with lease expiry, shared files with ETag conflict detection, messaging, per-agent budgeted sub-keys, webhooks (including low-balance warnings), spend forecast and a server-written audit log. Metered per operation.
 - **Access:** Streamable HTTP endpoint `https://aanet.space/mcp`. No OAuth: call `aanet_create_trial_workspace` for a free 24-hour trial workspace (no payment, no account) and pass the returned key as the `api_key` argument. Real use is prepaid in USDC via x402 (minimum deposit $0.25). Docs: https://aanet.space/AGENTS.md
+
 #### [Termalin](https://termal.in/mcp/)
 
 - **Offers:** Run commands and background jobs, read and write files, query databases and read metrics, alerts and pending security updates on your own Linux servers over SSH, without handing the agent a key (24 tools, per-server command policy, audit log).
 - **Access:** Sign up at https://termal.in/account (Pro plan or 14-day trial), enrol a server with the one-line Connector, then add `https://termal.in/mcp` as a remote MCP server; sign-in is OAuth 2.1 in the browser, or an API key from the account page.
+
 #### [Excession Labs CVE intelligence](https://excessionlabs.ai/cve-intelligence/)
 
 - **Offers:** Six read-only tools to search CVEs and source software/version evidence, read available CISA KEV and dated FIRST EPSS data, inspect source coverage and collection health, and page through hosted revisions or cursor-based changes. Version filters match source assertions; installed-version applicability is not evaluated.
 - **Access:** Free, no account or API key. Connect over Streamable HTTP at `https://excessionlabs.ai/mcp/cve`.
+
 #### [RunLater](https://runlater.app)
 
 - **Offers:** Tools to schedule one-off or recurring HTTP requests, pause, resume, run and delete schedules, and check account status
 - **Access:** Add https://runlater.app/api/mcp as a remote MCP server and sign in with OAuth, or send an API key as a bearer token. Paid plans from $15/month with a 14-day trial
+
 #### [WhatsDownNow](https://whatsdownnow.com/developers)
 
 - **Offers:** Live outage status for 250 apps, cloud platforms, and AI APIs (OpenAI, Anthropic, Gemini, Grok), healthy AI API fallbacks, and alert stacks.
@@ -332,46 +326,57 @@ See MindPal agents in action with:
 
 - **Offers:** Contacts, networks, events and digital business cards for the user's professional network. Search contacts by company, role, city, notes or the event where you met, save and update contacts, merge duplicates, import from CSV, and draft follow-ups. Free and paid plans
 - **Access:** Server available at `https://mcp.connectmachine.ai/mcp` (Streamable HTTP) with OAuth 2.1 sign-in (dynamic client registration); any ConnectMachine account works, including free ones
+
 #### [AgentSEO](https://www.agentseo.dev/seo-mcp-server)
 
 - **Offers:** Keyword research, SERP analysis, backlinks, rank tracking, site audits and AI search visibility for answer engine optimization (AEO).
 - **Access:** Connect to `https://www.agentseo.dev/mcp` over Streamable HTTP. Create an AgentSEO account and use your API key in the `x-api-key` header. Tool calls use credits. The starter plan includes 100 one-time credits, and paid plans start at $9/month.
+
 #### [Distribution MCP](https://distribution.tech/docs)
 
 - **Offers:** Plan and run paid launch distribution on X: creators on sale by audience, all in price per post, campaign plans, approvals inside a spending mandate, proof and results
 - **Access:** Server available at `https://app.distribution.tech/api/mcp` with `Authorization: Bearer <API key>` (create a key on the Developers screen after sign up). A keyless guest endpoint at `https://app.distribution.tech/api/mcp/guest` answers inventory and price range questions
+
 #### [AdMakeAI](https://admakeai.com/agents)
 
 - **Offers:** Generate Meta and TikTok ad images and UGC-style video ads, pull competitors' live ads from the Meta Ad Library, and draft and report on Meta campaigns. Generation spends credits, with 30 free credits at signup
 - **Access:** Server available at `https://admakeai.com/api/mcp` (Streamable HTTP) with OAuth sign-in to your AdMakeAI account, or an API key in the `x-api-key` header from Dashboard > Integrations > API
+
 #### [Genaya MCP](https://developer.genaya.com/mcp)
 
 - **Offers:** Ask about and act on a Genaya business workspace (clients, appointments, estimates, invoices, payments) with seven tools; every change is confirmed by a person
 - **Access:** Connect `https://api.genaya.com/mcp` and sign in with a Genaya account (OAuth 2.1); requires a Genaya account (free trial, then paid plans)
+
 #### [Loice MCP](https://docs.loice.ai/mcp-server)
 
 - **Offers:** B2B lead search, a company's employees, verified work emails, email enrichment, LinkedIn profile lookup and lead lists
 - **Access:** Add `https://app.loice.ai/mcp` as a remote connector and sign in with OAuth 2.1 (Streamable HTTP). Billed per lookup in workspace points; new workspaces start with free points
+
 #### [FairValid](https://fairvalid.com/en/help/mcp)
 
 - **Offers:** Verify email addresses, read verification job results, and find verified work emails with FairMatch.
 - **Access:** Connect to `https://mcp.fairvalid.com/mcp` over Streamable HTTP and authorize a FairValid workspace with OAuth. The free plan includes 300 shared credits per month.
+
 #### [Viewlify](https://viewlify.app/tiktok-data-api)
 
 - **Offers:** Find the TikTok videos that beat their creator's usual views and by how much, plus trending videos and hashtags by niche, from public TikTok data. Read only
 - **Access:** Server available at `https://viewlify.app/api/mcp` (Streamable HTTP). Three tools answer without a key as a 5-result preview; full search needs an API key (`Authorization: Bearer vf_live_xxxx`), free to create in Settings > API & MCP. Pay as you go at $0.005 per call, with $1 of free credit
+
 #### [zaDojo](https://zadojo.com/docs/mcp)
 
 - **Offers:** Tools for Google Search Console and Google Analytics (free), plus SERP, keyword research, rank tracking, site audits, and AI visibility tracking across ChatGPT, Gemini, Perplexity and Google AI Overviews (paid research is optional pay-as-you-go)
 - **Access:** Add `https://app.zadojo.com/mcp` to your MCP client and sign in with OAuth, or create an API key in zaDojo settings
+
 #### [ReviewTactic](https://reviewtactic.com/mcp/)
 
 - **Offers:** Finds a business on Google, reads its recent negative Google reviews and marks the ones that may break Google's review rules, and checks its Google Maps rank for a search term. Can email the flagged list to an address the user types
 - **Access:** Free, remote, no authentication required. Server URL: `https://api.reviewtactic.com/functions/v1/mcp` (Streamable HTTP)
+
 #### [Product Metrics](https://www.productmetrics.io)
 
 - **Offers:** Profit optimisation for ecommerce ads: server-side tracking, profit bidding, product segmentation and campaign planning across Google Ads, Meta and ChatGPT Ads. Set up tracking and profit bidding and read store, product and Google Ads data.
 - **Access:** Connect to `https://www.productmetrics.io/mcp` through OAuth. Connect your Product Metrics account, or create one when you sign in. Connecting data is free; paid product features are available on subscription. [Setup documentation](https://www.productmetrics.io/docs/mcp/overview).
+
 #### [Travter](https://travter.com)
 
 - **Offers:** Tour operator and travel agency operations tools for leads, bookings, saved itineraries, and analytics across workspace brands
@@ -403,38 +408,47 @@ See MindPal agents in action with:
 
 - **Offers:** Structured JSON from 248 websites (Google Maps, Zillow, Indeed, Airbnb, Booking.com, Google Search and more) through three tools: `search_endpoints`, `get_endpoint`, `call_endpoint`
 - **Access:** Streamable HTTP at `https://api.perceptlayer.com/mcp` with `Authorization: Bearer <API_KEY>` (searching is free without a key). Sign up at [perceptlayer.com](https://perceptlayer.com) for 1,000 free credits a month; paid packs from $15, failed calls free
+
 #### [Recall Kitchen](https://recallkitchen.com/docs/#mcp)
 
 - **Offers:** Hosted MCP for searching government product recall notices from CPSC, FDA, USDA, NHTSA, and Health Canada (keyword, UPC, product name, and vehicle make/model lookup, plus full-notice fetch)
 - **Access:** Streamable HTTP at `https://app.recallkitchen.com/mcp`. Free API key via `X-API-Key`, or anonymous free tier plus paid x402 after quota
+
 #### [NeverApply MCP](https://neverapply.co/features/mcp)
 
 - **Offers:** Job search for AI agents: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval (15 tools)
 - **Access:** Server available at `https://neverapply.co/mcp` (Streamable HTTP) with OAuth 2.1 sign-in
+
 #### [LurkAPI](https://lurkapi.com)
 
 - **Offers:** Read-only public data from 16 social platforms (TikTok, Instagram, YouTube, Reddit, X, LinkedIn and more): profiles, posts, comments, video transcripts and Meta, Google, TikTok and LinkedIn ad library results, one tool per endpoint
 - **Access:** Server available at `https://api.lurkapi.com/mcp` (Streamable HTTP) with OAuth sign-in in the browser, or an `x-api-key` header with a key from [lurkapi.com/dashboard](https://lurkapi.com/dashboard). Paid per call; 100 free credits at signup, no card
+
 #### [MakerRadar](https://makerradar.io/mcp)
 
 - **Offers:** Search a weekly product launch platform and startup directory: products by keyword, platform, audience, use case or country; alternatives; side-by-side comparisons; categories; this week's and any past week's launch board. Draft a listing for your own product, and signed in, edit, launch and manage your listings
 - **Access:** `https://api.makerradar.io/mcp` (Streamable HTTP, no sign-in, read + draft) or `https://api.makerradar.io/mcp/account` (OAuth, your own listings). Free; docs at [makerradar.io/mcp](https://makerradar.io/mcp)
+
 #### [Puley](https://puley.com)
 
 - **Offers:** Live public web data for AI: local businesses with phone numbers and websites (Google Maps), competitors' live Meta and Google ads, TikTok/Instagram/YouTube stats and transcripts, product price comparison across stores and countries, and email alerts when a page or price changes
 - **Access:** OAuth 2.1 Streamable HTTP endpoint at `https://app.puley.com/mcp`; setup guide at https://puley.com/connect. Free to start ($2 free, no card), then pay as you go
+
 #### [Scrapfly MCP](https://scrapfly.io/docs/mcp/getting-started)
 
 - **Offers:** Web scraping to Markdown or JSON with JavaScript rendering and proxies, screenshots, structured data extraction and cloud browser sessions
 - **Access:** Server available at `https://mcp.scrapfly.io/mcp` (Streamable HTTP). Sign in with OAuth, or send a Scrapfly API key as an `Authorization: Bearer <key>` header. Get a key from [scrapfly.io/dashboard](https://scrapfly.io/dashboard)
+
 #### [GoVisit Tools](https://govisit.ai/en/docs/developers/mcp/overview)
 
 - **Offers:** Search published travel destinations, places, activities, and documentation with 22 read-only tools
 - **Access:** Connect to `https://govisit.ai/mcp` using Streamable HTTP; no account or API key is required
+
 #### [Scrapewise](https://scrapewise.ai)
 
 - **Offers:** Scrapes, cleans and matches product and price data from any website, with Google search, Amazon, idealo and local business tools
 - **Access:** Server available at `https://mcp.scrapewise.ai/mcp` (Streamable HTTP) with OAuth sign-in or an `Authorization: Bearer <API key>` header. Free trial of 5 requests, then usage-based pricing
+
 #### [Prawnet](https://prawnet.pl/en/dane/api)
 
 - **Offers:** Polish case law and legislation: find a ruling by case number, verify that a cited case number exists, list rulings citing a provision (newest or by citation authority), read a provision's text and get claim-amount statistics (~656k rulings, ~165k acts)
@@ -461,18 +475,22 @@ See MindPal agents in action with:
 
 - **Offers:** Read and edit owned documents, spreadsheets and presentations through three product-specific MCP endpoints. Docs edits plain text; Sheets writes values and formula text; Slides edits text, notes and slide structure. A free plan is available.
 - **Access:** Sign up at [AppStruct](https://appstruct.ai/), create a scoped API key in the relevant product's API settings, and connect over Streamable HTTP to `https://api.appstruct.cloud/v1/docs/mcp`, `https://api.appstruct.cloud/v1/sheets/mcp` or `https://api.appstruct.cloud/v1/slides/mcp` with an `Authorization: Bearer <API_KEY>` header. Each key reaches only resources owned by its account; start with the matching product's read scope.
+
 #### [BotSesh](https://botsesh.com)
 
 - **Offers:** Shared rooms for people and their own AI agents, with message catch-up, chat attachments, a shared Brief and human-reviewed decision proposals
 - **Access:** Connect to `https://botsesh.com/mcp` over Streamable HTTP and approve room-scoped OAuth in the browser. Free guest rooms; free accounts can keep rooms. [Setup and client requirements](https://botsesh.com/agents)
+
 #### [OsmO Phone Calls](https://getosmo.app/for-my-ai)
 
 - **Offers:** Real phone calls placed by OsmO's voice AI to businesses and helplines after the user confirms, with the outcome, summary and transcript; with an OsmO app plan also contacts, scheduled calls and call screening
 - **Access:** Server available at `https://api.getosmo.app/mcp` (Streamable HTTP) with OAuth authentication required (phone-number sign-in)
+
 #### [Model Moot](https://modelmoot.com)
 
 - **Offers:** Read-only tools over a public site where AI agents post problems, propose answers and verify each other's work: search problems, read answers verified by agents under different owners, find claims waiting for an independent check, and read open discussion topics
 - **Access:** Free, no sign-up or key: connect any MCP client to `https://modelmoot.com/mcp` (Streamable HTTP)
+
 #### [GramClaw — Telegram MCP](https://gramclaw.com/en/telegram-mcp)
 
 - **Offers:** Search Telegram chats and propose messages, campaigns and CRM updates from your own connected Telegram accounts. Every remote MCP write waits for one-click approval in GramClaw.
@@ -484,14 +502,17 @@ See MindPal agents in action with:
 
 - **Offers:** Publish HTML built in chat as a private, view-tracked link, update it, list pages, read view stats, and read and answer comments
 - **Access:** Server available at `https://app.pagelive.io/api/mcp` with OAuth authentication; a free account works, paid plans from $15/mo
+
 #### [AppScreen](https://appscreen.pro)
 
 - **Offers:** Designs App Store and Google Play screenshots in the AppScreen browser editor: slides, iPhone/iPad/Android frames, captions, backgrounds, the app's own screenshots, PNG export at store sizes, saved projects and share links
 - **Access:** Streamable HTTP endpoint at `https://appscreen.pro/mcp` with OAuth sign-in. Setup for Claude, Cursor, VS Code and others at [appscreen.pro/mcp](https://appscreen.pro/mcp)
+
 #### [Vidmoat](https://www.vidmoat.com)
 
 - **Offers:** Hosted AI video editor for agents: import footage, edit a reviewable timeline, and render MP4s; official remote MCP (`com.vidmoat/vidmoat`) for Claude/Cursor; Telegram bot @vidmoat_bot
 - **Access:** OAuth / authenticated MCP. Endpoint: `https://api.vidmoat.com/api/mcp`
+
 #### [AwesomeVideo](https://awesomevideoeditor.com)
 
 - **Offers:** Remote MCP for auto captions (28 styles), transcription, translation, dubbing, and face-tracked 9:16 shorts
@@ -501,14 +522,17 @@ See MindPal agents in action with:
 
 - **Offers:** AI video and image generation: find trending video templates and put a person, pet or character from a photo into them, or generate with Kling, Veo and Seedance; check credit balance and get the finished MP4. Paid credits, each video quoted before it runs
 - **Access:** Remote MCP server at `https://honeyvid.ai/mcp` (Streamable HTTP); OAuth sign-in with a HoneyVid account, no API key. Setup guides for Claude, ChatGPT, Claude Code, Codex and Cursor at https://honeyvid.ai/mcp
+
 #### [Diopter AI MCP](https://diopter.ai/integrations/claude)
 
 - **Offers:** Check whether images, video and audio are AI-generated or deepfakes. Send a direct media link and get a verdict, a confidence score and a link to the full report. Tools: `detect_media`, `get_detection_result` (read-only)
 - **Access:** Remote server at `https://diopter.ai/mcp` (Streamable HTTP) with OAuth 2.1. Sign in with a free Diopter account; free accounts include a daily scan allowance
+
 #### [Audo](https://audo.ai)
 
 - **Offers:** Audio and video creation and editing tools for AI agents: speech generation, voice cloning and changing, audio cleanup, transcription, captions, and editing.
 - **Access:** Connect to `https://audo.ai/mcp` using Streamable HTTP and sign in with OAuth, or send an Audo API key as a Bearer token. Includes per-tool daily free allowances; longer processing uses prepaid credits. See [MCP documentation](https://audo.ai/docs/mcp).
+
 #### [Kling AI Global Plugin](https://kling.ai/app/mcp/guide)
 
 - **Offers:** Official image and video generation, reference-based workflows, reusable subjects, motion control and task tracking; available tools and models depend on account permissions.
@@ -518,14 +542,17 @@ See MindPal agents in action with:
 
 - **Offers:** Official China-region image and video generation, reference-based workflows, reusable subjects, motion control and task tracking; available tools and models depend on account permissions.
 - **Access:** Connect an OAuth-capable client to `https://klingai.com/mcp/plugin` using Streamable HTTP and authorize a China-region Kling account. Claude Code: `claude mcp add --transport http kling-ai-cn https://klingai.com/mcp/plugin`. Generation consumes account credits. China and Global accounts, credits and task IDs are separate. [China integration documentation](https://github.com/klingai-dev/openclaw-plugin).
+
 #### [No Stairs Please](https://nostairsplease.com/mcp)
 
 - **Offers:** Search 38,000+ small live music venues across all 50 US states, room capacities, recent show activity, and booking contacts
 - **Access:** Public Streamable HTTP endpoint at `https://nostairsplease.com/mcp` with OAuth 2.1 authentication; setup docs at `https://nostairsplease.com/mcp`
+
 #### [OpenShorts.io MCP](https://openshorts.io/api)
 
 - **Offers:** Clip YouTube videos into captioned vertical shorts; check jobs, clips, and plan usage.
 - **Access:** Streamable HTTP at `https://openshorts.io/api/mcp`; requires an OpenShorts.io account and API key. Processing consumes plan minutes; free availability may vary.
+
 #### [I2v.ai](https://i2v.ai)
 
 - **Offers:** Image generation and text-to-video or image-to-video across 12 image and 16 video models. The server exposes the model catalog with parameter schemas, USD quotes before any paid task, uploads, task submission and polling, submission recovery, plus account and usage lookups (13 tools).
@@ -547,22 +574,27 @@ See MindPal agents in action with:
 
 - **Offers:** Marketplace seller operations for OTTO Market, Kaufland and 50+ Mirakl-based marketplaces (e.g. home24, Decathlon): orders and shipments, stock and prices, listing health and product data errors, returns and buyer messages, and OTTO Sponsored Product Ads
 - **Access:** Sign up free at [app.getbacklane.com](https://app.getbacklane.com), connect your marketplace accounts there, then add `https://app.getbacklane.com/mcp` to your MCP client and sign in via OAuth ([setup guide](https://getbacklane.com/en/docs/)). Free during the open beta
+
 #### [McClipFace](https://mcclipface.com)
 
 - **Offers:** Finds current coupon codes, promo codes, deals and discounts for stores and products
 - **Access:** Connect to `https://mcclipface.com/mcp/read` via Streamable HTTP. No authentication required.
+
 #### [Shop Your Color Season MCP](https://shopyourcolorseason.com/connect-ai)
 
 - **Offers:** Clothes search across many shops by garment, brand, size, price or occasion, with colour season as an optional filter. Also product details, brand and shop lists, cheaper look-alikes and second-hand listings
 - **Access:** Remote MCP server at `https://shopyourcolorseason.com/mcp` (Streamable HTTP). No authentication required for search; the wardrobe tools need a subscriber sign-in via OAuth
+
 #### [within](https://shopwithin.co/agents)
 
 - **Offers:** Live stock at independent boutiques: clothes, shoes and bags with sizes and prices, the cost delivered with duty and tax, size conversion, and a directory of boutiques in more than 140 cities (26 read-only tools)
 - **Access:** Free, no account or key. Endpoint: `https://shopwithin.co/mcp` (Streamable HTTP)
+
 #### [Screwtape](https://screwtape.ai)
 
 - **Offers:** A pre-payment check so an agent can tell whether a seller is safe to pay before money moves. Headline tool is `payment_check` at $0.005 per call after the free tier.
 - **Access:** Streamable HTTP at `https://screwtape.ai/mcp`. 3 calls per UTC day with no key, or 10 with a free key from https://screwtape.ai/signup/, then $0.005 per call.
+
 #### [OsmO Travel eSIM](https://esim.getosmo.app)
 
 - **Offers:** Travel eSIM data plan comparison for a trip (including multi-country), phone eSIM support checks, trip data estimates, carrier roaming-pass comparison, and eSIM setup help
@@ -570,12 +602,10 @@ See MindPal agents in action with:
 
 ### Finance & Crypto
 
-
 #### [IPO Radar](https://ipogmpradar.com/mcp-server)
 
 - **Offers:** Live India IPO grey market premium (GMP), subscription (overall/QIB/NII/retail), upcoming IPOs / DRHP pipeline, and GMP accuracy vs listing gains for AI clients
 - **Access:** Free Streamable HTTP endpoint, no auth: `https://ipogmpradar.com/mcp`. Docs: https://ipogmpradar.com/mcp-server. Repo: https://github.com/songiangvan40006-boop/ipo-radar-mcp
-
 
 #### [Chainflip Broker](https://chainflip-broker.io)
 
@@ -591,18 +621,22 @@ See MindPal agents in action with:
 
 - **Offers:** OAuth-protected access to Spanish invoices, income, expenses and tax calendars, with tools to record expenses and prepare invoice work. Start a Spanish S.L. incorporation request through MCP; the owner pays and approves in Melso, and professionals complete the legal formation. Tax-return approval and filing remain in Melso.
 - **Access:** Connect to `https://mcp.melso.ai/mcp` via Streamable HTTP and authorize with OAuth. A paid Melso account and appropriate tool access are required.
+
 #### [Redstone Markets](https://redstonemarkets.com)
 
 - **Offers:** Return and risk analytics for about 2,900 US stocks and 1,200 ETFs, through a public read-only MCP.
 - **Access:** No account or API key. Streamable HTTP at https://redstonemarkets.com/api/mcp
+
 #### [Tapetide Indian Stock Market MCP](https://tapetide.com/mcp)
 
 - **Offers:** Research data on about 8,000 NSE and BSE listed Indian stocks: quotes, quarterly and annual financials, a 326-ratio screener, technical indicators, FII/DII flows, end-of-day index option chains with IV, filings and IPOs (48 tools, 55 including aliases)
 - **Access:** Remote MCP server at `https://mcp.tapetide.com/mcp` (Streamable HTTP). Sign in with Google (OAuth) or send a personal token from https://tapetide.com/settings/tokens as a Bearer header. Free plan: 50 tool calls a day; paid plans raise the limit (https://tapetide.com/pricing)
+
 #### [Pitbi](https://pitbi.app)
 
 - **Offers:** Verified knowledge base for AI trading agents: exchange APIs, perps mechanics, risk and execution (Decibel, Hyperliquid, Lighter, GMX, Aptos), with answers checked against official docs. Agents can search, read threads and ask new questions. No financial advice.
 - **Access:** Connect to `https://pitbi.app/mcp` via Streamable HTTP. No authentication required. Free. Starter kit: https://github.com/tom3Dev/pitbi-agent-starter
+
 #### [StalkChain Data](https://stalkchain.com/mcp)
 
 - **Offers:** Research Solana wallet performance, token holders and safety signals, and the trading activity of tracked FOMO traders.
