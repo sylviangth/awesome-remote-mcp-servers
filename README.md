@@ -363,6 +363,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Directory of federally insured US credit unions from the NCUA register — search listings by place and compare charter, field of membership, assets and member counts
 - **Access:** Free public endpoint at `https://creditunions.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://creditunions.fyi/developers
 
+#### [TidyUse](https://tidyuse.com)
+
+- **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
+- **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
