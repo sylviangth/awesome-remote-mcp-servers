@@ -195,6 +195,10 @@ See MindPal agents in action with:
 
 - **Offers:** Citizen ratings of US federal and state officials and candidates (personality, policy, effectiveness, with sample counts and dates), rating trends, side-by-side comparisons and official voter-registration links. Signed-in users can also find their representatives by ZIP, rate people, keep a ballot and contact their representatives, with a preview before every action.
 - **Access:** Free. Public read-only endpoint at `https://powerplayers.app/api/mcp/v1` (Streamable HTTP, no authentication). Account endpoint at `https://powerplayers.app/api/mcp/account` (OAuth 2.1 with dynamic client registration). Docs at `https://github.com/Playpowerpolitics/powerplayers-mcp`
+#### [KissMyPost](https://kissmypost.com/mcp)
+
+- **Offers:** Read-only Reddit audience research: subreddit search by topic, member growth, audience demographics, best time to post, posting rules and brand mention counts since 2005
+- **Access:** Add `https://kissmypost.com/api/mcp` as a remote server and sign in with OAuth, or send an API key from a free account as a Bearer token
 
 ### Developer Tools
 
