@@ -1189,6 +1189,10 @@ See MindPal agents in action with:
 
 - **Offers:** Hosted MCP server for Fincept Terminal: quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines (statistics, forecasting, volatility, portfolio optimisation, derivatives pricing)
 - **Access:** Connect to `https://enterprise.fincept.in/mcp` via Streamable HTTP and sign in with OAuth 2.1 in the browser (no API key); requires the paid Exclusive Pro plan ([pricing](https://fincept.in/pricing))
+#### [Agent Wallet Index](https://agentwalletindex.fyi)
+
+- **Offers:** Directory of agent wallets, payment rails, card programs and key-management layers for AI agents — search and compare custody, fees, protocols and spend controls with cited sources
+- **Access:** Free public endpoint at `https://agentwalletindex.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://agentwalletindex.fyi/developers
 
 ### Gaming & Entertainment
 
