@@ -831,6 +831,10 @@ See MindPal agents in action with:
 
 - **Offers:** 14 read-only tools for public social media data: profiles, posts, engagement stats, comments, keyword and hashtag search, reviews, trending and video transcripts across 30+ platforms including TikTok, Instagram, LinkedIn, YouTube, X and Reddit
 - **Access:** Streamable HTTP at `https://mcp.scrapersocial.com` with OAuth 2.0 (dynamic client registration) or an `Authorization: Bearer <API_KEY>` header. 100 free credits at signup, then $5/mo for 1,000 credits, charged per item returned
+#### [WellFred](https://app.wellfred.com)
+
+- **Offers:** Search and compare wellness, home and professional services in Costa Rica, read provider profiles, check availability, discover classes and events, and prepare booking requests for customer confirmation
+- **Access:** Connect to `https://app.wellfred.com/api/agent/mcp` using Streamable HTTP; no API key or account is required for discovery. [Agent guide](https://app.wellfred.com/agents.md). Provider services have their own prices; booking preparation returns a verification and confirmation link, not a confirmed appointment
 
 ### Communication & Collaboration
 
