@@ -390,6 +390,10 @@ See MindPal agents in action with:
 
 - **Offers:** Focused UI references and hosted design materials for coding agents across 800,000+ real web and iOS screens.
 - **Access:** Use the authenticated Streamable HTTP endpoint at `https://uizze.com/mcp` with a UIZZE agent token. Free local skills are available from the [canonical repository](https://github.com/uizze/uizze).
+#### [Noveum](https://noveum.ai/en/mcp)
+
+- **Offers:** Inspect AI agent traces, manage evaluation datasets, run evaluations, and test voice agents from an MCP client.
+- **Access:** Connect to `https://noveum.ai/api/mcp` over Streamable HTTP and sign in with OAuth 2.1, or supply a Bearer API key. Requires a Noveum account; usage limits and paid plans apply. [Setup guide](https://noveum.ai/en/docs/platform/mcp-server-reference).
 
 ### Knowledge & Memory
 
