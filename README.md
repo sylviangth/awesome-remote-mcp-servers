@@ -1023,6 +1023,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read, download and transcribe public Instagram Reels, TikToks and YouTube videos (info, MP4/MP3, frames, Whisper transcripts in 90+ languages), plus sourced creator data: 2026 upload specs for 9 platforms, monetization programs, loudness targets, YouTube channel IDs. Free.
 - **Access:** Streamable HTTP at `https://shortformkit.com/mcp`, no API key and no account. Also listed in the official MCP Registry as `io.github.diegobruegger-prog/shortformkit`.
+#### [ArtiGram](https://artigram.cafeboon.com)
+
+- **Offers:** Publish AI-made HTML, React, SVG, Markdown or Mermaid as live shareable pages, and search existing posts
+- **Access:** Streamable HTTP endpoint https://artigram.cafeboon.com/mcp, searching needs no key and publishing needs a free API key
 
 ### Payments & Commerce
 
