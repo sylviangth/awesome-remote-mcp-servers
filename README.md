@@ -852,6 +852,10 @@ See MindPal agents in action with:
 
 - **Offers:** Web search, URL-to-JSON extraction against a caller-supplied schema, and structured data from 300+ sources (company registries, marketplaces, product reviews, funding data, contact enrichment), exposed as 342 tools
 - **Access:** Server available at `https://mcp.neuralverge.ai/mcp` (Streamable HTTP). Sign in with OAuth (clients that support MCP authorization discover it automatically) or send an `Authorization: Bearer <API_KEY>` header. Get your API key at [app.neuralverge.ai](https://app.neuralverge.ai); paid plans start at $50/month
+#### [Rolês em SP](https://rolesemsp.com.br)
+
+- **Offers:** Curated venue and cultural itinerary search across São Paulo from a proprietary catalogue
+- **Access:** Remote MCP server at `https://rolesemsp.com.br/mcp` (Streamable HTTP). Requires browser OAuth authentication with `catalogue:read` scope for verified accounts. Setup instructions at [rolesemsp.com.br/connect.md](https://rolesemsp.com.br/connect.md)
 
 ### Communication & Collaboration
 
