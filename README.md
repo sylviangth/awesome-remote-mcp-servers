@@ -759,6 +759,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Personal CRM for AI agents: look up and update contacts, log interactions, keep notes, and set reminders and tasks about the people in your life (about 120 tools). Free beta up to 1,000 contacts, no credit card.
 - **Access:** OAuth 2.1 sign-in with your ppl account (dynamic client registration, no API key). Server available at `https://withppl.com/mcp`. Sign up at https://withppl.com/register
 
+#### [Transformer.gg](https://transformer.gg/?utm_source=awesome-remote-mcp-servers&utm_medium=referral&utm_campaign=backlinks&utm_content=listing)
+
+- **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
+- **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
