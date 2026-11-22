@@ -15,6 +15,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -387,6 +391,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read and edit owned documents, spreadsheets and presentations through three product-specific MCP endpoints. Docs edits plain text; Sheets writes values and formula text; Slides edits text, notes and slide structure. A free plan is available.
 - **Access:** Sign up at [AppStruct](https://appstruct.ai/), create a scoped API key in the relevant product's API settings, and connect over Streamable HTTP to `https://api.appstruct.cloud/v1/docs/mcp`, `https://api.appstruct.cloud/v1/sheets/mcp` or `https://api.appstruct.cloud/v1/slides/mcp` with an `Authorization: Bearer <API_KEY>` header. Each key reaches only resources owned by its account; start with the matching product's read scope.
+#### [BotSesh](https://botsesh.com)
+
+- **Offers:** Shared rooms for people and their own AI agents, with message catch-up, chat attachments, a shared Brief and human-reviewed decision proposals
+- **Access:** Connect to `https://botsesh.com/mcp` over Streamable HTTP and approve room-scoped OAuth in the browser. Free guest rooms; free accounts can keep rooms. [Setup and client requirements](https://botsesh.com/agents)
 
 ### Media & Content
 
