@@ -468,6 +468,10 @@ See MindPal agents in action with:
 
 - **Offers:** Clothes search across many shops by garment, brand, size, price or occasion, with colour season as an optional filter. Also product details, brand and shop lists, cheaper look-alikes and second-hand listings
 - **Access:** Remote MCP server at `https://shopyourcolorseason.com/mcp` (Streamable HTTP). No authentication required for search; the wardrobe tools need a subscriber sign-in via OAuth
+#### [within](https://shopwithin.co/agents)
+
+- **Offers:** Live stock at independent boutiques: clothes, shoes and bags with sizes and prices, the cost delivered with duty and tax, size conversion, and a directory of boutiques in more than 140 cities (26 read-only tools)
+- **Access:** Free, no account or key. Endpoint: `https://shopwithin.co/mcp` (Streamable HTTP)
 
 ### Finance & Crypto
 
