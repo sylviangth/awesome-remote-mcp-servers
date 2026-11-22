@@ -753,6 +753,10 @@ See MindPal agents in action with:
 
 - **Offers:** Recruiting tools: resume and CV parsing into structured JSON, job criteria extraction, candidate matching and ranking against a job, and skills normalization
 - **Access:** Server available at `https://hirelayer.co/mcp` (Streamable HTTP) with OAuth authentication. Free plan with 50 credits a month, no card required. Also available via `npx hirelayer-mcp`
+#### [localscreenshot](https://localscreenshot.com)
+
+- **Offers:** Screenshot and PDF rendering of any public page: PNG, JPEG or PDF, from 227 countries, with cookie banners, ads and chat widgets hidden.
+- **Access:** Public Streamable HTTP endpoint at `https://api.localscreenshot.com/mcp/free`, no API key required. Setup and tool reference at `https://docs.localscreenshot.com`. Signed-in accounts also get 50 free credits every calendar month.
 
 ### Communication & Collaboration
 
