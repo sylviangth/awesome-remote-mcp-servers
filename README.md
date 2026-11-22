@@ -8,6 +8,12 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-115-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
 
@@ -615,6 +621,10 @@ See MindPal agents in action with:
 
 - **Offers:** Travel eSIM data plan comparison for a trip (including multi-country), phone eSIM support checks, trip data estimates, carrier roaming-pass comparison, and eSIM setup help
 - **Access:** Server available at `https://esim.getosmo.app/mcp` (Streamable HTTP), no authentication or sign-in required; free to use
+#### [Packrift MCP Server](https://packrift.com/pages/agents)
+
+- **Offers:** Packaging catalog search, pricing and inventory context, and cart URL creation for ecommerce packaging-supply workflows
+- **Access:** Remote MCP server at `https://mcp.packrift.com/mcp` (Streamable HTTP). No authentication required.
 
 ### Finance & Crypto
 
