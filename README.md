@@ -1140,6 +1140,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Draft, schedule and publish social media posts to X, LinkedIn, Instagram, Facebook, TikTok, YouTube, Threads, Bluesky, Pinterest, Tumblr and WordPress, list connected accounts and review the post queue
 - **Access:** Server available at `https://www.juzpost.com/mcp` with OAuth sign-in to a JuzPost account; MCP access is on paid plans (from $19/mo, 7-day trial)
 
+#### [Overtok](https://overtok.live/agents)
+
+- **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
+- **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
