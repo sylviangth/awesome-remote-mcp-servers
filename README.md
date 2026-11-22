@@ -252,6 +252,10 @@ See MindPal agents in action with:
 
 - **Offers:** Molecular-biology and sequence-analysis tools for AI agents — primer design, cloning simulation (Gibson, Golden Gate, restriction), CRISPR guide RNA design, sequence analysis, batch processing, and multi-tool workflows
 - **Access:** Public Streamable HTTP endpoint at `https://seqbench.com/api/mcp`. No authentication required. Also listed on the official MCP Registry as `com.seqbench/workbench`
+#### [IndustryLens MCP](https://industry-lens.com)
+
+- **Offers:** Competitive-intelligence reports and head-to-head competitor comparisons for B2B SaaS markets — real, source-backed data on pricing, positioning, ads, hiring, and reviews. 8 tools over Streamable HTTP.
+- **Access:** No signup. Connect any MCP-aware client to `https://api.industry-lens.com/mcp/public` (remote, no auth). Docs: https://github.com/IndustryLensOp/industrylens-mcp-docs
 
 ### Developer Tools
 
