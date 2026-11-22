@@ -1026,6 +1026,10 @@ See MindPal agents in action with:
 
 - **Offers:** US stock market data for AI agents: SEC filings and XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F institutional holdings, short interest, ETF holdings, prices and economic indicators. Market-data tools are read-only; portfolio and watchlist tools write to the signed-in account.
 - **Access:** Connect to `https://mcp.equibles.com/mcp` via Streamable HTTP and sign in with OAuth; free tier of 100 requests a day, paid plans for more.
+#### [Fincept MCP](https://docs.fincept.in)
+
+- **Offers:** Hosted MCP server for Fincept Terminal: quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines (statistics, forecasting, volatility, portfolio optimisation, derivatives pricing)
+- **Access:** Connect to `https://enterprise.fincept.in/mcp` via Streamable HTTP and sign in with OAuth 2.1 in the browser (no API key); requires the paid Exclusive Pro plan ([pricing](https://fincept.in/pricing))
 
 ### Gaming & Entertainment
 
