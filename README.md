@@ -283,6 +283,10 @@ See MindPal agents in action with:
 - **Offers:** World company background check — registration details, executives, courts, and finances for any company
 - **Access:** Remote streamable-HTTP MCP at `https://statsnet.co/mcp` (free public cards; deeper data via optional API subscription). Official Registry: `io.github.usenetstate/statsnet`
 
+#### [MindMap AI](https://mindmapai.app/help/mcp-connector)
+
+- **Offers:** Create, view, edit, organize, style, and export mind maps, logic charts, and org charts from MCP-compatible AI assistants.
+- **Access:** Connect to the hosted Streamable HTTP endpoint at `https://mindmapai.app/mcp` and sign in with your MindMap AI account using OAuth 2.1. No API key or local installation is required.
 
 ### Developer Tools
 
