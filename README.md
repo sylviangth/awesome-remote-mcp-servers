@@ -594,6 +594,10 @@ See MindPal agents in action with:
 
 - **Offers:** Audio and video transcription. Transcribe from a URL (YouTube, podcast feeds, direct media links) or an uploaded file; returns `txt`, `json`, `srt`, `vtt`, or `docx` with optional speaker diarization and word-level timestamps. Free anonymous tier; paid tier with higher limits.
 - **Access:** Sign up at [whipscribe.com](https://whipscribe.com) for an API key, then connect your MCP client to `https://whipscribe.com/mcp` with a Bearer token. Local install also available via `uvx whipscribe-mcp`.
+#### [htmlbook](https://htmlbook.io)
+
+- **Offers:** Publish AI-generated HTML & Markdown to a hosted, shareable, themed URL — an agent pushes a doc via MCP and htmlbook stores, versions, organizes, and publicly shares it as a permanent link.
+- **Access:** Sign in at [htmlbook.io](https://htmlbook.io), generate an API key in Settings (or connect via OAuth from Claude/Cursor), then add the MCP endpoint `https://htmlbook.io/api/mcp`.
 
 ### Payments & Commerce
 
