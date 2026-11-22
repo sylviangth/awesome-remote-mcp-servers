@@ -476,6 +476,10 @@ See MindPal agents in action with:
 
 - **Offers:** Draft, rewrite, schedule and publish social posts to X, LinkedIn, Instagram, Threads and YouTube, plus AI idea generation, carousel building, video clipping and knowledge base search (69 tools)
 - **Access:** Server available at `https://app.autoposting.ai/mcp` over Streamable HTTP with OAuth 2.1 Dynamic Client Registration, so no client ID or secret is needed. Sign in with your Autoposting account when the client prompts. Docs: https://docs.autoposting.ai/mcp/overview
+#### [YG3 Marketing MCP](https://www.yg3.ai/for-agents)
+
+- **Offers:** Marketing operations for AI agents across content and SEO, outbound email, LinkedIn, and paid ads, plus a site builder. 200+ tools.
+- **Access:** Server available at `https://mcp.yg3.ai/mcp`. Humans connect via OAuth at https://www.yg3.ai/connect. Agents can provision a sandbox workspace with one POST to `https://agency.yg3.ai/api/v1/workspaces` and use the returned Bearer token, no signup required. Free tier available.
 
 ### Search & Data Extraction
 
