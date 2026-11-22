@@ -216,6 +216,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read-only Reddit audience research: subreddit search by topic, member growth, audience demographics, best time to post, posting rules and brand mention counts since 2005
 - **Access:** Add `https://kissmypost.com/api/mcp` as a remote server and sign in with OAuth, or send an API key from a free account as a Bearer token
+#### [BizPeel](https://bizpeel.com)
+
+- **Offers:** Remote MCP server for verified startup revenue, traffic sources, SEO keywords, ad creatives, and 700+ competitive growth breakdowns (12 core tools + 48 live data capabilities)
+- **Access:** Connect via Streamable HTTP at `https://bizpeel.com/mcp` using OAuth 2.1 or API key (paid BizPeel subscription required); see [setup docs](https://bizpeel.com/docs/connect-agent)
 
 ### Developer Tools
 
