@@ -490,6 +490,10 @@ See MindPal agents in action with:
 - **Offers:** Documentation search, chain and method discovery, and keyless read-only EVM JSON-RPC permitted by each chain’s `public.methods`, including Robinhood Chain.
 - **Access:** Connect via Streamable HTTP at `https://docs.blockvectra.com/mcp`. Public RPC is rate-limited. Indexed data and account tools require an API key; keyed usage follows current plans.
 
+#### [AgentSandboxes](https://agentsandboxes.fyi)
+
+- **Offers:** Read-only directory of cloud sandbox providers for AI agents — search and compare listings by category, isolation, cold start, persistence, GPU support and pricing, with each fact cited to its source
+- **Access:** Free public endpoint at `https://agentsandboxes.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://agentsandboxes.fyi/developers
 
 ### Knowledge & Memory
 
