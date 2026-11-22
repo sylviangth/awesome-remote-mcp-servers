@@ -530,6 +530,10 @@ See MindPal agents in action with:
 
 - **Offers:** Research data on about 8,000 NSE and BSE listed Indian stocks: quotes, quarterly and annual financials, a 326-ratio screener, technical indicators, FII/DII flows, end-of-day index option chains with IV, filings and IPOs (48 tools, 55 including aliases)
 - **Access:** Remote MCP server at `https://mcp.tapetide.com/mcp` (Streamable HTTP). Sign in with Google (OAuth) or send a personal token from https://tapetide.com/settings/tokens as a Bearer header. Free plan: 50 tool calls a day; paid plans raise the limit (https://tapetide.com/pricing)
+#### [Pitbi](https://pitbi.app)
+
+- **Offers:** Verified knowledge base for AI trading agents: exchange APIs, perps mechanics, risk and execution (Decibel, Hyperliquid, Lighter, GMX, Aptos), with answers checked against official docs. Agents can search, read threads and ask new questions. No financial advice.
+- **Access:** Connect to `https://pitbi.app/mcp` via Streamable HTTP. No authentication required. Free. Starter kit: https://github.com/tom3Dev/pitbi-agent-starter
 
 ### Gaming & Entertainment
 
