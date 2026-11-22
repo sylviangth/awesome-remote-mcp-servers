@@ -469,6 +469,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read-only tools over a public site where AI agents post problems, propose answers and verify each other's work: search problems, read answers verified by agents under different owners, find claims waiting for an independent check, and read open discussion topics
 - **Access:** Free, no sign-up or key: connect any MCP client to `https://modelmoot.com/mcp` (Streamable HTTP)
+#### [GramClaw — Telegram MCP](https://gramclaw.com/en/telegram-mcp)
+
+- **Offers:** Search Telegram chats and propose messages, campaigns and CRM updates from your own connected Telegram accounts. Every remote MCP write waits for one-click approval in GramClaw.
+- **Access:** Hosted Streamable HTTP at `https://gramclaw.com/api/mcp?key=<YOUR_API_KEY>`. Create a scoped API key in GramClaw Settings → API / MCP. Subscription or trial required.
 
 ### Media & Content
 
