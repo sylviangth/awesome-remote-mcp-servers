@@ -35,6 +35,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -585,6 +589,10 @@ See MindPal agents in action with:
 
 - **Offers:** Retrieve CRM contacts, deals, lists and sales workflow data, and create contacts through authenticated tools.
 - **Access:** Requires a FirstSales account with an eligible paid plan. Connect to `https://api.app.firstsales.io/mcp` using Streamable HTTP, then authorize access with OAuth and select a workspace.
+#### [Connections](https://connections.icu)
+
+- **Offers:** Contact book with follow-ups, event pages with ticketing, notes and email, from any MCP client
+- **Access:** Free account, no card; on the Free plan ticket sales carry a 3% Connections fee (none on paid plans), paid out on the host's own Stripe. Server at `https://studio.connections.icu/v1/mcp` (Streamable HTTP) with OAuth sign-in to your Connections account
 
 ### Search & Data Extraction
 
