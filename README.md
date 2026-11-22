@@ -755,6 +755,10 @@ See MindPal agents in action with:
 
 - **Offers:** Live, neutral crypto infrastructure benchmarks for agents. Public no-key RPC latency across 22 EVM chains plus Solana, oracle deviation, bridge quote fees, perp DEX all-in cost, prediction market resolution delay. Tools: `list_benchmarks`, `get_benchmark`, `query_prom`. Open methodology, CC BY 4.0 data
 - **Access:** Connect to `https://openchainbench.com/api/mcp/mcp` via Streamable HTTP; no authentication required; source at https://github.com/ChainBench/OpenChainBench
+#### [Unquant](https://unquant.ai)
+
+- **Offers:** A read-only financial data MCP by Streetbeat with 28 tools for delayed and end-of-day market data, news, macroeconomic indicators, and US public disclosures
+- **Access:** Connect to `https://unquant.ai/mcp` via Streamable HTTP. See the public [examples and interface documentation](https://github.com/dev-streetbeat/unquant-mcp-examples)
 
 ### Gaming & Entertainment
 
