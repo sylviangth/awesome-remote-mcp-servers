@@ -398,6 +398,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search published travel destinations, places, activities, and documentation with 22 read-only tools
 - **Access:** Connect to `https://govisit.ai/mcp` using Streamable HTTP; no account or API key is required
+#### [Scrapewise](https://scrapewise.ai)
+
+- **Offers:** Scrapes, cleans and matches product and price data from any website, with Google search, Amazon, idealo and local business tools
+- **Access:** Server available at `https://mcp.scrapewise.ai/mcp` (Streamable HTTP) with OAuth sign-in or an `Authorization: Bearer <API key>` header. Free trial of 5 requests, then usage-based pricing
 
 ### Communication & Collaboration
 
