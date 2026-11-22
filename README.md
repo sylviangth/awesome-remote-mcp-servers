@@ -670,6 +670,10 @@ See MindPal agents in action with:
 
 - **Offers:** Publish AI-generated HTML & Markdown to a hosted, shareable, themed URL — an agent pushes a doc via MCP and htmlbook stores, versions, organizes, and publicly shares it as a permanent link.
 - **Access:** Sign in at [htmlbook.io](https://htmlbook.io), generate an API key in Settings (or connect via OAuth from Claude/Cursor), then add the MCP endpoint `https://htmlbook.io/api/mcp`.
+#### [TranscriptAPI](https://transcriptapi.com)
+
+- **Offers:** YouTube transcripts and video discovery for AI agents. Fetch any video transcript (Markdown or JSON), search YouTube, and browse channel and playlist uploads. 6 read-only tools over streamable-HTTP.
+- **Access:** Create an API key at transcriptapi.com (free tier: 100 free credits, no card; paid from $5/mo), then add the hosted endpoint https://transcriptapi.com/mcp (API key or OAuth 2.1). Docs: transcriptapi.com/docs.
 
 ### Payments & Commerce
 
