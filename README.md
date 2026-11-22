@@ -509,6 +509,10 @@ See MindPal agents in action with:
 
 - **Offers:** Facebook and Instagram Ads through MCP: Insights by campaign, ad set and ad, creatives, lead forms, Meta Ad Library research, and approved changes to budgets and ad status
 - **Access:** Same server `https://connector.get-ryze.ai/mcp`, OAuth 2.1. Sign in with the Facebook user that has Business Manager access; no app review or token; free. Docs: https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp/tree/main/meta-ads-mcp
+#### [Social media studio](https://so-me.studio)
+
+- **Offers:** Drafting, scheduling, and publishing social posts, managing connected accounts and media, and reading post analytics
+- **Access:** Connect to `https://api.so-me.studio/mcp/directory` via Streamable HTTP with OAuth. Requires a Social media studio account on a paid plan with MCP access and connected social accounts. [Setup documentation](https://docs.so-me.studio/mcp/overview)
 
 ### Search & Data Extraction
 
