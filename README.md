@@ -182,6 +182,10 @@ See MindPal agents in action with:
 
 - **Offers:** Prediction market research that lets agents scan thousands of markets and draw on millions of analyzed posts.
 - **Access:** Create a free Glypse account, connect to `https://mcp.glypse.ai` using Streamable HTTP, then sign in through OAuth. [Setup instructions](https://glypse.ai/help/mcp-server).
+#### [Power Players](https://powerplayers.app)
+
+- **Offers:** Citizen ratings of US federal and state officials and candidates (personality, policy, effectiveness, with sample counts and dates), rating trends, side-by-side comparisons and official voter-registration links. Signed-in users can also find their representatives by ZIP, rate people, keep a ballot and contact their representatives, with a preview before every action.
+- **Access:** Free. Public read-only endpoint at `https://powerplayers.app/api/mcp/v1` (Streamable HTTP, no authentication). Account endpoint at `https://powerplayers.app/api/mcp/account` (OAuth 2.1 with dynamic client registration). Docs at `https://github.com/Playpowerpolitics/powerplayers-mcp`
 
 ### Developer Tools
 
