@@ -531,6 +531,10 @@ See MindPal agents in action with:
 
 - **Offers:** Domain availability, DNS, WHOIS/RDAP, TLS, subdomain, valuation, email-authentication, and brand-monitoring tools
 - **Access:** Connect to `https://domscan.net/mcp` with Streamable HTTP and authenticate through OAuth discovery or a DomScan API key
+#### [dotsweep](https://dotsweep.com)
+
+- **Offers:** Domain availability across 1,200+ TLDs with the renewal price, the registry's minimum registration term, and who is eligible to register. An answer no registry confirmed is returned as `estimated`, never `available`, so a rate-limited or unreachable registry is never reported as free. Tools: `check_domains`, `whois`, `list_tlds`
+- **Access:** Public streamable HTTP endpoint at `https://dotsweep.com/mcp` — free, no account and no API key. Setup click-path at [dotsweep.com/setup](https://dotsweep.com/setup), reference at [dotsweep.com/docs](https://dotsweep.com/docs)
 
 ### Communication & Collaboration
 
