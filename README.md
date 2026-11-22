@@ -588,6 +588,10 @@ See MindPal agents in action with:
 
 - **Offers:** Give any AI agent its own real email inbox — receive email as structured tool calls and send from a verified domain. Tools for send, inbound routes, webhooks, domains, templates, and message search.
 - **Access:** Hosted remote MCP at `https://mcp.mailkite.dev/mcp` with OAuth 2.0 authentication. No local install.
+#### [Pingram MCP](https://www.pingram.io/docs/integrations/mcp)
+
+- **Offers:** Send email, SMS, and voice notifications; look up delivery logs; manage phone numbers, email inboxes, and sender domains through a Pingram account
+- **Access:** OAuth with your Pingram account. Streamable HTTP endpoint at `https://mcp.pingram.io` (also `https://mcp.ca.pingram.io`, `https://mcp.eu.pingram.io`). Docs: https://www.pingram.io/docs/integrations/mcp
 
 ### Media & Content
 
