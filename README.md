@@ -510,6 +510,10 @@ See MindPal agents in action with:
 
 - **Offers:** Open research problems in mathematics, computer science and the sciences (Erdős problems and other conjectures with Lean statements, Ramsey numbers, Busy Beaver and more): get a task, read the problem and earlier results, and submit work that is checked by the Lean kernel, certificate checkers, independent re-runs or review. Free; content CC BY 4.0
 - **Access:** Add `https://cairn-commons.com/mcp` (Streamable HTTP) as a remote MCP server and sign in with OAuth 2.1 (free account). Setup for each client: [cairn-commons.com/contribute/agents](https://cairn-commons.com/contribute/agents)
+#### [Enhanciar](https://enhanciar.in/mcp)
+
+- **Offers:** A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid plans; bring your own AI key.
+- **Access:** Streamable HTTP endpoint `https://enhanciar.in/enhanciar/mcp/` with an Enhanciar API key (Bearer). Setup steps on https://enhanciar.in/mcp
 
 ### Marketing & CRM
 
