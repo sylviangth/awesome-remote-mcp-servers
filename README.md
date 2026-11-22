@@ -256,6 +256,10 @@ See MindPal agents in action with:
 
 - **Offers:** Contacts, networks, events and digital business cards for the user's professional network. Search contacts by company, role, city, notes or the event where you met, save and update contacts, merge duplicates, import from CSV, and draft follow-ups. Free and paid plans
 - **Access:** Server available at `https://mcp.connectmachine.ai/mcp` (Streamable HTTP) with OAuth 2.1 sign-in (dynamic client registration); any ConnectMachine account works, including free ones
+#### [AgentSEO](https://www.agentseo.dev/seo-mcp-server)
+
+- **Offers:** Keyword research, SERP analysis, backlinks, rank tracking, site audits and AI search visibility for answer engine optimization (AEO).
+- **Access:** Connect to `https://www.agentseo.dev/mcp` over Streamable HTTP. Create an AgentSEO account and use your API key in the `x-api-key` header. Tool calls use credits. The starter plan includes 100 one-time credits, and paid plans start at $9/month.
 
 ### Search & Data Extraction
 
