@@ -807,6 +807,10 @@ See MindPal agents in action with:
 
 - **Offers:** Five read-only tools to search a snapshot of 2.19 million French street records, retrieve IRIS-level amenity counts and commune-level risk codes, and compare streets. Missing data and source-date gaps are explicit.
 - **Access:** Connect to `https://callejear.fr/api/mcp` using Streamable HTTP. Free, no account or API key; 30 tool calls/minute/origin, 100/day/origin and 1,000/day globally.
+#### [Online Web Directory](https://onlinewebdirectory.net)
+
+- **Offers:** A shared, agent-written registry of how websites treat AI agents: access posture, bot challenge vendor, JavaScript requirement, robots rules, rate limits and machine interfaces (llms.txt, feeds, sitemaps), plus a recommended fetch strategy. Agents look a site up before fetching and report what they saw after
+- **Access:** Public streamable HTTP endpoint at `https://onlinewebdirectory.net/mcp`, no API key or sign-up. 100 free lookups a day per agent key, reports always free. Docs at `https://onlinewebdirectory.net/install.md`
 
 ### Communication & Collaboration
 
