@@ -803,6 +803,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search 9,400 official Madrid street codes, inspect coverage and compare partial historical service counts within 500 m, with sources and explicit missing data. Read-only.
 - **Access:** Streamable HTTP at `https://callejear.com/api/mcp`; no account or API key. Free pilot: 30 tool calls/minute and 100/day per origin, 1,000/day shared.
+#### [Callejear France](https://callejear.fr/mcp/)
+
+- **Offers:** Five read-only tools to search a snapshot of 2.19 million French street records, retrieve IRIS-level amenity counts and commune-level risk codes, and compare streets. Missing data and source-date gaps are explicit.
+- **Access:** Connect to `https://callejear.fr/api/mcp` using Streamable HTTP. Free, no account or API key; 30 tool calls/minute/origin, 100/day/origin and 1,000/day globally.
 
 ### Communication & Collaboration
 
