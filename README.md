@@ -179,6 +179,10 @@ _No entries yet_
 
 - **Offers:** Trust Scores from 0 to 100 for MCP servers, built from public GitHub, npm and MCP registry data, with tools to search servers and check whether one is safe to install
 - **Access:** Hosted endpoint at `https://www.vouchity.com/api/mcp` needs no login. Browsing is free; an optional Pro plan is $19 a month. API docs at https://www.vouchity.com/api-docs
+#### [CurlShot](https://curlshot.com)
+
+- **Offers:** Screenshots of public web pages for agents: `take_screenshot` returns a PNG, JPEG, WebP, PDF or scrolling video (full page, device presets, dark mode, ad and cookie-banner blocking, CSS selector), and `list_devices` lists device presets
+- **Access:** Streamable HTTP endpoint at `https://curlshot.com/api/mcp` with header `Authorization: Bearer <access key>`. Free key at [curlshot.com/register](https://curlshot.com/register) (100 screenshots a month, paid plans from $19/month). See [docs](https://curlshot.com/docs/guides/ai-agents)
 
 ### Knowledge & Memory
 
