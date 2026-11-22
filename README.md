@@ -523,6 +523,10 @@ See MindPal agents in action with:
 
 - **Offers:** Drafting, scheduling, and publishing social posts, managing connected accounts and media, and reading post analytics
 - **Access:** Connect to `https://api.so-me.studio/mcp/directory` via Streamable HTTP with OAuth. Requires a Social media studio account on a paid plan with MCP access and connected social accounts. [Setup documentation](https://docs.so-me.studio/mcp/overview)
+#### [More Good Reviews](https://docs.moregoodreviews.com/platform/mcp-server)
+
+- **Offers:** AI reputation management for local service businesses and agencies — automate email/SMS review requests, sync Google & Facebook reviews, draft AI replies, manage white-label agency portals, and operate projects via MCP tools
+- **Access:** Remote endpoint `https://api.moregoodreviews.com/mcp` with OAuth 2.1. Official registry id `com.moregoodreviews/project`. Docs: https://docs.moregoodreviews.com/platform/mcp-server
 
 ### Search & Data Extraction
 
