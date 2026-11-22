@@ -344,6 +344,10 @@ See MindPal agents in action with:
 
 - **Offers:** Session replays, click heatmaps by page and device class, broken clicks linked to the JavaScript error and source line, funnels, traffic and before and after checks for shipped changes
 - **Access:** Hosted endpoint at `https://mcp.hootlens.com/mcp` with OAuth sign-in to a Hoot Lens account. A read-only demo with sample data and no sign-in is at `https://mcp.hootlens.com/demo`
+#### [DC Hub](https://dchub.cloud/mcp)
+
+- **Offers:** DC Hub is the live data layer for data-center site selection. Its DCPI is a daily score of where data centers can get grid power, across 300+ markets. 97 MCP tools.
+- **Access:** Remote endpoint at `https://dchub.cloud/mcp`. Free tier, no signup; optional X-API-Key. In the official MCP Registry. MIT.
 
 ### Developer Tools
 
