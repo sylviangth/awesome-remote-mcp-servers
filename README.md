@@ -501,6 +501,10 @@ See MindPal agents in action with:
 
 - **Offers:** Social publishing tools for inspecting workspaces and media, preparing destination-specific content, validating posts, and scheduling or publishing through one visible queue
 - **Access:** Hosted is paid and currently uses a waitlist; self-hosting is available. Connect to `https://app.openpo.st/mcp` over Streamable HTTP with OAuth 2.0, or use the `/mcp` endpoint on a self-hosted OpenPost instance. See the [MCP guide](https://openpo.st/docs/mcp)
+#### [MailSenpai MCP](https://mcp.mailsenpai.com/docs)
+
+- **Offers:** Manage MailSenpai email marketing (EU-hosted) from an AI assistant: lists, subscribers, segments, templates, draft campaigns, scheduling and campaign stats. Deletions and sends require explicit confirmation
+- **Access:** Server available at `https://mcp.mailsenpai.com/mcp` (Streamable HTTP) with OAuth 2.1 sign-in (dynamic client registration + PKCE) using your MailSenpai account
 
 #### [Tally MCP](https://developers.tally.so/api-reference/mcp)
 
