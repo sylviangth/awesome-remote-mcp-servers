@@ -480,6 +480,10 @@ See MindPal agents in action with:
 
 - **Offers:** Marketing operations for AI agents across content and SEO, outbound email, LinkedIn, and paid ads, plus a site builder. 200+ tools.
 - **Access:** Server available at `https://mcp.yg3.ai/mcp`. Humans connect via OAuth at https://www.yg3.ai/connect. Agents can provision a sandbox workspace with one POST to `https://agency.yg3.ai/api/v1/workspaces` and use the returned Bearer token, no signup required. Free tier available.
+#### [BulkPublish MCP](https://app.bulkpublish.com/docs)
+
+- **Offers:** Create, adapt, schedule, publish, and analyze social media content across connected channels for AI-agent workflows
+- **Access:** Streamable HTTP endpoint at `https://mcp.bulkpublish.com/mcp`; requires a BulkPublish account, API key, and connected channel permissions
 
 ### Search & Data Extraction
 
