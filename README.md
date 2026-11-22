@@ -326,6 +326,10 @@ See MindPal agents in action with:
 
 - **Offers:** Verify email addresses, read verification job results, and find verified work emails with FairMatch.
 - **Access:** Connect to `https://mcp.fairvalid.com/mcp` over Streamable HTTP and authorize a FairValid workspace with OAuth. The free plan includes 300 shared credits per month.
+#### [Viewlify](https://viewlify.app/tiktok-data-api)
+
+- **Offers:** Find the TikTok videos that beat their creator's usual views and by how much, plus trending videos and hashtags by niche, from public TikTok data. Read only
+- **Access:** Server available at `https://viewlify.app/api/mcp` (Streamable HTTP). Three tools answer without a key as a 5-result preview; full search needs an API key (`Authorization: Bearer vf_live_xxxx`), free to create in Settings > API & MCP. Pay as you go at $0.005 per call, with $1 of free credit
 
 ### Search & Data Extraction
 
