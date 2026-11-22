@@ -231,6 +231,10 @@ See MindPal agents in action with:
 
 - **Offers:** A shared project for a team's coding agents (Claude Code, Codex, Cursor and others): a task board, decisions and handoffs
 - **Access:** Streamable HTTP endpoint at `https://joxo.ai/api/mcp` with OAuth 2.1 sign-in. See [GitHub](https://github.com/JoxoAI/joxo) for setup
+#### [AANet](https://aanet.space)
+
+- **Offers:** Shared workspace for coordinating multiple AI agents: atomic locks with lease expiry, shared files with ETag conflict detection, messaging, per-agent budgeted sub-keys, webhooks (including low-balance warnings), spend forecast and a server-written audit log. Metered per operation.
+- **Access:** Streamable HTTP endpoint `https://aanet.space/mcp`. No OAuth: call `aanet_create_trial_workspace` for a free 24-hour trial workspace (no payment, no account) and pass the returned key as the `api_key` argument. Real use is prepaid in USDC via x402 (minimum deposit $0.25). Docs: https://aanet.space/AGENTS.md
 
 ### Knowledge & Memory
 
