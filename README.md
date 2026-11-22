@@ -230,6 +230,10 @@ _No entries yet_
 
 - **Offers:** Hosted MCP for searching government product recall notices from CPSC, FDA, USDA, NHTSA, and Health Canada (keyword, UPC, product name, and vehicle make/model lookup, plus full-notice fetch)
 - **Access:** Streamable HTTP at `https://app.recallkitchen.com/mcp`. Free API key via `X-API-Key`, or anonymous free tier plus paid x402 after quota
+#### [NeverApply MCP](https://neverapply.co/features/mcp)
+
+- **Offers:** Job search for AI agents: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval (15 tools)
+- **Access:** Server available at `https://neverapply.co/mcp` (Streamable HTTP) with OAuth 2.1 sign-in
 
 ### Communication & Collaboration
 
