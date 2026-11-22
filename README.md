@@ -278,6 +278,12 @@ See MindPal agents in action with:
 - **Offers:** Review your own medication and supplement schedules, recent symptoms, mood, medication activity, and descriptive wellness summaries. Personal consumer use only, not clinical care or diagnosis. Medication writes are disabled.
 - **Access:** Remote Streamable HTTP at `https://mcp.careclinic.io/mcp`. Sign in to an active CareClinic account and consent through a supported client. OAuth 2.1 with S256 PKCE requires approved client identities and exact callbacks; no open Dynamic Client Registration. Free accounts can connect and receive basic summaries; extended trend detail requires CareClinic Premium. See the linked setup guide for health-data sharing, revocation, privacy, and support. Source is private.
 
+#### [Statsnet](https://github.com/usenetstate/statsnet-mcp)
+
+- **Offers:** World company background check — registration details, executives, courts, and finances for any company
+- **Access:** Remote streamable-HTTP MCP at `https://statsnet.co/mcp` (free public cards; deeper data via optional API subscription). Official Registry: `io.github.usenetstate/statsnet`
+
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
