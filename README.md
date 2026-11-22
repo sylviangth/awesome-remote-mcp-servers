@@ -157,6 +157,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read-only materials data for metals, polymers, ceramics, composites and space materials, with units, test conditions, method and source for each value. 11 tools: find_materials, search_materials, get_material, compare, list_properties, list_claims, prove_claim, what_is_missing, resolve_designation, search_sources, get_term
 - **Access:** Free, no authentication. Streamable HTTP endpoint at `https://spacemushroom.com/mcp`. See [GitHub](https://github.com/simulsarker007/space-mushroom-mcp) for more details
+#### [Contract10 MCP](https://www.contract10.com)
+
+- **Offers:** Extracts the dates and contingency periods from a signed US real estate purchase contract (PDF), each with its page and quoted line, and computes the closing deadlines from them. A closing-timeline tool computes deadlines from dates alone
+- **Access:** Hosted endpoint at `https://www.contract10.com/api/mcp`. `build_closing_timeline` needs no key; the other tools need an API key. Free plan is $0 for one active transaction; Pro is $49 a month for unlimited transactions. Docs at `https://www.contract10.com/docs/api`
 
 ### Developer Tools
 
