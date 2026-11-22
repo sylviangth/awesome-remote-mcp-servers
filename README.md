@@ -65,6 +65,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -514,6 +518,10 @@ See MindPal agents in action with:
 
 - **Offers:** Five read-only tools for current and version-specific developer documentation with verifiable source links
 - **Access:** Authorize your Docsy account with OAuth 2.1 and connect Streamable HTTP at `https://docsy.remcp.site/mcp/registry`; [installation instructions](https://github.com/getremcp/docsy-plugin)
+#### [ReMCP](https://remcp.site)
+
+- **Offers:** OAuth-protected remote control of computers explicitly paired by their owners, including file management, terminal, browser and native desktop automation, and diagnostics; operations can change device state
+- **Access:** Sign in and pair a device; connect Streamable HTTP at `https://remcp.site/mcp`, using the [public client and documentation](https://github.com/getremcp/remcp)
 
 ### Knowledge & Memory
 
