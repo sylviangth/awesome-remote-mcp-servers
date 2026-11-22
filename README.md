@@ -299,6 +299,10 @@ See MindPal agents in action with:
 
 - **Offers:** Tools to schedule one-off or recurring HTTP requests, pause, resume, run and delete schedules, and check account status
 - **Access:** Add https://runlater.app/api/mcp as a remote MCP server and sign in with OAuth, or send an API key as a bearer token. Paid plans from $15/month with a 14-day trial
+#### [WhatsDownNow](https://whatsdownnow.com/developers)
+
+- **Offers:** Live outage status for 250 apps, cloud platforms, and AI APIs (OpenAI, Anthropic, Gemini, Grok), healthy AI API fallbacks, and alert stacks.
+- **Access:** Free, no-auth Streamable HTTP endpoint at `https://whatsdownnow.com/mcp`.
 
 ### Knowledge & Memory
 
