@@ -484,6 +484,10 @@ See MindPal agents in action with:
 
 - **Offers:** Create, adapt, schedule, publish, and analyze social media content across connected channels for AI-agent workflows
 - **Access:** Streamable HTTP endpoint at `https://mcp.bulkpublish.com/mcp`; requires a BulkPublish account, API key, and connected channel permissions
+#### [DDMarketer MCP](https://www.ddmarketer.com/mcp)
+
+- **Offers:** Search 950+ validated SaaS gap dossiers mined from real user complaints across 8 public sources, each scored 0-100 for commercial intent. Tools: `search_gaps`, `get_top_gaps`, `validate_idea`, `get_dossier`
+- **Access:** Server available at `https://www.ddmarketer.com/api/mcp` (Streamable HTTP). Search tools need no authentication; an optional API key from your DDMarketer account unlocks `get_dossier`. Free tier available
 
 ### Search & Data Extraction
 
