@@ -730,6 +730,10 @@ See MindPal agents in action with:
 
 - **Offers:** Manage AI employees, assigned tasks, company memory, and scheduled work in a Yodu workspace.
 - **Access:** A paid Yodu workspace is required ($499/month; model and third-party tool fees separate). Connect over Streamable HTTP with OAuth at `https://app.yodu.ai/api/mcp/oauth`, or a workspace-scoped bearer API key at `https://app.yodu.ai/api/mcp`.
+#### [RapportScore MCP](https://app.rapportscore.ai)
+
+- **Offers:** Authorized conversation sessions, transcripts, measurements, and coaching for Conversational AI Coaching; permissioned team reports for Team Dynamics, currently a limited U.S. pilot.
+- **Access:** Configure an OAuth-capable Streamable HTTP client with `https://mcp.rapportscore.ai/mcp`, then sign in to RapportScore and approve access. Tools and data depend on account permissions and plan access.
 
 ### Media & Content
 
