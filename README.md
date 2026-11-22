@@ -754,6 +754,10 @@ See MindPal agents in action with:
 
 - **Offers:** Authorized conversation sessions, transcripts, measurements, and coaching for Conversational AI Coaching; permissioned team reports for Team Dynamics, currently a limited U.S. pilot.
 - **Access:** Configure an OAuth-capable Streamable HTTP client with `https://mcp.rapportscore.ai/mcp`, then sign in to RapportScore and approve access. Tools and data depend on account permissions and plan access.
+#### [Call2Me MCP](https://call2me.app/mcp)
+
+- **Offers:** Voice AI telephony — place and end real phone calls, read call transcripts, run a live two-language interpreter (31 languages, any pair), and search, buy and bind phone numbers. 37 tools, each annotated so destructive ones are flagged.
+- **Access:** Server at `https://mcp.call2me.app/mcp`, Streamable HTTP with OAuth 2.1 (PKCE). Public sign-up, $5 free credit, no card. Published in the official MCP registry as `app.call2me/mcp`. A read-only scope is available.
 
 ### Media & Content
 
