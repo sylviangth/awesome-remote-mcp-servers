@@ -398,6 +398,11 @@ See MindPal agents in action with:
 
 - **Offers:** Your portable context layer — user-owned containers holding structured context, live work state, and accumulated knowledge, loaded into any MCP-speaking AI client from one endpoint
 - **Access:** Create an account at [portablecontext.ai](https://portablecontext.ai), then connect via `https://mcp.portablecontext.ai/mcp` (OAuth 2.0 + PKCE — no API key)
+#### [ContextStream](https://contextstream.io)
+
+- **Offers:** Shared project context across AI coding tools and agents via hosted MCP; real published benchmarks
+- **Access:** Sign up at https://contextstream.io, connect hosted MCP at `https://mcp.contextstream.io/mcp` (OAuth / Streamable HTTP). Registry: `io.contextstream/mcp`. Benchmarks: https://contextstream.io/benchmarks
+
 
 ### Marketing & CRM
 
