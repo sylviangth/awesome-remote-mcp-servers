@@ -341,6 +341,10 @@ See MindPal agents in action with:
 
 - **Offers:** Live public web data for AI: local businesses with phone numbers and websites (Google Maps), competitors' live Meta and Google ads, TikTok/Instagram/YouTube stats and transcripts, product price comparison across stores and countries, and email alerts when a page or price changes
 - **Access:** OAuth 2.1 Streamable HTTP endpoint at `https://app.puley.com/mcp`; setup guide at https://puley.com/connect. Free to start ($2 free, no card), then pay as you go
+#### [Scrapfly MCP](https://scrapfly.io/docs/mcp/getting-started)
+
+- **Offers:** Web scraping to Markdown or JSON with JavaScript rendering and proxies, screenshots, structured data extraction and cloud browser sessions
+- **Access:** Server available at `https://mcp.scrapfly.io/mcp` (Streamable HTTP). Sign in with OAuth, or send a Scrapfly API key as an `Authorization: Bearer <key>` header. Get a key from [scrapfly.io/dashboard](https://scrapfly.io/dashboard)
 
 ### Communication & Collaboration
 
