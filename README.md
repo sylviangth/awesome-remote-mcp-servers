@@ -278,6 +278,10 @@ See MindPal agents in action with:
 
 - **Offers:** Publish HTML built in chat as a private, view-tracked link, update it, list pages, read view stats, and read and answer comments
 - **Access:** Server available at `https://app.pagelive.io/api/mcp` with OAuth authentication; a free account works, paid plans from $15/mo
+#### [AppScreen](https://appscreen.pro)
+
+- **Offers:** Designs App Store and Google Play screenshots in the AppScreen browser editor: slides, iPhone/iPad/Android frames, captions, backgrounds, the app's own screenshots, PNG export at store sizes, saved projects and share links
+- **Access:** Streamable HTTP endpoint at `https://appscreen.pro/mcp` with OAuth sign-in. Setup for Claude, Cursor, VS Code and others at [appscreen.pro/mcp](https://appscreen.pro/mcp)
 
 ### Payments & Commerce
 
