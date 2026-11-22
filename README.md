@@ -446,6 +446,12 @@ See MindPal agents in action with:
 - **Offers:** Hosted Google Ads MCP server. Diagnose campaign performance (CPA, ROAS, search-term waste, quality scores, learning-phase status), recommend optimizations (bids, budgets, negative keywords, ad copy), and execute approved changes via the official Google Ads API with a built-in human-approval gate.
 - **Access:** Server available at `https://notfair.co/api/mcp/google_ads`. Sign up at [notfair.co](https://notfair.co) and add it as a custom connector in Claude (or any MCP client) — auth via NotFair sign-in flow. Free tier available (7 days unlimited, then 300 ops/month, no credit card).
 
+
+#### [Grabbit MCP](https://www.grabbit.sh/mcp-server)
+
+- **Offers:** Finds Reddit buyer-intent threads, filters monitored conversations by intent, relevance, sentiment, mentions, and keywords, checks subreddit rules, reads full posts and comments, and manages tags, feeds, and lead statuses through 16 typed MCP tools.
+- **Access:** Connect to `https://mcp.grabbit.sh/mcp` using Streamable HTTP. OAuth-capable clients use Dynamic Client Registration with PKCE S256; personal bearer tokens are available for headless clients. Grabbit does not automatically post replies to Reddit.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
