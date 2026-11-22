@@ -492,6 +492,15 @@ See MindPal agents in action with:
 
 - **Offers:** Search 950+ validated SaaS gap dossiers mined from real user complaints across 8 public sources, each scored 0-100 for commercial intent. Tools: `search_gaps`, `get_top_gaps`, `validate_idea`, `get_dossier`
 - **Access:** Server available at `https://www.ddmarketer.com/api/mcp` (Streamable HTTP). Search tools need no authentication; an optional API key from your DDMarketer account unlocks `get_dossier`. Free tier available
+#### [Google Ads MCP by Ryze AI](https://www.get-ryze.ai/google-ads-mcp)
+
+- **Offers:** Google Ads through MCP: account audits, search terms, GAQL reports, Keyword Planner ideas, recommendations, and approved changes to budgets, bids and negatives. MCC manager accounts supported
+- **Access:** Server at `https://connector.get-ryze.ai/mcp` with OAuth 2.1 (dynamic client registration + PKCE). Sign in with the Google account that owns the ads; no developer token; free. Docs: https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp/tree/main/google-ads-mcp
+
+#### [Meta Ads MCP by Ryze AI](https://www.get-ryze.ai/meta-ads-mcp)
+
+- **Offers:** Facebook and Instagram Ads through MCP: Insights by campaign, ad set and ad, creatives, lead forms, Meta Ad Library research, and approved changes to budgets and ad status
+- **Access:** Same server `https://connector.get-ryze.ai/mcp`, OAuth 2.1. Sign in with the Facebook user that has Business Manager access; no app review or token; free. Docs: https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp/tree/main/meta-ads-mcp
 
 ### Search & Data Extraction
 
