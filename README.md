@@ -40,6 +40,11 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 <div align="center">
 
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+🚀 <!-- MCP_COUNT -->**37 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-37-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -425,6 +430,10 @@ See MindPal agents in action with:
 
 - **Offers:** Inspect AI agent traces, manage evaluation datasets, run evaluations, and test voice agents from an MCP client.
 - **Access:** Connect to `https://noveum.ai/api/mcp` over Streamable HTTP and sign in with OAuth 2.1, or supply a Bearer API key. Requires a Noveum account; usage limits and paid plans apply. [Setup guide](https://noveum.ai/en/docs/platform/mcp-server-reference).
+#### [Vocenya Docs MCP](https://vocenya.com/docs/mcp)
+
+- **Offers:** Read-only search over the Vocenya API docs and reference: guides, every REST endpoint with scope, parameters and code samples
+- **Access:** Free, no authentication. Server available at `https://vocenya.com/mcp/docs` (Streamable HTTP)
 
 ### Knowledge & Memory
 
@@ -776,6 +785,10 @@ See MindPal agents in action with:
 
 - **Offers:** Voice AI telephony — place and end real phone calls, read call transcripts, run a live two-language interpreter (31 languages, any pair), and search, buy and bind phone numbers. 37 tools, each annotated so destructive ones are flagged.
 - **Access:** Server at `https://mcp.call2me.app/mcp`, Streamable HTTP with OAuth 2.1 (PKCE). Public sign-up, $5 free credit, no card. Published in the official MCP registry as `app.call2me/mcp`. A read-only scope is available.
+#### [Vocenya MCP](https://vocenya.com/docs/mcp)
+
+- **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
+- **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
 ### Media & Content
 
