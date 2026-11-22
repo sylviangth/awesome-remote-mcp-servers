@@ -432,6 +432,10 @@ See MindPal agents in action with:
 - **Offers:** Shared project context across AI coding tools and agents via hosted MCP; real published benchmarks
 - **Access:** Sign up at https://contextstream.io, connect hosted MCP at `https://mcp.contextstream.io/mcp` (OAuth / Streamable HTTP). Registry: `io.contextstream/mcp`. Benchmarks: https://contextstream.io/benchmarks
 
+#### [Continuity](https://continuitywriter.com)
+
+- **Offers:** Private story bible for fiction: characters, locked canon, approved scenes, provisional checkpoints, and a continuity check. One remote server for ChatGPT, Claude, Gemini, Grok, and Cursor.
+- **Access:** Streamable HTTP at `https://continuitywriter.com/mcp` with OAuth and dynamic client registration. No API key. Setup: https://continuitywriter.com/connect. Story tools need Pro or an active trial. The site offers a 14-day trial.
 
 ### Marketing & CRM
 
