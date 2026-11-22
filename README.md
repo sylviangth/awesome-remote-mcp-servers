@@ -361,6 +361,10 @@ See MindPal agents in action with:
 
 - **Offers:** DC Hub is the live data layer for data-center site selection. Its DCPI is a daily score of where data centers can get grid power, across 300+ markets. 97 MCP tools.
 - **Access:** Remote endpoint at `https://dchub.cloud/mcp`. Free tier, no signup; optional X-API-Key. In the official MCP Registry. MIT.
+#### [CareJobs.Now](https://carejobs.now)
+
+- **Offers:** Search of 170,000+ open US healthcare job postings read daily from about 270 employers' career sites, job details, posted hourly pay by kind of job, employers, states and kinds of job
+- **Access:** Free remote endpoint at `https://carejobs.now/api/mcp` (Streamable HTTP). No API key, read-only, with public docs at `https://github.com/yumaheymans/carejobs-mcp`
 
 ### Developer Tools
 
