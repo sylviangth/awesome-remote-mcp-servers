@@ -132,6 +132,10 @@ See MindPal agents in action with:
 
 - **Offers:** Business-data lookups from 300+ providers through one remote MCP server: work emails, email checks, phone numbers, company and people enrichment, Google results, web search, web pages as text and local businesses. Paid per call from a prepaid balance (minimum top-up $5).
 - **Access:** Add `https://api.looot.ai/mcp` to your MCP client and sign in with OAuth in the browser, or send a looot API key as a Bearer token
+#### [OpenAny](https://mcp.openany.si)
+- **Offers:** The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo, Kling, and more). Searching and checking prices is free; you pay per call.
+- **Access:** Connect over Streamable HTTP to `https://mcp.openany.si`. Browsing, search, and price checks need no key. Sign up at [openany.si](https://openany.si) for an API key only when you want to run a call.
+
 
 ### Cloud Platforms
 
