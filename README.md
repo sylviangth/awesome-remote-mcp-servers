@@ -165,6 +165,10 @@ See MindPal agents in action with:
 
 - **Offers:** Free website traffic lookups — monthly visits, traffic sources, top countries, and domain compares via MCP tools
 - **Access:** Hosted MCP endpoint at `https://vaneform.com/mcp` with docs at `https://github.com/jiangqizheng/vaneform-mcp`
+#### [Fonciq](https://mcp.fonciq.ca)
+
+- **Offers:** Québec Land Registry (Registre foncier) data for real-estate professionals. Independent, not government-affiliated
+- **Access:** Remote endpoint `https://mcp.fonciq.ca/v1/` (Streamable HTTP, OAuth sign-in with a Fonciq account); API also available at `https://fonciq.ca`
 
 ### Developer Tools
 
