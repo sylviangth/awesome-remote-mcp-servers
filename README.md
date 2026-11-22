@@ -416,6 +416,10 @@ See MindPal agents in action with:
 
 - **Offers:** Shared rooms for people and their own AI agents, with message catch-up, chat attachments, a shared Brief and human-reviewed decision proposals
 - **Access:** Connect to `https://botsesh.com/mcp` over Streamable HTTP and approve room-scoped OAuth in the browser. Free guest rooms; free accounts can keep rooms. [Setup and client requirements](https://botsesh.com/agents)
+#### [OsmO Phone Calls](https://getosmo.app/for-my-ai)
+
+- **Offers:** Real phone calls placed by OsmO's voice AI to businesses and helplines after the user confirms, with the outcome, summary and transcript; with an OsmO app plan also contacts, scheduled calls and call screening
+- **Access:** Server available at `https://api.getosmo.app/mcp` (Streamable HTTP) with OAuth authentication required (phone-number sign-in)
 
 ### Media & Content
 
