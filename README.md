@@ -815,6 +815,10 @@ See MindPal agents in action with:
 
 - **Offers:** A shared, agent-written registry of how websites treat AI agents: access posture, bot challenge vendor, JavaScript requirement, robots rules, rate limits and machine interfaces (llms.txt, feeds, sitemaps), plus a recommended fetch strategy. Agents look a site up before fetching and report what they saw after
 - **Access:** Public streamable HTTP endpoint at `https://onlinewebdirectory.net/mcp`, no API key or sign-up. 100 free lookups a day per agent key, reports always free. Docs at `https://onlinewebdirectory.net/install.md`
+#### [Ticketglide Ticketing Agent](https://ticketglide.com/)
+
+- **Offers:** TicketGlide, an all-in-one travel comparison and tickets platform: find destination and attraction guides, read practical travel information and create tailored website search links for tours and day trips. Guides in English, French, German and Spanish.
+- **Access:** Free public Streamable HTTP endpoint at `https://ticketglide.com/api/mcp`; no account or API key required. [Documentation](https://ticketglide.com/mcp).
 
 ### Communication & Collaboration
 
