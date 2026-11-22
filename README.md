@@ -132,6 +132,11 @@ See MindPal agents in action with:
 
 - **Offers:** Manage your ZAP-Hosting game servers, VPS and TeamSpeak servers from your AI client: status, console and logs, config files, backups and restore, and plan changes with a price preview. Per-connection permissions; the client asks for confirmation before critical actions.
 - **Access:** Server available at `https://zap-hosting.com/api/mcp` with OAuth authentication (ZAP-Hosting account). Included with ZapX Pass Plus and above. Setup guides for Claude, ChatGPT, Cursor, Gemini, VS Code and Windsurf on the [MCP page](https://zap-hosting.com/en/mcp).
+#### [Fractera](https://www.fractera.ai)
+
+- **Offers:** Deploys a private, self-hosted AI coding workspace onto a user's own Ubuntu VPS, configuring Nginx, authentication, database and services automatically. Includes five AI coding engines, an autonomous orchestrator agent, and private graph memory (LightRAG). Tools cover user registration, VPS recommendation, running and monitoring the deployment, and project Q&A.
+- **Access:** No authentication required. Add the Streamable HTTP endpoint `https://www.fractera.ai/api/mcp` to your MCP client. Also published in the Official MCP Registry as `io.github.Fractera/deploy`.
+
 
 ### Databases & Storage
 
