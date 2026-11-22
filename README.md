@@ -799,6 +799,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search open robot-training jobs (robot teleoperation, demonstration recording, AV and drone test operation) across about 60 employers, with each job's posted pay and apply link
 - **Access:** Server available at `https://robottraining.jobs/api/mcp` (streamable HTTP), no authentication or API key needed
+#### [Callejear Madrid](https://callejear.com/mcp/)
+
+- **Offers:** Search 9,400 official Madrid street codes, inspect coverage and compare partial historical service counts within 500 m, with sources and explicit missing data. Read-only.
+- **Access:** Streamable HTTP at `https://callejear.com/api/mcp`; no account or API key. Free pilot: 30 tool calls/minute and 100/day per origin, 1,000/day shared.
 
 ### Communication & Collaboration
 
