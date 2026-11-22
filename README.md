@@ -427,6 +427,10 @@ See MindPal agents in action with:
 
 - **Offers:** Check whether images, video and audio are AI-generated or deepfakes. Send a direct media link and get a verdict, a confidence score and a link to the full report. Tools: `detect_media`, `get_detection_result` (read-only)
 - **Access:** Remote server at `https://diopter.ai/mcp` (Streamable HTTP) with OAuth 2.1. Sign in with a free Diopter account; free accounts include a daily scan allowance
+#### [Audo](https://audo.ai)
+
+- **Offers:** Audio and video creation and editing tools for AI agents: speech generation, voice cloning and changing, audio cleanup, transcription, captions, and editing.
+- **Access:** Connect to `https://audo.ai/mcp` using Streamable HTTP and sign in with OAuth, or send an Audo API key as a Bearer token. Includes per-tool daily free allowances; longer processing uses prepaid credits. See [MCP documentation](https://audo.ai/docs/mcp).
 
 ### Payments & Commerce
 
