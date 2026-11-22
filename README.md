@@ -531,6 +531,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search and organize your reading library of highlights, saved articles, notes and tags. Tools for semantic search over highlights, reading and saving articles, creating highlights, tagging, archiving and daily review
 - **Access:** Add `https://api.screvi.com/mcp` to your MCP client and sign in with your Screvi account (OAuth). Reading works with every connection; write actions are a separate permission approved on the consent screen
+#### [Lexpad MCP](https://lexpad.app/features/assistants)
+
+- **Offers:** 18 tools to list, search, add, edit and practise words in the user's own Lexpad vocabulary notebook; quiz answers given in chat are recorded as practice and move each word's review schedule. Free on every Lexpad plan within fair-use limits
+- **Access:** Add `https://api.lexpad.app/mcp` as a custom connector in ChatGPT or Claude (or `claude mcp add --transport http lexpad https://api.lexpad.app/mcp`) and approve on a Lexpad page (OAuth 2.1 with PKCE); needs a free Lexpad account
 
 ### Marketing & CRM
 
