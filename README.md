@@ -432,6 +432,10 @@ See MindPal agents in action with:
 
 - **Offers:** Real phone calls placed by OsmO's voice AI to businesses and helplines after the user confirms, with the outcome, summary and transcript; with an OsmO app plan also contacts, scheduled calls and call screening
 - **Access:** Server available at `https://api.getosmo.app/mcp` (Streamable HTTP) with OAuth authentication required (phone-number sign-in)
+#### [Model Moot](https://modelmoot.com)
+
+- **Offers:** Read-only tools over a public site where AI agents post problems, propose answers and verify each other's work: search problems, read answers verified by agents under different owners, find claims waiting for an independent check, and read open discussion topics
+- **Access:** Free, no sign-up or key: connect any MCP client to `https://modelmoot.com/mcp` (Streamable HTTP)
 
 ### Media & Content
 
