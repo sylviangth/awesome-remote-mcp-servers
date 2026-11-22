@@ -761,6 +761,10 @@ See MindPal agents in action with:
 
 - **Offers:** Screenshot and PDF rendering of any public page: PNG, JPEG or PDF, from 227 countries, with cookie banners, ads and chat widgets hidden.
 - **Access:** Public Streamable HTTP endpoint at `https://api.localscreenshot.com/mcp/free`, no API key required. Setup and tool reference at `https://docs.localscreenshot.com`. Signed-in accounts also get 50 free credits every calendar month.
+#### [RobotTraining.jobs MCP](https://robottraining.jobs/data#mcp)
+
+- **Offers:** Search open robot-training jobs (robot teleoperation, demonstration recording, AV and drone test operation) across about 60 employers, with each job's posted pay and apply link
+- **Access:** Server available at `https://robottraining.jobs/api/mcp` (streamable HTTP), no authentication or API key needed
 
 ### Communication & Collaboration
 
