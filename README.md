@@ -856,6 +856,10 @@ See MindPal agents in action with:
 
 - **Offers:** Curated venue and cultural itinerary search across São Paulo from a proprietary catalogue
 - **Access:** Remote MCP server at `https://rolesemsp.com.br/mcp` (Streamable HTTP). Requires browser OAuth authentication with `catalogue:read` scope for verified accounts. Setup instructions at [rolesemsp.com.br/connect.md](https://rolesemsp.com.br/connect.md)
+#### [Mubboo Flights Search](https://mubboo.flights/mcp)
+
+- **Offers:** Airport lookup, flight-search input validation and ready-to-open search links, plus service information; helps travellers prepare searches without returning live fares or inventory, making bookings or taking payments
+- **Access:** Free Streamable HTTP endpoint at `https://mubboo.flights/api/mcp`; no account or API key required. [Public documentation and client examples](https://github.com/Mubboo-Ai/mubboo-flights-mcp) are available; the hosted backend is private
 
 ### Communication & Collaboration
 
