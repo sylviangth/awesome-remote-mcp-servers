@@ -303,6 +303,10 @@ See MindPal agents in action with:
 
 - **Offers:** Marketplace seller operations for OTTO Market, Kaufland and 50+ Mirakl-based marketplaces (e.g. home24, Decathlon): orders and shipments, stock and prices, listing health and product data errors, returns and buyer messages, and OTTO Sponsored Product Ads
 - **Access:** Sign up free at [app.getbacklane.com](https://app.getbacklane.com), connect your marketplace accounts there, then add `https://app.getbacklane.com/mcp` to your MCP client and sign in via OAuth ([setup guide](https://getbacklane.com/en/docs/)). Free during the open beta
+#### [McClipFace](https://mcclipface.com)
+
+- **Offers:** Finds current coupon codes, promo codes, deals and discounts for stores and products
+- **Access:** Connect to `https://mcclipface.com/mcp/read` via Streamable HTTP. No authentication required.
 
 ### Finance & Crypto
 
