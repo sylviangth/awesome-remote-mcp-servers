@@ -269,6 +269,10 @@ See MindPal agents in action with:
 
 - **Offers:** 294 source-linked public-data tools across 60 domains, including government, markets, carrier safety, sanctions, courts, property, health, and energy. Supports task-specific tool groups; freshness and coverage vary by source.
 - **Access:** Hosted Streamable HTTP endpoint: `https://livedatalink.ai/mcp`. Anonymous evaluation is available. Get a bearer API key at https://livedatalink.ai/signup/free for 1,000 queries/month, no card. Paid plans start at $10/month.
+#### [CareClinic Health Tracker](https://cdn.careclinic.io/mcp/help/index.html)
+
+- **Offers:** Review your own medication and supplement schedules, recent symptoms, mood, medication activity, and descriptive wellness summaries. Personal consumer use only, not clinical care or diagnosis. Medication writes are disabled.
+- **Access:** Remote Streamable HTTP at `https://mcp.careclinic.io/mcp`. Sign in to an active CareClinic account and consent through a supported client. OAuth 2.1 with S256 PKCE requires approved client identities and exact callbacks; no open Dynamic Client Registration. Free accounts can connect and receive basic summaries; extended trend detail requires CareClinic Premium. See the linked setup guide for health-data sharing, revocation, privacy, and support. Source is private.
 
 ### Developer Tools
 
