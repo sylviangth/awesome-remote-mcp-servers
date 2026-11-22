@@ -312,6 +312,10 @@ See MindPal agents in action with:
 
 - **Offers:** A maintained, source-traced record of the entities and events in your named domain (defense, space, biopharma, geopolitical risk): today's brief, corroborated signals, entity and event records, and prediction-market sensors graded against how reality resolved — every claim cited to its source
 - **Access:** Remote endpoint at `https://api.signalbureau.ai/api/mcp` (Streamable HTTP). Self-issue a key in one free call — `POST https://api.signalbureau.ai/api/keys` with `{"label": "your agent"}` — and send it as `x-api-key`; the brief, record and calibration are free, the key carries 25 free answers, and Reads meter at the published rate after that
+#### [Kultranz MCP](https://kultranz.com/pages/api-docs/)
+
+- **Offers:** US salary, cost-of-living, and take-home-pay data from BLS, BEA, Census, and IRS 2026 releases — 5 read-only tools including a full 50-state tax engine, BEA regional price parities across 50 metros, and BLS OEWS wage percentiles by occupation and metro
+- **Access:** Free hosted Streamable HTTP endpoint at `https://api.kultranz.com/mcp` — no API key or sign-up required
 
 ### Developer Tools
 
