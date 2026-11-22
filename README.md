@@ -161,6 +161,10 @@ See MindPal agents in action with:
 
 - **Offers:** Extracts the dates and contingency periods from a signed US real estate purchase contract (PDF), each with its page and quoted line, and computes the closing deadlines from them. A closing-timeline tool computes deadlines from dates alone
 - **Access:** Hosted endpoint at `https://www.contract10.com/api/mcp`. `build_closing_timeline` needs no key; the other tools need an API key. Free plan is $0 for one active transaction; Pro is $49 a month for unlimited transactions. Docs at `https://www.contract10.com/docs/api`
+#### [Vaneform](https://vaneform.com)
+
+- **Offers:** Free website traffic lookups — monthly visits, traffic sources, top countries, and domain compares via MCP tools
+- **Access:** Hosted MCP endpoint at `https://vaneform.com/mcp` with docs at `https://github.com/jiangqizheng/vaneform-mcp`
 
 ### Developer Tools
 
