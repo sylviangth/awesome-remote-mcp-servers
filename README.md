@@ -140,6 +140,10 @@ See MindPal agents in action with:
 
 - **Offers:** Cited company background reports for agents and a free registry coverage check. US coverage is limited to SEC-reporting entities; Canada to federal corporations. The company-level screen covers the OFAC SDN and UK Sanctions List; EU and UN lists are not screened.
 - **Access:** Connect to `https://dutiful.work/mcp` via Streamable HTTP. Company Reports cost $3.00 USDC on Base via x402. `create_order` returns payment requirements and does not pay; payment requires a separate wallet-signing/payment step. [Sample report](https://dutiful.work/sample/sainsburys).
+#### [JobsPipe MCP](https://docs.jobspipe.dev/ai-agents/mcp)
+
+- **Offers:** Live job postings from 30+ ATS feeds and job boards in one normalized schema: search and fetch postings, filter by location, salary, seniority, skills and visa stance, and save searches as alerts by email, Slack or webhook
+- **Access:** Add `https://mcp.jobspipe.dev/mcp` (Streamable HTTP) and sign in with OAuth, or send `Authorization: Bearer jp_live_...` with a key from the [JobsPipe dashboard](https://jobspipe.dev/dashboard). Free plan with 1,000 credits, no card; paid plans for more
 
 ### Developer Tools
 
