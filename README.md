@@ -24,6 +24,11 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 <div align="center">
 
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+🚀 <!-- MCP_COUNT -->**37 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-37-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -443,6 +448,15 @@ See MindPal agents in action with:
 
 - **Offers:** Audio and video creation and editing tools for AI agents: speech generation, voice cloning and changing, audio cleanup, transcription, captions, and editing.
 - **Access:** Connect to `https://audo.ai/mcp` using Streamable HTTP and sign in with OAuth, or send an Audo API key as a Bearer token. Includes per-tool daily free allowances; longer processing uses prepaid credits. See [MCP documentation](https://audo.ai/docs/mcp).
+#### [Kling AI Global Plugin](https://kling.ai/app/mcp/guide)
+
+- **Offers:** Official image and video generation, reference-based workflows, reusable subjects, motion control and task tracking; available tools and models depend on account permissions.
+- **Access:** Connect an OAuth-capable client to `https://kling.ai/mcp/plugin` using Streamable HTTP and authorize a Global-region Kling account. Claude Code: `claude mcp add --transport http kling-ai-global https://kling.ai/mcp/plugin`. Generation consumes account credits. Global and China accounts, credits and task IDs are separate. [Integration documentation](https://github.com/klingai-tech/claude-plugin).
+
+#### [Kling AI China Plugin](https://klingai.com)
+
+- **Offers:** Official China-region image and video generation, reference-based workflows, reusable subjects, motion control and task tracking; available tools and models depend on account permissions.
+- **Access:** Connect an OAuth-capable client to `https://klingai.com/mcp/plugin` using Streamable HTTP and authorize a China-region Kling account. Claude Code: `claude mcp add --transport http kling-ai-cn https://klingai.com/mcp/plugin`. Generation consumes account credits. China and Global accounts, credits and task IDs are separate. [China integration documentation](https://github.com/klingai-dev/openclaw-plugin).
 
 ### Payments & Commerce
 
