@@ -523,6 +523,10 @@ See MindPal agents in action with:
 
 - **Offers:** A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Paid plans; bring your own AI key.
 - **Access:** Streamable HTTP endpoint `https://enhanciar.in/enhanciar/mcp/` with an Enhanciar API key (Bearer). Setup steps on https://enhanciar.in/mcp
+#### [Screvi](https://screvi.com/mcp)
+
+- **Offers:** Search and organize your reading library of highlights, saved articles, notes and tags. Tools for semantic search over highlights, reading and saving articles, creating highlights, tagging, archiving and daily review
+- **Access:** Add `https://api.screvi.com/mcp` to your MCP client and sign in with your Screvi account (OAuth). Reading works with every connection; write actions are a separate permission approved on the consent screen
 
 ### Marketing & CRM
 
