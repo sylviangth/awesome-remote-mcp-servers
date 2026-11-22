@@ -535,6 +535,10 @@ See MindPal agents in action with:
 
 - **Offers:** Domain availability across 1,200+ TLDs with the renewal price, the registry's minimum registration term, and who is eligible to register. An answer no registry confirmed is returned as `estimated`, never `available`, so a rate-limited or unreachable registry is never reported as free. Tools: `check_domains`, `whois`, `list_tlds`
 - **Access:** Public streamable HTTP endpoint at `https://dotsweep.com/mcp` — free, no account and no API key. Setup click-path at [dotsweep.com/setup](https://dotsweep.com/setup), reference at [dotsweep.com/docs](https://dotsweep.com/docs)
+#### [VPN.FAIL MCP](https://mcp.vpn.fail/)
+
+- **Offers:** Fetches public HTTP(S) pages as Markdown, text, or HTML through a rotating proxy pool
+- **Access:** Public Streamable HTTP endpoint at `https://mcp.vpn.fail/mcp`; no account or API key required, and anonymous usage quotas apply
 
 ### Communication & Collaboration
 
