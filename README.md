@@ -759,6 +759,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Personal CRM for AI agents: look up and update contacts, log interactions, keep notes, and set reminders and tasks about the people in your life (about 120 tools). Free beta up to 1,000 contacts, no credit card.
 - **Access:** OAuth 2.1 sign-in with your ppl account (dynamic client registration, no API key). Server available at `https://withppl.com/mcp`. Sign up at https://withppl.com/register
 
+#### [RoboDebut](https://robodebut.com)
+
+- **Offers:** Submit a website or startup to the RoboDebut directory with `submit_project`, then check on it later with `get_submission_status` and the private receipt. Free; no paid placement. Each listing needs a visible RoboDebut badge on the project's homepage, and an operator reviews it before it goes public.
+- **Access:** Add `https://robodebut.com/api/mcp` (Streamable HTTP) to your MCP client. No account or API key. Setup and submission rules are in [llms.txt](https://robodebut.com/llms.txt)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
