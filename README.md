@@ -186,6 +186,10 @@ See MindPal agents in action with:
 
 - **Offers:** Screenshots of public web pages for agents: `take_screenshot` returns a PNG, JPEG, WebP, PDF or scrolling video (full page, device presets, dark mode, ad and cookie-banner blocking, CSS selector), and `list_devices` lists device presets
 - **Access:** Streamable HTTP endpoint at `https://curlshot.com/api/mcp` with header `Authorization: Bearer <access key>`. Free key at [curlshot.com/register](https://curlshot.com/register) (100 screenshots a month, paid plans from $19/month). See [docs](https://curlshot.com/docs/guides/ai-agents)
+#### [ExtensionDash](https://extensiondash.com/)
+
+- **Offers:** Search Chrome Web Store and Firefox Add-ons catalogs; signed-in extension developers can inspect store metrics and keyword positions and manage tracked keywords and competitors
+- **Access:** Hosted Streamable HTTP endpoint at `https://extensiondash.com/mcp`. Public catalog research works without an account (60 requests/minute per IP); account data requires OAuth 2.1 or a user token. The service has a free tier
 
 ### Knowledge & Memory
 
