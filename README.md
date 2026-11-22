@@ -745,6 +745,10 @@ See MindPal agents in action with:
 
 - **Offers:** YouTube transcript search and monitoring for your AI: exact quotes, full transcripts and speakers.
 - **Access:** Connect to `https://mcp.arcmira.com/mcp` over Streamable HTTP and sign in with OAuth, or send an Arcmira API key. An account is required; free and paid plans have usage limits. [API and connection docs](https://arcmira.com/docs/mcp-server).
+#### [HireLayer MCP](https://hirelayer.co/mcp)
+
+- **Offers:** Recruiting tools: resume and CV parsing into structured JSON, job criteria extraction, candidate matching and ranking against a job, and skills normalization
+- **Access:** Server available at `https://hirelayer.co/mcp` (Streamable HTTP) with OAuth authentication. Free plan with 50 credits a month, no card required. Also available via `npx hirelayer-mcp`
 
 ### Communication & Collaboration
 
