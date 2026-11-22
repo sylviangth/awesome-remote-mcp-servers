@@ -527,6 +527,10 @@ See MindPal agents in action with:
 
 - **Offers:** Polish case law and legislation: find a ruling by case number, verify that a cited case number exists, list rulings citing a provision (newest or by citation authority), read a provision's text and get claim-amount statistics (~656k rulings, ~165k acts)
 - **Access:** Free, no sign-up: add `https://api.prawnet.pl/mcp` (Streamable HTTP) as a remote MCP server; an optional API key raises the per-IP limit
+#### [DomScan MCP](https://domscan.net/mcp-domain-checker)
+
+- **Offers:** Domain availability, DNS, WHOIS/RDAP, TLS, subdomain, valuation, email-authentication, and brand-monitoring tools
+- **Access:** Connect to `https://domscan.net/mcp` with Streamable HTTP and authenticate through OAuth discovery or a DomScan API key
 
 ### Communication & Collaboration
 
