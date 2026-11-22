@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**240 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**241 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-240-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-241-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -43,9 +43,16 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 
 ## Who's Behind This Repo
 
-This repository is maintained by [MindPal](https://mindpal.io) - a no-code platform for building AI agents and multi-agent systems that can be trained on your domain expertise, learn from your knowledge sources, orchestrate sub-agents, use browser automation, and run tools via hosted MCP servers.
+This repository is maintained by [MindPal](https://mindpal.space). MindPal helps coaches, consultants, agencies and educators turn what they know into AI tools for their clients, with no code. Built from your own material, these AI agents and guided workflows can be shared as a link, embedded on your site, or published on your platform. Your clients get your expertise whenever they need it, and you get a business that grows beyond your hours.
 
-See MindPal agents in action with:
+MindPal agents can also run tools through the hosted MCP servers in this list, and MindPal has its own hosted MCP server, so you can build and manage your AI tools from Claude or ChatGPT.
+
+Watch MindPal MCP in action:
+
+- MindPal MCP in ChatGPT: [Watch demo](https://youtu.be/jliXwarbJgw)
+- MindPal MCP in Claude: [Watch demo](https://youtu.be/smgu_lGZGHk)
+
+See MindPal agents use other hosted MCP servers:
 
 - Zapier MCP integration: [Watch demo](https://youtu.be/KgGNbsKzKHk)
 - Make MCP integration: [Watch demo](https://youtu.be/GskAd_P5Sgc)
@@ -54,6 +61,11 @@ See MindPal agents in action with:
 ## Hosted MCP Servers
 
 ### Aggregators & Integration Platforms
+
+#### [MindPal MCP](https://docs.mindpal.space/mcp)
+
+- **Offers:** Build and manage expert AI tools from Claude, ChatGPT, Codex or Cursor. You can create and edit AI agents and workflows, add knowledge sources (documents, web pages, files), attach tools such as web search, image generation, MCP servers and connected apps, and publish agents as chatbots or workflows as forms with links and embed code. You can also read agent chats and workflow runs, find unanswered questions, and start new chats or runs. The assistant asks before every change
+- **Access:** Server available at `https://mcp.mindpal.space/mcp` (Streamable HTTP) with OAuth sign-in: choose a workspace and click Allow. Scripts can send a workspace API key as a Bearer token instead. Connecting is free on every MindPal plan, including Free; chats and workflow runs use workspace credits. [Setup guide](https://docs.mindpal.space/mcp)
 
 #### [Zapier MCP](https://zapier.com/mcp)
 
