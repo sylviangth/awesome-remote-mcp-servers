@@ -340,6 +340,10 @@ See MindPal agents in action with:
 
 - **Offers:** U.S. federal and state court filing rules, local rules, judge standing orders and court holiday calendars, returned with a citation to the page and section of the source order
 - **Access:** Remote endpoint at `https://mcp.courtrules.app/mcp`; sign in once from the client, or send an API key from `https://console.courtrules.app` as `Authorization: Bearer <api_key>`. Free, no paid tier
+#### [Hoot Lens MCP](https://hootlens.com/docs/MCP.md)
+
+- **Offers:** Session replays, click heatmaps by page and device class, broken clicks linked to the JavaScript error and source line, funnels, traffic and before and after checks for shipped changes
+- **Access:** Hosted endpoint at `https://mcp.hootlens.com/mcp` with OAuth sign-in to a Hoot Lens account. A read-only demo with sample data and no sign-in is at `https://mcp.hootlens.com/demo`
 
 ### Developer Tools
 
