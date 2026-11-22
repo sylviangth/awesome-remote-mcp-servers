@@ -317,6 +317,11 @@ See MindPal agents in action with:
 - **Offers:** Live outage status for 250 apps, cloud platforms, and AI APIs (OpenAI, Anthropic, Gemini, Grok), healthy AI API fallbacks, and alert stacks.
 - **Access:** Free, no-auth Streamable HTTP endpoint at `https://whatsdownnow.com/mcp`.
 
+#### [Prismix Status MCP](https://prismix.dev/mcp-server)
+
+- **Offers:** Real-time status of 75+ AI services (OpenAI, Anthropic, Cursor, Groq, GitHub Copilot, and more) with live incident tracking. Lets Claude and other AI assistants answer "Is OpenAI down?" or "Which AI services are degraded?" with live data.
+- **Access:** Free, no authentication required. Streamable HTTP endpoint: `https://prismix.dev/api/v1/mcp`
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
