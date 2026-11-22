@@ -343,6 +343,10 @@ See MindPal agents in action with:
 
 - **Offers:** Tools for Google Search Console and Google Analytics (free), plus SERP, keyword research, rank tracking, site audits, and AI visibility tracking across ChatGPT, Gemini, Perplexity and Google AI Overviews (paid research is optional pay-as-you-go)
 - **Access:** Add `https://app.zadojo.com/mcp` to your MCP client and sign in with OAuth, or create an API key in zaDojo settings
+#### [ReviewTactic](https://reviewtactic.com/mcp/)
+
+- **Offers:** Finds a business on Google, reads its recent negative Google reviews and marks the ones that may break Google's review rules, and checks its Google Maps rank for a search term. Can email the flagged list to an address the user types
+- **Access:** Free, remote, no authentication required. Server URL: `https://api.reviewtactic.com/functions/v1/mcp` (Streamable HTTP)
 
 ### Search & Data Extraction
 
