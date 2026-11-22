@@ -759,6 +759,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Personal CRM for AI agents: look up and update contacts, log interactions, keep notes, and set reminders and tasks about the people in your life (about 120 tools). Free beta up to 1,000 contacts, no credit card.
 - **Access:** OAuth 2.1 sign-in with your ppl account (dynamic client registration, no API key). Server available at `https://withppl.com/mcp`. Sign up at https://withppl.com/register
 
+#### [Clickwise](https://partners.clickwise.net/developers/)
+
+- **Offers:** Find affiliate programs, get tracked links and browse merchant deals; with a publisher API key, search products by text or GTIN
+- **Access:** Server available at `https://partners.clickwise.net/api/v1/mcp` (Streamable HTTP). Program search, tracked links and deals work without an account; for product search, send the API key of a Clickwise publisher account in the `X-API-Key` header (see the developer docs)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
