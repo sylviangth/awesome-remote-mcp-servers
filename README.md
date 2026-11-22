@@ -827,6 +827,10 @@ See MindPal agents in action with:
 
 - **Offers:** TicketGlide, an all-in-one travel comparison and tickets platform: find destination and attraction guides, read practical travel information and create tailored website search links for tours and day trips. Guides in English, French, German and Spanish.
 - **Access:** Free public Streamable HTTP endpoint at `https://ticketglide.com/api/mcp`; no account or API key required. [Documentation](https://ticketglide.com/mcp).
+#### [ScraperSocial](https://scrapersocial.com/mcp/)
+
+- **Offers:** 14 read-only tools for public social media data: profiles, posts, engagement stats, comments, keyword and hashtag search, reviews, trending and video transcripts across 30+ platforms including TikTok, Instagram, LinkedIn, YouTube, X and Reddit
+- **Access:** Streamable HTTP at `https://mcp.scrapersocial.com` with OAuth 2.0 (dynamic client registration) or an `Authorization: Bearer <API_KEY>` header. 100 free credits at signup, then $5/mo for 1,000 credits, charged per item returned
 
 ### Communication & Collaboration
 
