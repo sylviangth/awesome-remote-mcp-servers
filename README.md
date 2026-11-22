@@ -265,6 +265,10 @@ See MindPal agents in action with:
 
 - **Offers:** Competitive-intelligence reports and head-to-head competitor comparisons for B2B SaaS markets — real, source-backed data on pricing, positioning, ads, hiring, and reviews. 8 tools over Streamable HTTP.
 - **Access:** No signup. Connect any MCP-aware client to `https://api.industry-lens.com/mcp/public` (remote, no auth). Docs: https://github.com/IndustryLensOp/industrylens-mcp-docs
+#### [LiveDataLink](https://livedatalink.ai)
+
+- **Offers:** 294 source-linked public-data tools across 60 domains, including government, markets, carrier safety, sanctions, courts, property, health, and energy. Supports task-specific tool groups; freshness and coverage vary by source.
+- **Access:** Hosted Streamable HTTP endpoint: `https://livedatalink.ai/mcp`. Anonymous evaluation is available. Get a bearer API key at https://livedatalink.ai/signup/free for 1,000 queries/month, no card. Paid plans start at $10/month.
 
 ### Developer Tools
 
