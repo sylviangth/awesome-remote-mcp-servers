@@ -31,6 +31,11 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 <div align="center">
 
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -146,6 +151,10 @@ See MindPal agents in action with:
 
 - **Offers:** Five gateway tools for API discovery, operation schemas, execution, usage checks and subscription management. API-specific free tiers and paid plans apply.
 - **Access:** Create an API.market account and connect to `https://api.market/api/mcp/gateway` using Streamable HTTP with OAuth. API-key authentication is also available; see the [setup guide](https://api.market/mcp).
+#### [Aident Loadout](https://aident.ai)
+
+- **Offers:** One remote MCP endpoint connecting AI agents (Codex, Claude Code, Cursor, ChatGPT, and other MCP clients) to 1,000+ apps and 400+ expert-built Skills, with shared Vault-protected credentials, cost preflight, and a full audit trail
+- **Access:** Sign in at [aident.ai](https://aident.ai), then connect MCP clients to `https://loadout.aident.ai/mcp` (streamable HTTP + OAuth). Setup prompt: `Follow https://aident.ai/SETUP.md`
 
 ### Cloud Platforms
 
