@@ -22,6 +22,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -560,6 +564,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read-only search, quotes, availability, and host profiles for a peer-to-peer luxury, exotic, and EV rental marketplace. Independent hosts; booking finishes in the iOS app
 - **Access:** No authentication required. Streamable HTTP endpoint at `https://pocketdrives.ai/mcp`
+#### [Airport Lounge List](https://airportloungelist.com/mcp)
+
+- **Offers:** Search 8,500+ airport lounges worldwide and check which ones a credit card, membership, airline status or ticket class gets you into, with amenities, hours, terminal and reviews, plus network comparisons across Priority Pass, LoungeKey, DragonPass, Plaza Premium and Centurion
+- **Access:** Free. Streamable HTTP at `https://mcp.airportloungelist.com/mcp`; the eight lounge-data tools need no account, and OAuth 2.1 with dynamic client registration unlocks visit logging, reviews and a wishlist
 
 ### Communication & Collaboration
 
