@@ -1003,6 +1003,10 @@ See MindPal agents in action with:
 
 - **Offers:** Packaging catalog search, pricing and inventory context, and cart URL creation for ecommerce packaging-supply workflows
 - **Access:** Remote MCP server at `https://mcp.packrift.com/mcp` (Streamable HTTP). No authentication required.
+#### [Tenmomo MCP](https://tenmomo.com/mcp)
+
+- **Offers:** Search US stores for cashback rates and coupon codes, and get a tracked activation link
+- **Access:** Hosted Streamable HTTP endpoint at `https://tenmomo.com/mcp`. No authentication required
 
 ### Finance & Crypto
 
