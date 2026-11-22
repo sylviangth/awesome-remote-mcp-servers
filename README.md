@@ -378,6 +378,10 @@ See MindPal agents in action with:
 - **Offers:** Six read-only tools for service lookup, current status, historical community reports, privacy-thresholded regional activity, problem indicators and recent report spikes.
 - **Access:** Create a SID business account and connect to `https://statusisdown.com/api/mcp` using Streamable HTTP with OAuth. Free plan includes 500 monthly credits; tool costs and plan limits apply, with paid plans available.
 
+#### [CreditUnions](https://creditunions.fyi)
+
+- **Offers:** Directory of federally insured US credit unions from the NCUA register — search listings by place and compare charter, field of membership, assets and member counts
+- **Access:** Free public endpoint at `https://creditunions.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://creditunions.fyi/developers
 
 ### Developer Tools
 
