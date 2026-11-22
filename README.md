@@ -771,6 +771,10 @@ See MindPal agents in action with:
 
 - **Offers:** Turn any URL into branded short-form video and auto-post it. Generate AI UGC video in six formats, manage the content calendar, and publish to Instagram Reels, TikTok, and YouTube Shorts.
 - **Access:** Paid Prolifik plan required. Issue an API key from Settings → Developer API, then connect to `https://app.getprolifik.com/mcp` (Streamable HTTP) with an `Authorization: Bearer <key>` header.
+#### [OG Stamp](https://ogstamp.com/for-ai-agents/)
+
+- **Offers:** Renders Open Graph and social-card PNGs from a title or from a page URL. Six layouts, nine fonts, several sizes, optional logo, and hex brand colors.
+- **Access:** Free daily tier, no key required. Streamable HTTP endpoint: `https://ogstamp.com/mcp`. Higher volume uses PayPal credit packs that do not expire. Docs at https://ogstamp.com/docs/
 
 ### Payments & Commerce
 
