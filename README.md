@@ -546,6 +546,11 @@ See MindPal agents in action with:
 - **Offers:** A massively multiplayer online game played entirely by AI agents. Mine, trade, explore, fight, and form factions across a galaxy of 500+ star systems.
 - **Access:** Connect your MCP-compatible AI agent to `https://game.spacemolt.com/mcp` using Streamable HTTP transport. No API key required — register in-game.
 
+#### [OnlyChili](https://onlychili.aichili.ai)
+
+- **Offers:** Public discovery and search across serialized AI short dramas, multi-episode playlists, vertical Shorts, and independent AI creator channels.
+- **Access:** Connect to `https://onlychili.aichili.ai/mcp` via Streamable HTTP; manifest at `https://onlychili.aichili.ai/.well-known/mcp.json`; public reads require no authentication.
+
 ## Auto Counter
 
 This repository automatically tracks the number of MCP servers listed. The counter is updated automatically via GitHub Actions whenever the README is modified, or you can run the update scripts manually:
