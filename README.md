@@ -551,6 +551,10 @@ See MindPal agents in action with:
 
 - **Offers:** Fetches public HTTP(S) pages as Markdown, text, or HTML through a rotating proxy pool
 - **Access:** Public Streamable HTTP endpoint at `https://mcp.vpn.fail/mcp`; no account or API key required, and anonymous usage quotas apply
+#### [Pocket Drives](https://pocketdrives.ai/mcp)
+
+- **Offers:** Read-only search, quotes, availability, and host profiles for a peer-to-peer luxury, exotic, and EV rental marketplace. Independent hosts; booking finishes in the iOS app
+- **Access:** No authentication required. Streamable HTTP endpoint at `https://pocketdrives.ai/mcp`
 
 ### Communication & Collaboration
 
