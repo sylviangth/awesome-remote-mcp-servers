@@ -707,6 +707,10 @@ See MindPal agents in action with:
 
 - **Offers:** Hosted MCP server for browsing RunAPI models and creating authenticated image, video, music/audio, and model API tasks.
 - **Access:** Connect to `https://mcp.runapi.ai/mcp` via Streamable HTTP. Use OAuth when supported by the client, or a RunAPI API key as the bearer credential.
+#### [Magic Hour MCP](https://magichour.ai)
+
+- **Offers:** AI video, image, and audio generation and editing tools through a hosted MCP server
+- **Access:** Connect to `https://mcp.magichour.ai/` with a Magic Hour API key; see the [connection guide](https://github.com/magichourhq/magic-hour-mcp/blob/main/user.md) for OAuth and bearer-token setup
 
 ### Payments & Commerce
 
