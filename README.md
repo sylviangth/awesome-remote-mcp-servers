@@ -510,6 +510,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search 38,000+ small live music venues across all 50 US states, room capacities, recent show activity, and booking contacts
 - **Access:** Public Streamable HTTP endpoint at `https://nostairsplease.com/mcp` with OAuth 2.1 authentication; setup docs at `https://nostairsplease.com/mcp`
+#### [OpenShorts.io MCP](https://openshorts.io/api)
+
+- **Offers:** Clip YouTube videos into captioned vertical shorts; check jobs, clips, and plan usage.
+- **Access:** Streamable HTTP at `https://openshorts.io/api/mcp`; requires an OpenShorts.io account and API key. Processing consumes plan minutes; free availability may vary.
 
 ### Payments & Commerce
 
