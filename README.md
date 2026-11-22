@@ -339,6 +339,10 @@ See MindPal agents in action with:
 
 - **Offers:** Find the TikTok videos that beat their creator's usual views and by how much, plus trending videos and hashtags by niche, from public TikTok data. Read only
 - **Access:** Server available at `https://viewlify.app/api/mcp` (Streamable HTTP). Three tools answer without a key as a 5-result preview; full search needs an API key (`Authorization: Bearer vf_live_xxxx`), free to create in Settings > API & MCP. Pay as you go at $0.005 per call, with $1 of free credit
+#### [zaDojo](https://zadojo.com/docs/mcp)
+
+- **Offers:** Tools for Google Search Console and Google Analytics (free), plus SERP, keyword research, rank tracking, site audits, and AI visibility tracking across ChatGPT, Gemini, Perplexity and Google AI Overviews (paid research is optional pay-as-you-go)
+- **Access:** Add `https://app.zadojo.com/mcp` to your MCP client and sign in with OAuth, or create an API key in zaDojo settings
 
 ### Search & Data Extraction
 
