@@ -438,6 +438,10 @@ See MindPal agents in action with:
 
 - **Offers:** Website publishing, project and repository discovery, deployment status, build logs and usage through a hosted MCP connector. Publishing requires owner confirmation.
 - **Access:** Sign up for a Shipvela account and connect `https://shipvela.com/mcp` using Streamable HTTP and OAuth. Hobby is free with 3 static-site projects and 20 publishes per month; paid plans provide additional capacity and supported Next.js SSR.
+#### [Supero MCP](https://docs.supero.dev/developers/mcp/overview/)
+
+- **Offers:** Build and deploy multi-tenant web apps from your AI assistant. 64 tools to plan an app, validate it, publish and deploy it to a live URL, and manage its schemas, data, roles and connectors. Sign-in, access rules, database and admin panel come from the platform
+- **Access:** Server available at `https://api.supero.dev/mcp/v1/messages` (streamable HTTP) with API key authentication required (`X-API-Key: ak_...`). Free plan with 3 projects, no card. Step-by-step guide and project ideas at [supero-mcp](https://github.com/supero-platform/supero-mcp)
 
 ### Knowledge & Memory
 
