@@ -49,6 +49,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -1078,6 +1082,10 @@ See MindPal agents in action with:
 
 - **Offers:** Public discovery and search across serialized AI short dramas, multi-episode playlists, vertical Shorts, and independent AI creator channels.
 - **Access:** Connect to `https://onlychili.aichili.ai/mcp` via Streamable HTTP; manifest at `https://onlychili.aichili.ai/.well-known/mcp.json`; public reads require no authentication.
+#### [Playable Gift](https://playablegift.com)
+
+- **Offers:** Hosted service for making small personalized browser games from a sender's description of the recipient's habits, interests or inside jokes. Free use is within daily allowances. Optional subscriptions include more games and editing.
+- **Access:** Connect to `https://playablegift.com/mcp` over Streamable HTTP. No sign in is needed. See the [agent guide](https://playablegift.com/agents) for setup and tool details.
 
 ## Auto Counter
 
