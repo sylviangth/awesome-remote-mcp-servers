@@ -477,6 +477,10 @@ See MindPal agents in action with:
 
 - **Offers:** Official China-region image and video generation, reference-based workflows, reusable subjects, motion control and task tracking; available tools and models depend on account permissions.
 - **Access:** Connect an OAuth-capable client to `https://klingai.com/mcp/plugin` using Streamable HTTP and authorize a China-region Kling account. Claude Code: `claude mcp add --transport http kling-ai-cn https://klingai.com/mcp/plugin`. Generation consumes account credits. China and Global accounts, credits and task IDs are separate. [China integration documentation](https://github.com/klingai-dev/openclaw-plugin).
+#### [No Stairs Please](https://nostairsplease.com/mcp)
+
+- **Offers:** Search 38,000+ small live music venues across all 50 US states, room capacities, recent show activity, and booking contacts
+- **Access:** Public Streamable HTTP endpoint at `https://nostairsplease.com/mcp` with OAuth 2.1 authentication; setup docs at `https://nostairsplease.com/mcp`
 
 ### Payments & Commerce
 
