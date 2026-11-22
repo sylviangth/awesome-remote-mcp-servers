@@ -134,6 +134,10 @@ See MindPal agents in action with:
 
 - **Offers:** The B2A (business to agent) marketplace. One MCP endpoint for 3,200+ APIs and 168+ AI models (GPT, Claude, Gemini, DeepSeek, Qwen, Midjourney, Veo, Kling, and more). Searching and checking prices is free; you pay per call.
 - **Access:** Connect over Streamable HTTP to `https://mcp.openany.si`. Browsing, search, and price checks need no key. Sign up at [openany.si](https://openany.si) for an API key only when you want to run a call.
+#### [Scalekit AgentKit](https://www.scalekit.com/agentkit)
+
+- **Offers:** Scalekit's AgentKit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+- **Access:** Sign up, create a Virtual MCP server in AgentKit, then connect with the generated `mcp_server_url` and a session token. See [docs](https://docs.scalekit.com/agentkit/mcp/overview/)
 
 ### Cloud Platforms
 
