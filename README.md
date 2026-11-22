@@ -679,6 +679,10 @@ See MindPal agents in action with:
 
 - **Offers:** AI visibility (GEO/AEO) data: which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, which competitors are named instead, which sources the answers cite, and what to fix, plus re-checks that show whether a fix worked. 14 tools
 - **Access:** Server available at `https://app.proofsource.co/v1/mcp` (Streamable HTTP) with OAuth 2.1 sign-in by email and one-time code, no API key. Free trial, paid plans from $9/month per brand
+#### [Klype MCP](https://klype.ai/mcp/)
+
+- **Offers:** Drafts LinkedIn, X and Reddit posts in the account owner's measured writing voice from saved product and buyer context, checks any draft for AI phrasing and unsourced claims, and records the owner's approval
+- **Access:** Server available at `https://api.klype.ai/api/v1/mcp` (Streamable HTTP) with OAuth 2.1 sign-in to a Klype account, or a Klype API key
 
 ### Search & Data Extraction
 
