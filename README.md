@@ -335,6 +335,10 @@ See MindPal agents in action with:
 
 - **Offers:** Real-time status of 75+ AI services (OpenAI, Anthropic, Cursor, Groq, GitHub Copilot, and more) with live incident tracking. Lets Claude and other AI assistants answer "Is OpenAI down?" or "Which AI services are degraded?" with live data.
 - **Access:** Free, no authentication required. Streamable HTTP endpoint: `https://prismix.dev/api/v1/mcp`
+#### [UIZZE](https://uizze.com)
+
+- **Offers:** Focused UI references and hosted design materials for coding agents across 800,000+ real web and iOS screens.
+- **Access:** Use the authenticated Streamable HTTP endpoint at `https://uizze.com/mcp` with a UIZZE agent token. Free local skills are available from the [canonical repository](https://github.com/uizze/uizze).
 
 ### Knowledge & Memory
 
