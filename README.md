@@ -148,6 +148,10 @@ See MindPal agents in action with:
 
 - **Offers:** Sourced rural public data for AI agents: zoning, permits, recent decisions, soil, wind, airspace, licenses, and cited site reports
 - **Access:** Hosted Streamable HTTP endpoint at `https://api.verrow.ai/mcp`. Free discovery tools; paid tools use x402 USDC on Base mainnet or a prepaid API key. UNKNOWN or not covered responses are not charged
+#### [Space Mushroom](https://spacemushroom.com)
+
+- **Offers:** Read-only materials data for metals, polymers, ceramics, composites and space materials, with units, test conditions, method and source for each value. 11 tools: find_materials, search_materials, get_material, compare, list_properties, list_claims, prove_claim, what_is_missing, resolve_designation, search_sources, get_term
+- **Access:** Free, no authentication. Streamable HTTP endpoint at `https://spacemushroom.com/mcp`. See [GitHub](https://github.com/simulsarker007/space-mushroom-mcp) for more details
 
 ### Developer Tools
 
