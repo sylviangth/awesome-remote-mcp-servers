@@ -653,6 +653,10 @@ See MindPal agents in action with:
 
 - **Offers:** Google search volume, CPC, competition and similar keywords for 50+ countries, one keyword or up to 25 at once
 - **Access:** Remote endpoint at `https://mcp.seodata.dev/mcp`. Works without signup (20 lookups a day); sign in with OAuth or an API key for 500 a month free, or $4.99 a month for unlimited
+#### [Proofsource MCP](https://proofsource.co/ai-assistants)
+
+- **Offers:** AI visibility (GEO/AEO) data: which buyer questions name your brand in ChatGPT, Perplexity, Claude and Google AI Overviews, which competitors are named instead, which sources the answers cite, and what to fix, plus re-checks that show whether a fix worked. 14 tools
+- **Access:** Server available at `https://app.proofsource.co/v1/mcp` (Streamable HTTP) with OAuth 2.1 sign-in by email and one-time code, no API key. Free trial, paid plans from $9/month per brand
 
 ### Search & Data Extraction
 
