@@ -319,6 +319,11 @@ See MindPal agents in action with:
 - **Offers:** Personal, universal memory layer that travels with you across different AI platforms. Store and retrieve memories, create a persistent knowledge base
 - **Access:** Get your unique MCP URL (keep secret) on the website
 
+#### [Context Cloud](https://contextcloud.pro)
+
+- **Offers:** Shared persistent memory for AI teams — typed knowledge chunks (decision, finding, convention, state), RBAC, cross-tool support. Built for team workspaces, not just individual recall.
+- **Access:** OAuth 2.1 authentication required. Server available at `https://api.contextcloud.pro/mcp/protocol`
+
 ### Marketing & CRM
 
 #### [Intercom MCP](https://www.intercom.com/blog/introducing-model-context-protocol-fin/)
