@@ -926,6 +926,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Airport lookup, flight-search input validation and ready-to-open search links, plus service information; helps travellers prepare searches without returning live fares or inventory, making bookings or taking payments
 - **Access:** Free Streamable HTTP endpoint at `https://mubboo.flights/api/mcp`; no account or API key required. [Public documentation and client examples](https://github.com/Mubboo-Ai/mubboo-flights-mcp) are available; the hosted backend is private
 
+#### [Perq](https://perq.sh)
+
+- **Offers:** Search and look up a directory of verified free AI credits, free tiers and startup perks from AI and developer platforms (tools: `find_credits` and others), with eligibility and last-verified dates. Perq is made by Avatar 8 LLC
+- **Access:** Public Streamable HTTP endpoint at `https://perq.sh/mcp`; no account or API key required. Docs at [perq.sh/agents](https://perq.sh/agents)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
