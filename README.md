@@ -283,6 +283,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read-only public data from 16 social platforms (TikTok, Instagram, YouTube, Reddit, X, LinkedIn and more): profiles, posts, comments, video transcripts and Meta, Google, TikTok and LinkedIn ad library results, one tool per endpoint
 - **Access:** Server available at `https://api.lurkapi.com/mcp` (Streamable HTTP) with OAuth sign-in in the browser, or an `x-api-key` header with a key from [lurkapi.com/dashboard](https://lurkapi.com/dashboard). Paid per call; 100 free credits at signup, no card
+#### [MakerRadar](https://makerradar.io/mcp)
+
+- **Offers:** Search a weekly product launch platform and startup directory: products by keyword, platform, audience, use case or country; alternatives; side-by-side comparisons; categories; this week's and any past week's launch board. Draft a listing for your own product, and signed in, edit, launch and manage your listings
+- **Access:** `https://api.makerradar.io/mcp` (Streamable HTTP, no sign-in, read + draft) or `https://api.makerradar.io/mcp/account` (OAuth, your own listings). Free; docs at [makerradar.io/mcp](https://makerradar.io/mcp)
 
 ### Communication & Collaboration
 
