@@ -273,6 +273,10 @@ See MindPal agents in action with:
 
 - **Offers:** Keyword research, SERP analysis, backlinks, rank tracking, site audits and AI search visibility for answer engine optimization (AEO).
 - **Access:** Connect to `https://www.agentseo.dev/mcp` over Streamable HTTP. Create an AgentSEO account and use your API key in the `x-api-key` header. Tool calls use credits. The starter plan includes 100 one-time credits, and paid plans start at $9/month.
+#### [Distribution MCP](https://distribution.tech/docs)
+
+- **Offers:** Plan and run paid launch distribution on X: creators on sale by audience, all in price per post, campaign plans, approvals inside a spending mandate, proof and results
+- **Access:** Server available at `https://app.distribution.tech/api/mcp` with `Authorization: Bearer <API key>` (create a key on the Developers screen after sign up). A keyless guest endpoint at `https://app.distribution.tech/api/mcp/guest` answers inventory and price range questions
 
 ### Search & Data Extraction
 
