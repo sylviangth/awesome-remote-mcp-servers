@@ -536,6 +536,10 @@ See MindPal agents in action with:
 
 - **Offers:** Google Ads MCP reporting for campaign spend, conversions, and search terms, plus Google Analytics, Google Search Console, keyword research, and web research. Connected advertising and analytics accounts are read-only.
 - **Access:** Create a free Unfetch account, connect your data sources, and add `https://unfetch.com/api/mcp` using Streamable HTTP and OAuth. See [setup instructions](https://unfetch.com/plugin) and [plan limits](https://unfetch.com/pricing).
+#### [Kontekstolog](https://kontekstolog.online/mcp-yandex-direct)
+
+- **Offers:** MCP server for Yandex Direct advertising campaigns, Yandex Metrika website analytics, and Yandex Wordstat keyword research. Manage ad campaigns, retrieve analytics reports, and research keyword search volumes via natural language.
+- **Access:** Remote endpoint at `https://kontekstolog.online/mcp`. OAuth 2.1 authentication via Yandex account. Sign up at [kontekstolog.online](https://kontekstolog.online/mcp-yandex-direct). First 3 months free, then 300 RUB/month.
 
 ### Search & Data Extraction
 
