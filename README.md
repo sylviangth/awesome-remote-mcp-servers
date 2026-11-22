@@ -376,6 +376,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read and manage live advertising accounts across Google Ads, Meta Ads, LinkedIn Ads, TikTok Ads, Microsoft Ads and Snapchat Ads, plus GA4, Search Console, Google Tag Manager and WordPress. Audit wasted spend, check budget pacing, mine search terms, build cross-platform reports, and create or optimize campaigns, with approval required before anything changes
 - **Access:** Server available at `https://mcp-ads.com/mcp-slim` with OAuth authentication to your own ad accounts. Paid, with a 7-day free trial at [mcp-ads.com](https://mcp-ads.com)
+#### [OpenPost](https://openpo.st)
+
+- **Offers:** Social publishing tools for inspecting workspaces and media, preparing destination-specific content, validating posts, and scheduling or publishing through one visible queue
+- **Access:** Hosted is paid and currently uses a waitlist; self-hosting is available. Connect to `https://app.openpo.st/mcp` over Streamable HTTP with OAuth 2.0, or use the `/mcp` endpoint on a self-hosted OpenPost instance. See the [MCP guide](https://openpo.st/docs/mcp)
 
 #### [Tally MCP](https://developers.tally.so/api-reference/mcp)
 
