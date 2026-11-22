@@ -355,6 +355,10 @@ See MindPal agents in action with:
 
 - **Offers:** Shared persistent memory for AI teams — typed knowledge chunks (decision, finding, convention, state), RBAC, cross-tool support. Built for team workspaces, not just individual recall.
 - **Access:** OAuth 2.1 authentication required. Server available at `https://api.contextcloud.pro/mcp/protocol`
+#### [Rootr MCP](https://rootr.io)
+
+- **Offers:** Team knowledge-base workspace connected to AI. Read, search, write, and version shared documents; query structured data tables, issue trackers, and CRM; and run GraphRAG root-cause Q&A over your team's institutional knowledge — with your existing workspace permissions
+- **Access:** Add the remote connector `https://rootr.io/mcp` in Claude or ChatGPT and sign in with OAuth 2.1 (no API key, no install), then pick a workspace and permission level. Docs at `https://rootr.io/en/docs`. Free tier available
 
 ### Marketing & CRM
 
