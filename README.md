@@ -534,6 +534,10 @@ See MindPal agents in action with:
 
 - **Offers:** A pre-payment check so an agent can tell whether a seller is safe to pay before money moves. Headline tool is `payment_check` at $0.005 per call after the free tier.
 - **Access:** Streamable HTTP at `https://screwtape.ai/mcp`. 3 calls per UTC day with no key, or 10 with a free key from https://screwtape.ai/signup/, then $0.005 per call.
+#### [OsmO Travel eSIM](https://esim.getosmo.app)
+
+- **Offers:** Travel eSIM data plan comparison for a trip (including multi-country), phone eSIM support checks, trip data estimates, carrier roaming-pass comparison, and eSIM setup help
+- **Access:** Server available at `https://esim.getosmo.app/mcp` (Streamable HTTP), no authentication or sign-in required; free to use
 
 ### Finance & Crypto
 
