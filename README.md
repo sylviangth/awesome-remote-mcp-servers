@@ -258,6 +258,10 @@ See MindPal agents in action with:
 
 - **Offers:** Job search for AI agents: search and match jobs, tailor resumes, answer screening questions, prepare for interviews, and apply to jobs with your approval (15 tools)
 - **Access:** Server available at `https://neverapply.co/mcp` (Streamable HTTP) with OAuth 2.1 sign-in
+#### [LurkAPI](https://lurkapi.com)
+
+- **Offers:** Read-only public data from 16 social platforms (TikTok, Instagram, YouTube, Reddit, X, LinkedIn and more): profiles, posts, comments, video transcripts and Meta, Google, TikTok and LinkedIn ad library results, one tool per endpoint
+- **Access:** Server available at `https://api.lurkapi.com/mcp` (Streamable HTTP) with OAuth sign-in in the browser, or an `x-api-key` header with a key from [lurkapi.com/dashboard](https://lurkapi.com/dashboard). Paid per call; 100 free credits at signup, no card
 
 ### Communication & Collaboration
 
