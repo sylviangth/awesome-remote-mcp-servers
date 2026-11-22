@@ -216,6 +216,10 @@ See MindPal agents in action with:
 
 - **Offers:** Database health, backup and recovery workflows, and managed database provisioning. The agent, CLI and MCP server are Apache-2.0; the hosted service is separate.
 - **Access:** Connect to `https://api.rowsafe.sh/mcp` using Streamable HTTP with OAuth or an API key; see the [MCP documentation](https://rowsafe.sh/docs/reference/mcp). A permanent free protection plan covers one server and three databases; managed database hosting is paid.
+#### [Rowflare MCP](https://rowflare.com/docs/mcp/)
+
+- **Offers:** Read and write Rowflare bases (open-source Airtable alternative): describe bases, query, create, update and delete records, aggregate values, and manage tables, fields, views, automations and dashboards
+- **Access:** Free plan available. Create a personal access token in Rowflare Settings, then connect to `https://app.rowflare.com/mcp` (Streamable HTTP) with header `Authorization: Bearer <token>`. Self-hosted instances serve the same endpoint at `https://<your-instance>/mcp`.
 
 ### Data & Analytics
 
