@@ -500,6 +500,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** OAuth-protected remote control of computers explicitly paired by their owners, including file management, terminal, browser and native desktop automation, and diagnostics; operations can change device state
 - **Access:** Sign in and pair a device; connect Streamable HTTP at `https://remcp.site/mcp`, using the [public client and documentation](https://github.com/getremcp/remcp)
 
+#### [Runheed](https://runheed.com/?ref=awesome-remote-mcp-servers)
+
+- **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
+- **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
