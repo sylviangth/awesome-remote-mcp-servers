@@ -144,6 +144,10 @@ See MindPal agents in action with:
 
 - **Offers:** Live job postings from 30+ ATS feeds and job boards in one normalized schema: search and fetch postings, filter by location, salary, seniority, skills and visa stance, and save searches as alerts by email, Slack or webhook
 - **Access:** Add `https://mcp.jobspipe.dev/mcp` (Streamable HTTP) and sign in with OAuth, or send `Authorization: Bearer jp_live_...` with a key from the [JobsPipe dashboard](https://jobspipe.dev/dashboard). Free plan with 1,000 credits, no card; paid plans for more
+#### [Verrow](https://github.com/BradenTabor/verrow-mcp)
+
+- **Offers:** Sourced rural public data for AI agents: zoning, permits, recent decisions, soil, wind, airspace, licenses, and cited site reports
+- **Access:** Hosted Streamable HTTP endpoint at `https://api.verrow.ai/mcp`. Free discovery tools; paid tools use x402 USDC on Base mainnet or a prepaid API key. UNKNOWN or not covered responses are not charged
 
 ### Developer Tools
 
