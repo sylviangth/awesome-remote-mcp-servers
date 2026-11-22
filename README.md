@@ -324,6 +324,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search a weekly product launch platform and startup directory: products by keyword, platform, audience, use case or country; alternatives; side-by-side comparisons; categories; this week's and any past week's launch board. Draft a listing for your own product, and signed in, edit, launch and manage your listings
 - **Access:** `https://api.makerradar.io/mcp` (Streamable HTTP, no sign-in, read + draft) or `https://api.makerradar.io/mcp/account` (OAuth, your own listings). Free; docs at [makerradar.io/mcp](https://makerradar.io/mcp)
+#### [Puley](https://puley.com)
+
+- **Offers:** Live public web data for AI: local businesses with phone numbers and websites (Google Maps), competitors' live Meta and Google ads, TikTok/Instagram/YouTube stats and transcripts, product price comparison across stores and countries, and email alerts when a page or price changes
+- **Access:** OAuth 2.1 Streamable HTTP endpoint at `https://app.puley.com/mcp`; setup guide at https://puley.com/connect. Free to start ($2 free, no card), then pay as you go
 
 ### Communication & Collaboration
 
