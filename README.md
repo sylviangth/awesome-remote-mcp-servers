@@ -678,6 +678,10 @@ See MindPal agents in action with:
 
 - **Offers:** YouTube transcripts and video discovery for AI agents. Fetch any video transcript (Markdown or JSON), search YouTube, and browse channel and playlist uploads. 6 read-only tools over streamable-HTTP.
 - **Access:** Create an API key at transcriptapi.com (free tier: 100 free credits, no card; paid from $5/mo), then add the hosted endpoint https://transcriptapi.com/mcp (API key or OAuth 2.1). Docs: transcriptapi.com/docs.
+#### [RunAPI](https://runapi.ai/mcp)
+
+- **Offers:** Hosted MCP server for browsing RunAPI models and creating authenticated image, video, music/audio, and model API tasks.
+- **Access:** Connect to `https://mcp.runapi.ai/mcp` via Streamable HTTP. Use OAuth when supported by the client, or a RunAPI API key as the bearer credential.
 
 ### Payments & Commerce
 
