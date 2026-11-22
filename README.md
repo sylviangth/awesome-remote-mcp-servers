@@ -249,6 +249,10 @@ See MindPal agents in action with:
 
 - **Offers:** Shared workspace for coordinating multiple AI agents: atomic locks with lease expiry, shared files with ETag conflict detection, messaging, per-agent budgeted sub-keys, webhooks (including low-balance warnings), spend forecast and a server-written audit log. Metered per operation.
 - **Access:** Streamable HTTP endpoint `https://aanet.space/mcp`. No OAuth: call `aanet_create_trial_workspace` for a free 24-hour trial workspace (no payment, no account) and pass the returned key as the `api_key` argument. Real use is prepaid in USDC via x402 (minimum deposit $0.25). Docs: https://aanet.space/AGENTS.md
+#### [Termalin](https://termal.in/mcp/)
+
+- **Offers:** Run commands and background jobs, read and write files, query databases and read metrics, alerts and pending security updates on your own Linux servers over SSH, without handing the agent a key (24 tools, per-server command policy, audit log).
+- **Access:** Sign up at https://termal.in/account (Pro plan or 14-day trial), enrol a server with the one-line Connector, then add `https://termal.in/mcp` as a remote MCP server; sign-in is OAuth 2.1 in the browser, or an API key from the account page.
 
 ### Knowledge & Memory
 
