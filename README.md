@@ -759,6 +759,12 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Personal CRM for AI agents: look up and update contacts, log interactions, keep notes, and set reminders and tasks about the people in your life (about 120 tools). Free beta up to 1,000 contacts, no credit card.
 - **Access:** OAuth 2.1 sign-in with your ppl account (dynamic client registration, no API key). Server available at `https://withppl.com/mcp`. Sign up at https://withppl.com/register
 
+#### [Folkscale MCP](https://folkscale.com/docs)
+
+- **Offers:** Test product concepts, prices, packaging and ad copy with country-calibrated synthetic consumer panels.
+- **Access:** Connect to `https://mcp.folkscale.com/mcp` over Streamable HTTP. Tool discovery is public. Register for a free sandbox key to try simulator study tools. Live studies require paid credits. [Setup guide](https://folkscale.com/docs)
+
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
