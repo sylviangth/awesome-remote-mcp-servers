@@ -577,6 +577,10 @@ See MindPal agents in action with:
 
 - **Offers:** Go-to-market tooling in one connector — social listening across X, TikTok, Instagram, YouTube, Reddit and Xiaohongshu; website traffic, traffic-source and SEO research; company, contact and creator discovery; and copy, image, video and voiceover generation. Five tools (`search_tools`, `get_tool_schemas`, `execute_tools`, `manage_connections`, `get_execution`) let an agent discover a capability, run it, and read the result back
 - **Access:** Streamable HTTP endpoint at `https://connector.springbrand.ai/mcp`. OAuth 2.1 with Dynamic Client Registration (RFC 7591) and PKCE S256 — an MCP client can register itself, no manual key needed. Paid, billed per call
+#### [FirstSales MCP](https://developer.firstsales.io/agents/mcp-server)
+
+- **Offers:** Retrieve CRM contacts, deals, lists and sales workflow data, and create contacts through authenticated tools.
+- **Access:** Requires a FirstSales account with an eligible paid plan. Connect to `https://api.app.firstsales.io/mcp` using Streamable HTTP, then authorize access with OAuth and select a workspace.
 
 ### Search & Data Extraction
 
