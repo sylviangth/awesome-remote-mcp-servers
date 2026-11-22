@@ -841,6 +841,10 @@ See MindPal agents in action with:
 
 - **Offers:** Renders Open Graph and social-card PNGs from a title or from a page URL. Six layouts, nine fonts, several sizes, optional logo, and hex brand colors.
 - **Access:** Free daily tier, no key required. Streamable HTTP endpoint: `https://ogstamp.com/mcp`. Higher volume uses PayPal credit packs that do not expire. Docs at https://ogstamp.com/docs/
+#### [Azurade AI MCP](https://azurade.com/developers/)
+
+- **Offers:** Image and video generation with over 30 models (Veo 3.1, Seedance 2.5, Nano Banana Pro, GPT Image 2.5 and more), cost estimates, upload of local files and generation history, all billed from one pay-per-use credit balance that doesn't expire
+- **Access:** Server available at `https://azurade.com/mcp` (Streamable HTTP) with OAuth sign-in from the client, or an API key sent as `Authorization: Bearer sk-...`. Sign-up is free with a few trial credits, then credits are bought per use
 
 ### Payments & Commerce
 
