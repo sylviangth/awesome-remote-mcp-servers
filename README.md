@@ -419,6 +419,10 @@ See MindPal agents in action with:
 
 - **Offers:** AI video and image generation: find trending video templates and put a person, pet or character from a photo into them, or generate with Kling, Veo and Seedance; check credit balance and get the finished MP4. Paid credits, each video quoted before it runs
 - **Access:** Remote MCP server at `https://honeyvid.ai/mcp` (Streamable HTTP); OAuth sign-in with a HoneyVid account, no API key. Setup guides for Claude, ChatGPT, Claude Code, Codex and Cursor at https://honeyvid.ai/mcp
+#### [Diopter AI MCP](https://diopter.ai/integrations/claude)
+
+- **Offers:** Check whether images, video and audio are AI-generated or deepfakes. Send a direct media link and get a verdict, a confidence score and a link to the full report. Tools: `detect_media`, `get_detection_result` (read-only)
+- **Access:** Remote server at `https://diopter.ai/mcp` (Streamable HTTP) with OAuth 2.1. Sign in with a free Diopter account; free accounts include a daily scan allowance
 
 ### Payments & Commerce
 
