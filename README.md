@@ -369,6 +369,11 @@ See MindPal agents in action with:
 
 - **Offers:** Read-only Google Search Console properties, Search Analytics, sitemaps, and URL inspection for AI agents.
 - **Access:** Connect to https://gscmate.com/mcp over Streamable HTTP and complete Google OAuth 2.1 with a Google account that has Search Console access. GSCmate is a paid service. Support: info@gscmate.com.
+#### [Status Is Down](https://statusisdown.com/business/mcp)
+
+- **Offers:** Six read-only tools for service lookup, current status, historical community reports, privacy-thresholded regional activity, problem indicators and recent report spikes.
+- **Access:** Create a SID business account and connect to `https://statusisdown.com/api/mcp` using Streamable HTTP with OAuth. Free plan includes 500 monthly credits; tool costs and plan limits apply, with paid plans available.
+
 
 ### Developer Tools
 
