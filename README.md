@@ -248,6 +248,10 @@ See MindPal agents in action with:
 
 - **Offers:** AI search visibility analytics for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic
 - **Access:** Hosted Streamable HTTP endpoint at `https://api.llmpulse.ai/api/v1/mcp` with OAuth 2.1 authentication. Public documentation is available at `https://llmpulse.ai/features/mcp`
+#### [SeqBench](https://seqbench.com)
+
+- **Offers:** Molecular-biology and sequence-analysis tools for AI agents — primer design, cloning simulation (Gibson, Golden Gate, restriction), CRISPR guide RNA design, sequence analysis, batch processing, and multi-tool workflows
+- **Access:** Public Streamable HTTP endpoint at `https://seqbench.com/api/mcp`. No authentication required. Also listed on the official MCP Registry as `com.seqbench/workbench`
 
 ### Developer Tools
 
