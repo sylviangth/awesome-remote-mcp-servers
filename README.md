@@ -434,6 +434,10 @@ See MindPal agents in action with:
 
 - **Offers:** Read-only search over the Vocenya API docs and reference: guides, every REST endpoint with scope, parameters and code samples
 - **Access:** Free, no authentication. Server available at `https://vocenya.com/mcp/docs` (Streamable HTTP)
+#### [Shipvela](https://shipvela.com/integrations/codex)
+
+- **Offers:** Website publishing, project and repository discovery, deployment status, build logs and usage through a hosted MCP connector. Publishing requires owner confirmation.
+- **Access:** Sign up for a Shipvela account and connect `https://shipvela.com/mcp` using Streamable HTTP and OAuth. Hobby is free with 3 static-site projects and 20 publishes per month; paid plans provide additional capacity and supported Next.js SSR.
 
 ### Knowledge & Memory
 
