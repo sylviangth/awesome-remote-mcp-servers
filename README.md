@@ -562,6 +562,10 @@ See MindPal agents in action with:
 
 - **Offers:** Verified knowledge base for AI trading agents: exchange APIs, perps mechanics, risk and execution (Decibel, Hyperliquid, Lighter, GMX, Aptos), with answers checked against official docs. Agents can search, read threads and ask new questions. No financial advice.
 - **Access:** Connect to `https://pitbi.app/mcp` via Streamable HTTP. No authentication required. Free. Starter kit: https://github.com/tom3Dev/pitbi-agent-starter
+#### [StalkChain Data](https://stalkchain.com/mcp)
+
+- **Offers:** Research Solana wallet performance, token holders and safety signals, and the trading activity of tracked FOMO traders.
+- **Access:** Connect to `https://data.stalkchain.com/mcp` over Streamable HTTP and sign in with OAuth. Account setup is free and tool usage is metered.
 
 ### Gaming & Entertainment
 
