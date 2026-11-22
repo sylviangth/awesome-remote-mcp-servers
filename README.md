@@ -767,6 +767,10 @@ See MindPal agents in action with:
 
 - **Offers:** A read-only financial data MCP by Streetbeat with 28 tools for delayed and end-of-day market data, news, macroeconomic indicators, and US public disclosures
 - **Access:** Connect to `https://unquant.ai/mcp` via Streamable HTTP. See the public [examples and interface documentation](https://github.com/dev-streetbeat/unquant-mcp-examples)
+#### [OptionsAhoy](https://optionsahoy.com)
+
+- **Offers:** Equity compensation planning tools: multi-year incentive stock option (ISO) exercise schedules with alternative minimum tax (AMT) calculations, non-qualified stock option (NSO) exercise math, restricted stock unit (RSU) sell-vs-hold and lot ordering, sale planning toward a cash goal, qualified small business stock (QSBS) qualification checks, single-stock concentration analysis, and hedge pricing, with federal, 50-state, and DC tax calculations
+- **Access:** Connect to `https://optionsahoy.com/mcp` via Streamable HTTP. Free, no authentication or API key required
 
 ### Gaming & Entertainment
 
