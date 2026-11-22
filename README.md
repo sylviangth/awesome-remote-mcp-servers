@@ -357,6 +357,10 @@ See MindPal agents in action with:
 
 - **Offers:** Web scraping to Markdown or JSON with JavaScript rendering and proxies, screenshots, structured data extraction and cloud browser sessions
 - **Access:** Server available at `https://mcp.scrapfly.io/mcp` (Streamable HTTP). Sign in with OAuth, or send a Scrapfly API key as an `Authorization: Bearer <key>` header. Get a key from [scrapfly.io/dashboard](https://scrapfly.io/dashboard)
+#### [GoVisit Tools](https://govisit.ai/en/docs/developers/mcp/overview)
+
+- **Offers:** Search published travel destinations, places, activities, and documentation with 22 read-only tools
+- **Access:** Connect to `https://govisit.ai/mcp` using Streamable HTTP; no account or API key is required
 
 ### Communication & Collaboration
 
