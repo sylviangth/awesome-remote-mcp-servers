@@ -61,6 +61,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -506,6 +510,10 @@ See MindPal agents in action with:
 
 - **Offers:** Generate full-stack HTML5 websites, standalone working contact forms, master prompts, and 3D models (`.glb`/`.obj`/`.fbx`) with live textured `MeshPart` insertion into Roblox Studio via 8 tools (`start_website`, `get_website`, `generate_website`, `generate_form`, `generate_master_prompt`, `list_3d_models`, `connect_roblox`, `send_to_roblox`)
 - **Access:** Connect to `https://waspes.com/api/mcp` via Streamable HTTP (OAuth 2.0 PKCE or Bearer API key `wsp_...` from `https://waspes.com/api`; `initialize`, `tools/list`, and capped `generate_website` demo require no auth)
+#### [Docsy](https://docsy.remcp.site)
+
+- **Offers:** Five read-only tools for current and version-specific developer documentation with verifiable source links
+- **Access:** Authorize your Docsy account with OAuth 2.1 and connect Streamable HTTP at `https://docsy.remcp.site/mcp/registry`; [installation instructions](https://github.com/getremcp/docsy-plugin)
 
 ### Knowledge & Memory
 
