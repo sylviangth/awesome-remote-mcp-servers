@@ -459,6 +459,10 @@ See MindPal agents in action with:
 
 - **Offers:** Finds Reddit buyer-intent threads, filters monitored conversations by intent, relevance, sentiment, mentions, and keywords, checks subreddit rules, reads full posts and comments, and manages tags, feeds, and lead statuses through 16 typed MCP tools.
 - **Access:** Connect to `https://mcp.grabbit.sh/mcp` using Streamable HTTP. OAuth-capable clients use Dynamic Client Registration with PKCE S256; personal bearer tokens are available for headless clients. Grabbit does not automatically post replies to Reddit.
+#### [Autoposting MCP](https://autoposting.ai)
+
+- **Offers:** Draft, rewrite, schedule and publish social posts to X, LinkedIn, Instagram, Threads and YouTube, plus AI idea generation, carousel building, video clipping and knowledge base search (69 tools)
+- **Access:** Server available at `https://app.autoposting.ai/mcp` over Streamable HTTP with OAuth 2.1 Dynamic Client Registration, so no client ID or secret is needed. Sign in with your Autoposting account when the client prompts. Docs: https://docs.autoposting.ai/mcp/overview
 
 ### Search & Data Extraction
 
