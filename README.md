@@ -287,6 +287,10 @@ See MindPal agents in action with:
 
 - **Offers:** Create, view, edit, organize, style, and export mind maps, logic charts, and org charts from MCP-compatible AI assistants.
 - **Access:** Connect to the hosted Streamable HTTP endpoint at `https://mindmapai.app/mcp` and sign in with your MindMap AI account using OAuth 2.1. No API key or local installation is required.
+#### [SigB (Signal Bureau)](https://sigb.ai)
+
+- **Offers:** A maintained, source-traced record of the entities and events in your named domain (defense, space, biopharma, geopolitical risk): today's brief, corroborated signals, entity and event records, and prediction-market sensors graded against how reality resolved — every claim cited to its source
+- **Access:** Remote endpoint at `https://api.signalbureau.ai/api/mcp` (Streamable HTTP). Self-issue a key in one free call — `POST https://api.signalbureau.ai/api/keys` with `{"label": "your agent"}` — and send it as `x-api-key`; the brief, record and calibration are free, the key carries 25 free answers, and Reads meter at the published rate after that
 
 ### Developer Tools
 
