@@ -645,6 +645,10 @@ See MindPal agents in action with:
 
 - **Offers:** LinkedIn Sales Navigator lead extraction and professional email finding and verification. Describe an audience in plain English, export clean deduplicated rows, verify emails, and push results to HubSpot, Attio, Apollo or Pipedrive
 - **Access:** Server available at `https://mcp.evaboot.com/mcp` with OAuth authentication. Requires an Evaboot account and a LinkedIn account with Sales Navigator connected via the Evaboot Chrome extension
+#### [seodata.dev](https://www.seodata.dev/mcp)
+
+- **Offers:** Google search volume, CPC, competition and similar keywords for 50+ countries, one keyword or up to 25 at once
+- **Access:** Remote endpoint at `https://mcp.seodata.dev/mcp`. Works without signup (20 lookups a day); sign in with OAuth or an API key for 500 a month free, or $4.99 a month for unlimited
 
 ### Search & Data Extraction
 
