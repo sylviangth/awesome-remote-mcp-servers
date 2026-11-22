@@ -926,6 +926,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Airport lookup, flight-search input validation and ready-to-open search links, plus service information; helps travellers prepare searches without returning live fares or inventory, making bookings or taking payments
 - **Access:** Free Streamable HTTP endpoint at `https://mubboo.flights/api/mcp`; no account or API key required. [Public documentation and client examples](https://github.com/Mubboo-Ai/mubboo-flights-mcp) are available; the hosted backend is private
 
+#### [Mare Liberum](https://mareliberum.dev/mcp-server)
+
+- **Offers:** Reads public web pages as clean Markdown (robots.txt is followed), checks how AI agents see a website, and searches an open index of about 84,000 MCP servers plus A2A agents, x402 services and stores; also task briefs and a memory across sessions
+- **Access:** Free Streamable HTTP endpoint at `https://mareliberum.dev/mcp`; no account or API key required. Setup for each client: [mareliberum.dev/use](https://mareliberum.dev/use). The code is MIT and can be self-hosted ([GitHub](https://github.com/daoudandiaye98-alt/mare-liberum))
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
