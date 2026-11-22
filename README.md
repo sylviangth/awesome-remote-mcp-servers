@@ -302,6 +302,10 @@ See MindPal agents in action with:
 
 - **Offers:** Ask about and act on a Genaya business workspace (clients, appointments, estimates, invoices, payments) with seven tools; every change is confirmed by a person
 - **Access:** Connect `https://api.genaya.com/mcp` and sign in with a Genaya account (OAuth 2.1); requires a Genaya account (free trial, then paid plans)
+#### [Loice MCP](https://docs.loice.ai/mcp-server)
+
+- **Offers:** B2B lead search, a company's employees, verified work emails, email enrichment, LinkedIn profile lookup and lead lists
+- **Access:** Add `https://app.loice.ai/mcp` as a remote connector and sign in with OAuth 2.1 (Streamable HTTP). Billed per lookup in workspace points; new workspaces start with free points
 
 ### Search & Data Extraction
 
