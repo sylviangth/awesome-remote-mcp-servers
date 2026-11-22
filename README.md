@@ -472,6 +472,11 @@ See MindPal agents in action with:
 
 - **Offers:** Build and deploy multi-tenant web apps from your AI assistant. 64 tools to plan an app, validate it, publish and deploy it to a live URL, and manage its schemas, data, roles and connectors. Sign-in, access rules, database and admin panel come from the platform
 - **Access:** Server available at `https://api.supero.dev/mcp/v1/messages` (streamable HTTP) with API key authentication required (`X-API-Key: ak_...`). Free plan with 3 projects, no card. Step-by-step guide and project ideas at [supero-mcp](https://github.com/supero-platform/supero-mcp)
+#### [BlockVectra MCP](https://docs.blockvectra.com/en/guides/mcp-server/)
+
+- **Offers:** Documentation search, chain and method discovery, and keyless read-only EVM JSON-RPC permitted by each chain’s `public.methods`, including Robinhood Chain.
+- **Access:** Connect via Streamable HTTP at `https://docs.blockvectra.com/mcp`. Public RPC is rate-limited. Indexed data and account tools require an API key; keyed usage follows current plans.
+
 
 ### Knowledge & Memory
 
