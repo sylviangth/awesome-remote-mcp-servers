@@ -129,6 +129,11 @@ _No entries yet_
 - **Offers:** Colorado crash data search, crash detail retrieval, personal injury attorney discovery, and AI-analyzed review intelligence
 - **Access:** Hosted remote endpoint at `https://crashstory-mcp-production.up.railway.app/mcp` with public install docs at `https://crashstory.com/mcp`
 
+#### [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console)
+
+- **Offers:** Free access to owned-site Google Search Console and Bing Webmaster data, including search performance and URL inspection
+- **Access:** Streamable HTTP at `https://crakseo.com/mcp/search-console`; CrakSEO OAuth or a scoped API key, plus authorization for the user's own Google or Bing properties
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
