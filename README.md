@@ -53,6 +53,10 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 
 <div align="center">
 
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
@@ -962,6 +966,10 @@ See MindPal agents in action with:
 
 - **Offers:** Create videos from storyboards, scripts, voiceovers or slides; generate images, video clips, speech, music and avatars; remix projects and export MP4s. Requires a VideoGen account and API access; generation consumes paid VideoGen credits.
 - **Access:** Hosted Streamable HTTP endpoint at `https://mcp.videogen.io/mcp`. Authenticate with OAuth account linking or a bearer API key. No server installation required. [API docs](https://docs.videogen.io) · [Tool schemas](https://github.com/video-gen/videogen-mcp/blob/main/TOOL_SCHEMAS.md).
+#### [Shortform Kit](https://shortformkit.com/mcp-server/)
+
+- **Offers:** Read, download and transcribe public Instagram Reels, TikToks and YouTube videos (info, MP4/MP3, frames, Whisper transcripts in 90+ languages), plus sourced creator data: 2026 upload specs for 9 platforms, monetization programs, loudness targets, YouTube channel IDs. Free.
+- **Access:** Streamable HTTP at `https://shortformkit.com/mcp`, no API key and no account. Also listed in the official MCP Registry as `io.github.diegobruegger-prog/shortformkit`.
 
 ### Payments & Commerce
 
