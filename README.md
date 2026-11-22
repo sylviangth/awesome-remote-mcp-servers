@@ -13,6 +13,11 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 <div align="center">
 
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+🚀 <!-- MCP_COUNT -->**25 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -533,6 +538,10 @@ See MindPal agents in action with:
 
 - **Offers:** Search Telegram chats and propose messages, campaigns and CRM updates from your own connected Telegram accounts. Every remote MCP write waits for one-click approval in GramClaw.
 - **Access:** Hosted Streamable HTTP at `https://gramclaw.com/api/mcp?key=<YOUR_API_KEY>`. Create a scoped API key in GramClaw Settings → API / MCP. Subscription or trial required.
+#### [MailKite MCP](https://mailkite.dev/docs/ai-agents)
+
+- **Offers:** Give any AI agent its own real email inbox — receive email as structured tool calls and send from a verified domain. Tools for send, inbound routes, webhooks, domains, templates, and message search.
+- **Access:** Hosted remote MCP at `https://mcp.mailkite.dev/mcp` with OAuth 2.0 authentication. No local install.
 
 ### Media & Content
 
