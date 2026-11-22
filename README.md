@@ -347,6 +347,10 @@ See MindPal agents in action with:
 
 - **Offers:** Finds a business on Google, reads its recent negative Google reviews and marks the ones that may break Google's review rules, and checks its Google Maps rank for a search term. Can email the flagged list to an address the user types
 - **Access:** Free, remote, no authentication required. Server URL: `https://api.reviewtactic.com/functions/v1/mcp` (Streamable HTTP)
+#### [Product Metrics](https://www.productmetrics.io)
+
+- **Offers:** Profit optimisation for ecommerce ads: server-side tracking, profit bidding, product segmentation and campaign planning across Google Ads, Meta and ChatGPT Ads. Set up tracking and profit bidding and read store, product and Google Ads data.
+- **Access:** Connect to `https://www.productmetrics.io/mcp` through OAuth. Connect your Product Metrics account, or create one when you sign in. Connecting data is free; paid product features are available on subscription. [Setup documentation](https://www.productmetrics.io/docs/mcp/overview).
 
 ### Search & Data Extraction
 
