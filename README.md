@@ -389,6 +389,10 @@ See MindPal agents in action with:
 
 - **Offers:** Tour operator and travel agency operations tools for leads, bookings, saved itineraries, and analytics across workspace brands
 - **Access:** Hosted Streamable HTTP endpoint at `https://mcp.travter.com/mcp` with OAuth authentication and a paid Travter workspace account
+#### [NotFair](https://notfair.co)
+
+- **Offers:** Hosted Google Ads MCP server. Diagnose campaign performance (CPA, ROAS, search-term waste, quality scores, learning-phase status), recommend optimizations (bids, budgets, negative keywords, ad copy), and execute approved changes via the official Google Ads API with a built-in human-approval gate.
+- **Access:** Server available at `https://notfair.co/api/mcp/google_ads`. Sign up at [notfair.co](https://notfair.co) and add it as a custom connector in Claude (or any MCP client) — auth via NotFair sign-in flow. Free tier available (7 days unlimited, then 300 ops/month, no credit card).
 
 ### Search & Data Extraction
 
