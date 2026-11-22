@@ -556,6 +556,10 @@ See MindPal agents in action with:
 
 - **Offers:** MCP server for Yandex Direct advertising campaigns, Yandex Metrika website analytics, and Yandex Wordstat keyword research. Manage ad campaigns, retrieve analytics reports, and research keyword search volumes via natural language.
 - **Access:** Remote endpoint at `https://kontekstolog.online/mcp`. OAuth 2.1 authentication via Yandex account. Sign up at [kontekstolog.online](https://kontekstolog.online/mcp-yandex-direct). First 3 months free, then 300 RUB/month.
+#### [SpringBrand](https://springbrand.ai)
+
+- **Offers:** Go-to-market tooling in one connector — social listening across X, TikTok, Instagram, YouTube, Reddit and Xiaohongshu; website traffic, traffic-source and SEO research; company, contact and creator discovery; and copy, image, video and voiceover generation. Five tools (`search_tools`, `get_tool_schemas`, `execute_tools`, `manage_connections`, `get_execution`) let an agent discover a capability, run it, and read the result back
+- **Access:** Streamable HTTP endpoint at `https://connector.springbrand.ai/mcp`. OAuth 2.1 with Dynamic Client Registration (RFC 7591) and PKCE S256 — an MCP client can register itself, no manual key needed. Paid, billed per call
 
 ### Search & Data Extraction
 
