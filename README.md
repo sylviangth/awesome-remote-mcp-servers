@@ -169,6 +169,10 @@ See MindPal agents in action with:
 
 - **Offers:** Québec Land Registry (Registre foncier) data for real-estate professionals. Independent, not government-affiliated
 - **Access:** Remote endpoint `https://mcp.fonciq.ca/v1/` (Streamable HTTP, OAuth sign-in with a Fonciq account); API also available at `https://fonciq.ca`
+#### [Glypse](https://glypse.ai/mcp-server)
+
+- **Offers:** Prediction market research that lets agents scan thousands of markets and draw on millions of analyzed posts.
+- **Access:** Create a free Glypse account, connect to `https://mcp.glypse.ai` using Streamable HTTP, then sign in through OAuth. [Setup instructions](https://glypse.ai/help/mcp-server).
 
 ### Developer Tools
 
