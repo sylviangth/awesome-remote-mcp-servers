@@ -561,6 +561,10 @@ See MindPal agents in action with:
 
 - **Offers:** Image generation and text-to-video or image-to-video across 12 image and 16 video models. The server exposes the model catalog with parameter schemas, USD quotes before any paid task, uploads, task submission and polling, submission recovery, plus account and usage lookups (13 tools).
 - **Access:** Hosted Streamable HTTP endpoint at https://i2v.ai/api/mcp with OAuth 2.1, PKCE S256 and dynamic client registration, read and write scopes. An API key is required for generations; it is created at https://i2v.ai/dashboard/api-keys and paid calls need an explicit maxCostUsd ceiling. Docs: https://i2v.ai/docs/mcp
+#### [Whipscribe](https://whipscribe.com)
+
+- **Offers:** Audio and video transcription. Transcribe from a URL (YouTube, podcast feeds, direct media links) or an uploaded file; returns `txt`, `json`, `srt`, `vtt`, or `docx` with optional speaker diarization and word-level timestamps. Free anonymous tier; paid tier with higher limits.
+- **Access:** Sign up at [whipscribe.com](https://whipscribe.com) for an API key, then connect your MCP client to `https://whipscribe.com/mcp` with a Bearer token. Local install also available via `uvx whipscribe-mcp`.
 
 ### Payments & Commerce
 
