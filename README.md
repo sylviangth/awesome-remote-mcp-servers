@@ -699,6 +699,10 @@ See MindPal agents in action with:
 
 - **Offers:** US restaurants and bars 1-6 months before they open, fused from public liquor-license, food-permit and new-business filings into scored venues (`opening_score` 0-100) with owner contact; tools `coverage`, `new_openings`, `venue_signals`, `watch_area` (webhook)
 - **Access:** Streamable HTTP endpoint `https://api.restosignals.com/mcp`; get a free API key (no card) at restosignals.com/signup and send it in the `X-API-Key` header. Owner contact needs a paid plan
+#### [ppl](https://withppl.com/agents)
+
+- **Offers:** Personal CRM for AI agents: look up and update contacts, log interactions, keep notes, and set reminders and tasks about the people in your life (about 120 tools). Free beta up to 1,000 contacts, no credit card.
+- **Access:** OAuth 2.1 sign-in with your ppl account (dynamic client registration, no API key). Server available at `https://withppl.com/mcp`. Sign up at https://withppl.com/register
 
 ### Search & Data Extraction
 
