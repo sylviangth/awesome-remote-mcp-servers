@@ -624,6 +624,10 @@ See MindPal agents in action with:
 
 - **Offers:** Create short links, track clicks and attribute sales to the placement that brought them: 8 tools covering workspaces, links, analytics and sales
 - **Access:** Server available at `https://subtraq.co/api/mcp` with API key authentication (`Authorization: Bearer stq_sk_…`). Create the key in Subtraq under Settings → API Keys; free plan, no credit card
+#### [Evaboot MCP](https://evaboot.com/mcp)
+
+- **Offers:** LinkedIn Sales Navigator lead extraction and professional email finding and verification. Describe an audience in plain English, export clean deduplicated rows, verify emails, and push results to HubSpot, Attio, Apollo or Pipedrive
+- **Access:** Server available at `https://mcp.evaboot.com/mcp` with OAuth authentication. Requires an Evaboot account and a LinkedIn account with Sales Navigator connected via the Evaboot Chrome extension
 
 ### Search & Data Extraction
 
