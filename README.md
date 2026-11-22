@@ -18,6 +18,11 @@ A curated list of remote Model Context Protocol (MCP) Servers accessible via a s
 <div align="center">
 
 ![MCP Servers](https://img.shields.io/badge/MCP%20Servers-25-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+🚀 <!-- MCP_COUNT -->**36 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+
+<div align="center">
+
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-36-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-11-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -239,6 +244,10 @@ See MindPal agents in action with:
 
 - **Offers:** Web analytics tools for querying pageviews, sessions, top pages, referrers, UTM sources, custom events, and user-agent / traffic-class breakdowns. 18 tools total. EU-hosted, GDPR-ready.
 - **Access:** Sign up via email at the URL, receive a unique server URL with embedded token. Free tier up to 100,000 hits/month.
+#### [LLM Pulse](https://llmpulse.ai/features/mcp)
+
+- **Offers:** AI search visibility analytics for brand mentions, citations, sentiment, share of voice, tracked prompts, recommendations, and AI-referred traffic
+- **Access:** Hosted Streamable HTTP endpoint at `https://api.llmpulse.ai/api/v1/mcp` with OAuth 2.1 authentication. Public documentation is available at `https://llmpulse.ai/features/mcp`
 
 ### Developer Tools
 
