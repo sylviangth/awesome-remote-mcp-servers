@@ -219,6 +219,10 @@ See MindPal agents in action with:
 
 - **Offers:** Live official data from 27 national company registries (UK Companies House, France RNE, Germany Handelsregister, Italy InfoCamere, Spain BORME, Korea OpenDART, Canada CBCA, 10 US state registries, and more). Search companies, fetch profiles, list filings, retrieve officers, beneficial owners, charges, and raw filing documents (XHTML / PDF / XBRL / XML). Built for KYC / AML / due-diligence workflows. A platform by sophymarine.
 - **Access:** Remote MCP server at `https://openregistry.sophymarine.com/mcp` (Streamable HTTP, MCP spec 2025-06-18). Anonymous access works out of the box (20 req/min per IP, 3-country fan-out per 60s). OAuth 2.1 + Dynamic Client Registration (RFC 7591) raises limits for paid tiers — no API key to paste.
+#### [mcp-analytics](https://mcp-analytics.com)
+
+- **Offers:** Web analytics tools for querying pageviews, sessions, top pages, referrers, UTM sources, custom events, and user-agent / traffic-class breakdowns. 18 tools total. EU-hosted, GDPR-ready.
+- **Access:** Sign up via email at the URL, receive a unique server URL with embedded token. Free tier up to 100,000 hits/month.
 
 ### Developer Tools
 
