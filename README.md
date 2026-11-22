@@ -363,6 +363,10 @@ See MindPal agents in action with:
 
 - **Offers:** Team knowledge-base workspace connected to AI. Read, search, write, and version shared documents; query structured data tables, issue trackers, and CRM; and run GraphRAG root-cause Q&A over your team's institutional knowledge — with your existing workspace permissions
 - **Access:** Add the remote connector `https://rootr.io/mcp` in Claude or ChatGPT and sign in with OAuth 2.1 (no API key, no install), then pick a workspace and permission level. Docs at `https://rootr.io/en/docs`. Free tier available
+#### [PCD (Portable Context Deck)](https://portablecontext.ai)
+
+- **Offers:** Your portable context layer — user-owned containers holding structured context, live work state, and accumulated knowledge, loaded into any MCP-speaking AI client from one endpoint
+- **Access:** Create an account at [portablecontext.ai](https://portablecontext.ai), then connect via `https://mcp.portablecontext.ai/mcp` (OAuth 2.0 + PKCE — no API key)
 
 ### Marketing & CRM
 
