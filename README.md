@@ -286,6 +286,10 @@ See MindPal agents in action with:
 
 - **Offers:** Plan and run paid launch distribution on X: creators on sale by audience, all in price per post, campaign plans, approvals inside a spending mandate, proof and results
 - **Access:** Server available at `https://app.distribution.tech/api/mcp` with `Authorization: Bearer <API key>` (create a key on the Developers screen after sign up). A keyless guest endpoint at `https://app.distribution.tech/api/mcp/guest` answers inventory and price range questions
+#### [AdMakeAI](https://admakeai.com/agents)
+
+- **Offers:** Generate Meta and TikTok ad images and UGC-style video ads, pull competitors' live ads from the Meta Ad Library, and draft and report on Meta campaigns. Generation spends credits, with 30 free credits at signup
+- **Access:** Server available at `https://admakeai.com/api/mcp` (Streamable HTTP) with OAuth sign-in to your AdMakeAI account, or an API key in the `x-api-key` header from Dashboard > Integrations > API
 
 ### Search & Data Extraction
 
