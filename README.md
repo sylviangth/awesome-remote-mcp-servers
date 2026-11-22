@@ -693,6 +693,10 @@ See MindPal agents in action with:
 
 - **Offers:** Access to Process Street workflows, workflow runs, tasks, users, data sets, and operational records
 - **Access:** Connect to `https://mcp.process.st/` using Streamable HTTP and complete interactive authorization; compatible clients may use a Process Street API key as a bearer token
+#### [Orbit by Noveum](https://orbit.noveum.ai/mcp)
+
+- **Offers:** Issue, project, sprint, document and file management for people and AI agents.
+- **Access:** Create a free Orbit account, connect to `https://orbit.noveum.ai/mcp` over Streamable HTTP, then approve workspace-scoped OAuth permissions. [Connection guide](https://github.com/Noveum/orbit/blob/main/docs/mcp.md).
 
 ### Media & Content
 
