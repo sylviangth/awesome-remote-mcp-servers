@@ -527,6 +527,10 @@ See MindPal agents in action with:
 
 - **Offers:** AI reputation management for local service businesses and agencies — automate email/SMS review requests, sync Google & Facebook reviews, draft AI replies, manage white-label agency portals, and operate projects via MCP tools
 - **Access:** Remote endpoint `https://api.moregoodreviews.com/mcp` with OAuth 2.1. Official registry id `com.moregoodreviews/project`. Docs: https://docs.moregoodreviews.com/platform/mcp-server
+#### [Unfetch](https://unfetch.com)
+
+- **Offers:** Google Ads MCP reporting for campaign spend, conversions, and search terms, plus Google Analytics, Google Search Console, keyword research, and web research. Connected advertising and analytics accounts are read-only.
+- **Access:** Create a free Unfetch account, connect your data sources, and add `https://unfetch.com/api/mcp` using Streamable HTTP and OAuth. See [setup instructions](https://unfetch.com/plugin) and [plan limits](https://unfetch.com/pricing).
 
 ### Search & Data Extraction
 
