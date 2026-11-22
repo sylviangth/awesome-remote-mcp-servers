@@ -759,6 +759,12 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Personal CRM for AI agents: look up and update contacts, log interactions, keep notes, and set reminders and tasks about the people in your life (about 120 tools). Free beta up to 1,000 contacts, no credit card.
 - **Access:** OAuth 2.1 sign-in with your ppl account (dynamic client registration, no API key). Server available at `https://withppl.com/mcp`. Sign up at https://withppl.com/register
 
+
+#### [Reachiz](https://reachiz.com/mcp)
+
+- **Offers:** LinkedIn + email outreach for B2B teams: find leads, enrich and verify contacts, run Autopilot campaigns, and manage the reply inbox through 22 default tools (152-route catalog via `call_tool`)
+- **Access:** Server available at `https://app.reachiz.com/mcp` (Streamable HTTP) with OAuth 2.0 sign-in or an `rz_live_` API key as a Bearer token. Paid, credit-based; create an account at https://reachiz.com
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
