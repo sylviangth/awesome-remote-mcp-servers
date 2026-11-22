@@ -949,6 +949,10 @@ See MindPal agents in action with:
 
 - **Offers:** Image and video generation with over 30 models (Veo 3.1, Seedance 2.5, Nano Banana Pro, GPT Image 2.5 and more), cost estimates, upload of local files and generation history, all billed from one pay-per-use credit balance that doesn't expire
 - **Access:** Server available at `https://azurade.com/mcp` (Streamable HTTP) with OAuth sign-in from the client, or an API key sent as `Authorization: Bearer sk-...`. Sign-up is free with a few trial credits, then credits are bought per use
+#### [VideoGen MCP](https://videogen.io/videogen-mcp)
+
+- **Offers:** Create videos from storyboards, scripts, voiceovers or slides; generate images, video clips, speech, music and avatars; remix projects and export MP4s. Requires a VideoGen account and API access; generation consumes paid VideoGen credits.
+- **Access:** Hosted Streamable HTTP endpoint at `https://mcp.videogen.io/mcp`. Authenticate with OAuth account linking or a bearer API key. No server installation required. [API docs](https://docs.videogen.io) · [Tool schemas](https://github.com/video-gen/videogen-mcp/blob/main/TOOL_SCHEMAS.md).
 
 ### Payments & Commerce
 
