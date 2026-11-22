@@ -514,6 +514,10 @@ See MindPal agents in action with:
 
 - **Offers:** Live stock at independent boutiques: clothes, shoes and bags with sizes and prices, the cost delivered with duty and tax, size conversion, and a directory of boutiques in more than 140 cities (26 read-only tools)
 - **Access:** Free, no account or key. Endpoint: `https://shopwithin.co/mcp` (Streamable HTTP)
+#### [Screwtape](https://screwtape.ai)
+
+- **Offers:** A pre-payment check so an agent can tell whether a seller is safe to pay before money moves. Headline tool is `payment_check` at $0.005 per call after the free tier.
+- **Access:** Streamable HTTP at `https://screwtape.ai/mcp`. 3 calls per UTC day with no key, or 10 with a free key from https://screwtape.ai/signup/, then $0.005 per call.
 
 ### Finance & Crypto
 
