@@ -1018,6 +1018,10 @@ See MindPal agents in action with:
 
 - **Offers:** Equity compensation planning tools: multi-year incentive stock option (ISO) exercise schedules with alternative minimum tax (AMT) calculations, non-qualified stock option (NSO) exercise math, restricted stock unit (RSU) sell-vs-hold and lot ordering, sale planning toward a cash goal, qualified small business stock (QSBS) qualification checks, single-stock concentration analysis, and hedge pricing, with federal, 50-state, and DC tax calculations
 - **Access:** Connect to `https://optionsahoy.com/mcp` via Streamable HTTP. Free, no authentication or API key required
+#### [Equibles](https://equibles.com/mcp)
+
+- **Offers:** US stock market data for AI agents: SEC filings and XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F institutional holdings, short interest, ETF holdings, prices and economic indicators. Market-data tools are read-only; portfolio and watchlist tools write to the signed-in account.
+- **Access:** Connect to `https://mcp.equibles.com/mcp` via Streamable HTTP and sign in with OAuth; free tier of 100 requests a day, paid plans for more.
 
 ### Gaming & Entertainment
 
