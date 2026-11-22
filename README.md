@@ -625,6 +625,10 @@ See MindPal agents in action with:
 
 - **Offers:** Send email, SMS, and voice notifications; look up delivery logs; manage phone numbers, email inboxes, and sender domains through a Pingram account
 - **Access:** OAuth with your Pingram account. Streamable HTTP endpoint at `https://mcp.pingram.io` (also `https://mcp.ca.pingram.io`, `https://mcp.eu.pingram.io`). Docs: https://www.pingram.io/docs/integrations/mcp
+#### [Process Street MCP](https://www.process.st/help/docs/mcp-server/)
+
+- **Offers:** Access to Process Street workflows, workflow runs, tasks, users, data sets, and operational records
+- **Access:** Connect to `https://mcp.process.st/` using Streamable HTTP and complete interactive authorization; compatible clients may use a Process Street API key as a bearer token
 
 ### Media & Content
 
