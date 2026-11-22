@@ -763,6 +763,10 @@ See MindPal agents in action with:
 - **Offers:** Hosted MCP access to a published automotive brand library: search brands, read brand metadata, and build normalized logo CDN URLs
 - **Access:** Streamable HTTP at `https://motomarks.io/api/mcp`. OAuth 2.1 in the browser, or a Motomarks API key. Free accounts are available; paid plans raise the daily request limit
 
+#### [Prolifik MCP](https://getprolifik.com)
+
+- **Offers:** Turn any URL into branded short-form video and auto-post it. Generate AI UGC video in six formats, manage the content calendar, and publish to Instagram Reels, TikTok, and YouTube Shorts.
+- **Access:** Paid Prolifik plan required. Issue an API key from Settings → Developer API, then connect to `https://app.getprolifik.com/mcp` (Streamable HTTP) with an `Authorization: Bearer <key>` header.
 
 ### Payments & Commerce
 
