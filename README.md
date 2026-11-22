@@ -926,6 +926,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Airport lookup, flight-search input validation and ready-to-open search links, plus service information; helps travellers prepare searches without returning live fares or inventory, making bookings or taking payments
 - **Access:** Free Streamable HTTP endpoint at `https://mubboo.flights/api/mcp`; no account or API key required. [Public documentation and client examples](https://github.com/Mubboo-Ai/mubboo-flights-mcp) are available; the hosted backend is private
 
+#### [PFS Free Domains](https://publicfreesuffix.org)
+
+- **Offers:** Find and register free domains across seven live public suffixes (fs.kg, bg5.net, is-a.si, nastu.net, tun.re, us.mw, pfsdns.org), then manage DNS records, WHOIS lookups, SSL certificates, and free hosting for claimed names
+- **Access:** Remote MCP server at `https://s.eus/api/mcp/pfs` (Streamable HTTP) with OAuth 2.1 sign-in (authorization code + PKCE, device-code grant, refresh token). Registration and usage are free; non-profit service. [Setup guide](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/mcp/README.md)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
