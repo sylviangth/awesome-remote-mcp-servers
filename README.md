@@ -714,6 +714,10 @@ See MindPal agents in action with:
 - **Offers:** French public grants advisor for startups and AI agents. 21 tools + 3 guided prompts covering company onboarding (SIRENE registry pre-fill, auto-enrichment + customisable input), eligibility check across 49 programmes (CIR, JEI, BPI, CNC, ADEME, EIC Accelerator) with per-rule pass/fail from official legal texts, application drafting (.md/.docx export), and free strategic briefing with downloadable PDF. Traditional consultants charge EUR 2,000-5,000 + success fees - Public Grants: free discovery, EUR 49/dossier.
 - **Access:** Remote MCP server at `https://grants.mrchief.ai/mcp/` (Streamable HTTP). No authentication required for discovery. EU-hosted (Fly.io Paris + Supabase Frankfurt), RGPD compliant. Built by [PyratzLabs](https://pyratzlabs.com).
 
+#### [OpenChainBench](https://openchainbench.com)
+
+- **Offers:** Live, neutral crypto infrastructure benchmarks for agents. Public no-key RPC latency across 22 EVM chains plus Solana, oracle deviation, bridge quote fees, perp DEX all-in cost, prediction market resolution delay. Tools: `list_benchmarks`, `get_benchmark`, `query_prom`. Open methodology, CC BY 4.0 data
+- **Access:** Connect to `https://openchainbench.com/api/mcp/mcp` via Streamable HTTP; no authentication required; source at https://github.com/ChainBench/OpenChainBench
 
 ### Gaming & Entertainment
 
