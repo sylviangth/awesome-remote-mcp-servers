@@ -294,6 +294,10 @@ See MindPal agents in action with:
 
 - **Offers:** Generate Meta and TikTok ad images and UGC-style video ads, pull competitors' live ads from the Meta Ad Library, and draft and report on Meta campaigns. Generation spends credits, with 30 free credits at signup
 - **Access:** Server available at `https://admakeai.com/api/mcp` (Streamable HTTP) with OAuth sign-in to your AdMakeAI account, or an API key in the `x-api-key` header from Dashboard > Integrations > API
+#### [Genaya MCP](https://developer.genaya.com/mcp)
+
+- **Offers:** Ask about and act on a Genaya business workspace (clients, appointments, estimates, invoices, payments) with seven tools; every change is confirmed by a person
+- **Access:** Connect `https://api.genaya.com/mcp` and sign in with a Genaya account (OAuth 2.1); requires a Genaya account (free trial, then paid plans)
 
 ### Search & Data Extraction
 
