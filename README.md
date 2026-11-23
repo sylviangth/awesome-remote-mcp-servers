@@ -811,10 +811,10 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Access to 4,000+ web scraping and automation tools
 - **Access:** Server available at `https://mcp.apify.com` (streamable) or `https://mcp.apify.com/sse` (SSE transport) with `Authorization: Bearer <APIFY_TOKEN>` header. Get your API token from Apify Console Integrations section
 
-#### [Firecrawl MCP](https://docs.firecrawl.dev/mcp)
+#### [Firecrawl MCP](https://docs.firecrawl.dev/mcp-server)
 
-- **Offers:** Web scraping, crawling, and discovery with advanced content extraction, search capabilities, deep research, and structured data extraction using LLM
-- **Access:** Server available at `https://mcp.firecrawl.dev/{FIRECRAWL_API_KEY}/sse` with API key authentication required. Get your API key from [firecrawl.dev/app/api-keys](https://firecrawl.dev/app/api-keys)
+- **Offers:** Search, scrape, crawl, map, interact and agent tools that return clean Markdown or structured data, plus [Firecrawl Alexandria](https://alexandria.firecrawl.dev/), which puts hundreds of data providers in one place behind the same key
+- **Access:** Streamable HTTP at `https://mcp.firecrawl.dev/v2/mcp-oauth` (sign in with OAuth) or `https://mcp.firecrawl.dev/v2/mcp` with your Firecrawl API key as an `Authorization: Bearer <FIRECRAWL_API_KEY>` header. The same `/v2/mcp` URL also works without a key for Search, Scrape and Parse within daily limits. Get a key from [firecrawl.dev/app/api-keys](https://www.firecrawl.dev/app/api-keys)
 
 #### [402.bot Discovery Oracle](https://api.402.bot/mcp/setup)
 
