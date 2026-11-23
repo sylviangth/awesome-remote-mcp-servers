@@ -62,6 +62,11 @@ See MindPal agents use other hosted MCP servers:
 
 ### Aggregators & Integration Platforms
 
+#### [Free Image to Video](https://freeimagetovideo.ai/)
+- **Endpoint**: `https://freeimagetovideo.ai/api/mcp`
+- **Repository**: [hanshs474/fitv-mcp](https://github.com/hanshs474/fitv-mcp)
+- **Description**: Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
+
 #### [MindPal MCP](https://docs.mindpal.space/mcp)
 
 - **Offers:** Build and manage expert AI tools from Claude, ChatGPT, Codex or Cursor. You can create and edit AI agents and workflows, add knowledge sources (documents, web pages, files), attach tools such as web search, image generation, MCP servers and connected apps, and publish agents as chatbots or workflows as forms with links and embed code. You can also read agent chats and workflow runs, find unanswered questions, and start new chats or runs. The assistant asks before every change
