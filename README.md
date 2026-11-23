@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [Google AI Overview MCP (AlphaOSINT)](https://alphaosint.com/sources/google-ai-overview-api/)
+
+- **Offers:** The Google AI Overview for a search query as JSON: the answer text and the sources it cites, for tracking which pages get cited
+- **Access:** Streamable HTTP endpoint at `https://mcp.apify.com/?tools=johnvc/Google-AI-Overview-API` with Apify OAuth or an `Authorization: Bearer <APIFY_TOKEN>` header. Needs an Apify account; calls are billed per result. Setup notes on [GitHub](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-ai-overview)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
