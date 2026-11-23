@@ -955,6 +955,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Find and register free domains across seven live public suffixes (fs.kg, bg5.net, is-a.si, nastu.net, tun.re, us.mw, pfsdns.org), then manage DNS records, WHOIS lookups, SSL certificates, and free hosting for claimed names
 - **Access:** Remote MCP server at `https://s.eus/api/mcp/pfs` (Streamable HTTP) with OAuth 2.1 sign-in (authorization code + PKCE, device-code grant, refresh token). Registration and usage are free; non-profit service. [Setup guide](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/mcp/README.md)
+#### [Perq](https://perq.sh)
+
+- **Offers:** Search and look up a directory of verified free AI credits, free tiers and startup perks from AI and developer platforms (tools: `find_credits` and others), with eligibility and last-verified dates. Perq is made by Avatar 8 LLC
+- **Access:** Public Streamable HTTP endpoint at `https://perq.sh/mcp`; no account or API key required. Docs at [perq.sh/agents](https://perq.sh/agents)
 
 ### Communication & Collaboration
 
