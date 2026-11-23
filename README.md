@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Poptin MCP](https://developers.poptin.com/docs/mcp)
+
+- **Offers:** Create email campaigns, build subscriber segments, and analyze email, popup, and form performance.
+- **Access:** Connect to `https://mcp.popt.in/mcp` over Streamable HTTP and sign in with Poptin OAuth. Available tools depend on account permissions and plan. Review and confirm before sending or scheduling campaigns.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
