@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**254 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**257 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-254-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-257-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -524,6 +524,7 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Find and register free domains across seven live public suffixes (fs.kg, bg5.net, is-a.si, nastu.net, tun.re, us.mw, pfsdns.org), then manage DNS records, WHOIS lookups, SSL certificates, and free hosting for claimed names
 - **Access:** Remote MCP server at `https://s.eus/api/mcp/pfs` (Streamable HTTP) with OAuth 2.1 sign-in (authorization code + PKCE, device-code grant, refresh token). Registration and usage are free; non-profit service. [Setup guide](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/mcp/README.md)
+
 #### [Runheed](https://runheed.com/?ref=awesome-remote-mcp-servers)
 
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
@@ -797,6 +798,7 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** LinkedIn + email outreach for B2B teams: find leads, enrich and verify contacts, run Autopilot campaigns, and manage the reply inbox through 22 default tools (152-route catalog via `call_tool`)
 - **Access:** Server available at `https://app.reachiz.com/mcp` (Streamable HTTP) with OAuth 2.0 sign-in or an `rz_live_` API key as a Bearer token. Paid, credit-based; create an account at https://reachiz.com
+
 #### [Transformer.gg](https://transformer.gg/?utm_source=awesome-remote-mcp-servers&utm_medium=referral&utm_campaign=backlinks&utm_content=listing)
 
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
@@ -993,7 +995,8 @@ See MindPal agents use other hosted MCP servers:
 
 #### [CallForMe](https://callforme.tel/?ref=awesome-remote-mcp-servers)
 
-- **Offers:** Phone a business for your agent: find the number, place the call, work the phone menu, wait on hold, answer the business's questions through the agent mid-call, and return a transcript with answers (US and Canada)\n- **Access:** Add https://callforme.tel/mcp as a remote MCP server (Streamable HTTP, OAuth 2.1 with dynamic client registration; connecting asks for nothing). Paid: $1 per answered call, prepaid credit; calls nobody answers are not billed
+- **Offers:** Phone a business for your agent: find the number, place the call, work the phone menu, wait on hold, answer the business's questions through the agent mid-call, and return a transcript with answers (US and Canada)
+- **Access:** Add https://callforme.tel/mcp as a remote MCP server (Streamable HTTP, OAuth 2.1 with dynamic client registration; connecting asks for nothing). Paid: $1 per answered call, prepaid credit; calls nobody answers are not billed
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
 
