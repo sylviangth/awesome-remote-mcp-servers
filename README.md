@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [Scigantic](https://scigantic.com/developers)
+
+- **Offers:** Search a catalog of 8,000+ public scientific datasets (genomics, cryo-EM, neuroimaging, chemistry, earth observation, climate), read a dataset's schema card (file formats, columns, sample rows), list its files, get code that loads it, and find the datasets behind a paper
+- **Access:** Free Streamable HTTP endpoint at `https://api.scigantic.com/mcp`; no account or API key required. Read-only. Docs at [scigantic.com/developers](https://scigantic.com/developers)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
