@@ -926,6 +926,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Airport lookup, flight-search input validation and ready-to-open search links, plus service information; helps travellers prepare searches without returning live fares or inventory, making bookings or taking payments
 - **Access:** Free Streamable HTTP endpoint at `https://mubboo.flights/api/mcp`; no account or API key required. [Public documentation and client examples](https://github.com/Mubboo-Ai/mubboo-flights-mcp) are available; the hosted backend is private
 
+#### [Social Fetch](https://www.socialfetch.dev)
+
+- **Offers:** Public social media data as JSON, including profiles, posts, comments, transcripts and search results
+- **Access:** Connect to `https://api.socialfetch.dev/mcp` with OAuth or a bearer key. New accounts get 100 free credits, no card.
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
