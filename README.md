@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**241 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**254 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-241-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-254-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -367,6 +367,7 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Sports data for AI agents: fixtures, live scores, results, standings, line-ups and player stats for 3,372 competitions in 10 sports, plus horse racing cards and results, MMA, boxing, golf, snooker and darts
 - **Access:** Connect to `https://mcp.sportstatsapi.com/mcp` (Streamable HTTP) and sign in with OAuth (free account, 100 requests a day; paid plans from $79 a month), or send `Authorization: Bearer <API key>`. Claude Code: `claude mcp add --transport http sportstatsapi https://mcp.sportstatsapi.com/mcp`
+
 #### [TidyUse](https://tidyuse.com)
 
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
@@ -513,10 +514,16 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Linux sandboxes for AI agents: run commands and Python or JavaScript, read and write files, open ports, pause and resume
 - **Access:** Create an API key in the LumiCloud console, then connect to `https://mcp.lumicloud.dev/mcp` (Streamable HTTP) with the key in the `X-API-Key` or `Authorization: Bearer` header
+
 #### [Mobilebox](https://mobilebox.dev)
 
 - **Offers:** Cloud Android phones and iOS simulators for AI agents: create a phone, install an APK or a simulator build, read the screen as numbered elements, tap, type and swipe, take screenshots and screen recordings (19 tools). Paid per phone-minute ($0.01 Android, $0.03 iOS), billed per second; new workspaces get free credit
 - **Access:** Add `https://mobilebox.dev/mcp` (Streamable HTTP) to your MCP client and sign in with OAuth in the browser, or send an API key from the dashboard as a Bearer token. Docs: https://mobilebox.dev/docs
+
+#### [PFS Free Domains](https://publicfreesuffix.org)
+
+- **Offers:** Find and register free domains across seven live public suffixes (fs.kg, bg5.net, is-a.si, nastu.net, tun.re, us.mw, pfsdns.org), then manage DNS records, WHOIS lookups, SSL certificates, and free hosting for claimed names
+- **Access:** Remote MCP server at `https://s.eus/api/mcp/pfs` (Streamable HTTP) with OAuth 2.1 sign-in (authorization code + PKCE, device-code grant, refresh token). Registration and usage are free; non-profit service. [Setup guide](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/mcp/README.md)
 
 ### Knowledge & Memory
 
@@ -782,7 +789,6 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Test product concepts, prices, packaging and ad copy with country-calibrated synthetic consumer panels.
 - **Access:** Connect to `https://mcp.folkscale.com/mcp` over Streamable HTTP. Tool discovery is public. Register for a free sandbox key to try simulator study tools. Live studies require paid credits. [Setup guide](https://folkscale.com/docs)
 
-
 #### [Reachiz](https://reachiz.com/mcp)
 
 - **Offers:** LinkedIn + email outreach for B2B teams: find leads, enrich and verify contacts, run Autopilot campaigns, and manage the reply inbox through 22 default tools (152-route catalog via `call_tool`)
@@ -959,14 +965,12 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Public social media data as JSON, including profiles, posts, comments, transcripts and search results
 - **Access:** Connect to `https://api.socialfetch.dev/mcp` with OAuth or a bearer key. New accounts get 100 free credits, no card.
-#### [PFS Free Domains](https://publicfreesuffix.org)
 
-- **Offers:** Find and register free domains across seven live public suffixes (fs.kg, bg5.net, is-a.si, nastu.net, tun.re, us.mw, pfsdns.org), then manage DNS records, WHOIS lookups, SSL certificates, and free hosting for claimed names
-- **Access:** Remote MCP server at `https://s.eus/api/mcp/pfs` (Streamable HTTP) with OAuth 2.1 sign-in (authorization code + PKCE, device-code grant, refresh token). Registration and usage are free; non-profit service. [Setup guide](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/mcp/README.md)
 #### [Perq](https://perq.sh)
 
 - **Offers:** Search and look up a directory of verified free AI credits, free tiers and startup perks from AI and developer platforms (tools: `find_credits` and others), with eligibility and last-verified dates. Perq is made by Avatar 8 LLC
 - **Access:** Public Streamable HTTP endpoint at `https://perq.sh/mcp`; no account or API key required. Docs at [perq.sh/agents](https://perq.sh/agents)
+
 #### [Mare Liberum](https://mareliberum.dev/mcp-server)
 
 - **Offers:** Reads public web pages as clean Markdown (robots.txt is followed), checks how AI agents see a website, and searches an open index of about 84,000 MCP servers plus A2A agents, x402 services and stores; also task briefs and a memory across sessions
@@ -1190,6 +1194,7 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Create finished short-form AI videos (script, AI voiceover, AI or stock scenes, captions, music) from a prompt or script, return the MP4, and post or schedule it to TikTok, Instagram, YouTube and other connected accounts
 - **Access:** Streamable HTTP endpoint `https://mcp.makeaivideo.ai` with OAuth sign-in from the client, or a Bearer API key from the MakeAIVideo developer page. Requires a MakeAIVideo account; videos use paid credits. Listed in the official MCP Registry as `ai.makeaivideo/video-generator`
+
 #### [Overtok](https://overtok.live/agents)
 
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
