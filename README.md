@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [CGC Airport Transfers](https://cgctransfers.com.au/ai-agent-gateway/)
+
+- **Offers:** Fixed-price quotes for private airport transfers on the Gold Coast, Brisbane, Byron Bay and Northern NSW (Australia), straight from CGC's live booking engine. Each quote comes with a pre-filled booking link where the customer confirms and pays; other tools check availability and return business information.
+- **Access:** Free. Connect to `https://cgctransfers.com.au/wp-json/cgc-gateway/v1/mcp` over Streamable HTTP. Quotes, availability and business information need no account; lodging a booking through an agent needs an agent key, issued on request. Official MCP Registry: `au.com.cgctransfers/booking`. Docs: https://cgctransfers.com.au/ai-agent-gateway/
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
