@@ -1083,6 +1083,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
 - **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
+#### [HumanCalls](https://humancalls.ai)
+
+- **Offers:** A trained human caller phones a US or Canadian business for your agent and returns typed answers, a summary, the recording and a transcript. Tools: `request_call`, `get_call`, `list_calls`, `cancel_call`, `answer_question`, `add_details`, `get_account`
+- **Access:** Connect to `https://humancalls.ai/mcp` (Streamable HTTP) and sign in with OAuth 2.1 (email plus six-digit code). Pay as you go at $1 per connected minute; new accounts get 10 free minutes. [Setup guide](https://humancalls.ai/connect)
+
 ### Media & Content
 
 #### [Pagelive MCP](https://pagelive.io/mcp)
