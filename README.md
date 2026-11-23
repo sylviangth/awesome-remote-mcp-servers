@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [Cazimi Retrogrades](https://cazimi.live/methodology)
+
+- **Offers:** Exact planetary retrograde timing from NASA JPL's DE421 ephemeris: which planets are retrograde on a date, the next retrograde, and the minute of every station, shadow boundary and Sun conjunction or opposition for Mercury through Pluto, plus live Moon and planet positions. 15 read-only tools.
+- **Access:** Free public endpoint at `https://cazimi.live/api/mcp` (Streamable HTTP); no account or API key required. Listed in the official MCP Registry as `live.cazimi/retrogrades`. Docs at https://cazimi.live/methodology#api
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
