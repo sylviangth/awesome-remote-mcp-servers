@@ -363,6 +363,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Directory of federally insured US credit unions from the NCUA register — search listings by place and compare charter, field of membership, assets and member counts
 - **Access:** Free public endpoint at `https://creditunions.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://creditunions.fyi/developers
 
+#### [SportStatsAPI](https://sportstatsapi.com/ai-agents/)
+
+- **Offers:** Sports data for AI agents: fixtures, live scores, results, standings, line-ups and player stats for 3,372 competitions in 10 sports, plus horse racing cards and results, MMA, boxing, golf, snooker and darts
+- **Access:** Connect to `https://mcp.sportstatsapi.com/mcp` (Streamable HTTP) and sign in with OAuth (free account, 100 requests a day; paid plans from $79 a month), or send `Authorization: Bearer <API key>`. Claude Code: `claude mcp add --transport http sportstatsapi https://mcp.sportstatsapi.com/mcp`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
