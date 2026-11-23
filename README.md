@@ -1186,6 +1186,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Create finished short-form AI videos (script, AI voiceover, AI or stock scenes, captions, music) from a prompt or script, return the MP4, and post or schedule it to TikTok, Instagram, YouTube and other connected accounts
 - **Access:** Streamable HTTP endpoint `https://mcp.makeaivideo.ai` with OAuth sign-in from the client, or a Bearer API key from the MakeAIVideo developer page. Requires a MakeAIVideo account; videos use paid credits. Listed in the official MCP Registry as `ai.makeaivideo/video-generator`
+#### [Overtok](https://overtok.live/agents)
+
+- **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
+- **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
 ### Payments & Commerce
 
