@@ -147,6 +147,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** One remote MCP endpoint connecting AI agents (Codex, Claude Code, Cursor, ChatGPT, and other MCP clients) to 1,000+ apps and 400+ expert-built Skills, with shared Vault-protected credentials, cost preflight, and a full audit trail
 - **Access:** Sign in at [aident.ai](https://aident.ai), then connect MCP clients to `https://loadout.aident.ai/mcp` (streamable HTTP + OAuth). Setup prompt: `Follow https://aident.ai/SETUP.md`
 
+#### [CorpusIQ](https://www.corpusiq.io/?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers)
+
+- **Offers:** One OAuth connection to 40+ business platforms (Stripe, QuickBooks, HubSpot, Shopify, Google Ads, Meta Ads, Google Analytics, Search Console and more) that exposes 121 read-only tools, so the same business question comes back with the same cited answer in ChatGPT, Claude or Perplexity.
+- **Access:** Create an account at [corpusiq.io](https://www.corpusiq.io/?utm_source=github&utm_medium=referral&utm_campaign=awesome-remote-mcp-servers), connect a data source, then add `https://mcp2.corpusiq.io/mcp` as a Streamable HTTP connector and sign in with OAuth. Paid plans start at $29.95 per month after a 30-day free trial; no credit card required.
+
 ### Cloud Platforms
 
 #### [FFxF MCP](https://ffxf.net/agents)
