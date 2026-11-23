@@ -775,6 +775,11 @@ See MindPal agents use other hosted MCP servers:
 - **Access:** Connect to `https://mcp.folkscale.com/mcp` over Streamable HTTP. Tool discovery is public. Register for a free sandbox key to try simulator study tools. Live studies require paid credits. [Setup guide](https://folkscale.com/docs)
 
 
+#### [Reachiz](https://reachiz.com/mcp)
+
+- **Offers:** LinkedIn + email outreach for B2B teams: find leads, enrich and verify contacts, run Autopilot campaigns, and manage the reply inbox through 22 default tools (152-route catalog via `call_tool`)
+- **Access:** Server available at `https://app.reachiz.com/mcp` (Streamable HTTP) with OAuth 2.0 sign-in or an `rz_live_` API key as a Bearer token. Paid, credit-based; create an account at https://reachiz.com
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
