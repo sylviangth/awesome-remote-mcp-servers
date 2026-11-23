@@ -367,6 +367,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Sports data for AI agents: fixtures, live scores, results, standings, line-ups and player stats for 3,372 competitions in 10 sports, plus horse racing cards and results, MMA, boxing, golf, snooker and darts
 - **Access:** Connect to `https://mcp.sportstatsapi.com/mcp` (Streamable HTTP) and sign in with OAuth (free account, 100 requests a day; paid plans from $79 a month), or send `Authorization: Bearer <API key>`. Claude Code: `claude mcp add --transport http sportstatsapi https://mcp.sportstatsapi.com/mcp`
+#### [TidyUse](https://tidyuse.com)
+
+- **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
+- **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
 ### Developer Tools
 
