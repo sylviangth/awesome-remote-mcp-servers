@@ -985,6 +985,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Reads public web pages as clean Markdown (robots.txt is followed), checks how AI agents see a website, and searches an open index of about 84,000 MCP servers plus A2A agents, x402 services and stores; also task briefs and a memory across sessions
 - **Access:** Free Streamable HTTP endpoint at `https://mareliberum.dev/mcp`; no account or API key required. Setup for each client: [mareliberum.dev/use](https://mareliberum.dev/use). The code is MIT and can be self-hosted ([GitHub](https://github.com/daoudandiaye98-alt/mare-liberum))
+#### [Agentlist](https://www.agentlist.io/mcp)
+
+- **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
+- **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
 ### Communication & Collaboration
 
