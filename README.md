@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**257 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**259 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-257-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-259-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -985,6 +985,7 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Reads public web pages as clean Markdown (robots.txt is followed), checks how AI agents see a website, and searches an open index of about 84,000 MCP servers plus A2A agents, x402 services and stores; also task briefs and a memory across sessions
 - **Access:** Free Streamable HTTP endpoint at `https://mareliberum.dev/mcp`; no account or API key required. Setup for each client: [mareliberum.dev/use](https://mareliberum.dev/use). The code is MIT and can be self-hosted ([GitHub](https://github.com/daoudandiaye98-alt/mare-liberum))
+
 #### [Agentlist](https://www.agentlist.io/mcp)
 
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
@@ -1357,6 +1358,7 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Directory of agent wallets, payment rails, card programs and key-management layers for AI agents — search and compare custody, fees, protocols and spend controls with cited sources
 - **Access:** Free public endpoint at `https://agentwalletindex.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://agentwalletindex.fyi/developers
+
 #### [Alauda Home Equity](https://www.alauda.ai/for-ai-agents?utm_source=github&utm_medium=referral&utm_campaign=awesome_remote_mcp_servers)
 
 - **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
