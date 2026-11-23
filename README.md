@@ -793,6 +793,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** LinkedIn + email outreach for B2B teams: find leads, enrich and verify contacts, run Autopilot campaigns, and manage the reply inbox through 22 default tools (152-route catalog via `call_tool`)
 - **Access:** Server available at `https://app.reachiz.com/mcp` (Streamable HTTP) with OAuth 2.0 sign-in or an `rz_live_` API key as a Bearer token. Paid, credit-based; create an account at https://reachiz.com
+#### [Transformer.gg](https://transformer.gg/?utm_source=awesome-remote-mcp-servers&utm_medium=referral&utm_campaign=backlinks&utm_content=listing)
+
+- **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
+- **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
 ### Search & Data Extraction
 
