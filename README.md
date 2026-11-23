@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [HyperCRM](https://hypercrm.app/developers/mcp)
+
+- **Offers:** Practice management for clinics: patients and their notes, files and invoices, scheduling and chair availability, billing, intake forms, reporting and the practice website, in English and Greek (75 tools, 47 read-only)
+- **Access:** Server available at `https://hypercrm.app/api/v1/mcp` (Streamable HTTP) with OAuth 2.1 and dynamic client registration, no API key. Requires the Complete plan; 30-day free trial, no card, at [hypercrm.app](https://hypercrm.app)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
