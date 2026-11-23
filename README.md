@@ -1252,6 +1252,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Instant FDM and SLA 3D printing quotes from an ISO 9001:2015 certified EU factory: list materials, measure an STL or OBJ from a public link and get a price in EUR with production days (read-only)
 - **Access:** Server available at `https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp` (Streamable HTTP), no authentication required
 
+#### [Nexscope Ecommerce MCP](https://www.nexscope.ai/mcp-data)
+
+- **Offers:** Read-only ecommerce research tools for Amazon, TikTok Shop and other marketplaces (product, keyword, competitor and trend data) over a hosted Streamable HTTP endpoint
+- **Access:** Create a Nexscope API key at nexscope.ai and connect to `https://api.nexscope.ai/mcp` (also listed in the official MCP Registry as `io.github.nexscope/ecommerce`); usage is credit-based
+
 ### Finance & Crypto
 
 #### [IPO Radar](https://ipogmpradar.com/mcp-server)
