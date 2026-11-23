@@ -1178,6 +1178,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Draft, schedule and publish social media posts to X, LinkedIn, Instagram, Facebook, TikTok, YouTube, Threads, Bluesky, Pinterest, Tumblr and WordPress, list connected accounts and review the post queue
 - **Access:** Server available at `https://www.juzpost.com/mcp` with OAuth sign-in to a JuzPost account; MCP access is on paid plans (from $19/mo, 7-day trial)
 
+#### [MakeAIVideo](https://makeaivideo.ai/docs/mcp)
+
+- **Offers:** Create finished short-form AI videos (script, AI voiceover, AI or stock scenes, captions, music) from a prompt or script, return the MP4, and post or schedule it to TikTok, Instagram, YouTube and other connected accounts
+- **Access:** Streamable HTTP endpoint `https://mcp.makeaivideo.ai` with OAuth sign-in from the client, or a Bearer API key from the MakeAIVideo developer page. Requires a MakeAIVideo account; videos use paid credits. Listed in the official MCP Registry as `ai.makeaivideo/video-generator`
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
