@@ -1220,6 +1220,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [Kite](https://kite.new)
+
+- **Offers:** Collaborative design canvas for agents: create and edit real design layers (frames, text, components, auto layout) in a Kite file your team edits live, and export frames as HTML, React or Tailwind
+- **Access:** Hosted remote MCP at `https://kite.new/api/mcp` (Streamable HTTP) with OAuth sign-in to a Kite account. Free plan (3 files, 200 agent actions a day); Pro is paid
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
