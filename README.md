@@ -509,6 +509,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Linux sandboxes for AI agents: run commands and Python or JavaScript, read and write files, open ports, pause and resume
 - **Access:** Create an API key in the LumiCloud console, then connect to `https://mcp.lumicloud.dev/mcp` (Streamable HTTP) with the key in the `X-API-Key` or `Authorization: Bearer` header
+#### [Mobilebox](https://mobilebox.dev)
+
+- **Offers:** Cloud Android phones and iOS simulators for AI agents: create a phone, install an APK or a simulator build, read the screen as numbered elements, tap, type and swipe, take screenshots and screen recordings (19 tools). Paid per phone-minute ($0.01 Android, $0.03 iOS), billed per second; new workspaces get free credit
+- **Access:** Add `https://mobilebox.dev/mcp` (Streamable HTTP) to your MCP client and sign in with OAuth in the browser, or send an API key from the dashboard as a Bearer token. Docs: https://mobilebox.dev/docs
 
 ### Knowledge & Memory
 
