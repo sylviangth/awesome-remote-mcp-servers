@@ -1353,6 +1353,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Directory of agent wallets, payment rails, card programs and key-management layers for AI agents — search and compare custody, fees, protocols and spend controls with cited sources
 - **Access:** Free public endpoint at `https://agentwalletindex.fyi/mcp` (Streamable HTTP); no account or API key required. Docs at https://agentwalletindex.fyi/developers
+#### [Alauda Home Equity](https://www.alauda.ai/for-ai-agents?utm_source=github&utm_medium=referral&utm_campaign=awesome_remote_mcp_servers)
+
+- **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
+- **Access:** Connect to `https://mcp.alauda.ai/mcp` using Streamable HTTP. Public tools are free to use and support anonymous access.
 
 ### Gaming & Entertainment
 
