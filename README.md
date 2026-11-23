@@ -524,6 +524,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Find and register free domains across seven live public suffixes (fs.kg, bg5.net, is-a.si, nastu.net, tun.re, us.mw, pfsdns.org), then manage DNS records, WHOIS lookups, SSL certificates, and free hosting for claimed names
 - **Access:** Remote MCP server at `https://s.eus/api/mcp/pfs` (Streamable HTTP) with OAuth 2.1 sign-in (authorization code + PKCE, device-code grant, refresh token). Registration and usage are free; non-profit service. [Setup guide](https://github.com/PublicFreeSuffix/PublicFreeSuffix/blob/main/mcp/README.md)
+#### [Runheed](https://runheed.com/?ref=awesome-remote-mcp-servers)
+
+- **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
+- **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
 ### Knowledge & Memory
 
