@@ -963,6 +963,10 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Search and look up a directory of verified free AI credits, free tiers and startup perks from AI and developer platforms (tools: `find_credits` and others), with eligibility and last-verified dates. Perq is made by Avatar 8 LLC
 - **Access:** Public Streamable HTTP endpoint at `https://perq.sh/mcp`; no account or API key required. Docs at [perq.sh/agents](https://perq.sh/agents)
+#### [Mare Liberum](https://mareliberum.dev/mcp-server)
+
+- **Offers:** Reads public web pages as clean Markdown (robots.txt is followed), checks how AI agents see a website, and searches an open index of about 84,000 MCP servers plus A2A agents, x402 services and stores; also task briefs and a memory across sessions
+- **Access:** Free Streamable HTTP endpoint at `https://mareliberum.dev/mcp`; no account or API key required. Setup for each client: [mareliberum.dev/use](https://mareliberum.dev/use). The code is MIT and can be self-hosted ([GitHub](https://github.com/daoudandiaye98-alt/mare-liberum))
 
 ### Communication & Collaboration
 
