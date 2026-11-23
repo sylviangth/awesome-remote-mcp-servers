@@ -991,6 +991,10 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Let AI agents place real phone calls from your own SMS-verified number, with transcripts, recordings, and structured outcomes (US & Canada)
 - **Access:** Connect any MCP client to `https://mcp.dialmcp.com/mcp` (Streamable HTTP + OAuth 2.1). Free during pilot.
 
+#### [CallForMe](https://callforme.tel/?ref=awesome-remote-mcp-servers)
+
+- **Offers:** Phone a business for your agent: find the number, place the call, work the phone menu, wait on hold, answer the business's questions through the agent mid-call, and return a transcript with answers (US and Canada)\n- **Access:** Add https://callforme.tel/mcp as a remote MCP server (Streamable HTTP, OAuth 2.1 with dynamic client registration; connecting asks for nothing). Paid: $1 per answered call, prepaid credit; calls nobody answers are not billed
+
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
 
 - **Offers:** Project management and task coordination through Asana's Work Graph
