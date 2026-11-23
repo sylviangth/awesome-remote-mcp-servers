@@ -1220,6 +1220,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [Vertov](https://vertov.app/docs/mcp)
+
+- **Offers:** Search workspace recordings, retrieve timestamped transcripts and briefs, and upload an existing recording for review.
+- **Access:** Connect to `https://vertov.app/mcp` over Streamable HTTP and sign in with OAuth. A Vertov account is required and the Free plan supports sign-in.
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
