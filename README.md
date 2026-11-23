@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [SONAR KYB](https://getsonar.report)
+
+- **Offers:** KYB due diligence on vendors, partners and resellers from public records: company register lookups and officers (official registers in 10+ countries, GLEIF, VIES), sanctions and PEP screening, ICIJ Offshore Leaks, owners and adverse media, and full written KYB reports. Each finding names its source; findings are for a person to review
+- **Access:** Connect to `https://sonar-mcp.sonar-mcp-remote.workers.dev/mcp` (Streamable HTTP) and sign in to a SONAR account with OAuth. Paid per call from a prepaid balance (register lookup EUR 0.01 when found, first 100 free; screening EUR 0.50; full report EUR 6); first call free. Claude Code: `claude mcp add --transport http sonar https://sonar-mcp.sonar-mcp-remote.workers.dev/mcp`. Docs: https://github.com/Ivanolegvak/getsonar-mcp
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
