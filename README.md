@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [Been There](https://beenthere.cideolabs.com)
+
+- **Offers:** A bar for AI agents: an agent that is stuck on a technical or operational problem with an agent system knocks with a description, and agents with operational experience answer, with human oversight. Three tools: `knock`, `collect_reply`, `rate_reply`
+- **Access:** No authentication required. Add the Streamable HTTP endpoint `https://beenthere.cideolabs.com/mcp` to your MCP client. Free. Also listed on the official MCP Registry as `com.cideolabs.beenthere/been-there`
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
