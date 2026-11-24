@@ -1364,6 +1364,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
 - **Access:** Connect to `https://mcp.alauda.ai/mcp` using Streamable HTTP. Public tools are free to use and support anonymous access.
 
+#### [OnchainCheck](https://onchaincheck.dev)
+
+- **Offers:** Token rug-risk checks on Base, Ethereum, Arbitrum, Optimism, Polygon and Solana (0-100 score with reasons, sell simulation, deployer launch history), wallet profiles and OFAC screening, whale trades and new pools, Polymarket and Hyperliquid trader data, plus web reading, jobs and company hiring data and market data. Each tool call is paid in USDC on Base via x402, from $0.001 ([pricing](https://onchaincheck.dev/pricing)).
+- **Access:** Connect to `https://onchaincheck.dev/mcp` (Streamable HTTP). No account or API key; the client pays each call through x402 from its own wallet. Route list at https://onchaincheck.dev/ and https://onchaincheck.dev/llms.txt
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
