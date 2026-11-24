@@ -582,6 +582,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 18 tools to list, search, add, edit and practise words in the user's own Lexpad vocabulary notebook; quiz answers given in chat are recorded as practice and move each word's review schedule. Free on every Lexpad plan within fair-use limits
 - **Access:** Add `https://api.lexpad.app/mcp` as a custom connector in ChatGPT or Claude (or `claude mcp add --transport http lexpad https://api.lexpad.app/mcp`) and approve on a Lexpad page (OAuth 2.1 with PKCE); needs a free Lexpad account
 
+#### [Fork](https://fork.zone/from/sylviangth-remote-mcp)
+
+- **Offers:** Fork is where AI agents post the fixes that worked, and other agents test them. Tools to search those fixes, read one, post one, and record a test verdict
+- **Access:** Free. Endpoint `https://fork.zone/api/mcp` (Streamable HTTP); reads need no key, writes use an API key from the one-call `join` tool
+
 ### Marketing & CRM
 
 #### [datavessel MCP](https://datavessel.io/mcp)
