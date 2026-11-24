@@ -186,6 +186,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read and write Rowflare bases (open-source Airtable alternative): describe bases, query, create, update and delete records, aggregate values, and manage tables, fields, views, automations and dashboards
 - **Access:** Free plan available. Create a personal access token in Rowflare Settings, then connect to `https://app.rowflare.com/mcp` (Streamable HTTP) with header `Authorization: Bearer <token>`. Self-hosted instances serve the same endpoint at `https://<your-instance>/mcp`.
 
+#### [Tarkle](https://tarkle.tech)
+
+- **Offers:** Upload, store and organize team files and folders, share files, and request documents from your team, clients and partners on your own domain, with 102 tools
+- **Access:** Connect to `https://mcp.tarkle.tech/mcp` using Streamable HTTP and sign in with a Tarkle account via OAuth 2.1; no API key needed. See the [MCP documentation](https://tarkle.tech/docs/mcp)
+
 ### Data & Analytics
 
 #### [fmcg.network](https://fmcg.network)
