@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [Latino Events (events.lat)](https://github.com/AlonDrilich/latino-events-mcp)
+
+- **Offers:** Search upcoming concerts, festivals, conferences and cultural events across Latin America by text, country, city, category and date range, with venue, date, price and ticket page; users can bookmark events
+- **Access:** Add `https://ojlsoqhibryhvuyltwpi.supabase.co/functions/v1/mcp` (Streamable HTTP) as a custom connector; the client opens the events.lat OAuth 2.1 sign-in on first connect
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
