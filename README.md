@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [FineRx](https://www.finerxfinder.com)
+
+- **Offers:** Observed US prescription prices by pharmacy chain, each with the date it was seen, near a ZIP code or nationally; nearby pharmacies; the free FineRx discount card; and US equivalents of foreign-brand medicines, in 12 languages (United States only). Read-only except one tool that emails the card after the user agrees. Independent comparison service, not insurance or medical advice; it may earn a commission when the card is used
+- **Access:** Free public endpoint at `https://www.finerxfinder.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://www.finerxfinder.com/en/connect. MIT source mirror: https://github.com/andrewfinerx/finerx-mcp. Also published in the official MCP Registry as `com.finerxfinder/finerx`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
