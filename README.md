@@ -806,6 +806,11 @@ See MindPal agents use other hosted MCP servers:
 
 ### Search & Data Extraction
 
+#### [FlashData MCP](https://flashdata.dev)
+
+- **Offers:** 22 tools for real-time Google Search (Web, News, Images, Shopping, Videos, Places), timestamped YouTube transcripts and metadata, and batch cloud video downloads to S3, GCS, Azure Blob, and Cloudflare R2.
+- **Access:** Sign up for a free trial (no credit card required) at [flashdata.dev](https://flashdata.dev) to get an API key and connect to `https://data.flashdata.dev/mcp` with `X-API-Key` header (MIT local stdio server at [flashdatadev/flashdata-mcp](https://github.com/flashdatadev/flashdata-mcp)).
+
 #### [Apify Actors MCP](https://mcp.apify.com/)
 
 - **Offers:** Access to 4,000+ web scraping and automation tools
