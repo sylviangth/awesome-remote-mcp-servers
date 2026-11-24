@@ -380,6 +380,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Access to Linear's project management tools for product development and engineering workflows
 - **Access:** OAuth authentication with your Linear account required
 
+#### [Taskhold](https://taskhold.com/?ref=awesome-remote-mcp-servers)
+
+- **Offers:** A task list shared by a person and their coding agents: pick up the next task, plan it in steps, report live progress, add todos, block with a question and complete work, so the person can watch a live board and answer from any browser
+- **Access:** Add https://taskhold.com/api/mcp as a remote MCP server and connect with OAuth (no sign-up needed to connect; the first call that needs an account returns a link to start the trial), or send an API key as a bearer token. Paid, $12/month or $120/year per person with a 7-day trial
+
 #### [Sentry MCP](https://docs.sentry.io/product/sentry-mcp/)
 
 - **Offers:** Error monitoring and debugging information across projects
