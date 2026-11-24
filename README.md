@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [LinkedMCP](https://linkedmcp.com)
+
+- **Offers:** Use your own LinkedIn account from Claude or ChatGPT: read your feed, notifications and messages, and get comments, replies and posts drafted in your voice that you see before they go out. Each action runs in your own logged-in Chrome through a free extension. Agencies can get a separate, limited link to a client's account
+- **Access:** Server available at `https://mcp.linkedmcp.com/mcp` (Streamable HTTP) with OAuth sign-in. Sign up at [linkedmcp.com](https://linkedmcp.com) and add the free Chrome extension. 7-day free trial with no card, then $7/month or $60/year. Not affiliated with LinkedIn
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
