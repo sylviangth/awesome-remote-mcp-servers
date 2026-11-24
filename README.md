@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [RoboPartPicker](https://robopartpicker.com/developers)
+
+- **Offers:** Search and compare robotics components, and look up open-source robotics projects with their source-linked bills of materials, from a public catalogue of 2,445 projects and tens of thousands of component records
+- **Access:** Streamable HTTP at `https://robopartpicker.com/mcp`, no API key or sign-in required; tools `search_components`, `compare_components`, `search_projects` and `get_project`, documented at https://robopartpicker.com/developers
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
