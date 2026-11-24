@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Car Listing Check](https://aicarvideo.com/mcp/)
+
+- **Offers:** Checks a vehicle listing supplied by a car dealer (title, description, key data, photo URLs or count) for completeness and presentation and returns a score with missing data and prioritised fixes (read-only, does not fetch listings itself)
+- **Access:** Server available at `https://mcp.aicarvideo.com/mcp` (Streamable HTTP), no account or authentication required. Also in the official MCP Registry as `com.aicarvideo/car-listing-check`
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
@@ -1219,6 +1224,11 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
+
+#### [Headshot Photo Check](https://www.profilfoto-ki.de/mcp)
+
+- **Offers:** Technical check of a profile or job-application photo (resolution, aspect ratio, brightness, contrast, sharpness, background) with a score, crop recommendations for LinkedIn, XING and applications, and prioritised tips. No face recognition or judgments about the person
+- **Access:** Server available at `https://mcp.profilfoto-ki.de/mcp` (Streamable HTTP), no account or authentication required. Also in the official MCP Registry as `de.profilfoto-ki/headshot-check`
 
 ### Payments & Commerce
 
