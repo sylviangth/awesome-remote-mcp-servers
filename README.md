@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [A1 Gallery](https://www.a1.gallery/mcp)
+
+- **Offers:** Design references from a hand-picked gallery of real live websites: search sites, sections and full pages, fonts and font pairings, and the colours, type sizes and spacing measured off each live page. 23 tools, including saving to your own A1 boards
+- **Access:** Add `https://www.a1.gallery/api/mcp` as a remote MCP server (Streamable HTTP) and sign in with OAuth. Free with an A1 account (30 tool calls a week); A1 Pro raises the limit
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
