@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**259 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**260 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-259-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-260-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -31,6 +31,7 @@ This repository showcases these plug-and-play MCP endpoints that can instantly e
 - ☁️ [Cloud Platforms](#cloud-platforms) - Major cloud providers with MCP capabilities
 - 🗄️ [Databases & Storage](#databases--storage) - Database access and storage solutions
 - 📊 [Data & Analytics](#data--analytics) - Data processing, analytics, and visualization
+- 📈 [Monitoring](#monitoring) - Uptime checks and public status pages
 - 🛠️ [Developer Tools](#developer-tools) - Tools for developers and software engineering
 - 🎮 [Gaming & Entertainment](#gaming--entertainment) - Games and entertainment experiences for AI agents
 - 🧠 [Knowledge & Memory](#knowledge--memory) - Knowledge bases and vector databases
@@ -1380,6 +1381,13 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Hosted service for making small personalized browser games from a sender's description of the recipient's habits, interests or inside jokes. Free use is within daily allowances. Optional subscriptions include more games and editing.
 - **Access:** Connect to `https://playablegift.com/mcp` over Streamable HTTP. No sign in is needed. See the [agent guide](https://playablegift.com/agents) for setup and tool details.
+
+### Monitoring
+
+#### [Connecty](https://connecty.nl)
+
+- **Offers:** Daily checks for up to 5 HTTPS sites and a free public status page an AI can read
+- **Access:** Connect to `https://connecty.nl/mcp` via Streamable HTTP. Public tools work without signing in; account tools use OAuth 2.1. It is free. Docs: https://connecty.nl/en/ai-assistant
 
 ## Auto Counter
 
