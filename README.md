@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [Benchline](https://benchline.fabwaseem.com/mcp)
+
+- **Offers:** 61 free developer tools as MCP tools - JSON, PDF, images, JWT, DNS, llms.txt and more. No API key, no account, no session. MIT licensed.
+- **Access:** Add https://benchline.fabwaseem.com/mcp as a remote MCP server (Streamable HTTP). No API key, account or session required.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
