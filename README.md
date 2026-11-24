@@ -1083,6 +1083,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
 - **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
+#### [Message.com](https://www.message.com/integrations/mcp)
+
+- **Offers:** Read customer conversations and reply through the Message.com shared inbox using workspace-scoped permissions.
+- **Access:** Connect to `https://app.message.com/api/v1/mcp` over Streamable HTTP, then sign in to a Message.com workspace and authorize access. Available actions depend on workspace entitlements and granted permissions.
+
 ### Media & Content
 
 #### [Pagelive MCP](https://pagelive.io/mcp)
