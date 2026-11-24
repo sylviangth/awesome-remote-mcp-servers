@@ -1364,6 +1364,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
 - **Access:** Connect to `https://mcp.alauda.ai/mcp` using Streamable HTTP. Public tools are free to use and support anonymous access.
 
+#### [CrowdWisdom Trading](https://www.crowdwisdomtrading.com/x402)
+
+- **Offers:** Crowd sentiment per ticker (a score from -100 to +100 plus the count of pro traders behind it), for today (`get_crowd_sentiment_today`) and for the week (`get_crowd_sentiment_week`)
+- **Access:** Free Streamable HTTP endpoint with no auth at `https://api.crowdwisdomtrading.com/mcp` (50 calls a day per IP). Docs in the [GitHub client README](https://github.com/CrowdWisdomTradingx402/crowdwisdomtrading-python#readme). Paid REST calls via x402 on Base
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
