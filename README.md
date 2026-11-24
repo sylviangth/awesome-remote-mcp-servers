@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Qonvert](https://qonvert.ai/services/google-ads)
+
+- **Offers:** Check Google Ads campaign URL parameters, flag missing UTM tags, and get marketing measurement and placement guidance.
+- **Access:** Add `https://mcp.qonvert.ai/mcp` as a Streamable HTTP connector in a compatible MCP client. The URL check is available as a guest. Project tools require a Qonvert account and OAuth consent.
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
