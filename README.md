@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Cueston](https://cueston.com/docs/mcp)
+
+- **Offers:** Build, preview and publish in-app product tours, tooltips, banners, onboarding checklists, surveys and announcements on your own SaaS app, and read guide analytics, survey results and stuck points (76 tools, 5 prompts). Content is created as drafts and goes live only when published
+- **Access:** Server available at `https://app.cueston.com/api/mcp` (Streamable HTTP) with OAuth 2.1 (PKCE, dynamic client registration); you choose read, write or publish access. Free plan available; sign up at https://cueston.com
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
