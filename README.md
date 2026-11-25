@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Get MCP Ads](https://www.getmcpads.com)
+
+- **Offers:** Read and manage ad accounts and analytics from an AI assistant: Meta, Google Ads, TikTok, LinkedIn, Pinterest, Microsoft Advertising, GA4, Search Console and more (16 sources). Every write is previewed and confirmed, and new campaigns start paused.
+- **Access:** Remote server at `https://mcp.getmcpads.com/mcp` (Streamable HTTP, OAuth sign-in), then choose which ad accounts the assistant may reach. Free plan (1 ad account, read only); Pro $39 a month, see https://www.getmcpads.com/pricing
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
