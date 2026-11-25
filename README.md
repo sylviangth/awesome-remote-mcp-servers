@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Adspy](https://www.adspy.sh)
+
+- **Offers:** Ad research from an AI assistant: brands' public Meta and Google ads, TikTok and Pinterest ads in the regions listed at adspy.sh/llms.txt, and their organic TikTok, YouTube and Instagram posts. Answers carry counts and dates; it shows no spend, ROAS or reach.
+- **Access:** Remote server at `https://www.adspy.sh/mcp` (Streamable HTTP, OAuth sign-in) from Claude, ChatGPT, Claude Code or Codex. Free plan with no card; paid plans from $19 a month, see https://www.adspy.sh/pricing
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
