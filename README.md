@@ -614,6 +614,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Build Tally forms using natural language through AI assistants. Create contact forms, surveys, and other form types with specific fields, validation, and customization options
 - **Access:** Server available at `https://api.tally.so/mcp` with API key authentication required (`Authorization: Bearer tly-xxxx`). Get your API key from your Tally account
 
+#### [Tell MCP](https://usetell.dev/docs)
+
+- **Offers:** Agentic sales outreach: find companies similar to your best customers and the right person at each, verify work emails, write openers from what each company is doing, and send sequences from your own Gmail or Outlook after you approve them. Follow-ups stop on reply
+- **Access:** Server available at `https://usetell.dev/mcp` (Streamable HTTP) with OAuth 2.1 sign-in (dynamic client registration) using your Tell account. Free to start
+
 #### [ConnectMachine MCP](https://www.connectmachine.ai/docs/mcp/)
 
 - **Offers:** Contacts, networks, events and digital business cards for the user's professional network. Search contacts by company, role, city, notes or the event where you met, save and update contacts, merge duplicates, import from CSV, and draft follow-ups. Free and paid plans
