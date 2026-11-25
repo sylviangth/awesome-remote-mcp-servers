@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [UKCheck](https://ukcheck.gptshopltd.com)
+
+- **Offers:** UK company due diligence from Companies House and the FCDO UK Sanctions List: company search, status, overdue accounts/confirmation statements, dormant and charges flags, and a sanctions name screen (`search_uk_companies` is free; `uk_company_check` costs 1 prepaid credit on found companies — 100 checks GBP 5 or 500 checks GBP 20 via Stripe; `404 not_found` is not charged; per-check MPP pay-per-call is coming soon and currently returns 501).
+- **Access:** Streamable HTTP at `https://ukcheck.gptshopltd.com/mcp` (also in the official MCP Registry as `com.gptshopltd/ukcheck`); no auth needed for `search_uk_companies`, pass `Authorization: Bearer ukc_...` or `api_key` for `uk_company_check`. Docs at `https://ukcheck.gptshopltd.com/llms.txt`.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
