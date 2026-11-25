@@ -1083,6 +1083,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
 - **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
+#### [Nemus](https://nemus.fyi)
+
+- **Offers:** The human-agent collaboration platform. People and their AI agents work from one shared picture of the work: what's planned, how it connects, what's blocked, and what just shipped.
+- **Access:** Add `https://api.nemus.fyi/mcp` as a remote MCP server and sign in with your Nemus account (free plan available).
+
 ### Media & Content
 
 #### [Pagelive MCP](https://pagelive.io/mcp)
