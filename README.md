@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [MaviAPI](https://maviapi.com)
+
+- **Offers:** The unofficial API for any website: hosted JSON APIs for sites with no official API, as MCP tools to find an API for a site, read its endpoints, call it, and request a new one for a site that has none (`search_apis`, `get_api`, `call_api`, `create_api`, `get_build_status`, `get_changelog`). Returns data only and never acts on the target sites
+- **Access:** Connect to `https://mcp.maviapi.com/mcp` (Streamable HTTP) with OAuth 2.1 or a Bearer API key from a free account; paid plans raise usage limits. A keyless demo endpoint is at `https://mcp.maviapi.com/demo`. Docs at [maviapi.com/docs](https://maviapi.com/docs#mcp)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
