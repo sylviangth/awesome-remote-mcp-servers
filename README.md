@@ -1083,6 +1083,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
 - **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
+#### [Dash MCP](https://dashpup.ai/help/use-dash-as-an-mcp-server/)
+
+- **Offers:** Connects AI clients to Dash, the AI teammate you can text or email, and to its workspace: ask Dash to do work, manage skills, scheduled tasks and goals, and use the tools of connected apps
+- **Access:** Server available at `https://api.dashpup.ai/mcp/platform` (Streamable HTTP) with OAuth 2.1 sign-in using a Dash login, or a Dash API key as a bearer token. Available on paid Dash workspaces. Listed in the official MCP Registry as `io.github.dash-pup/dash-mcp`
+
 ### Media & Content
 
 #### [Pagelive MCP](https://pagelive.io/mcp)
