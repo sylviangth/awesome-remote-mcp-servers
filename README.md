@@ -2,11 +2,11 @@
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
-🚀 <!-- MCP_COUNT -->**259 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
+🚀 <!-- MCP_COUNT -->**260 MCP servers**<!-- /MCP_COUNT --> 🔥 ready for instant integration!
 
 <div align="center">
 
-![MCP Servers](https://img.shields.io/badge/MCP%20Servers-259-brightgreen?style=for-the-badge&logo=server&logoColor=white)
+![MCP Servers](https://img.shields.io/badge/MCP%20Servers-260-brightgreen?style=for-the-badge&logo=server&logoColor=white)
 ![Categories](https://img.shields.io/badge/Categories-13-blue?style=for-the-badge&logo=folder&logoColor=white)
 ![Zero Setup](https://img.shields.io/badge/Zero%20Setup-✅-success?style=for-the-badge&logo=rocket&logoColor=white)
 ![Instant Integration](https://img.shields.io/badge/Instant%20Integration-⚡-yellow?style=for-the-badge&logo=zap&logoColor=white)
@@ -529,6 +529,11 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
+
+#### [UI Verify](https://uiverify.ai)
+
+- **Offers:** Visual testing for coding agents: find the build for a commit or pull request, see which Storybook stories, Playwright pages or Vitest tests changed, view a before and after cropped to what moved, accept or deny baselines, and resolve reviewer comments
+- **Access:** Add `https://uiverify.ai/mcp` (Streamable HTTP) to your MCP client and sign in with OAuth in the browser, no API key in the config. Free plan with 10,000 snapshots a month (50,000 for open source), no card. Docs: https://uiverify.ai/docs/visual-testing-mcp-server
 
 ### Knowledge & Memory
 
