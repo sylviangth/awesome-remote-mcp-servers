@@ -1282,6 +1282,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read-only ecommerce research tools for Amazon, TikTok Shop and other marketplaces (product, keyword, competitor and trend data) over a hosted Streamable HTTP endpoint
 - **Access:** Create a Nexscope API key at nexscope.ai and connect to `https://api.nexscope.ai/mcp` (also listed in the official MCP Registry as `io.github.nexscope/ecommerce`); usage is credit-based
 
+#### [Store MCP](https://store-mcp.com/)
+
+- **Offers:** Read orders, products and inventory across connected stores, with store-scoped permissions and browser approval for sensitive actions.
+- **Access:** Connect `https://store-mcp.com/mcp` over Streamable HTTP and authorize through OAuth. A free plan is available. [Setup guide](https://store-mcp.com/docs/quickstart).
+
 ### Finance & Crypto
 
 #### [IPO Radar](https://ipogmpradar.com/mcp-server)
