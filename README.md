@@ -147,6 +147,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** One remote MCP endpoint connecting AI agents (Codex, Claude Code, Cursor, ChatGPT, and other MCP clients) to 1,000+ apps and 400+ expert-built Skills, with shared Vault-protected credentials, cost preflight, and a full audit trail
 - **Access:** Sign in at [aident.ai](https://aident.ai), then connect MCP clients to `https://loadout.aident.ai/mcp` (streamable HTTP + OAuth). Setup prompt: `Follow https://aident.ai/SETUP.md`
 
+#### [MCPAPI](https://getmcpapi.com)
+
+- **Offers:** One MCP URL for public APIs from a catalog, other MCP servers and any API with an OpenAPI spec. The agent sees three tools (search, details, execute), about 470 tokens however many APIs sit behind them. Per-person access per API, approvals before writes, and a log of every call. Free plan; paid plan $19 a month.
+- **Access:** Sign up at [getmcpapi.com](https://getmcpapi.com), add or enable an API, then connect `https://mcpapi.one/mcp` (Streamable HTTP) with OAuth sign-in. Scripts can send a key from the Agents page as a Bearer token. [Setup guide](https://docs.mcpapi.one/getting-started/connect/)
+
 ### Cloud Platforms
 
 #### [FFxF MCP](https://ffxf.net/agents)
