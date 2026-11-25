@@ -1289,6 +1289,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Live India IPO grey market premium (GMP), subscription (overall/QIB/NII/retail), upcoming IPOs / DRHP pipeline, and GMP accuracy vs listing gains for AI clients
 - **Access:** Free Streamable HTTP endpoint, no auth: `https://ipogmpradar.com/mcp`. Docs: https://ipogmpradar.com/mcp-server. Repo: https://github.com/songiangvan40006-boop/ipo-radar-mcp
 
+#### [Chain.Love MCP](https://www.chain.love/mcp-gateway)
+
+- **Offers:** Hosted remote MCP gateway and aggregator for AI agents to discover and compare Web3 infrastructure services (RPCs, indexers, oracles, bridges, wallets, storage, and developer tools) across 50+ blockchain networks via the open-source [Chain.Love registry](https://github.com/Chain-Love/chain-love).
+- **Access:** Hosted remote MCP server at `https://app.chain.love/mcp` (Streamable HTTP). Public queries require no authentication; optional downstream credentials via `x-chainlove-cred-<credentialKey>` headers. Docs: https://chain-love.gitbook.io/mcp-module. Repo: https://github.com/Chain-Love/chain.love-mcp.
+
 #### [Chainflip Broker](https://chainflip-broker.io)
 
 - **Offers:** Cross-chain cryptocurrency swaps via the Chainflip decentralized exchange. Discover available assets, get swap quotes, execute simple or DCA swaps, and track swap progress across blockchains.
