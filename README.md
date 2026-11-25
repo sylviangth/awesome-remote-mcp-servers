@@ -1220,6 +1220,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [TranscriptOut](https://transcriptout.com/mcp)
+
+- **Offers:** YouTube transcripts in five formats (JSON, text, SRT, VTT, srv3), video metadata, YouTube search, channel and playlist listing and search, and async batch jobs for up to 4,000 videos. 14 tools over Streamable HTTP
+- **Access:** Add `https://api.transcriptout.com/mcp` and sign in with OAuth 2.1 (dynamic client registration), or send an API key from transcriptout.com as a Bearer header. Free account with 100 credits and no card, paid plans for higher volume. Listed in the official MCP Registry as `com.transcriptout/youtube-transcript-and-youtube-search`
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
