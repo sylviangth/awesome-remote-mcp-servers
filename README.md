@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [IVFcost.co](https://ivfcost.co/mcp-server)
+
+- **Offers:** Read-only US fertility cost data, every answer with its source page and the date it was read: the self-pay IVF prices clinics post on their own websites by state or city, a cited IVF cost estimate, each state's IVF insurance law, IVF grants open now, which employers cover IVF, and posted prices for fertility tests and procedures
+- **Access:** Free remote endpoint at `https://ivfcost.co/api/mcp` (Streamable HTTP). No sign-up or API key; in the Official MCP Registry as `co.ivfcost/ivf-cost-data`, docs at https://ivfcost.co/mcp-server
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
