@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [Clema](https://clema.ai/docs/mcp)
+
+- **Offers:** Tools for institutional research (IR) teams in U.S. higher education: list, read, create and update data request tickets, and run read-only SQL against the public IPEDS and College Scorecard datasets (table list, data dictionary search, institution search, SELECT queries). 9 tools
+- **Access:** Remote endpoint at `https://mcp.clema.ai/mcp` (Streamable HTTP) with OAuth 2.1 sign-in in the browser, no API key. Requires a paid Clema plan; free trial at `https://app.clema.ai/sign-up`
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
