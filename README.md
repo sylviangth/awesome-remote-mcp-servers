@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [GLP1Prices.co](https://github.com/founden-bot/glp1-price-index)
+
+- **Offers:** Today's US cash prices of the GLP-1 medicines tirzepatide and semaglutide, compounded and brand-name (Zepbound, Mounjaro, Wegovy, Ozempic), provider by provider and lowest cost per 30 days first, each with the provider's own words, its plan and fees, the page it was read on and the day. Three read-only tools; the index behind them is re-read daily.
+- **Access:** Free remote endpoint at `https://glp1pricesco.founden.co/api/mcp` (Streamable HTTP). No sign-up or API key; in the Official MCP Registry as `co.founden.glp1pricesco/glp1-price-index`.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
