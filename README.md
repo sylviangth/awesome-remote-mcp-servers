@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [The Network Tools](https://thenetworktools.com/docs/mcp)
+
+- **Offers:** Read-only DNS, MX routing, SPF/DMARC email security, HTTP security headers, and ICANN RDAP diagnostics (`dns_lookup`, `mx_lookup`, `spf_check`, `dmarc_check`, `security_headers_check`, `whois_lookup`), plus an extended 12-tool JSON-RPC API suite
+- **Access:** Free public Streamable HTTP endpoint at `https://thenetworktools.com/mcp` (or `https://thenetworktools.com/api/mcp` for JSON-RPC POST); no account or API key required (60 req/min per IP). Official MCP Registry: `com.thenetworktools/network-tools`. Docs at https://thenetworktools.com/docs/mcp
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
