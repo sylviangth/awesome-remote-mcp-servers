@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [SitePatent](https://sitepatent.com/mcp)
+
+- **Offers:** Read-only search of a curated directory of startups, SaaS products and websites: keyword search, full listing profiles, alternatives to a named product, category browsing and trending lists (`search_listings`, `get_listing`, `find_alternatives`, `browse_category`, `list_categories`, `get_trending`, `get_site_of_the_day`)
+- **Access:** Free Streamable HTTP endpoint at `https://sitepatent.com/api/mcp`; no account or API key required. Setup for each client at [sitepatent.com/mcp](https://sitepatent.com/mcp)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
