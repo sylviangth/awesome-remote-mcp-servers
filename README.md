@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Improvado MCP](https://improvado.io/docs-section-topic/improvado-mcp)
+
+- **Offers:** Query the marketing data in an Improvado workspace: ad platforms such as Google Ads, Meta Ads and LinkedIn Ads, GA4 and other connected sources. Compare spend or ROAS across channels, find campaigns with the highest cost per conversion, and summarize recent paid media
+- **Access:** Server available at `https://ai.improvado.io/experimental/agent/api/mcp-customer/v1/invoke/` (Streamable HTTP) with OAuth sign-in. Needs an Improvado account; Improvado is a paid commercial product. Existing customers connect through report.improvado.io or their company's own Improvado domain. Client setup files in [tekliner/improvado-mcp](https://github.com/tekliner/improvado-mcp)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
