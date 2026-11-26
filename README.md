@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [PinnFeed MCP](https://pinnfeed.io/docs/mcp)
+
+- **Offers:** Live and prematch Pinnacle betting odds for AI assistants: moneyline/1X2, handicaps and totals with alternative lines and periods, the no-vig fair price and margin on every outcome, recent price drops and closing odds (tools include `get_live_odds`, `get_prematch_odds`, `get_event`, `get_drops`, `get_closing_odds`)
+- **Access:** Connect to `https://pinnfeed.io/mcp` (Streamable HTTP) with `Authorization: Bearer <key>`, or `?key=<key>` for clients that cannot send headers. Free plan with no card (data delayed 30 seconds); paid plans are real time. Docs at https://pinnfeed.io/docs/mcp
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
