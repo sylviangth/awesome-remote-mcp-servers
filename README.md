@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [gscdump](https://gscdump.com/mcp)
+
+- **Offers:** Hosted Google Search Console MCP server with 37 tools plus an interactive `open-explorer` UI: backfills up to 16 months of available history, keeps synced days past Google's cutoff, and answers analytics, URL Inspection, sitemaps, IndexNow, and cross-site fleet queries.
+- **Access:** Connect to `https://gscdump.com/mcp` over Streamable HTTP with OAuth 2.1 (PKCE and dynamic client registration). Free during beta (up to 10 Sites across Teams, no seat charges). Setup docs at https://gscdump.com/mcp and open-source MIT engine/CLI/SDK at https://github.com/harlan-zw/gscdump.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
