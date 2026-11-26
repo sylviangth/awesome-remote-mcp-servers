@@ -373,6 +373,41 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [Troop Box Count](https://cookies.rowhousesoftware.com)
+
+- **Offers:** Checks a Girl Scout troop's cookie box list. It adds up boxes for each girl and flavor and flags repeats. Then it gives you a sheet for the booth.
+- **Access:** Connect to `https://cookies.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free for up to 10 sellers and 1 booth. The paid plan is $39 once a season.
+
+#### [League](https://league.rowhousesoftware.com)
+
+- **Offers:** Builds youth league schedules and checks them with code. Fixes rainouts with the fewest moved games.
+- **Access:** Connect to `https://league.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free for 6 teams.
+
+#### [Grant Evidence Pack](https://grants.rowhousesoftware.com)
+
+- **Offers:** Turns sign-in logs and receipts into a monthly grant report. Every number links to its row.
+- **Access:** Connect to `https://grants.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free for one grant and 100 rows per file.
+
+#### [COI Watch](https://coi.rowhousesoftware.com)
+
+- **Offers:** Checks subcontractor insurance certificates (ACORD 25) against your rules. Spots low limits and end dates.
+- **Access:** Connect to `https://coi.rowhousesoftware.com/mcp` over Streamable HTTP. Sign in with OAuth. The paid plan is $39 a month.
+
+#### [Reconcile](https://reconcile.rowhousesoftware.com)
+
+- **Offers:** Compares two CSV lists and shows who is missing or different. Code checks every row.
+- **Access:** Connect to `https://reconcile.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free up to 500 rows per file. Pro is $29 a month.
+
+#### [Log Mender](https://hamlog.rowhousesoftware.com)
+
+- **Offers:** Checks and fixes ham radio logs in ADIF with plain code.
+- **Access:** Connect to `https://hamlog.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free up to 500 contacts. Pro is $19 one time.
+
+#### [Platemark](https://platemark.rowhousesoftware.com)
+
+- **Offers:** Makes charts and invoice PDFs from data. Totals are worked out to the cent.
+- **Access:** Connect to `https://platemark.rowhousesoftware.com/mcp` over Streamable HTTP. Works 3 times a day with no key. A free key gives 100 credits a month.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
@@ -581,6 +616,11 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** 18 tools to list, search, add, edit and practise words in the user's own Lexpad vocabulary notebook; quiz answers given in chat are recorded as practice and move each word's review schedule. Free on every Lexpad plan within fair-use limits
 - **Access:** Add `https://api.lexpad.app/mcp` as a custom connector in ChatGPT or Claude (or `claude mcp add --transport http lexpad https://api.lexpad.app/mcp`) and approve on a Lexpad page (OAuth 2.1 with PKCE); needs a free Lexpad account
+
+#### [Storyledger](https://ledger.rowhousesoftware.com)
+
+- **Offers:** Checks book chapters against your story notes. Finds facts and builds a timeline.
+- **Access:** Connect to `https://ledger.rowhousesoftware.com/mcp` over Streamable HTTP. Sign in with OAuth. The first 3 chapters are free, then $18 a month.
 
 ### Marketing & CRM
 
@@ -803,6 +843,11 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
+
+#### [Kind Reply](https://replies.rowhousesoftware.com)
+
+- **Offers:** Checks a reply to a Google review before you post it, and flags things that cause trouble, like promises or blame.
+- **Access:** Connect to `https://replies.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Checks are free. The site is $12 a month per location.
 
 ### Search & Data Extraction
 
@@ -1220,6 +1265,36 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [Auction Print Pack](https://auction.rowhousesoftware.com)
+
+- **Offers:** Makes bid sheets, catalogs and thank-you lists for a school or nonprofit auction, from your item list.
+- **Access:** Connect to `https://auction.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free for 15 items.
+
+#### [Recess Puzzles](https://puzzles.rowhousesoftware.com)
+
+- **Offers:** Printable crosswords and word searches from your word list, with answer keys.
+- **Access:** Connect to `https://puzzles.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Crosswords and word searches are free. Pro is $12 one time and adds sudoku and bigger grids.
+
+#### [Recess Quest](https://puzzles.rowhousesoftware.com/quest/)
+
+- **Offers:** Plans printable classroom escape games for grades 3 to 6, checked by code.
+- **Access:** Connect to `https://puzzles.rowhousesoftware.com/quest/mcp` over Streamable HTTP. No key or sign in needed. Planning and checking in chat is free.
+
+#### [Gridstitch](https://stitch.rowhousesoftware.com)
+
+- **Offers:** Makes cross stitch charts from a name or a motif, with the DMC floss list.
+- **Access:** Connect to `https://stitch.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. The basic motifs are free. Pro is $12 one time.
+
+#### [Cutline](https://cards.rowhousesoftware.com)
+
+- **Offers:** Turns card text into print and play sheets at true card size. You get a PDF you can print at home and cut out.
+- **Access:** Connect to `https://cards.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free templates. Pro is $12 one time.
+
+#### [Puzzle Column](https://column.rowhousesoftware.com)
+
+- **Offers:** Makes newspaper style puzzles with answers. You can print them or paste them into your site.
+- **Access:** Connect to `https://column.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Making puzzles in chat is free. The daily feed on the site starts at $19 a month.
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
@@ -1364,6 +1439,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
 - **Access:** Connect to `https://mcp.alauda.ai/mcp` using Streamable HTTP. Public tools are free to use and support anonymous access.
 
+#### [Penny Packet](https://treasurer.rowhousesoftware.com)
+
+- **Offers:** Ties a club or nonprofit's bank month to the statement to the cent, and compares it to the budget.
+- **Access:** Connect to `https://treasurer.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Both checks are free. The full board packet on the site is $29 a month.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
@@ -1380,6 +1460,26 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Hosted service for making small personalized browser games from a sender's description of the recipient's habits, interests or inside jokes. Free use is within daily allowances. Optional subscriptions include more games and editing.
 - **Access:** Connect to `https://playablegift.com/mcp` over Streamable HTTP. No sign in is needed. See the [agent guide](https://playablegift.com/agents) for setup and tool details.
+
+#### [Ink & Torch](https://maps.rowhousesoftware.com)
+
+- **Offers:** Makes battle maps for tabletop games, with a room key and a VTT file.
+- **Access:** Connect to `https://maps.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Four map types are free. Pro is $9 one time.
+
+#### [Hull & Hatch](https://decks.rowhousesoftware.com)
+
+- **Offers:** Makes starship deck plans for sci-fi tabletop games, with a numbered room key that tells you what is in every room.
+- **Access:** Connect to `https://decks.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Small ships are free. Pro is $12 one time.
+
+#### [Playtable](https://play.rowhousesoftware.com)
+
+- **Offers:** Make up any game and play it in chat. The server holds the cards and rolls the dice.
+- **Access:** Connect to `https://play.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Free for any game you make up. Pro is $5 one time for eight more ready games.
+
+#### [Prepwell](https://prep.rowhousesoftware.com)
+
+- **Offers:** Preps a tabletop RPG session on a real battle map, then checks it against the map and rules.
+- **Access:** Connect to `https://prep.rowhousesoftware.com/mcp` over Streamable HTTP. No key or sign in needed. Five map types are free, so you can try it on a real session first.
 
 ## Auto Counter
 
