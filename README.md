@@ -582,6 +582,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 18 tools to list, search, add, edit and practise words in the user's own Lexpad vocabulary notebook; quiz answers given in chat are recorded as practice and move each word's review schedule. Free on every Lexpad plan within fair-use limits
 - **Access:** Add `https://api.lexpad.app/mcp` as a custom connector in ChatGPT or Claude (or `claude mcp add --transport http lexpad https://api.lexpad.app/mcp`) and approve on a Lexpad page (OAuth 2.1 with PKCE); needs a free Lexpad account
 
+#### [Listomancy](https://listomancy.com/agents)
+
+- **Offers:** Search hand-written checklists and routines, read one in full with its sections and items, and publish a new list behind a public link with Markdown, CSV and text exports
+- **Access:** Connect to `https://listomancy.com/mcp` over Streamable HTTP. No sign-in or API key needed. Free
+
 ### Marketing & CRM
 
 #### [datavessel MCP](https://datavessel.io/mcp)
@@ -990,6 +995,11 @@ See MindPal agents use other hosted MCP servers:
 
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
+
+#### [EventCompletion](https://eventcompletion.com/agents)
+
+- **Offers:** Search a curated catalogue of source-verified events (sports, festivals, French school holidays) and get their dates, live progress and sources; create a public progress page for an event
+- **Access:** Connect to `https://eventcompletion.com/mcp` over Streamable HTTP. No sign-in is needed to read; creating a page uses a free key issued by the `register_agent` tool. Free
 
 ### Communication & Collaboration
 
