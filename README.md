@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [Matrix Agent Tools](https://github.com/matrixdi/matrix-agent-tools)
+
+- **Offers:** Hosted MCP service discovery for autonomous agents, with deployment, commerce, advertising, checkout, tender intelligence and MCP security analysis services.
+- **Access:** Connect via Streamable HTTP at `https://agents.matrixdigitalltd.com/v1/agent/mcp`. Public catalogue discovery; wallet-enrolled bearer authentication and x402 pay-per-job for supported operations. Testnet preview with configured prices from $0.10 to $8.00 per job. Consult the catalogue for current route availability.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
