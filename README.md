@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [Databuddy](https://www.databuddy.cc)
+
+- **Offers:** Cookieless web and product analytics: traffic, pages, referrers, funnels, goals, errors, Web Vitals, session replays, and investigations that show why a metric moved. Can also manage goals, funnels, annotations, feature flags and short links, with a preview before each change
+- **Access:** Connect to `https://api.databuddy.cc/v1/mcp` (Streamable HTTP) and sign in with a Databuddy account via OAuth 2.1. Docs at https://www.databuddy.cc/docs/api/mcp
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
