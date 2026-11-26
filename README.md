@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Freepost](https://freepost.io)
+
+- **Offers:** Remote MCP tools to list connected social accounts, read platform rules and usage, upload media, validate, create and edit drafts, and publish or schedule posts to the user's own signed-in accounts. 22 platforms can be connected; publishing is live on 20 of them today (Xiaohongshu, Douyin, WeChat Channels, Weibo, Instagram, X and others), while Pinterest and Reddit can be connected for drafts. Publishing and scheduling require the user's approval
+- **Access:** Connect to `https://freepost.io/api/mcp` (Streamable HTTP) and sign in with a Freepost account via OAuth, or authenticate with a workspace API key. Official MCP Registry name: `io.freepost/mcp`. Every plan includes MCP access. Free plan with no credit card, including 20 external publishes a month; paid plans from ¥39/month at [freepost.io/pricing](https://freepost.io/pricing). Docs: https://freepost.io/developers
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
