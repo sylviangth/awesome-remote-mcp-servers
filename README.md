@@ -1220,6 +1220,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [Unspar](https://www.unspar.com/docs/mcp/)
+
+- **Offers:** AI article writer. An agent can start an article from a title, see its price in credits before it starts, ask for changes and publish it to WordPress or Ghost
+- **Access:** Streamable HTTP endpoint `https://app.unspar.com/mcp` with OAuth sign-in to an Unspar account. Free plan with 10 credits (a normal article costs 1 credit); paid plans from €49 a month
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
