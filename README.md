@@ -1220,6 +1220,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [Dock](https://dock.space)
+
+- **Offers:** dock.space presentation editor for PowerPoint, Keynote and PDF: create a deck from a Dock template or an uploaded .pptx / .key file, edit it with 200+ presentation actions, render slides to check the result, send edits as a proposal a person accepts in Dock, and export PPTX or PDF
+- **Access:** Streamable HTTP endpoint at `https://app.dock.space/v1/mcp` with OAuth 2.1 sign-in (dynamic client registration and PKCE) or a personal access token as `Authorization: Bearer`. Invite-only for now; MCP is on every plan, Free included. Setup at [dock.space/agents](https://dock.space/agents)
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
