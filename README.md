@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [Groundsocial](https://groundsocial.dev/docs/mcp)
+
+- **Offers:** Read-only public data from 77 platforms: Reddit threads with comment trees, X posts with view counts, TikTok, Instagram and YouTube videos (incl. transcripts), LinkedIn pages, Bluesky, Hacker News, Google Search, Amazon, app stores and reviews. Each tool returns the platform's own JSON and states its price in credits
+- **Access:** Server available at `https://api.groundsocial.dev/mcp` (Streamable HTTP) with OAuth sign-in, or an API key as a Bearer token. 100 free credits on signup with no card, then pay-as-you-go credit packs. [Setup guide](https://groundsocial.dev/docs/mcp)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
