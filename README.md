@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Magistry](https://www.magistry.io)
+
+- **Offers:** Read and act on a whole store business from one connector: orders, products and catalog, Google Ads and other ad networks, GA4, Merchant Center, reviews, customer service threads, costs and the Marketing Brain. Works across Shopify, WooCommerce, Shopware, Magento and more. Writes (budgets, discounts, prices, product edits) are applied or held for the merchant's approval per granted scope, and every change is logged and can be undone. Free plan (50 credits/month), paid plans from $99/month.
+- **Access:** Add `https://app.magistry.io/api/mcp` (Streamable HTTP) as a remote MCP server and sign in with OAuth 2.1 (dynamic client registration, scoped grants). Free account at [magistry.io](https://www.magistry.io); docs at [github.com/Magistry-io/mcp](https://github.com/Magistry-io/mcp).
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
