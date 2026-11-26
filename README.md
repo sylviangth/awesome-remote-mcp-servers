@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [webfetch.run](https://webfetch.run)
+
+- **Offers:** Fetch any public URL as markdown, HTML, text, or a screenshot (13 output formats). Pages render in a real browser with proxies included, and a failed or empty fetch costs $0. Tools: `fetch`, `check_coverage`, and browser session tools (`session_open`, `session_list`, `session_execute`, `session_close`)
+- **Access:** Streamable HTTP endpoint at `https://mcp.webfetch.run/mcp` (docs: https://webfetch.run/docs). Sign in with OAuth, or send an `X-API-Key` header; create a key at https://webfetch.run/console
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
