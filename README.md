@@ -134,7 +134,7 @@ See MindPal agents use other hosted MCP servers:
 
 #### [Scalekit AgentKit](https://www.scalekit.com/agentkit)
 
-- **Offers:** Scalekit's AgentKit provides auth and actions on behalf of users, with 500+ connectors and 20,000+ tools.
+- **Offers:** Scalekit's AgentKit provides auth and actions on behalf of users, with 1,100+ connectors and 55,000+ tools.
 - **Access:** Sign up, create a Virtual MCP server in AgentKit, then connect with the generated `mcp_server_url` and a session token. See [docs](https://docs.scalekit.com/agentkit/mcp/overview/)
 
 #### [API.market MCP Gateway](https://api.market/mcp)
