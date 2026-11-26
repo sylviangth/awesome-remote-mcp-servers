@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [AlchemyAgent](https://alchemyagent.ai/)
+
+- **Offers:** Read-only SEO and AI search checks for any public website: whether GPTBot, ClaudeBot, PerplexityBot and Googlebot can reach a page, what AI crawlers see without JavaScript, PageSpeed and Core Web Vitals trends, structured data, security headers, llms.txt and agent readiness, and brand presence in Wikidata and Wikipedia. 12 tools and 4 workflow prompts
+- **Access:** Free, no authentication required. Server available at `https://mcp.alchemyagent.ai/mcp` (Streamable HTTP). Docs at [alchemyagent.ai/docs/mcp](https://alchemyagent.ai/docs/mcp). Also in the Official MCP Registry as `ai.alchemyagent/alchemyagent`
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
