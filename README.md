@@ -1364,6 +1364,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
 - **Access:** Connect to `https://mcp.alauda.ai/mcp` using Streamable HTTP. Public tools are free to use and support anonymous access.
 
+#### [MacroDial](https://macrodial.org/ai-resources)
+
+- **Offers:** Read-only daily U.S. macroeconomic brief, source-dated explanations of tracked factors, and historical comparisons.
+- **Access:** Connect to `https://macrodial.org/mcp` over Streamable HTTP. The hosted tools are free to use and require no account or API key.
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
