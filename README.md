@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [Jobvetta MCP](https://www.jobvetta.com/mcp)
+
+- **Offers:** Search 6.5M+ live job openings gathered directly from 238,000+ official employer career sites across 242 countries (keyword, location, company, remote, and freshness filters) plus full job description lookup.
+- **Access:** Connect to `https://api.jobvetta.com/mcp` over Streamable HTTP with `Authorization: Bearer <API_KEY>`. Free tier includes 50 requests/day at [jobvetta.com/mcp](https://www.jobvetta.com/mcp).
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
