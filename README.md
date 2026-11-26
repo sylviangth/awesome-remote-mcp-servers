@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [AI Science Tracker](https://aisciencetracker.org/)
+
+- **Offers:** Read-only search of a curated catalog of about 5,000 AI-enabled scientific discoveries since 2020 (by topic, DOI, year, field or organization), each with its original paper or announcement and evidence caveats, plus a separate collection of publicly disclosed vulnerabilities found with AI (by CVE ID, product or AI system)
+- **Access:** Free public endpoint at `https://mcp.aisciencetracker.org/mcp` (Streamable HTTP); no account or API key required. Claude Code: `claude mcp add --transport http ai-science-tracker https://mcp.aisciencetracker.org/mcp`. Docs at https://github.com/marcello-pichini/ai-science-tracker/blob/main/mcp/README.md
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
