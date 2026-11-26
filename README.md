@@ -1381,6 +1381,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Hosted service for making small personalized browser games from a sender's description of the recipient's habits, interests or inside jokes. Free use is within daily allowances. Optional subscriptions include more games and editing.
 - **Access:** Connect to `https://playablegift.com/mcp` over Streamable HTTP. No sign in is needed. See the [agent guide](https://playablegift.com/agents) for setup and tool details.
 
+#### [GiftBack](https://joingiftback.com/ai)
+
+- **Offers:** Free, no-account Secret Santa draws (spoiler-free `#fragment` reveal links so neither AI nor host sees matches), online White Elephant games, and curated in-budget gift search from 200+ brands.
+- **Access:** Connect to `https://joingiftback.com/api/mcp` over Streamable HTTP. No sign-in or API key required. Published in the Official MCP Registry as `com.joingiftback/giftback`.
+
 ## Auto Counter
 
 This repository automatically tracks the number of MCP servers listed. The counter is updated automatically via GitHub Actions whenever the README is modified, or you can run the update scripts manually:
