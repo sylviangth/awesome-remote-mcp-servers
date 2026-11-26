@@ -1085,6 +1085,11 @@ See MindPal agents use other hosted MCP servers:
 
 ### Media & Content
 
+#### [CleanTranscript](https://cleantranscript.com/mcp)
+
+- **Offers:** Extract verified YouTube transcripts in Text, Obsidian YAML Markdown, SRT, or VTT, inspect video metadata, and search captions with clickable `youtu.be/?t=` deep links
+- **Access:** Stateless Streamable HTTP endpoint at `https://cleantranscript.com/mcp` with zero authentication required (free tier: 10 unique videos/day per network, 7-day shared cache)
+
 #### [Pagelive MCP](https://pagelive.io/mcp)
 
 - **Offers:** Publish HTML built in chat as a private, view-tracked link, update it, list pages, read view stats, and read and answer comments
