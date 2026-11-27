@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [Outscraper MCP](https://mcp.outscraper.com/)
+
+- **Offers:** Business catalog search and previews, full business data retrieval, Google Maps scraping and reviews, and company/contact enrichment
+- **Access:** Connect to `https://api.outscraper.com/mcp` (Streamable HTTP) and sign in to Outscraper with OAuth 2.0 (PKCE). An account is required; catalog previews are free, while full data and service usage are billed. An optional [Node bridge](https://github.com/outscraper/outscraper-mcp-server) supports local stdio or self-hosted HTTP clients using an Outscraper API key.
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
