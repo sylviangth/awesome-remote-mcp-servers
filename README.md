@@ -169,6 +169,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Runs a containerized GPU job on a rented cloud machine under a hard dollar cap and returns the files it writes, with their SHA-256 hashes. Seven tools: a free estimate (expected price, time limit, whether prepaid credit covers it), submit, status, results, job list, dataset measurement and cancel
 - **Access:** Streamable HTTP endpoint at `https://symbioza.dev/mcp`. OAuth 2.1 sign-in in the browser (dynamic client registration, no API key). Estimates are free; running a job spends prepaid credit, never more than the job's budget. Pricing: https://symbioza.dev/pricing. Docs: https://symbioza.dev/agent
 
+#### [Embarko](https://embarko.ai)
+
+- **Offers:** Deploy and host AI-built apps and websites, and get a live URL without any DevOps setup (tools: deploy_app, read_app, update_app, app_danger_zone)
+- **Access:** Add `https://mcp.embarko.ai/mcp` (Streamable HTTP) to your MCP client and sign in to Embarko once (OAuth 2.1)
+
 ### Databases & Storage
 
 #### [Egnyte MCP](https://developers.egnyte.com/docs/Remote_MCP_Server)
