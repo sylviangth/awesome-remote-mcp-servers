@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Kreatix MCP](https://kreatix.cc/ai-agents/)
+
+- **Offers:** Schedule and publish one video or text post to many Instagram, TikTok, YouTube, Facebook, X, LinkedIn and Pinterest accounts at once, move or cancel scheduled posts, and read post status, views and follower stats
+- **Access:** Streamable HTTP endpoint at `https://api.kreatix.cc/mcp` with OAuth sign-in, or an agent key from Kreatix Settings > AI agent; needs a Kreatix paid plan or a running trial
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
