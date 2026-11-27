@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [ShipBastion Launch Audit](https://shipbastion.com)
+
+- **Offers:** 5 read-only pre-launch domain audit tools covering HTTP security headers & leaked client-side secrets (`audit_website_security`), SPF/DKIM/DMARC/BIMI email deliverability (`audit_email_deliverability`), `/llms.txt` & JSON-LD AI search readiness (`audit_ai_search_readiness`), and 78-TLD RDAP brand availability (`check_brand_launch_readiness`).
+- **Access:** No-auth Streamable HTTP endpoint at `https://api.shipbastion.com/mcp` (free read-only audits; optional paid remediation pass). See [GitHub](https://github.com/zColdWater/mcp-launch-audit) for documentation.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
