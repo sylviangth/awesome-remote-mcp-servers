@@ -532,7 +532,7 @@ See MindPal agents use other hosted MCP servers:
 
 #### [Sandscale](https://sandscale.dev/sandboxes/mcp)
 
-- **Offers:** Creates a Firecracker microVM sandbox per task, runs commands in it and moves files in and out, with allow/ask/deny rules per tool and an audit log
+- **Offers:** Creates a Firecracker microVM sandbox per task, runs commands in it and moves files in and out, with every call recorded in an audit log
 - **Access:** Streamable HTTP endpoint at `https://mcp.sandscale.dev/mcp` with OAuth 2.1 (sign in with a Sandscale account; free plan available)
 
 ### Knowledge & Memory
