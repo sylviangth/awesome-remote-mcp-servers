@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [Remene](https://remene.si)
+
+- **Offers:** Read your own MRI studies on Remene, have the radiologist's report and findings explained in plain language, and prepare questions for your doctor. Explains, does not diagnose.
+- **Access:** Remote Streamable HTTP at `https://remene.si/mcp`. Sign in with your Remene account through OAuth 2.1 with PKCE; dynamic client registration is supported, so clients only need the URL. Sign-up is free; the full analysis of a study is a paid unlock on remene.si. Setup guide at https://remene.si/mcp-server
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
