@@ -582,6 +582,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 18 tools to list, search, add, edit and practise words in the user's own Lexpad vocabulary notebook; quiz answers given in chat are recorded as practice and move each word's review schedule. Free on every Lexpad plan within fair-use limits
 - **Access:** Add `https://api.lexpad.app/mcp` as a custom connector in ChatGPT or Claude (or `claude mcp add --transport http lexpad https://api.lexpad.app/mcp`) and approve on a Lexpad page (OAuth 2.1 with PKCE); needs a free Lexpad account
 
+#### [Plainer](https://plainer.app)
+
+- **Offers:** Find workspace files and read notes in Plainer. Edit access also lets the assistant create, update and delete supported files.
+- **Access:** Add `https://plainer.app/mcp` as a Streamable HTTP server and sign in with a free Plainer account. Choose **Read files** or **Edit files** in the OAuth approval. [Setup for Claude Code, Codex and Gemini CLI](https://plainer.app/connections?client=claude-code)
+
 ### Marketing & CRM
 
 #### [datavessel MCP](https://datavessel.io/mcp)
