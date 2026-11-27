@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [Ahel](https://ahel.ai)
+
+- **Offers:** One link to the data an AI agent needs: companies, people, work emails, local businesses, social media, search, web pages and official business registers. The agent searches a catalog, sees the price of the exact run, then runs it.
+- **Access:** Add `https://mcp.ahel.ai` (Streamable HTTP) and sign in with OAuth. Finding and pricing are free; runs are paid per result from a prepaid balance. Docs at https://ahel.ai/agents
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
