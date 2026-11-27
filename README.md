@@ -373,6 +373,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 19 deterministic home, garden, and DIY material calculators (concrete, paint, mulch, soil, gravel, roof pitch, roofing, tile, flooring, drywall, deck, fence, stairs, square footage, wallpaper, pavers, grass seed, curtains) with US & metric unit conversions.
 - **Access:** Free public endpoint at `https://tidyuse.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://tidyuse.com/mcp-server/
 
+#### [PeptideCompare.co](https://github.com/founden-bot/us-peptide-prices)
+
+- **Offers:** What US online clinics charge for prescribed peptides and NAD+ (BPC-157, sermorelin, NAD+, GHK-Cu, tesamorelin and others, plus peptide stacks), cheapest per 30 days first, each price in the clinic's own words with any fee beside it, the page it was read on and the day; plus each compound's FDA standing quoted from FDA pages. Five read-only tools; a daily check confirms each price is still on its clinic's page.
+- **Access:** Free remote endpoint at `https://peptidecompare.co/mcp` (Streamable HTTP). No sign-up or API key; in the Official MCP Registry as `co.peptidecompare/peptide-prices`.
+
 ### Developer Tools
 
 #### [Linear MCP](https://linear.app/docs/mcp)
