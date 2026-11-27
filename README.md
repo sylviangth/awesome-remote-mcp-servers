@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [Shellway](https://getshellway.com)
+
+- **Offers:** Lets ChatGPT, Claude, Claude Code and Cursor run commands and read and edit files on your own Windows, Mac or Linux computer or server; the computer connects outward only, read-only mode, allowed folders and blocked commands are enforced on it, and every action is logged
+- **Access:** Connect Streamable HTTP at `https://mcp.getshellway.com/mcp` and sign in with OAuth, then pair a computer with the free agent (`npx shellway`). Free plan (1 computer, 50 actions a day) after a 7-day Pro trial with no card; paid plans from $5/month
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
