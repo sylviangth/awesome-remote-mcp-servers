@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [Sandscale](https://sandscale.dev/sandboxes/mcp)
+
+- **Offers:** Creates a Firecracker microVM sandbox per task, runs commands in it and moves files in and out, with every call recorded in an audit log
+- **Access:** Streamable HTTP endpoint at `https://mcp.sandscale.dev/mcp` with OAuth 2.1 (sign in with a Sandscale account; free plan available)
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
