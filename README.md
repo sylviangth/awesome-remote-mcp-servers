@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [CheckLeaked](https://checkleaked.cc/developers)
+
+- **Offers:** Breach-data search by email, username, phone number, domain or hash, k-anonymity password exposure checks, hash cracking, IP and WHOIS lookups, and breach monitoring (40+ tools)
+- **Access:** Connect to `https://mcp.checkleaked.cc/mcp` over Streamable HTTP with OAuth or `Authorization: Bearer <API key>` from checkleaked.cc. Listing tools needs no key; there is a free plan and paid plans for full results
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
