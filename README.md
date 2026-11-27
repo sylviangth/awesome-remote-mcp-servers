@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [Buddy.Works](https://buddy.works/docs/ai-agents/mcp)
+
+- **Offers:** Over 90 tools to run and watch pipelines, read build logs, browse repositories, branches and commits, and manage deployment targets, sandboxes, artifact and package registries, domains and test suites in a Buddy workspace. The `?tools=` query parameter limits the tools to chosen categories
+- **Access:** Add `https://mcp.buddy.works/mcp` (EU: `https://mcp.eu.buddy.works/mcp`, Asia: `https://mcp.asia.buddy.works/mcp`) to your MCP client and sign in with OAuth in the browser, or send a personal access token as a Bearer token. Paid Pro and Team plans after a 14-day trial (credit card required)
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
