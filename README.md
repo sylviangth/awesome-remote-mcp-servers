@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [App Store Tools by Volution Technology](https://volutiontechnology.com/apps/)
+
+- **Offers:** Four App Store data tools: keyword ranks with competition scores and Apple search suggestions, review export with top complaints and rating by version, top charts (free, paid, grossing) by country and category, and competitor app changes (version, price, rating)
+- **Access:** Server available at `https://mcp.apify.com/?tools=volutiontech/app-store-keyword-rank-tracker,volutiontech/app-store-review-insights,volutiontech/app-store-top-charts-tracker,volutiontech/app-store-app-monitor` (Streamable HTTP) with Apify OAuth sign-in or an `Authorization: Bearer <APIFY_TOKEN>` header. Paid per result through an Apify account (e.g. $0.01 per keyword, $0.003 per app checked)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
