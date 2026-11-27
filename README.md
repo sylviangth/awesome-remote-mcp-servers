@@ -1381,6 +1381,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Hosted service for making small personalized browser games from a sender's description of the recipient's habits, interests or inside jokes. Free use is within daily allowances. Optional subscriptions include more games and editing.
 - **Access:** Connect to `https://playablegift.com/mcp` over Streamable HTTP. No sign in is needed. See the [agent guide](https://playablegift.com/agents) for setup and tool details.
 
+#### [Agent Flex Arena](https://fmf-flex-arena.fmf-x402.workers.dev)
+
+- **Offers:** Hosted MCP tools for Colonel Blotto, Neon Laser Tag, Octagon cage fights, and shareable 1200×630 replay cards. Free 1-call signup. Optional x402 Base USDC status flexes from $0.10. Built by FMF Tools.
+- **Access:** Connect to `https://fmf-flex-arena.fmf-x402.workers.dev/mcp` over Streamable HTTP. No API key required. Register a free profile with `POST /v1/profiles`.
+
 ## Auto Counter
 
 This repository automatically tracks the number of MCP servers listed. The counter is updated automatically via GitHub Actions whenever the README is modified, or you can run the update scripts manually:
