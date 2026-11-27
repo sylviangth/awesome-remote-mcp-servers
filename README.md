@@ -533,7 +533,7 @@ See MindPal agents use other hosted MCP servers:
 #### [Matrix Agent Tools](https://github.com/matrixdi/matrix-agent-tools)
 
 - **Offers:** Hosted MCP service discovery for autonomous agents, with deployment, commerce, advertising, checkout, tender intelligence and MCP security analysis services.
-- **Access:** Connect via Streamable HTTP at `https://agents.matrixdigitalltd.com/v1/agent/mcp`. Public catalogue discovery; wallet-enrolled bearer authentication and x402 pay-per-job for supported operations. Testnet preview with configured prices from $0.10 to $8.00 per job. Consult the catalogue for current route availability.
+- **Access:** Connect via Streamable HTTP at `https://agents.matrixdigitalltd.com/v1/agent/mcp`. Public catalogue discovery. Five offline analysis products accept USDC on Base Mainnet, subject to live admission. Deployment Guard and protected live routes remain on hold. Admitted paid jobs require wallet-enrolled bearer authentication and quote-bound x402 payment. Consult the catalogue for current route availability.
 
 ### Knowledge & Memory
 
