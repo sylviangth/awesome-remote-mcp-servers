@@ -1364,6 +1364,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
 - **Access:** Connect to `https://mcp.alauda.ai/mcp` using Streamable HTTP. Public tools are free to use and support anonymous access.
 
+#### [FDIC Bank Health & Financials MCP](https://www.mcpstamp.com/free-servers/fdic-bank-health-financials-mcp/)
+
+- **Offers:** Live US bank health, FDIC deposit insurance verification, quarterly Call Report financials (assets, deposits, uninsured %, CET1/Tier 1 capital, ROA/ROE), failed bank records, and branch lookups from official FDIC BankFind data.
+- **Access:** Free public Streamable HTTP endpoint, no account or API key required: `https://fdic-bank-health-financials-mcp.lipmichal.workers.dev/mcp`. Docs: https://www.mcpstamp.com/free-servers/fdic-bank-health-financials-mcp/ | Source: https://github.com/theluckystrike/fdic-bank-health-financials-mcp
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
