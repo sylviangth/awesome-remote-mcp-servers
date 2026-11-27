@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Frank AI Researcher](https://www.hifrank.ai/mcp)
+
+- **Offers:** AI-moderated voice interviews with your own customers in 50+ languages: draft and publish interview studies, then read transcripts and themes linked to the original quotes. A study stays a draft until you approve publishing it
+- **Access:** Server available at `https://api.hifrank.ai/mcp` (Streamable HTTP) with OAuth sign-in to your Frank account. Works with ChatGPT, Claude, Grok and Muse, plus other MCP clients that support remote servers with OAuth. Free plan with 60 voice minutes a month, no card; paid plans at [hifrank.ai/pricing](https://www.hifrank.ai/pricing). [Setup guide](https://github.com/nar-vardanyan/frank-mcp)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
