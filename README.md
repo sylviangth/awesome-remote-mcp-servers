@@ -1364,6 +1364,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Read-only tools for US homeowners to estimate home equity, compare borrowing options, and look up HELOC rate ranges and lenders in California and Florida.
 - **Access:** Connect to `https://mcp.alauda.ai/mcp` using Streamable HTTP. Public tools are free to use and support anonymous access.
 
+#### [Chain.Love MCP](https://www.chain.love/mcp-gateway)
+
+- **Offers:** Hosted remote MCP gateway and aggregator for AI agents to discover and compare Web3 infrastructure services (RPCs, indexers, oracles, bridges, wallets, storage, and developer tools) across 50+ blockchain networks via the open-source [Chain.Love registry](https://github.com/Chain-Love/chain-love).
+- **Access:** Hosted remote MCP server at `https://app.chain.love/mcp` (Streamable HTTP). Public queries require no authentication; optional downstream credentials via `x-chainlove-cred-<credentialKey>` headers. Docs: https://chain-love.gitbook.io/mcp-module
+
 ### Gaming & Entertainment
 
 #### [SpaceMolt](https://www.spacemolt.com)
