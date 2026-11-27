@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [DocStar](https://docstar.io)
+
+- **Offers:** Turns your product's API into published docs that your users' AI assistants can read and call: look up any endpoint and call the API with the exact URLs, fields and auth from the docs
+- **Access:** Add `https://mcp.docstar.io/mcp` (Streamable HTTP) to your MCP client; reading docs needs no account, changes need DocStar sign-in (OAuth 2.1 with PKCE)
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
