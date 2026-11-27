@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [Pandex](https://www.pandex.io)
+
+- **Offers:** Official legislation and case law for AI agents (EU, UK, DE, FR, ES, NL, AT, CH and more), straight from the official sources and updated nightly: every past version of each law with its dates, citations linked to the exact passage
+- **Access:** Free, no sign-up: add `https://api.pandex.io/mcp` (Streamable HTTP) as a remote MCP server. A free key at [pandex.io/key](https://www.pandex.io/key) gives more calls. [Docs](https://www.pandex.io/docs)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
