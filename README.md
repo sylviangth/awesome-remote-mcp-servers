@@ -1220,6 +1220,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [ArchLang MCP](https://archlang.uk/mcp)
+
+- **Offers:** Floor plans as code: an AI writes a plain-text `.arch` file and the compiler draws a dimensioned plan (SVG, DXF, PDF) and reports what is wrong, with machine-applicable fixes. Tools include `compile`, `describe`, `lint`, `validate`, `fix`, `finish`, `suggest`, `complete`, `explain` and `link`. Open source (MIT).
+- **Access:** Free public Streamable HTTP endpoint at `https://mcp.archlang.uk/mcp`, no sign-in or API key. Claude Code: `claude mcp add --transport http archlang https://mcp.archlang.uk/mcp`. [Documentation](https://archlang.uk/mcp)
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
