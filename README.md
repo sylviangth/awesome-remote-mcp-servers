@@ -1083,6 +1083,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
 - **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
+#### [MSG91](https://msg91.com/)
+
+- **Offers:** Search MSG91 docs and call MSG91 API operations for SMS, WhatsApp, email, voice calls and OTP verification
+- **Access:** Add `https://mcp.msg91.com/mcp` (Streamable HTTP) to your MCP client; initialize and tools/list work without sign-in, account access uses OAuth
+
 ### Media & Content
 
 #### [Pagelive MCP](https://pagelive.io/mcp)
