@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Spreadcast](https://spreadcast.app/mcp)
+
+- **Offers:** Design, write, schedule and publish social media posts to Instagram, Facebook, LinkedIn, TikTok, YouTube, Threads, Pinterest, Bluesky, Mastodon, Telegram and Discord. Reads your brand kit, designs branded post pictures and carousels, writes a caption for each network, saves drafts or scheduled posts, and reports how past posts did. Nothing is published without your approval unless you allow publishing when you connect. Free plan available
+- **Access:** Server available at `https://spreadcast.app/api/mcp` (Streamable HTTP) with OAuth 2.1 sign-in (dynamic client registration + PKCE) using your Spreadcast account. Setup guide at [spreadcast.app/docs/connect-ai-assistant](https://spreadcast.app/docs/connect-ai-assistant)
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
