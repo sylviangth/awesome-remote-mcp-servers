@@ -582,6 +582,12 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** 18 tools to list, search, add, edit and practise words in the user's own Lexpad vocabulary notebook; quiz answers given in chat are recorded as practice and move each word's review schedule. Free on every Lexpad plan within fair-use limits
 - **Access:** Add `https://api.lexpad.app/mcp` as a custom connector in ChatGPT or Claude (or `claude mcp add --transport http lexpad https://api.lexpad.app/mcp`) and approve on a Lexpad page (OAuth 2.1 with PKCE); needs a free Lexpad account
 
+#### [Enterprise Ego](https://enterpriseego.cafeboon.com)
+
+- **Offers:** Keeps company AI conversations in the company's own storage, with instructions per client, project, task or tool. Official APIs come first: Claude Enterprise, ChatGPT Enterprise and Microsoft 365 Copilot; Gemini and Perplexity are in Beta. Claude Team uses an owner-uploaded export
+- **Access:** Only administrators connect the hosted MCP endpoint `https://enterpriseego.cafeboon.com/mcp` with OAuth. [Documentation](https://enterpriseego.cafeboon.com/docs). Paid service with an introductory trial; see [pricing](https://enterpriseego.cafeboon.com/pricing)
+
+
 ### Marketing & CRM
 
 #### [datavessel MCP](https://datavessel.io/mcp)
