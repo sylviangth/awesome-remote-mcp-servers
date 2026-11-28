@@ -149,7 +149,7 @@ See MindPal agents use other hosted MCP servers:
 
 #### [ViaSocket](https://viasocket.com/)
 
-- **Offers:** Integration and AI infrastructure for developers: AI agents explore ViaSocket's docs and APIs, then build and verify integrations across 2,300+ apps that your users connect through OAuth
+- **Offers:** Infrastructure for building apps and AI agents, with integrations, automation and AI capabilities
 - **Access:** Add `https://connect.viasocket.com/mcp` (Streamable HTTP) to your MCP client and sign in with your ViaSocket account (OAuth)
 
 ### Cloud Platforms
