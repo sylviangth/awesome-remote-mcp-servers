@@ -1195,11 +1195,6 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Create videos from storyboards, scripts, voiceovers or slides; generate images, video clips, speech, music and avatars; remix projects and export MP4s. Requires a VideoGen account and API access; generation consumes paid VideoGen credits.
 - **Access:** Hosted Streamable HTTP endpoint at `https://mcp.videogen.io/mcp`. Authenticate with OAuth account linking or a bearer API key. No server installation required. [API docs](https://docs.videogen.io) · [Tool schemas](https://github.com/video-gen/videogen-mcp/blob/main/TOOL_SCHEMAS.md).
 
-#### [Shortform Kit](https://shortformkit.com/mcp-server/)
-
-- **Offers:** Read, download and transcribe public Instagram Reels, TikToks and YouTube videos (info, MP4/MP3, frames, Whisper transcripts in 90+ languages), plus sourced creator data: 2026 upload specs for 9 platforms, monetization programs, loudness targets, YouTube channel IDs. Free.
-- **Access:** Streamable HTTP at `https://shortformkit.com/mcp`, no API key and no account. Also listed in the official MCP Registry as `io.github.diegobruegger-prog/shortformkit`.
-
 #### [ArtiGram](https://artigram.cafeboon.com)
 
 - **Offers:** Publish AI-made HTML, React, SVG, Markdown or Mermaid as live shareable pages, and search existing posts
