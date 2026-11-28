@@ -1083,6 +1083,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Calls, leads, bookings and website chats from a Vocenya AI receptionist account, plus outbound AI calls with Do Not Call, consent and calling-hours checks
 - **Access:** Server available at `https://vocenya.com/mcp/platform` (Streamable HTTP) with OAuth authentication (an account owner approves access), or an API key as `Authorization: Bearer vk_live_...`. Paid plans from $49/month with a 14-day free trial; test data on every account
 
+#### [Winly MCP](https://github.com/getwinly/winly-mcp)
+
+- **Offers:** Run your Instagram and Facebook DMs from Claude, ChatGPT or any AI agent.
+- **Access:** Server available at `https://app.sbccrm.com/bld/api/mcp` (Streamable HTTP) with OAuth or API key authentication
+
 ### Media & Content
 
 #### [Pagelive MCP](https://pagelive.io/mcp)
