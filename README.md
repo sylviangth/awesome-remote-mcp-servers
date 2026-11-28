@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [CheapCarRent Search](https://cheapcarent.com/developers)
+
+- **Offers:** Read-only car rental search: `list_locations` returns the supported cities and airports, `search_cars` returns offers from local rental companies for a pick-up place. It does not book or take payment. CheapCarRent covers 15 000 pickup points in 46 countries, 19 languages
+- **Access:** Free public endpoint at `https://cheapcarent.com/mcp` (Streamable HTTP); no account or API key required. Docs at https://cheapcarent.com/developers
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
