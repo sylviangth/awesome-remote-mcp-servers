@@ -147,6 +147,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** One remote MCP endpoint connecting AI agents (Codex, Claude Code, Cursor, ChatGPT, and other MCP clients) to 1,000+ apps and 400+ expert-built Skills, with shared Vault-protected credentials, cost preflight, and a full audit trail
 - **Access:** Sign in at [aident.ai](https://aident.ai), then connect MCP clients to `https://loadout.aident.ai/mcp` (streamable HTTP + OAuth). Setup prompt: `Follow https://aident.ai/SETUP.md`
 
+#### [ViaSocket](https://viasocket.com/)
+
+- **Offers:** Infrastructure for building apps and AI agents, with integrations, automation and AI capabilities
+- **Access:** Add `https://connect.viasocket.com/mcp` (Streamable HTTP) to your MCP client and sign in with your ViaSocket account (OAuth)
+
 ### Cloud Platforms
 
 #### [FFxF MCP](https://ffxf.net/agents)
