@@ -991,6 +991,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search the AI agent and MCP server catalog by task or name, then open matching profiles for details and source links.
 - **Access:** Connect to `https://mcp.agentlist.io/?listing=sylviangth-remote` with a Streamable HTTP MCP client. Free to use without an account or API key.
 
+#### [DataXAPI MCP](https://dataxapi.com/mcp/?ref=gh-list-awesome-remote-mcp-servers)
+
+- **Offers:** Public posts, comments, creators, ads and search trends from Douyin, Xiaohongshu (RedNote), WeChat Official Accounts and Channels, Weibo, Bilibili, Zhihu, Kuaishou, TikTok, X, YouTube and more. Five tools: `find` and `describe` look up an endpoint and its price, `call` fetches the data, `read_more` pages through long results, `account` shows the balance. Pay per call from a prepaid balance, no subscription; errors are not charged
+- **Access:** Server available at `https://api.dataxapi.com/mcp?ch=awesome-remote-mcp` (Streamable HTTP) with `Authorization: Bearer <DATAXAPI_API_KEY>`, or OAuth sign-in in ChatGPT and Claude. `find` and `describe` work without a key. Get a key at [dataxapi.com](https://dataxapi.com/console/keys/?ref=gh-list-awesome-remote-mcp-servers) (free trial of up to 333 calls, no card)
+
 ### Communication & Collaboration
 
 #### [DialMCP](https://dialmcp.com)
