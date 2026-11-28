@@ -1220,6 +1220,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Set up TikTok LIVE overlays for OBS and TikTok LIVE Studio: create and edit scenes (gift alerts, goals, battle effects, chat games), put a scene on stream, send test alerts, edit the link-in-bio page, and read past LIVE, gift and battle stats
 - **Access:** Server available at `https://api.overtok.live/mcp` (Streamable HTTP) with OAuth sign-in to an Overtok account; paid, with a 7-day free trial and no card. Also in the official MCP Registry as `live.overtok/overtok`
 
+#### [OFMakers](https://ofmakers.com)
+
+- **Offers:** 18+ studio for adult creators. Build one invented AI model with a consistent face, make photos and 5 to 15 second videos of her, edit a video by chat, and switch on an AI chat that sells photos to fans.
+- **Access:** Sign in at [ofmakers.com/connect](https://ofmakers.com/connect) and add the Streamable HTTP endpoint `https://ofmakers.com/mcp` (OAuth 2.1). Paid with credits, no subscription. Also on the official MCP Registry as com.ofmakers/ofmakers.
+
 ### Payments & Commerce
 
 #### [PayPal MCP](https://developer.paypal.com/tools/mcp-server/)
