@@ -530,6 +530,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Search production errors, read stack traces and breadcrumbs, check project health and resolve an error with the fixing commit, so a coding agent can fix what broke
 - **Access:** Add https://runheed.com/api/mcp as a remote MCP server and sign in with OAuth, or send an agent key as a bearer token; a demo server with sample errors needs no account at https://runheed.com/api/mcp/demo. Paid plans from $29/month with a 7-day trial
 
+#### [DROP File Transfer](https://drop.space/en/agent-file-transfer/)
+
+- **Offers:** Send selected files through temporary download links and retrieve client submissions from file requests whose owner enabled Agent processing.
+- **Access:** Connect a Streamable HTTP client to `https://drop.space/mcp`. Sign in to DROP to get a personal token from MCP setup and use it as a Bearer credential.
+
 ### Knowledge & Memory
 
 #### [Supermemory MCP](https://mcp.supermemory.ai/)
