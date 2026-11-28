@@ -804,6 +804,11 @@ See MindPal agents use other hosted MCP servers:
 - **Offers:** Marketplace for sponsored posts on X. Search X creators who fit what a brand sells with suggested pricing, send offers, track clicks and sales via tracked links, and estimate the value of one sponsored post on any X account (`get_influencer_value`, no auth required). Free to join; 20% fee on completed paid offers
 - **Access:** Streamable HTTP endpoint at `https://transformer.gg/mcp` (docs: https://transformer.gg/docs). Public tools work with no sign-up; brand and creator tools use a workspace API key from the Transformer.gg dashboard
 
+#### [Agent Desk](https://yellowstake.com/tools/agent-desk)
+
+- **Offers:** Checks whether a US insurance lead can be called, autodialed or texted now, citing TCPA, Do Not Call and state calling-hours rules. Also flags bad lead data, checks outreach messages against TCPA, CAN-SPAM and CMS rules, and looks up phone numbers in NANPA data (7 tools). Free; MIT-licensed source at https://github.com/yellowstake/agent-desk
+- **Access:** Add https://yellowstake.com/mcp as a connector; no account needed
+
 ### Search & Data Extraction
 
 #### [Apify Actors MCP](https://mcp.apify.com/)
