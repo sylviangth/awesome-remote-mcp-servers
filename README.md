@@ -1,4 +1,5 @@
 # Awesome Remote MCP Servers ![alt text](https://awesome.re/badge.svg)
+- [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) (`https://mcp.insom.ai/mcp`) - Managed Streamable-HTTP security, SAST/SCA, live secret validation, Web DAST, OSINT & 1-Day CVE MCP server (160 tools).
 
 A curated list of remote Model Context Protocol (MCP) Servers accessible via a simple URL endpoint.
 
