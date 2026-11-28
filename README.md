@@ -171,7 +171,7 @@ See MindPal agents use other hosted MCP servers:
 
 #### [Embarko](https://embarko.ai)
 
-- **Offers:** Deploy and host AI-built apps and websites, and get a live URL without any DevOps setup (tools: deploy_app, read_app, update_app, app_danger_zone)
+- **Offers:** A shared workspace to publish, use and improve anything built with AI (tools: deploy_app, read_app, update_app, app_danger_zone)
 - **Access:** Add `https://mcp.embarko.ai/mcp` (Streamable HTTP) to your MCP client and sign in to Embarko once (OAuth 2.1)
 
 ### Databases & Storage
